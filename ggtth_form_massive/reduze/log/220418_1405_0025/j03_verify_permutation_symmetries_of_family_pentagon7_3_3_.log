@@ -1,0 +1,15 @@
+
+Date: Mon Apr 18 14:05:00 2022
+
+
+conditional: false
+integralfamily: pentagon7_3_3
+abort_on_first_error: true
+dummy_output_file: ./tmp/permutation_symmetries_verified_for_pentagon7_3_3
+
+Verifying permutation symmetries of integral family 'pentagon7_3_3'
+All permutation symmetries verified
+
+Complete permutation symmetries of integral family 'pentagon7_3_3'
+
+Job done (total time: 0 s)

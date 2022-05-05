@@ -1,0 +1,2 @@
+{
+{"pentagon1", 5, 31, MultiGraph[{Labeled[-1->5, "(p1,s12;1)"], Labeled[-2->1, "(p2,0;2)"], Labeled[2->-3, "(p3,0;3)"], Labeled[3->-4, "(p4,0;4)"], Labeled[4->-5, "(p2-p4+p1-p3,-2*s12;5)"], Labeled[5->1, "(p1+k1,0;6)"], Labeled[1->2, "(p2+p1+k1,0;7)"], Labeled[2->3, "(p2+p1+k1-p3,0;8)"], Labeled[3->4, "(p2-p4+p1+k1-p3,0;9)"], Labeled[4->5, "(k1,0;10)"]}]}

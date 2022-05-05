@@ -1,0 +1,23 @@
+
+% config= nolist, lf, verbose ;
+
+ style= 'xty.sty' ;
+
+ output= 'diagram/qqtthtwoloop.qgraf.yaml';
+
+ model= 'qqtth';
+
+ in= quark1[p1],qbar1[p2];
+
+ out= quark2[p3],qbar2[p4],higgs[q];
+
+ loops= 2;
+
+ loop_momentum= k;
+
+ options= onshell,notadpole,nosnail ;
+
+ true=vsum[gs,6,6];
+ true=vsum[Y,1,1];
+ true=iprop[higgs,0,0];
+

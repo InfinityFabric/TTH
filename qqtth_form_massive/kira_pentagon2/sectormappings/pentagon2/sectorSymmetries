@@ -1,0 +1,3 @@
+5 k1 -p1-k1-p2 -1 5 2 0 {place==holder} {place==holder} 2 -1 0 -1 -1 0 0
+7 placeholder placeholder 1 7 3 0 {place==holder} {place==holder} 2 1 0 -1 -1 1 0
+24 k1 -p3+p4-p1-k1-p2 -1 24 2 0 {place==holder} {place==holder} -1 -1 -1 4 3 0 0

@@ -1,0 +1,11 @@
+jobs:
+ - reduce_sectors:
+    reduce:
+     - {topologies: [pentagon1], sectors: [31], r: 5, s: 2}
+    select_integrals:
+     select_mandatory_recursively:
+      - {topologies: [pentagon1], sectors: [31], r: 5, s: 2}
+    run_initiate: true
+    run_triangular: sectorwise
+    algebraic_reconstruction: true
+    # run_back_substitution will be done by parallel1.yaml and parallel2.yaml

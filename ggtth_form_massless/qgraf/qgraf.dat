@@ -1,0 +1,27 @@
+
+% config= nolist, lf, verbose ;
+
+ style= 'xty.sty' ;
+ 
+ output= 'diagram/ggtthtree.frm' ;
+
+ style= 'reduze.sty' ;
+
+ output= '../reduze/diagram/ggtthtree.yaml';
+
+ model= 'ggtth_massless';
+
+ in= gluon[p1],gluon[p2];
+
+ out= quark2[p3],qbar2[p4],higgs[q];
+
+ loops= 0;
+
+ loop_momentum= k;
+
+ options= onshell,notadpole,nosnail ;
+
+ true=vsum[gs,2,2];
+ true=vsum[Y,1,1];
+ true=iprop[higgs,0,0];
+

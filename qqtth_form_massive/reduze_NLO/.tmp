@@ -1,0 +1,62 @@
+---
+diagram:
+  process_name: ../reduze/diagram/qqtthoneloop
+  name: 30
+  external_legs:
+    - [[-1, 1], {in-quark1: [[quark1, 1, -1, p1, 0, -1]]}]
+    - [[-2, 2], {in-qbar1: [[qbar1, 1, -1, p2, 0, -2]]}]
+    - [[3, -3], {out-quark2: [[quark2, 2, -1, p3, mt, -3]]}]
+    - [[4, -4], {out-qbar2: [[qbar2, 2, -1, p4, mt, -4]]}]
+    - [[5, -5], {out-higgs: [[higgs, 2, 1, p2-p4+p1-p3, mh, -5]]}]
+  propagators:
+    - [[1, 2], {quark1_qbar1: [[quark1, 3, -1, k1, 0, 1], [qbar1, 3, -1, -k1, 0, 2]]}]
+    - [[3, 1], {gluon_gluon: [[gluon, 3, 1, k1-p1, 0, 3], [gluon, 3, 1, -k1+p1, 0, 4]]}]
+    - [[4, 2], {gluon_gluon: [[gluon, 3, 1, -p2-k1, 0, 5], [gluon, 3, 1, p2+k1, 0, 6]]}]
+    - [[5, 3], {quark2_qbar2: [[quark2, 3, -1, k1-p1+p3, mt, 7], [qbar2, 3, -1, -k1+p1-p3, mt, 8]]}]
+    - [[4, 5], {quark2_qbar2: [[quark2, 3, -1, p2-p4+k1, mt, 9], [qbar2, 3, -1, -p2+p4-k1, mt, 10]]}]
+  vertices:
+    - [{quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 3, -1, -k1, 0, 2], [gluon, 3, 1, k1-p1, 0, 3]]}]
+    - [{quark1_qbar1_gluon: [[quark1, 3, -1, k1, 0, 1], [qbar1, 1, -1, p2, 0, -2], [gluon, 3, 1, -p2-k1, 0, 5]]}]
+    - [{quark2_qbar2_gluon: [[quark2, 3, -1, k1-p1+p3, mt, 7], [qbar2, 2, -1, -p3, mt, -3], [gluon, 3, 1, -k1+p1, 0, 4]]}]
+    - [{quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, -p2+p4-k1, mt, 10], [gluon, 3, 1, p2+k1, 0, 6]]}]
+    - [{quark2_qbar2_higgs: [[quark2, 3, -1, p2-p4+k1, mt, 9], [qbar2, 3, -1, -k1+p1-p3, mt, 8], [higgs, 2, 1, -p2+p4-p1+p3, mh, -5]]}]
+  symmetry_factor: -1
+  num_legs_in: 2
+  num_legs_out: 3
+  num_loops: 1
+  num_propagators: 5
+  num_vertices: 5
+  loop_momenta: [k1]
+  sector:
+    []
+---
+diagram:
+  process_name: ../reduze/diagram/qqtthoneloop
+  name: 17
+  external_legs:
+    - [[-1, 1], {in-quark1: [[quark1, 1, -1, p1, 0, -1]]}]
+    - [[-2, 1], {in-qbar1: [[qbar1, 1, -1, p2, 0, -2]]}]
+    - [[2, -3], {out-quark2: [[quark2, 2, -1, p3, mt, -3]]}]
+    - [[3, -4], {out-qbar2: [[qbar2, 2, -1, p4, mt, -4]]}]
+    - [[4, -5], {out-higgs: [[higgs, 2, 1, p2-p4+p1-p3, mh, -5]]}]
+  propagators:
+    - [[5, 1], {gluon_gluon: [[gluon, 3, 1, -p2-p1, 0, 1], [gluon, 3, 1, p2+p1, 0, 2]]}]
+    - [[3, 2], {gluon_gluon: [[gluon, 3, 1, -k1, 0, 3], [gluon, 3, 1, k1, 0, 4]]}]
+    - [[4, 2], {quark2_qbar2: [[quark2, 3, -1, k1+p3, mt, 5], [qbar2, 3, -1, -k1-p3, mt, 6]]}]
+    - [[3, 5], {quark2_qbar2: [[quark2, 3, -1, -p4+k1, mt, 7], [qbar2, 3, -1, p4-k1, mt, 8]]}]
+    - [[5, 4], {quark2_qbar2: [[quark2, 3, -1, p2-p4+k1+p1, mt, 9], [qbar2, 3, -1, -p2+p4-k1-p1, mt, 10]]}]
+  vertices:
+    - [{quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -2], [gluon, 3, 1, -p2-p1, 0, 1]]}]
+    - [{quark2_qbar2_gluon: [[quark2, 3, -1, k1+p3, mt, 5], [qbar2, 2, -1, -p3, mt, -3], [gluon, 3, 1, -k1, 0, 3]]}]
+    - [{quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, p4-k1, mt, 8], [gluon, 3, 1, k1, 0, 4]]}]
+    - [{quark2_qbar2_higgs: [[quark2, 3, -1, p2-p4+k1+p1, mt, 9], [qbar2, 3, -1, -k1-p3, mt, 6], [higgs, 2, 1, -p2+p4-p1+p3, mh, -5]]}]
+    - [{quark2_qbar2_gluon: [[quark2, 3, -1, -p4+k1, mt, 7], [qbar2, 3, -1, -p2+p4-k1-p1, mt, 10], [gluon, 3, 1, p2+p1, 0, 2]]}]
+  symmetry_factor: -1
+  num_legs_in: 2
+  num_legs_out: 3
+  num_loops: 1
+  num_propagators: 5
+  num_vertices: 5
+  loop_momenta: [k1]
+  sector:
+    []

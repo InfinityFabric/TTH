@@ -1,0 +1,148 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      5082,        138]
+NotebookOptionsPosition[      3824,        110]
+NotebookOutlinePosition[      4159,        125]
+CellTagsIndexPosition[      4116,        122]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"<<", "MultivariateApart`"}]], "Input",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.},
+ CellChangeTimes->{{3.8594928298760157`*^9, 3.859492839173429*^9}, 
+   3.859493179356884*^9},
+ CellLabel->"In[88]:=",ExpressionUUID->"83b6c8a2-12af-4e3f-8297-140a8cc5aca0"],
+
+Cell["\<\
+MultivariateApart -- Multivariate partial fractions. By Matthias Heller \
+(maheller@students.uni-mainz.de) and Andreas von Manteuffel (vmante@msu.edu). \
+Version 2021-01-18. Please see ?MultivariateApart and ?MultivariateApart`* \
+for help.\
+\>", "Print",
+ CellFrame->0.5,
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.},
+ CellChangeTimes->{3.859492839563848*^9, 3.8594931793570547`*^9},
+ FontColor->RGBColor[
+  0.09375, 0.26953125, 
+   0.23046875],ExpressionUUID->"f2758685-e59b-4610-8c62-193043783efd"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"result", "=", 
+   RowBox[{
+   "<<", "/home/xty/Desktop/qqtth_form_massive/kira_pentagon2/results/\
+pentagon2/kira_myintegrals.m"}]}], ";"}]], "Input",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.},
+ CellChangeTimes->{{3.8594405988161182`*^9, 3.859440666417738*^9}, 
+   3.8594408612773523`*^9, 3.859492823861018*^9, 3.8594931793571997`*^9},
+ CellLabel->"In[87]:=",ExpressionUUID->"68995481-5356-48df-babf-305032b63d41"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"list", "=", 
+   RowBox[{"{", "}"}]}], ";"}]], "Input",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.},
+ CellChangeTimes->{{3.859492870765897*^9, 3.859492881221179*^9}, 
+   3.859493179357283*^9},ExpressionUUID->"bae3dda3-e42d-433d-bf27-\
+722b2171cfea"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"CloseKernels", "[", "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"LaunchKernels", "[", "5", "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{"ParallelNeeds", "[", "MultivariateApart`", "]"}]}], "Input",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.},
+ CellChangeTimes->{{3.8594931364786577`*^9, 
+  3.859493179357362*^9}},ExpressionUUID->"578cb11d-660e-452c-b9ea-\
+638afc13529e"],
+
+Cell[BoxData[
+ RowBox[{"ParallelDo", "[", 
+  RowBox[{
+   RowBox[{"list", "=", 
+    RowBox[{"Join", "[", 
+     RowBox[{
+      RowBox[{"MultivariateApart", "[", 
+       RowBox[{
+        RowBox[{"result", "[", 
+         RowBox[{"[", 
+          RowBox[{";;", ",", "2"}], "]"}], "]"}], "[", 
+        RowBox[{"[", "i", "]"}], "]"}], "]"}], ",", "list"}], "]"}]}], ",", 
+   RowBox[{"{", 
+    RowBox[{"i", ",", "1", ",", 
+     RowBox[{"Length", "[", "result", "]"}]}], "}"}]}], "]"}]], "Input",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.},
+ CellChangeTimes->{{3.8594928854672337`*^9, 3.859492909148644*^9}, {
+   3.859492997487885*^9, 3.859493122584673*^9}, 
+   3.859493179357441*^9},ExpressionUUID->"c57b5bf7-add2-4614-a59d-\
+f7102ec6c671"],
+
+Cell[BoxData[
+ RowBox[{"final", "=", 
+  RowBox[{"Thread", "[", 
+   RowBox[{"Rule", "[", 
+    RowBox[{
+     RowBox[{"result", "[", 
+      RowBox[{"[", 
+       RowBox[{";;", ",", "1"}], "]"}], "]"}], ",", "list"}], "]"}], 
+   "]"}]}]], "Input",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.},
+ CellChangeTimes->{{3.859493212312606*^9, 3.859493218845475*^9}, {
+  3.859493268798945*^9, 
+  3.859493306083601*^9}},ExpressionUUID->"8eeea8b2-94ec-4f0c-958c-\
+e257a3ae7566"]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{556, Automatic}, {12, Automatic}},
+FrontEndVersion->"12.0 for Linux x86 (64-bit) (April 8, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 290, 5, 31, "Input",ExpressionUUID->"83b6c8a2-12af-4e3f-8297-140a8cc5aca0",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
+Cell[873, 29, 520, 11, 43, "Print",ExpressionUUID->"f2758685-e59b-4610-8c62-193043783efd",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
+Cell[1396, 42, 461, 9, 101, "Input",ExpressionUUID->"68995481-5356-48df-babf-305032b63d41",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
+Cell[1860, 53, 293, 7, 31, "Input",ExpressionUUID->"bae3dda3-e42d-433d-bf27-722b2171cfea",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
+Cell[2156, 62, 432, 9, 80, "Input",ExpressionUUID->"578cb11d-660e-452c-b9ea-638afc13529e",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
+Cell[2591, 73, 742, 19, 55, "Input",ExpressionUUID->"c57b5bf7-add2-4614-a59d-f7102ec6c671",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
+Cell[3336, 94, 472, 13, 31, "Input",ExpressionUUID->"8eeea8b2-94ec-4f0c-958c-e257a3ae7566",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.}]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+

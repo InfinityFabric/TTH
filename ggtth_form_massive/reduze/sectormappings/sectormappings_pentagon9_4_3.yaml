@@ -1,0 +1,48 @@
+sectormappings:
+  name: pentagon9_4_3
+  zero_sectors:
+    t=0: [0]
+    t=1: [4]
+  sectors_without_graph:
+    {}
+  sector_relations:
+    1: [[pentagon1_4_2, 1], [[k1, k1]]]
+    2: [[pentagon1_4_2, 1], [[k1, -p1+k1]]]
+    3: [[pentagon1_4_2, 3], [[k1, -p1-k1]]]
+    4: [[pentagon1_4_2, 8], [[k1, p2+k1]]]
+    5: [[pentagon1_4_2x12, 10], [[k1, p2+k1]]]
+    6: [[pentagon1_4_2, 12], [[k1, p2+k1]]]
+    7: [[pentagon1_4_2x12, 14], [[k1, p2+k1]]]
+    8: [[pentagon1_4_2, 1], [[k1, p4-p1+p3+k1]]]
+    9: [[pentagon1_4_2x12, 18], [[k1, -p2+p4-p1+p3-k1]]]
+    10: [[pentagon1_4_2, 20], [[k1, -p2+p4-2*p1+p3-k1]]]
+    11: [[pentagon1_4_2x12, 22], [[k1, p2+k1]]]
+    12: [[pentagon1_4_2x12x34, 12], [[k1, -p2+p4-2*p1+p3-k1]]]
+    13: [[pentagon1_4_2x12, 26], [[k1, p2+k1]]]
+    14: [[pentagon1_4_2, 28], [[k1, p2+k1]]]
+    15: [[pentagon1_4_2x12, 30], [[k1, p2+k1]]]
+    16: [[pentagon1_4_2, 1], [[k1, -p2+p4-p1+p3+k1]]]
+    17: [[pentagon1_4_2, 17], [[k1, -p2+p4-p1+p3-k1]]]
+    18: [[pentagon1_4_2, 18], [[k1, -p2+p4-2*p1+p3-k1]]]
+    19: [[pentagon1_4_2, 19], [[k1, k1]]]
+    20: [[pentagon1_4_2x34, 10], [[k1, -p2+p4-2*p1+p3-k1]]]
+    21: [[pentagon2_2_10x12, 26], [[k1, -p2-k1-p1+p3]]]
+    22: [[pentagon1_4_2x34, 26], [[k1, -p2+p4-2*p1+p3-k1]]]
+    23: [[pentagon7_3_3, 23], [[k1, k1]]]
+    24: [[pentagon1_4_2x12, 3], [[k1, -p2+p4-p1+p3-k1]]]
+    25: [[pentagon1_4_2x12, 19], [[k1, -p2+p4-p1+p3-k1]]]
+    26: [[pentagon1_4_2, 22], [[k1, -p2+p4-2*p1+p3-k1]]]
+    28: [[pentagon1_4_2x34, 14], [[k1, -p2+p4-2*p1+p3-k1]]]
+    29: [[pentagon7_3_3x12x34, 23], [[k1, -p2+p4-k1-p1+p3]]]
+    30: [[pentagon1_4_2x34, 30], [[k1, -p2+p4-2*p1+p3-k1]]]
+  crossed_sector_relations:
+    x12:
+      27: [[pentagon9_4_3, 27], [[k1, -p2-k1+p4-p1+p3]]]
+    x12x34:
+      27: [[pentagon9_4_3, 27], [[k1, -p2-k1+p4-p1+p3]]]
+      31: [[pentagon9_4_3, 31], [[k1, -p2-k1+p4-p1+p3]]]
+    x34:
+      27: [[pentagon9_4_3, 27], []]
+      31: [[pentagon9_4_3x12, 31], [[k1, -p2-k1+p4-p1+p3]]]
+  sector_symmetries:
+    {}

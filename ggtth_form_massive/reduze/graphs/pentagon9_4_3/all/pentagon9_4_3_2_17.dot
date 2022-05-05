@@ -1,0 +1,23 @@
+digraph pentagon9_4_3_2_17 {
+  label="pentagon9_4_3_2_17";
+  rankdir="LR";
+  subgraph edges {
+    -1 -> 2 [label="(p1,0;1)"];
+    -2 -> 2 [label="(p2,0;2)"];
+    2 -> -3 [label="(p3,mt^2;3)"];
+    2 -> -4 [label="(p4,mt^2;4)"];
+    1 -> -5 [label="(p2-p4+p1-p3,-4*mt^2+s24+s13+s23+s12+s34+s14;5)"];
+    1 -> 2 [label="(k1,mt^2;6)"];
+    2 -> 1 [label="(p2+k1-p4+p1-p3,mt^2;10)"];
+  }
+  subgraph incoming { rank="source"; -1; -2; }
+  subgraph outgoing { rank="sink"; -3; -4; -5; }
+-5 [shape=point];
+-4 [shape=point];
+-3 [shape=point];
+-2 [shape=point];
+-1 [shape=point];
+1 [shape=point];
+2 [shape=point];
+}
+

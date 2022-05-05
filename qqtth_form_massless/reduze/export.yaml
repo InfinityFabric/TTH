@@ -1,0 +1,7 @@
+---
+  jobs:
+    - export:
+        conditional: false
+        input_file:  "reductions/reduction_pentagon1x123_3_21"
+        output_file: "myresults/mma1.frm"
+        output_format: "form"

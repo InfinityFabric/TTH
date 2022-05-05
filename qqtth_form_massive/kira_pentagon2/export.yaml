@@ -1,0 +1,7 @@
+jobs:
+  - kira2form:
+     target:
+      - [pentagon2,myintegrals]
+  - kira2math:
+     target:
+      - [pentagon2,myintegrals]

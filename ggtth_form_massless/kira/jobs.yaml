@@ -1,0 +1,10 @@
+jobs:
+  - reduce_sectors:
+      sector_selection:
+        select_recursively:
+	  - [pentagon1,31]
+      ibp:
+        - {r: [t,5], s: [0,3]}
+      run_initiate: true
+      run_triangular: sectorwise
+      run_back_substitution: true

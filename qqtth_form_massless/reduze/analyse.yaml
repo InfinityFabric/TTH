@@ -1,0 +1,5 @@
+jobs:
+  - analyze_diagrams:
+      qgraf_file: "diagram/qqtthoneloop.qgraf.yaml"
+      output_directory: "try"
+      top_level_diagrams_file: "try/result.yaml"
