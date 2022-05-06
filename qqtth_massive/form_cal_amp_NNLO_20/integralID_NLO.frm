@@ -20,7 +20,7 @@ Set scalarset:sc1,sc2,sc3,sc4,sc5;
 
 Off statistics;
 
-Load ../formsav/NLO/am_after_momentumshift.sav;
+Load ../../../data_save/qqtth_massive/NNLO/20/am_after_momentumshift.sav;
 
 .sort
 
@@ -40,15 +40,10 @@ Load ../formsav/NLO/am_after_momentumshift.sav;
 
 Bracket pentagon1,pentagon2;
 format mathematica;
-*Print;
-*.store
+Print;
+.store
 
-*save ../formsav/NLO/amp_ID.sav;
+save ../../../data_save/qqtth_massive/NNLO/20/amp_ID.sav;
 
-*.sort
-#do i=1,31
-    #do j=1,2
-        #write <../mathematica/amp10o`i'o`j'.m> "%E",amp10o`i'o`j'
-    #enddo
-#enddo
+.sort
 .end

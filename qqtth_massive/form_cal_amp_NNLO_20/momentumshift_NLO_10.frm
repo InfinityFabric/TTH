@@ -20,13 +20,13 @@ CFunction DiaMatch,Sector,Shift;
 CFunction pentagon2,pentagon2x12,pentagon1,pentagon1x12x34;
 Symbol [];
 
-Load ../formsav/NLO/Mat.sav;
+Load ../../../data_save/qqtth_massive/NNLO/20/Mat.sav;
 
 #call momentumshift
 
 Print;
 .store
 
-save ../formsav/NLO/am_after_momentumshift.sav;
+save ../../../data_save/qqtth_massive/NNLO/20/am_after_momentumshift.sav;
 
 .end

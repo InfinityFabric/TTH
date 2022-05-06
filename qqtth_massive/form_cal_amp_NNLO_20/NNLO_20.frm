@@ -63,6 +63,6 @@ Bracket basis1,basis2,Basis1,Basis2;
 Print +s;
 .store
 
-save ../formsav/NNLO_20/Mat.sav;
+save ../../../data_save/qqtth_massive/NNLO/20/Mat.sav;
 
 .end
