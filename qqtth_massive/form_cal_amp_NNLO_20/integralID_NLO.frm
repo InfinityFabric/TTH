@@ -24,7 +24,7 @@ Load ../../../data_save/qqtth_massive/NNLO/20/am_after_momentumshift.sav;
 
 .sort
 
-#do i=1,31
+#do i=1,720
     #do j=1,2
 *        Drop am10o`i'o`j';
 *        Skip;

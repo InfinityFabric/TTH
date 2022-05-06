@@ -15,7 +15,7 @@ Symbol d;
 
 Load ../../../data_save/qqtth_massive/NNLO/20/amp_ID.sav;
 
-#do i=1,31
+#do i=1,720
     #do j=1,2
         Global a10o`i'o`j'=amp10o`i'o`j';
     #enddo

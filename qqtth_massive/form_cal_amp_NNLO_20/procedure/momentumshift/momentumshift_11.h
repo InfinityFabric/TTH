@@ -5,7 +5,7 @@ CFunction Sector,Shift,DiaMatch;
 Autodeclare CFunction pentagon;
 Symbol [];
 
-#do i=1,31
+#do i=1,720
        
         Skip;
 	NSkip loop1diagram`i';
