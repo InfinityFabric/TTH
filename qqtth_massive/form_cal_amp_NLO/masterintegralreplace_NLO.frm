@@ -13,7 +13,7 @@ Autodeclare Symbol basis,Basis;
 Function num,den;
 Symbol d;
 
-Load ../../data_save/qqtth_massive/NLO/amp_ID.sav;
+Load ../../../data_save/qqtth_massive/NLO/amp_ID.sav;
 
 #do i=1,31
     #do j=1,2
@@ -47,6 +47,6 @@ Format mathematica;
 *#write <../myresults.nb> "(%E)",a10o10o1
 .store
 
-save ../../data_save/qqtth_massive/NLO/amp_master.sav;
+save ../../../data_save/qqtth_massive/NLO/amp_master.sav;
 
 .end
