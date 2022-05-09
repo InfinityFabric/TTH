@@ -2,93 +2,477 @@ crossings:
   - name: ""
     ordered_crossings:
       - permutation: [[1, 2]]  # name: x12
-                               # rules_momenta: {p1==p2,p2==p1}
-                               # rules_invariants: {s23==s13,s14==s24,s24==s14,s13==s23}
+                               # rules_momenta: {p2==p1,p1==p2}
+                               # rules_invariants: {s51==s34-s51-s12,s23==-s23+s45-s12}
       -
         permutation: [[1, 2], [3, 4]]  # name: x12x34
-                                       # rules_momenta: {p1==p2,p3==p4,p2==p1,p4==p3}
-                                       # rules_invariants: {s23==s14,s14==s23,s24==s13,s13==s24}
+                                       # rules_momenta: {p2==p1,p4==p3,p1==p2,p3==p4}
+                                       # rules_invariants: {s51==s34-s51-s12,s23==-s51+s23-s45,s45==-s34-s45+s12}
+      -
+        permutation: [[1, 2], [3, 4, 5]]  # name: x12x345
+                                          # rules_momenta: {p2==p1,p4==p2-p4+p1-p3,p1==p2,p3==p4}
+                                          # rules_invariants: {s34==s45,s51==s23,s23==-s51+s23-s45,s45==-s34-s45+s12}
+      -
+        permutation: [[1, 2], [3, 5]]  # name: x12x35
+                                       # rules_momenta: {p2==p1,p1==p2,p3==p2-p4+p1-p3}
+                                       # rules_invariants: {s34==s45,s51==s23,s23==s51,s45==s34}
+      -
+        permutation: [[1, 2], [3, 5, 4]]  # name: x12x354
+                                          # rules_momenta: {p2==p1,p4==p3,p1==p2,p3==p2-p4+p1-p3}
+                                          # rules_invariants: {s34==-s34-s45+s12,s51==-s34+s51-s23,s23==s51,s45==s34}
+      -
+        permutation: [[1, 2], [4, 5]]  # name: x12x45
+                                       # rules_momenta: {p2==p1,p4==p2-p4+p1-p3,p1==p2}
+                                       # rules_invariants: {s34==-s34-s45+s12,s51==-s34+s51-s23,s23==-s23+s45-s12}
       -
         permutation: [[1, 2, 3]]  # name: x123
-                                  # rules_momenta: {p1==p2,p3==-p1,p2==-p3}
-                                  # rules_invariants: {s23==s13,s12==s23,s34==s14,s14==s24,s24==s34,s13==s12}
+                                  # rules_momenta: {p2==-p3,p1==p2,p3==-p1}
+                                  # rules_invariants: {s34==-s51+s23-s45,s51==s34-s51-s12,s23==-s23+s45-s12,s12==s23}
+      -
+        permutation: [[1, 2, 3], [4, 5]]  # name: x123x45
+                                          # rules_momenta: {p2==-p3,p4==p2-p4+p1-p3,p1==p2,p3==-p1}
+                                          # rules_invariants: {s34==s51,s51==-s34+s51-s23,s23==-s23+s45-s12,s12==s23}
       -
         permutation: [[1, 2, 3, 4]]  # name: x1234
-                                     # rules_momenta: {p1==p2,p3==p4,p2==-p3,p4==-p1}
-                                     # rules_invariants: {s23==s34,s12==s23,s34==s14,s14==s12,s24==s13,s13==s24}
+                                     # rules_momenta: {p2==-p3,p4==-p1,p1==p2,p3==p4}
+                                     # rules_invariants: {s34==-s51+s23-s45,s51==s34-s51-s12,s23==s34,s45==s51,s12==s23}
+      -
+        permutation: [[1, 2, 3, 4, 5]]  # name: x12345
+                                        # rules_momenta: {p2==-p3,p4==p2-p4+p1-p3,p1==p2,p3==p4}
+                                        # rules_invariants: {s34==s45,s51==s12,s23==s34,s45==s51,s12==s23}
+      -
+        permutation: [[1, 2, 3, 5]]  # name: x1235
+                                     # rules_momenta: {p2==-p3,p1==p2,p3==p2-p4+p1-p3}
+                                     # rules_invariants: {s34==s45,s51==s12,s23==-s34-s45+s12,s45==-s51+s23-s45,s12==s23}
+      -
+        permutation: [[1, 2, 3, 5, 4]]  # name: x12354
+                                        # rules_momenta: {p2==-p3,p4==-p1,p1==p2,p3==p2-p4+p1-p3}
+                                        # rules_invariants: {s34==s51,s51==-s34+s51-s23,s23==-s34-s45+s12,s45==-s51+s23-s45,s12==s23}
       -
         permutation: [[1, 2, 4]]  # name: x124
-                                  # rules_momenta: {p1==p2,p2==-p4,p4==-p1}
-                                  # rules_invariants: {s23==s34,s12==s24,s34==s13,s14==s12,s24==s14,s13==s23}
+                                  # rules_momenta: {p2==-p4,p4==-p1,p1==p2}
+                                  # rules_invariants: {s34==-s23+s45-s12,s51==s34-s51-s12,s23==s34,s45==s51,s12==-s34+s51-s23}
+      -
+        permutation: [[1, 2, 4], [3, 5]]  # name: x124x35
+                                          # rules_momenta: {p2==-p4,p4==-p1,p1==p2,p3==p2-p4+p1-p3}
+                                          # rules_invariants: {s34==s51,s51==s23,s23==s45,s45==-s23+s45-s12,s12==-s34+s51-s23}
       -
         permutation: [[1, 2, 4, 3]]  # name: x1243
-                                     # rules_momenta: {p1==p2,p3==-p1,p2==-p4,p4==p3}
-                                     # rules_invariants: {s23==s14,s12==s24,s34==s13,s14==s23,s24==s34,s13==s12}
+                                     # rules_momenta: {p2==-p4,p4==p3,p1==p2,p3==-p1}
+                                     # rules_invariants: {s34==-s23+s45-s12,s51==s34-s51-s12,s23==-s51+s23-s45,s45==-s34-s45+s12,s12==-s34+s51-s23}
+      -
+        permutation: [[1, 2, 4, 3, 5]]  # name: x12435
+                                        # rules_momenta: {p2==-p4,p4==p3,p1==p2,p3==p2-p4+p1-p3}
+                                        # rules_invariants: {s34==-s34-s45+s12,s51==s12,s23==s45,s45==-s23+s45-s12,s12==-s34+s51-s23}
+      -
+        permutation: [[1, 2, 4, 5]]  # name: x1245
+                                     # rules_momenta: {p2==-p4,p4==p2-p4+p1-p3,p1==p2}
+                                     # rules_invariants: {s34==-s34-s45+s12,s51==s12,s23==s34,s45==s51,s12==-s34+s51-s23}
+      -
+        permutation: [[1, 2, 4, 5, 3]]  # name: x12453
+                                        # rules_momenta: {p2==-p4,p4==p2-p4+p1-p3,p1==p2,p3==-p1}
+                                        # rules_invariants: {s34==s51,s51==s23,s23==-s51+s23-s45,s45==-s34-s45+s12,s12==-s34+s51-s23}
+      -
+        permutation: [[1, 2, 5]]  # name: x125
+                                  # rules_momenta: {p2==-p2+p4-p1+p3,p1==p2}
+                                  # rules_invariants: {s51==s12,s23==-s34-s45+s12,s45==-s51+s23-s45,s12==s34-s51-s12}
+      -
+        permutation: [[1, 2, 5], [3, 4]]  # name: x125x34
+                                          # rules_momenta: {p2==-p2+p4-p1+p3,p4==p3,p1==p2,p3==p4}
+                                          # rules_invariants: {s51==s12,s23==s45,s45==-s23+s45-s12,s12==s34-s51-s12}
+      -
+        permutation: [[1, 2, 5, 3]]  # name: x1253
+                                     # rules_momenta: {p2==-p2+p4-p1+p3,p1==p2,p3==-p1}
+                                     # rules_invariants: {s34==-s51+s23-s45,s51==s23,s23==s51,s45==s34,s12==s34-s51-s12}
+      -
+        permutation: [[1, 2, 5, 3, 4]]  # name: x12534
+                                        # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p1,p1==p2,p3==p4}
+                                        # rules_invariants: {s34==-s51+s23-s45,s51==s23,s23==s45,s45==-s23+s45-s12,s12==s34-s51-s12}
+      -
+        permutation: [[1, 2, 5, 4]]  # name: x1254
+                                     # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p1,p1==p2}
+                                     # rules_invariants: {s34==-s23+s45-s12,s51==-s34+s51-s23,s23==-s34-s45+s12,s45==-s51+s23-s45,s12==s34-s51-s12}
+      -
+        permutation: [[1, 2, 5, 4, 3]]  # name: x12543
+                                        # rules_momenta: {p2==-p2+p4-p1+p3,p4==p3,p1==p2,p3==-p1}
+                                        # rules_invariants: {s34==-s23+s45-s12,s51==-s34+s51-s23,s23==s51,s45==s34,s12==s34-s51-s12}
       -
         permutation: [[1, 3]]  # name: x13
                                # rules_momenta: {p1==-p3,p3==-p1}
-                               # rules_invariants: {s23==s12,s12==s23,s34==s14,s14==s34}
+                               # rules_invariants: {s34==-s51+s23-s45,s51==-s34-s45+s12,s23==s12,s12==s23}
       -
         permutation: [[1, 3], [2, 4]]  # name: x13x24
-                                       # rules_momenta: {p1==-p3,p3==-p1,p2==-p4,p4==-p2}
-                                       # rules_invariants: {s23==s14,s12==s34,s34==s12,s14==s23}
+                                       # rules_momenta: {p2==-p4,p4==-p2,p1==-p3,p3==-p1}
+                                       # rules_invariants: {s34==s12,s51==-s34-s45+s12,s23==-s51+s23-s45,s45==s34-s51-s12,s12==s34}
+      -
+        permutation: [[1, 3], [2, 4, 5]]  # name: x13x245
+                                          # rules_momenta: {p2==-p4,p4==p2-p4+p1-p3,p1==-p3,p3==-p1}
+                                          # rules_invariants: {s34==s51,s51==s23,s23==-s51+s23-s45,s45==s34-s51-s12,s12==s34}
+      -
+        permutation: [[1, 3], [2, 5]]  # name: x13x25
+                                       # rules_momenta: {p2==-p2+p4-p1+p3,p1==-p3,p3==-p1}
+                                       # rules_invariants: {s34==-s51+s23-s45,s51==s23,s23==s51,s45==-s34+s51-s23,s12==-s34-s45+s12}
+      -
+        permutation: [[1, 3], [2, 5, 4]]  # name: x13x254
+                                          # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p2,p1==-p3,p3==-p1}
+                                          # rules_invariants: {s34==s12,s51==s34,s23==s51,s45==-s34+s51-s23,s12==-s34-s45+s12}
+      -
+        permutation: [[1, 3], [4, 5]]  # name: x13x45
+                                       # rules_momenta: {p4==p2-p4+p1-p3,p1==-p3,p3==-p1}
+                                       # rules_invariants: {s34==s51,s51==s34,s23==s12,s12==s23}
       -
         permutation: [[1, 3, 2]]  # name: x132
-                                  # rules_momenta: {p1==-p3,p3==-p2,p2==p1}
-                                  # rules_invariants: {s23==s12,s12==s13,s34==s24,s14==s34,s24==s14,s13==s23}
+                                  # rules_momenta: {p2==p1,p1==-p3,p3==-p2}
+                                  # rules_invariants: {s34==-s34+s51-s23,s51==-s34-s45+s12,s23==s12,s12==-s23+s45-s12}
+      -
+        permutation: [[1, 3, 2], [4, 5]]  # name: x132x45
+                                          # rules_momenta: {p2==p1,p4==p2-p4+p1-p3,p1==-p3,p3==-p2}
+                                          # rules_invariants: {s34==s34-s51-s12,s51==s34,s23==s12,s12==-s23+s45-s12}
       -
         permutation: [[1, 3, 2, 4]]  # name: x1324
-                                     # rules_momenta: {p1==-p3,p3==-p2,p2==-p4,p4==-p1}
-                                     # rules_invariants: {s23==s24,s12==s34,s34==s12,s14==s13,s24==s14,s13==s23}
+                                     # rules_momenta: {p2==-p4,p4==-p1,p1==-p3,p3==-p2}
+                                     # rules_invariants: {s34==s12,s51==-s34-s45+s12,s23==-s34+s51-s23,s45==s51,s12==s34}
+      -
+        permutation: [[1, 3, 2, 4, 5]]  # name: x13245
+                                        # rules_momenta: {p2==-p4,p4==p2-p4+p1-p3,p1==-p3,p3==-p2}
+                                        # rules_invariants: {s34==s34-s51-s12,s51==-s23+s45-s12,s23==-s34+s51-s23,s45==s51,s12==s34}
+      -
+        permutation: [[1, 3, 2, 5]]  # name: x1325
+                                     # rules_momenta: {p2==-p2+p4-p1+p3,p1==-p3,p3==-p2}
+                                     # rules_invariants: {s34==-s34+s51-s23,s51==-s23+s45-s12,s23==s34-s51-s12,s45==-s51+s23-s45,s12==-s34-s45+s12}
+      -
+        permutation: [[1, 3, 2, 5, 4]]  # name: x13254
+                                        # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p1,p1==-p3,p3==-p2}
+                                        # rules_invariants: {s34==s12,s51==s34,s23==s34-s51-s12,s45==-s51+s23-s45,s12==-s34-s45+s12}
       -
         permutation: [[1, 3, 4]]  # name: x134
-                                  # rules_momenta: {p1==-p3,p3==p4,p4==-p1}
-                                  # rules_invariants: {s23==s24,s12==s23,s34==s14,s14==s13,s24==s12,s13==s34}
+                                  # rules_momenta: {p4==-p1,p1==-p3,p3==p4}
+                                  # rules_invariants: {s34==-s51+s23-s45,s51==-s34-s45+s12,s23==-s34+s51-s23,s45==s51,s12==s23}
+      -
+        permutation: [[1, 3, 4], [2, 5]]  # name: x134x25
+                                          # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p1,p1==-p3,p3==p4}
+                                          # rules_invariants: {s34==-s51+s23-s45,s51==s23,s23==s45,s45==s12,s12==-s34-s45+s12}
       -
         permutation: [[1, 3, 4, 2]]  # name: x1342
-                                     # rules_momenta: {p1==-p3,p3==p4,p2==p1,p4==-p2}
-                                     # rules_invariants: {s23==s14,s12==s13,s34==s24,s14==s23,s24==s12,s13==s34}
+                                     # rules_momenta: {p2==p1,p4==-p2,p1==-p3,p3==p4}
+                                     # rules_invariants: {s34==-s34+s51-s23,s51==-s34-s45+s12,s23==-s51+s23-s45,s45==s34-s51-s12,s12==-s23+s45-s12}
+      -
+        permutation: [[1, 3, 4, 2, 5]]  # name: x13425
+                                        # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p2,p1==-p3,p3==p4}
+                                        # rules_invariants: {s34==-s34+s51-s23,s51==-s23+s45-s12,s23==s45,s45==s12,s12==-s34-s45+s12}
+      -
+        permutation: [[1, 3, 4, 5]]  # name: x1345
+                                     # rules_momenta: {p4==p2-p4+p1-p3,p1==-p3,p3==p4}
+                                     # rules_invariants: {s34==s45,s51==-s23+s45-s12,s23==-s34+s51-s23,s45==s51,s12==s23}
+      -
+        permutation: [[1, 3, 4, 5, 2]]  # name: x13452
+                                        # rules_momenta: {p2==p1,p4==p2-p4+p1-p3,p1==-p3,p3==p4}
+                                        # rules_invariants: {s34==s45,s51==s23,s23==-s51+s23-s45,s45==s34-s51-s12,s12==-s23+s45-s12}
+      -
+        permutation: [[1, 3, 5]]  # name: x135
+                                  # rules_momenta: {p1==-p3,p3==p2-p4+p1-p3}
+                                  # rules_invariants: {s34==s45,s51==-s23+s45-s12,s23==s34-s51-s12,s45==-s51+s23-s45,s12==s23}
+      -
+        permutation: [[1, 3, 5], [2, 4]]  # name: x135x24
+                                          # rules_momenta: {p2==-p4,p4==-p2,p1==-p3,p3==p2-p4+p1-p3}
+                                          # rules_invariants: {s34==s34-s51-s12,s51==-s23+s45-s12,s23==s45,s45==s12,s12==s34}
+      -
+        permutation: [[1, 3, 5, 2]]  # name: x1352
+                                     # rules_momenta: {p2==p1,p1==-p3,p3==p2-p4+p1-p3}
+                                     # rules_invariants: {s34==s45,s51==s23,s23==s51,s45==-s34+s51-s23,s12==-s23+s45-s12}
+      -
+        permutation: [[1, 3, 5, 2, 4]]  # name: x13524
+                                        # rules_momenta: {p2==-p4,p4==-p1,p1==-p3,p3==p2-p4+p1-p3}
+                                        # rules_invariants: {s34==s51,s51==s23,s23==s45,s45==s12,s12==s34}
+      -
+        permutation: [[1, 3, 5, 4]]  # name: x1354
+                                     # rules_momenta: {p4==-p1,p1==-p3,p3==p2-p4+p1-p3}
+                                     # rules_invariants: {s34==s51,s51==s34,s23==s34-s51-s12,s45==-s51+s23-s45,s12==s23}
+      -
+        permutation: [[1, 3, 5, 4, 2]]  # name: x13542
+                                        # rules_momenta: {p2==p1,p4==-p2,p1==-p3,p3==p2-p4+p1-p3}
+                                        # rules_invariants: {s34==s34-s51-s12,s51==s34,s23==s51,s45==-s34+s51-s23,s12==-s23+s45-s12}
       -
         permutation: [[1, 4]]  # name: x14
-                               # rules_momenta: {p1==-p4,p4==-p1}
-                               # rules_invariants: {s12==s24,s34==s13,s24==s12,s13==s34}
+                               # rules_momenta: {p4==-p1,p1==-p4}
+                               # rules_invariants: {s34==-s23+s45-s12,s51==s45,s45==s51,s12==-s34+s51-s23}
       -
         permutation: [[1, 4], [2, 3]]  # name: x14x23
-                                       # rules_momenta: {p1==-p4,p3==-p2,p2==-p3,p4==-p1}
-                                       # rules_invariants: {s12==s34,s34==s12,s24==s13,s13==s24}
+                                       # rules_momenta: {p2==-p3,p4==-p1,p1==-p4,p3==-p2}
+                                       # rules_invariants: {s34==s12,s51==s45,s45==s51,s12==s34}
+      -
+        permutation: [[1, 4], [2, 3, 5]]  # name: x14x235
+                                          # rules_momenta: {p2==-p3,p4==-p1,p1==-p4,p3==p2-p4+p1-p3}
+                                          # rules_invariants: {s34==s51,s51==-s34+s51-s23,s23==-s34-s45+s12,s45==s12,s12==s34}
+      -
+        permutation: [[1, 4], [2, 5]]  # name: x14x25
+                                       # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p1,p1==-p4}
+                                       # rules_invariants: {s34==-s23+s45-s12,s51==-s34+s51-s23,s23==-s34-s45+s12,s45==s12,s12==s45}
+      -
+        permutation: [[1, 4], [2, 5, 3]]  # name: x14x253
+                                          # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p1,p1==-p4,p3==-p2}
+                                          # rules_invariants: {s34==s12,s51==s34,s23==s34-s51-s12,s45==-s23+s45-s12,s12==s45}
+      -
+        permutation: [[1, 4], [3, 5]]  # name: x14x35
+                                       # rules_momenta: {p4==-p1,p1==-p4,p3==p2-p4+p1-p3}
+                                       # rules_invariants: {s34==s51,s51==s34,s23==s34-s51-s12,s45==-s23+s45-s12,s12==-s34+s51-s23}
       -
         permutation: [[1, 4, 2]]  # name: x142
-                                  # rules_momenta: {p1==-p4,p2==p1,p4==-p2}
-                                  # rules_invariants: {s23==s13,s12==s14,s34==s23,s14==s24,s24==s12,s13==s34}
+                                  # rules_momenta: {p2==p1,p4==-p2,p1==-p4}
+                                  # rules_invariants: {s34==s23,s51==s45,s23==-s23+s45-s12,s45==s34-s51-s12,s12==-s51+s23-s45}
+      -
+        permutation: [[1, 4, 2], [3, 5]]  # name: x142x35
+                                          # rules_momenta: {p2==p1,p4==-p2,p1==-p4,p3==p2-p4+p1-p3}
+                                          # rules_invariants: {s34==s34-s51-s12,s51==s34,s23==s51,s45==s23,s12==-s51+s23-s45}
       -
         permutation: [[1, 4, 2, 3]]  # name: x1423
-                                     # rules_momenta: {p1==-p4,p3==-p1,p2==-p3,p4==-p2}
-                                     # rules_invariants: {s23==s13,s12==s34,s34==s12,s14==s24,s24==s23,s13==s14}
+                                     # rules_momenta: {p2==-p3,p4==-p2,p1==-p4,p3==-p1}
+                                     # rules_invariants: {s34==s12,s51==s45,s23==-s23+s45-s12,s45==s34-s51-s12,s12==s34}
+      -
+        permutation: [[1, 4, 2, 3, 5]]  # name: x14235
+                                        # rules_momenta: {p2==-p3,p4==-p2,p1==-p4,p3==p2-p4+p1-p3}
+                                        # rules_invariants: {s34==s34-s51-s12,s51==-s51+s23-s45,s23==-s34-s45+s12,s45==s12,s12==s34}
+      -
+        permutation: [[1, 4, 2, 5]]  # name: x1425
+                                     # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p2,p1==-p4}
+                                     # rules_invariants: {s34==s23,s51==-s51+s23-s45,s23==-s34-s45+s12,s45==s12,s12==s45}
+      -
+        permutation: [[1, 4, 2, 5, 3]]  # name: x14253
+                                        # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p2,p1==-p4,p3==-p1}
+                                        # rules_invariants: {s34==s12,s51==s34,s23==s51,s45==s23,s12==s45}
       -
         permutation: [[1, 4, 3]]  # name: x143
-                                  # rules_momenta: {p1==-p4,p3==-p1,p4==p3}
-                                  # rules_invariants: {s23==s12,s12==s24,s34==s13,s14==s34,s24==s23,s13==s14}
+                                  # rules_momenta: {p4==p3,p1==-p4,p3==-p1}
+                                  # rules_invariants: {s34==-s23+s45-s12,s51==s45,s23==s12,s45==-s34-s45+s12,s12==-s34+s51-s23}
+      -
+        permutation: [[1, 4, 3], [2, 5]]  # name: x143x25
+                                          # rules_momenta: {p2==-p2+p4-p1+p3,p4==p3,p1==-p4,p3==-p1}
+                                          # rules_invariants: {s34==-s23+s45-s12,s51==-s34+s51-s23,s23==s51,s45==s23,s12==s45}
       -
         permutation: [[1, 4, 3, 2]]  # name: x1432
-                                     # rules_momenta: {p1==-p4,p3==-p2,p2==p1,p4==p3}
-                                     # rules_invariants: {s23==s12,s12==s14,s34==s23,s14==s34,s24==s13,s13==s24}
+                                     # rules_momenta: {p2==p1,p4==p3,p1==-p4,p3==-p2}
+                                     # rules_invariants: {s34==s23,s51==s45,s23==s12,s45==-s34-s45+s12,s12==-s51+s23-s45}
+      -
+        permutation: [[1, 4, 3, 2, 5]]  # name: x14325
+                                        # rules_momenta: {p2==-p2+p4-p1+p3,p4==p3,p1==-p4,p3==-p2}
+                                        # rules_invariants: {s34==s23,s51==-s51+s23-s45,s23==s34-s51-s12,s45==-s23+s45-s12,s12==s45}
+      -
+        permutation: [[1, 4, 3, 5]]  # name: x1435
+                                     # rules_momenta: {p4==p3,p1==-p4,p3==p2-p4+p1-p3}
+                                     # rules_invariants: {s34==-s34-s45+s12,s51==-s51+s23-s45,s23==s34-s51-s12,s45==-s23+s45-s12,s12==-s34+s51-s23}
+      -
+        permutation: [[1, 4, 3, 5, 2]]  # name: x14352
+                                        # rules_momenta: {p2==p1,p4==p3,p1==-p4,p3==p2-p4+p1-p3}
+                                        # rules_invariants: {s34==-s34-s45+s12,s51==-s34+s51-s23,s23==s51,s45==s23,s12==-s51+s23-s45}
+      -
+        permutation: [[1, 4, 5]]  # name: x145
+                                  # rules_momenta: {p4==p2-p4+p1-p3,p1==-p4}
+                                  # rules_invariants: {s34==-s34-s45+s12,s51==-s51+s23-s45,s45==s51,s12==-s34+s51-s23}
+      -
+        permutation: [[1, 4, 5], [2, 3]]  # name: x145x23
+                                          # rules_momenta: {p2==-p3,p4==p2-p4+p1-p3,p1==-p4,p3==-p2}
+                                          # rules_invariants: {s34==s34-s51-s12,s51==-s51+s23-s45,s45==s51,s12==s34}
+      -
+        permutation: [[1, 4, 5, 2]]  # name: x1452
+                                     # rules_momenta: {p2==p1,p4==p2-p4+p1-p3,p1==-p4}
+                                     # rules_invariants: {s34==-s34-s45+s12,s51==-s34+s51-s23,s23==-s23+s45-s12,s45==s34-s51-s12,s12==-s51+s23-s45}
+      -
+        permutation: [[1, 4, 5, 2, 3]]  # name: x14523
+                                        # rules_momenta: {p2==-p3,p4==p2-p4+p1-p3,p1==-p4,p3==-p1}
+                                        # rules_invariants: {s34==s51,s51==-s34+s51-s23,s23==-s23+s45-s12,s45==s34-s51-s12,s12==s34}
+      -
+        permutation: [[1, 4, 5, 3]]  # name: x1453
+                                     # rules_momenta: {p4==p2-p4+p1-p3,p1==-p4,p3==-p1}
+                                     # rules_invariants: {s34==s51,s51==s34,s23==s12,s45==-s34-s45+s12,s12==-s34+s51-s23}
+      -
+        permutation: [[1, 4, 5, 3, 2]]  # name: x14532
+                                        # rules_momenta: {p2==p1,p4==p2-p4+p1-p3,p1==-p4,p3==-p2}
+                                        # rules_invariants: {s34==s34-s51-s12,s51==s34,s23==s12,s45==-s34-s45+s12,s12==-s51+s23-s45}
+      -
+        permutation: [[1, 5]]  # name: x15
+                               # rules_momenta: {p1==-p2+p4-p1+p3}
+                               # rules_invariants: {s45==-s51+s23-s45,s12==s34-s51-s12}
+      -
+        permutation: [[1, 5], [2, 3]]  # name: x15x23
+                                       # rules_momenta: {p2==-p3,p1==-p2+p4-p1+p3,p3==-p2}
+                                       # rules_invariants: {s34==-s34+s51-s23,s45==-s51+s23-s45,s12==-s34-s45+s12}
+      -
+        permutation: [[1, 5], [2, 3, 4]]  # name: x15x234
+                                          # rules_momenta: {p2==-p3,p4==-p2,p1==-p2+p4-p1+p3,p3==p4}
+                                          # rules_invariants: {s34==-s34+s51-s23,s23==s34,s45==s12,s12==-s34-s45+s12}
+      -
+        permutation: [[1, 5], [2, 4]]  # name: x15x24
+                                       # rules_momenta: {p2==-p4,p4==-p2,p1==-p2+p4-p1+p3}
+                                       # rules_invariants: {s34==s23,s23==s34,s45==s12,s12==s45}
+      -
+        permutation: [[1, 5], [2, 4, 3]]  # name: x15x243
+                                          # rules_momenta: {p2==-p4,p4==p3,p1==-p2+p4-p1+p3,p3==-p2}
+                                          # rules_invariants: {s34==s23,s23==-s34+s51-s23,s45==-s23+s45-s12,s12==s45}
+      -
+        permutation: [[1, 5], [3, 4]]  # name: x15x34
+                                       # rules_momenta: {p4==p3,p1==-p2+p4-p1+p3,p3==p4}
+                                       # rules_invariants: {s23==-s34+s51-s23,s45==-s23+s45-s12,s12==s34-s51-s12}
+      -
+        permutation: [[1, 5, 2]]  # name: x152
+                                  # rules_momenta: {p2==p1,p1==-p2+p4-p1+p3}
+                                  # rules_invariants: {s51==s34-s51-s12,s23==-s23+s45-s12,s45==-s34+s51-s23,s12==s51}
+      -
+        permutation: [[1, 5, 2], [3, 4]]  # name: x152x34
+                                          # rules_momenta: {p2==p1,p4==p3,p1==-p2+p4-p1+p3,p3==p4}
+                                          # rules_invariants: {s51==s34-s51-s12,s23==-s51+s23-s45,s45==s23,s12==s51}
+      -
+        permutation: [[1, 5, 2, 3]]  # name: x1523
+                                     # rules_momenta: {p2==-p3,p1==-p2+p4-p1+p3,p3==-p1}
+                                     # rules_invariants: {s34==-s51+s23-s45,s51==s34-s51-s12,s23==-s23+s45-s12,s45==-s34+s51-s23,s12==-s34-s45+s12}
+      -
+        permutation: [[1, 5, 2, 3, 4]]  # name: x15234
+                                        # rules_momenta: {p2==-p3,p4==-p1,p1==-p2+p4-p1+p3,p3==p4}
+                                        # rules_invariants: {s34==-s51+s23-s45,s51==s34-s51-s12,s23==s34,s45==s12,s12==-s34-s45+s12}
+      -
+        permutation: [[1, 5, 2, 4]]  # name: x1524
+                                     # rules_momenta: {p2==-p4,p4==-p1,p1==-p2+p4-p1+p3}
+                                     # rules_invariants: {s34==-s23+s45-s12,s51==s34-s51-s12,s23==s34,s45==s12,s12==s45}
+      -
+        permutation: [[1, 5, 2, 4, 3]]  # name: x15243
+                                        # rules_momenta: {p2==-p4,p4==p3,p1==-p2+p4-p1+p3,p3==-p1}
+                                        # rules_invariants: {s34==-s23+s45-s12,s51==s34-s51-s12,s23==-s51+s23-s45,s45==s23,s12==s45}
+      -
+        permutation: [[1, 5, 3]]  # name: x153
+                                  # rules_momenta: {p1==-p2+p4-p1+p3,p3==-p1}
+                                  # rules_invariants: {s34==-s51+s23-s45,s51==-s34-s45+s12,s23==s12,s45==s34,s12==s34-s51-s12}
+      -
+        permutation: [[1, 5, 3], [2, 4]]  # name: x153x24
+                                          # rules_momenta: {p2==-p4,p4==-p2,p1==-p2+p4-p1+p3,p3==-p1}
+                                          # rules_invariants: {s34==s12,s51==-s34-s45+s12,s23==-s51+s23-s45,s45==s23,s12==s45}
+      -
+        permutation: [[1, 5, 3, 2]]  # name: x1532
+                                     # rules_momenta: {p2==p1,p1==-p2+p4-p1+p3,p3==-p2}
+                                     # rules_invariants: {s34==-s34+s51-s23,s51==-s34-s45+s12,s23==s12,s45==s34,s12==s51}
+      -
+        permutation: [[1, 5, 3, 2, 4]]  # name: x15324
+                                        # rules_momenta: {p2==-p4,p4==-p1,p1==-p2+p4-p1+p3,p3==-p2}
+                                        # rules_invariants: {s34==s12,s51==-s34-s45+s12,s23==-s34+s51-s23,s45==-s23+s45-s12,s12==s45}
+      -
+        permutation: [[1, 5, 3, 4]]  # name: x1534
+                                     # rules_momenta: {p4==-p1,p1==-p2+p4-p1+p3,p3==p4}
+                                     # rules_invariants: {s34==-s51+s23-s45,s51==-s34-s45+s12,s23==-s34+s51-s23,s45==-s23+s45-s12,s12==s34-s51-s12}
+      -
+        permutation: [[1, 5, 3, 4, 2]]  # name: x15342
+                                        # rules_momenta: {p2==p1,p4==-p2,p1==-p2+p4-p1+p3,p3==p4}
+                                        # rules_invariants: {s34==-s34+s51-s23,s51==-s34-s45+s12,s23==-s51+s23-s45,s45==s23,s12==s51}
+      -
+        permutation: [[1, 5, 4]]  # name: x154
+                                  # rules_momenta: {p4==-p1,p1==-p2+p4-p1+p3}
+                                  # rules_invariants: {s34==-s23+s45-s12,s51==s45,s45==-s51+s23-s45,s12==s34-s51-s12}
+      -
+        permutation: [[1, 5, 4], [2, 3]]  # name: x154x23
+                                          # rules_momenta: {p2==-p3,p4==-p1,p1==-p2+p4-p1+p3,p3==-p2}
+                                          # rules_invariants: {s34==s12,s51==s45,s45==-s51+s23-s45,s12==-s34-s45+s12}
+      -
+        permutation: [[1, 5, 4, 2]]  # name: x1542
+                                     # rules_momenta: {p2==p1,p4==-p2,p1==-p2+p4-p1+p3}
+                                     # rules_invariants: {s34==s23,s51==s45,s23==-s23+s45-s12,s45==-s34+s51-s23,s12==s51}
+      -
+        permutation: [[1, 5, 4, 2, 3]]  # name: x15423
+                                        # rules_momenta: {p2==-p3,p4==-p2,p1==-p2+p4-p1+p3,p3==-p1}
+                                        # rules_invariants: {s34==s12,s51==s45,s23==-s23+s45-s12,s45==-s34+s51-s23,s12==-s34-s45+s12}
+      -
+        permutation: [[1, 5, 4, 3]]  # name: x1543
+                                     # rules_momenta: {p4==p3,p1==-p2+p4-p1+p3,p3==-p1}
+                                     # rules_invariants: {s34==-s23+s45-s12,s51==s45,s23==s12,s45==s34,s12==s34-s51-s12}
+      -
+        permutation: [[1, 5, 4, 3, 2]]  # name: x15432
+                                        # rules_momenta: {p2==p1,p4==p3,p1==-p2+p4-p1+p3,p3==-p2}
+                                        # rules_invariants: {s34==s23,s51==s45,s23==s12,s45==s34,s12==s51}
       -
         permutation: [[2, 3]]  # name: x23
-                               # rules_momenta: {p3==-p2,p2==-p3}
-                               # rules_invariants: {s12==s13,s34==s24,s24==s34,s13==s12}
+                               # rules_momenta: {p2==-p3,p3==-p2}
+                               # rules_invariants: {s34==-s34+s51-s23,s12==-s23+s45-s12}
+      -
+        permutation: [[2, 3], [4, 5]]  # name: x23x45
+                                       # rules_momenta: {p2==-p3,p4==p2-p4+p1-p3,p3==-p2}
+                                       # rules_invariants: {s34==s34-s51-s12,s51==-s51+s23-s45,s12==-s23+s45-s12}
       -
         permutation: [[2, 3, 4]]  # name: x234
-                                  # rules_momenta: {p3==p4,p2==-p3,p4==-p2}
-                                  # rules_invariants: {s23==s34,s12==s13,s34==s24,s14==s12,s24==s23,s13==s14}
+                                  # rules_momenta: {p2==-p3,p4==-p2,p3==p4}
+                                  # rules_invariants: {s34==-s34+s51-s23,s23==s34,s45==s34-s51-s12,s12==-s23+s45-s12}
+      -
+        permutation: [[2, 3, 4, 5]]  # name: x2345
+                                     # rules_momenta: {p2==-p3,p4==p2-p4+p1-p3,p3==p4}
+                                     # rules_invariants: {s34==s45,s51==s12,s23==s34,s45==s34-s51-s12,s12==-s23+s45-s12}
+      -
+        permutation: [[2, 3, 5]]  # name: x235
+                                  # rules_momenta: {p2==-p3,p3==p2-p4+p1-p3}
+                                  # rules_invariants: {s34==s45,s51==s12,s23==-s34-s45+s12,s45==-s34+s51-s23,s12==-s23+s45-s12}
+      -
+        permutation: [[2, 3, 5, 4]]  # name: x2354
+                                     # rules_momenta: {p2==-p3,p4==-p2,p3==p2-p4+p1-p3}
+                                     # rules_invariants: {s34==s34-s51-s12,s51==-s51+s23-s45,s23==-s34-s45+s12,s45==-s34+s51-s23,s12==-s23+s45-s12}
       -
         permutation: [[2, 4]]  # name: x24
                                # rules_momenta: {p2==-p4,p4==-p2}
-                               # rules_invariants: {s23==s34,s12==s14,s34==s23,s14==s12}
+                               # rules_invariants: {s34==s23,s23==s34,s45==s34-s51-s12,s12==-s51+s23-s45}
+      -
+        permutation: [[2, 4], [3, 5]]  # name: x24x35
+                                       # rules_momenta: {p2==-p4,p4==-p2,p3==p2-p4+p1-p3}
+                                       # rules_invariants: {s34==s34-s51-s12,s51==-s23+s45-s12,s23==s45,s45==s23,s12==-s51+s23-s45}
       -
         permutation: [[2, 4, 3]]  # name: x243
-                                  # rules_momenta: {p3==-p2,p2==-p4,p4==p3}
-                                  # rules_invariants: {s23==s24,s12==s14,s34==s23,s14==s13,s24==s34,s13==s12}
+                                  # rules_momenta: {p2==-p4,p4==p3,p3==-p2}
+                                  # rules_invariants: {s34==s23,s23==-s34+s51-s23,s45==-s34-s45+s12,s12==-s51+s23-s45}
+      -
+        permutation: [[2, 4, 3, 5]]  # name: x2435
+                                     # rules_momenta: {p2==-p4,p4==p3,p3==p2-p4+p1-p3}
+                                     # rules_invariants: {s34==-s34-s45+s12,s51==s12,s23==s45,s45==s23,s12==-s51+s23-s45}
+      -
+        permutation: [[2, 4, 5]]  # name: x245
+                                  # rules_momenta: {p2==-p4,p4==p2-p4+p1-p3}
+                                  # rules_invariants: {s34==-s34-s45+s12,s51==s12,s23==s34,s45==s34-s51-s12,s12==-s51+s23-s45}
+      -
+        permutation: [[2, 4, 5, 3]]  # name: x2453
+                                     # rules_momenta: {p2==-p4,p4==p2-p4+p1-p3,p3==-p2}
+                                     # rules_invariants: {s34==s34-s51-s12,s51==-s23+s45-s12,s23==-s34+s51-s23,s45==-s34-s45+s12,s12==-s51+s23-s45}
+      -
+        permutation: [[2, 5]]  # name: x25
+                               # rules_momenta: {p2==-p2+p4-p1+p3}
+                               # rules_invariants: {s51==s12,s23==-s34-s45+s12,s45==-s34+s51-s23,s12==s51}
+      -
+        permutation: [[2, 5], [3, 4]]  # name: x25x34
+                                       # rules_momenta: {p2==-p2+p4-p1+p3,p4==p3,p3==p4}
+                                       # rules_invariants: {s51==s12,s23==s45,s45==s23,s12==s51}
+      -
+        permutation: [[2, 5, 3]]  # name: x253
+                                  # rules_momenta: {p2==-p2+p4-p1+p3,p3==-p2}
+                                  # rules_invariants: {s34==-s34+s51-s23,s51==-s23+s45-s12,s23==s34-s51-s12,s45==s34,s12==s51}
+      -
+        permutation: [[2, 5, 3, 4]]  # name: x2534
+                                     # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p2,p3==p4}
+                                     # rules_invariants: {s34==-s34+s51-s23,s51==-s23+s45-s12,s23==s45,s45==s23,s12==s51}
+      -
+        permutation: [[2, 5, 4]]  # name: x254
+                                  # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p2}
+                                  # rules_invariants: {s34==s23,s51==-s51+s23-s45,s23==-s34-s45+s12,s45==-s34+s51-s23,s12==s51}
+      -
+        permutation: [[2, 5, 4, 3]]  # name: x2543
+                                     # rules_momenta: {p2==-p2+p4-p1+p3,p4==p3,p3==-p2}
+                                     # rules_invariants: {s34==s23,s51==-s51+s23-s45,s23==s34-s51-s12,s45==s34,s12==s51}
       -
         permutation: [[3, 4]]  # name: x34
-                               # rules_momenta: {p3==p4,p4==p3}
-                               # rules_invariants: {s23==s24,s14==s13,s24==s23,s13==s14}
+                               # rules_momenta: {p4==p3,p3==p4}
+                               # rules_invariants: {s23==-s34+s51-s23,s45==-s34-s45+s12}
+      -
+        permutation: [[3, 4, 5]]  # name: x345
+                                  # rules_momenta: {p4==p2-p4+p1-p3,p3==p4}
+                                  # rules_invariants: {s34==s45,s51==-s23+s45-s12,s23==-s34+s51-s23,s45==-s34-s45+s12}
+      -
+        permutation: [[3, 5]]  # name: x35
+                               # rules_momenta: {p3==p2-p4+p1-p3}
+                               # rules_invariants: {s34==s45,s51==-s23+s45-s12,s23==s34-s51-s12,s45==s34}
+      -
+        permutation: [[3, 5, 4]]  # name: x354
+                                  # rules_momenta: {p4==p3,p3==p2-p4+p1-p3}
+                                  # rules_invariants: {s34==-s34-s45+s12,s51==-s51+s23-s45,s23==s34-s51-s12,s45==s34}
+      -
+        permutation: [[4, 5]]  # name: x45
+                               # rules_momenta: {p4==p2-p4+p1-p3}
+                               # rules_invariants: {s34==-s34-s45+s12,s51==-s51+s23-s45}

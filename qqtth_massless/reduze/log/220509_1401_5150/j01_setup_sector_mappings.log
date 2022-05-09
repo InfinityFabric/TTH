@@ -1,0 +1,2445 @@
+
+Date: Mon May  9 14:01:51 2022
+
+
+conditional: false
+find_sector_relations: true
+find_sector_symmetries: true
+examine_twists_for_symmetries: true
+find_zero_sectors: true
+find_graphless_zero_sectors: false
+minimize_graphs_by_twists: false
+construct_minimal_graphs: true
+setup_crossings: true
+minimize_target_crossings: true
+allow_general_crossings: true
+verify_permutation_symmetries: true
+
+Using integral family pentagon1 (id reset to 1)
+  generated crossed integral family pentagon1x12 (id set to 2)
+  generated crossed integral family pentagon1x12x34 (id set to 3)
+  generated crossed integral family pentagon1x12x345 (id set to 4)
+  generated crossed integral family pentagon1x12x35 (id set to 5)
+  generated crossed integral family pentagon1x12x354 (id set to 6)
+  generated crossed integral family pentagon1x12x45 (id set to 7)
+  generated crossed integral family pentagon1x123 (id set to 8)
+  generated crossed integral family pentagon1x123x45 (id set to 9)
+  generated crossed integral family pentagon1x1234 (id set to 10)
+  generated crossed integral family pentagon1x12345 (id set to 11)
+  generated crossed integral family pentagon1x1235 (id set to 12)
+  generated crossed integral family pentagon1x12354 (id set to 13)
+  generated crossed integral family pentagon1x124 (id set to 14)
+  generated crossed integral family pentagon1x124x35 (id set to 15)
+  generated crossed integral family pentagon1x1243 (id set to 16)
+  generated crossed integral family pentagon1x12435 (id set to 17)
+  generated crossed integral family pentagon1x1245 (id set to 18)
+  generated crossed integral family pentagon1x12453 (id set to 19)
+  generated crossed integral family pentagon1x125 (id set to 20)
+  generated crossed integral family pentagon1x125x34 (id set to 21)
+  generated crossed integral family pentagon1x1253 (id set to 22)
+  generated crossed integral family pentagon1x12534 (id set to 23)
+  generated crossed integral family pentagon1x1254 (id set to 24)
+  generated crossed integral family pentagon1x12543 (id set to 25)
+  generated crossed integral family pentagon1x13 (id set to 26)
+  generated crossed integral family pentagon1x13x24 (id set to 27)
+  generated crossed integral family pentagon1x13x245 (id set to 28)
+  generated crossed integral family pentagon1x13x25 (id set to 29)
+  generated crossed integral family pentagon1x13x254 (id set to 30)
+  generated crossed integral family pentagon1x13x45 (id set to 31)
+  generated crossed integral family pentagon1x132 (id set to 32)
+  generated crossed integral family pentagon1x132x45 (id set to 33)
+  generated crossed integral family pentagon1x1324 (id set to 34)
+  generated crossed integral family pentagon1x13245 (id set to 35)
+  generated crossed integral family pentagon1x1325 (id set to 36)
+  generated crossed integral family pentagon1x13254 (id set to 37)
+  generated crossed integral family pentagon1x134 (id set to 38)
+  generated crossed integral family pentagon1x134x25 (id set to 39)
+  generated crossed integral family pentagon1x1342 (id set to 40)
+  generated crossed integral family pentagon1x13425 (id set to 41)
+  generated crossed integral family pentagon1x1345 (id set to 42)
+  generated crossed integral family pentagon1x13452 (id set to 43)
+  generated crossed integral family pentagon1x135 (id set to 44)
+  generated crossed integral family pentagon1x135x24 (id set to 45)
+  generated crossed integral family pentagon1x1352 (id set to 46)
+  generated crossed integral family pentagon1x13524 (id set to 47)
+  generated crossed integral family pentagon1x1354 (id set to 48)
+  generated crossed integral family pentagon1x13542 (id set to 49)
+  generated crossed integral family pentagon1x14 (id set to 50)
+  generated crossed integral family pentagon1x14x23 (id set to 51)
+  generated crossed integral family pentagon1x14x235 (id set to 52)
+  generated crossed integral family pentagon1x14x25 (id set to 53)
+  generated crossed integral family pentagon1x14x253 (id set to 54)
+  generated crossed integral family pentagon1x14x35 (id set to 55)
+  generated crossed integral family pentagon1x142 (id set to 56)
+  generated crossed integral family pentagon1x142x35 (id set to 57)
+  generated crossed integral family pentagon1x1423 (id set to 58)
+  generated crossed integral family pentagon1x14235 (id set to 59)
+  generated crossed integral family pentagon1x1425 (id set to 60)
+  generated crossed integral family pentagon1x14253 (id set to 61)
+  generated crossed integral family pentagon1x143 (id set to 62)
+  generated crossed integral family pentagon1x143x25 (id set to 63)
+  generated crossed integral family pentagon1x1432 (id set to 64)
+  generated crossed integral family pentagon1x14325 (id set to 65)
+  generated crossed integral family pentagon1x1435 (id set to 66)
+  generated crossed integral family pentagon1x14352 (id set to 67)
+  generated crossed integral family pentagon1x145 (id set to 68)
+  generated crossed integral family pentagon1x145x23 (id set to 69)
+  generated crossed integral family pentagon1x1452 (id set to 70)
+  generated crossed integral family pentagon1x14523 (id set to 71)
+  generated crossed integral family pentagon1x1453 (id set to 72)
+  generated crossed integral family pentagon1x14532 (id set to 73)
+  generated crossed integral family pentagon1x15 (id set to 74)
+  generated crossed integral family pentagon1x15x23 (id set to 75)
+  generated crossed integral family pentagon1x15x234 (id set to 76)
+  generated crossed integral family pentagon1x15x24 (id set to 77)
+  generated crossed integral family pentagon1x15x243 (id set to 78)
+  generated crossed integral family pentagon1x15x34 (id set to 79)
+  generated crossed integral family pentagon1x152 (id set to 80)
+  generated crossed integral family pentagon1x152x34 (id set to 81)
+  generated crossed integral family pentagon1x1523 (id set to 82)
+  generated crossed integral family pentagon1x15234 (id set to 83)
+  generated crossed integral family pentagon1x1524 (id set to 84)
+  generated crossed integral family pentagon1x15243 (id set to 85)
+  generated crossed integral family pentagon1x153 (id set to 86)
+  generated crossed integral family pentagon1x153x24 (id set to 87)
+  generated crossed integral family pentagon1x1532 (id set to 88)
+  generated crossed integral family pentagon1x15324 (id set to 89)
+  generated crossed integral family pentagon1x1534 (id set to 90)
+  generated crossed integral family pentagon1x15342 (id set to 91)
+  generated crossed integral family pentagon1x154 (id set to 92)
+  generated crossed integral family pentagon1x154x23 (id set to 93)
+  generated crossed integral family pentagon1x1542 (id set to 94)
+  generated crossed integral family pentagon1x15423 (id set to 95)
+  generated crossed integral family pentagon1x1543 (id set to 96)
+  generated crossed integral family pentagon1x15432 (id set to 97)
+  generated crossed integral family pentagon1x23 (id set to 98)
+  generated crossed integral family pentagon1x23x45 (id set to 99)
+  generated crossed integral family pentagon1x234 (id set to 100)
+  generated crossed integral family pentagon1x2345 (id set to 101)
+  generated crossed integral family pentagon1x235 (id set to 102)
+  generated crossed integral family pentagon1x2354 (id set to 103)
+  generated crossed integral family pentagon1x24 (id set to 104)
+  generated crossed integral family pentagon1x24x35 (id set to 105)
+  generated crossed integral family pentagon1x243 (id set to 106)
+  generated crossed integral family pentagon1x2435 (id set to 107)
+  generated crossed integral family pentagon1x245 (id set to 108)
+  generated crossed integral family pentagon1x2453 (id set to 109)
+  generated crossed integral family pentagon1x25 (id set to 110)
+  generated crossed integral family pentagon1x25x34 (id set to 111)
+  generated crossed integral family pentagon1x253 (id set to 112)
+  generated crossed integral family pentagon1x2534 (id set to 113)
+  generated crossed integral family pentagon1x254 (id set to 114)
+  generated crossed integral family pentagon1x2543 (id set to 115)
+  generated crossed integral family pentagon1x34 (id set to 116)
+  generated crossed integral family pentagon1x345 (id set to 117)
+  generated crossed integral family pentagon1x35 (id set to 118)
+  generated crossed integral family pentagon1x354 (id set to 119)
+  generated crossed integral family pentagon1x45 (id set to 120)
+Done loading integral families
+Setup sector mappings for the following integral families requested:
+  1-loop:
+    pentagon1
+
+Clear sector mappings and crossed mappings of family 'pentagon1'
+read key 'sectormappings' in file './sectormappings/sectormappings_pentagon1.yaml'
+Found valid sector mappings for pentagon1
+Setup sector mappings for pentagon1
+
+Kinematics '':
+Rules scalar products to invariants:
+  {SP(p1,p3)==1/2*s23-1/2*s45+1/2*s12,SP(p4,p1)==1/2*s51-1/2*s23+1/2*s45,SP(p4,p4)==0,SP(p1,p1)==0,SP(p4,p3)==1/2*s34,SP(p2,p2)==0,SP(p2,p1)==1/2*s12,SP(p3,p3)==0,SP(p2,p4)==1/2*s34-1/2*s51+1/2*s23,SP(p2,p3)==-1/2*s23}
+Rules invariants to scalar products:
+  {s34==2*SP(p4,p3),s51==2*SP(p1,p3)+2*SP(p4,p1)-2*SP(p2,p1),s23==2*SP(p1,p3)+2*SP(p4,p1)-2*SP(p4,p3)-2*SP(p2,p1)+2*SP(p2,p4),s45==2*SP(p4,p1)-2*SP(p4,p3)+2*SP(p2,p4),s12==2*SP(p2,p1)}
+
+Crossings for kinematics '':
+  permutation: [[1, 2]]  # name: x12
+                       # rules_momenta: {p2==p1,p1==p2}
+                       # rules_invariants: {s51==s34-s51-s12,s23==-s23+s45-s12}
+is equivalent to 'x12'
+  permutation: [[1, 2], [3, 4]]  # name: x12x34
+                               # rules_momenta: {p2==p1,p4==p3,p1==p2,p3==p4}
+                               # rules_invariants: {s51==s34-s51-s12,s23==-s51+s23-s45,s45==-s34-s45+s12}
+is equivalent to 'x12x34'
+  permutation: [[1, 2], [3, 4, 5]]  # name: x12x345
+                                  # rules_momenta: {p2==p1,p4==p2-p4+p1-p3,p1==p2,p3==p4}
+                                  # rules_invariants: {s34==s45,s51==s23,s23==-s51+s23-s45,s45==-s34-s45+s12}
+is equivalent to 'x12x345'
+  permutation: [[1, 2], [3, 5]]  # name: x12x35
+                               # rules_momenta: {p2==p1,p1==p2,p3==p2-p4+p1-p3}
+                               # rules_invariants: {s34==s45,s51==s23,s23==s51,s45==s34}
+is equivalent to 'x12x35'
+  permutation: [[1, 2], [3, 5, 4]]  # name: x12x354
+                                  # rules_momenta: {p2==p1,p4==p3,p1==p2,p3==p2-p4+p1-p3}
+                                  # rules_invariants: {s34==-s34-s45+s12,s51==-s34+s51-s23,s23==s51,s45==s34}
+is equivalent to 'x12x354'
+  permutation: [[1, 2], [4, 5]]  # name: x12x45
+                               # rules_momenta: {p2==p1,p4==p2-p4+p1-p3,p1==p2}
+                               # rules_invariants: {s34==-s34-s45+s12,s51==-s34+s51-s23,s23==-s23+s45-s12}
+is equivalent to 'x12x45'
+  permutation: [[1, 2, 3]]  # name: x123
+                          # rules_momenta: {p2==-p3,p1==p2,p3==-p1}
+                          # rules_invariants: {s34==-s51+s23-s45,s51==s34-s51-s12,s23==-s23+s45-s12,s12==s23}
+is equivalent to 'x123'
+  permutation: [[1, 2, 3], [4, 5]]  # name: x123x45
+                                  # rules_momenta: {p2==-p3,p4==p2-p4+p1-p3,p1==p2,p3==-p1}
+                                  # rules_invariants: {s34==s51,s51==-s34+s51-s23,s23==-s23+s45-s12,s12==s23}
+is equivalent to 'x123x45'
+  permutation: [[1, 2, 3, 4]]  # name: x1234
+                             # rules_momenta: {p2==-p3,p4==-p1,p1==p2,p3==p4}
+                             # rules_invariants: {s34==-s51+s23-s45,s51==s34-s51-s12,s23==s34,s45==s51,s12==s23}
+is equivalent to 'x1234'
+  permutation: [[1, 2, 3, 4, 5]]  # name: x12345
+                                # rules_momenta: {p2==-p3,p4==p2-p4+p1-p3,p1==p2,p3==p4}
+                                # rules_invariants: {s34==s45,s51==s12,s23==s34,s45==s51,s12==s23}
+is equivalent to 'x12345'
+  permutation: [[1, 2, 3, 5]]  # name: x1235
+                             # rules_momenta: {p2==-p3,p1==p2,p3==p2-p4+p1-p3}
+                             # rules_invariants: {s34==s45,s51==s12,s23==-s34-s45+s12,s45==-s51+s23-s45,s12==s23}
+is equivalent to 'x1235'
+  permutation: [[1, 2, 3, 5, 4]]  # name: x12354
+                                # rules_momenta: {p2==-p3,p4==-p1,p1==p2,p3==p2-p4+p1-p3}
+                                # rules_invariants: {s34==s51,s51==-s34+s51-s23,s23==-s34-s45+s12,s45==-s51+s23-s45,s12==s23}
+is equivalent to 'x12354'
+  permutation: [[1, 2, 4]]  # name: x124
+                          # rules_momenta: {p2==-p4,p4==-p1,p1==p2}
+                          # rules_invariants: {s34==-s23+s45-s12,s51==s34-s51-s12,s23==s34,s45==s51,s12==-s34+s51-s23}
+is equivalent to 'x124'
+  permutation: [[1, 2, 4], [3, 5]]  # name: x124x35
+                                  # rules_momenta: {p2==-p4,p4==-p1,p1==p2,p3==p2-p4+p1-p3}
+                                  # rules_invariants: {s34==s51,s51==s23,s23==s45,s45==-s23+s45-s12,s12==-s34+s51-s23}
+is equivalent to 'x124x35'
+  permutation: [[1, 2, 4, 3]]  # name: x1243
+                             # rules_momenta: {p2==-p4,p4==p3,p1==p2,p3==-p1}
+                             # rules_invariants: {s34==-s23+s45-s12,s51==s34-s51-s12,s23==-s51+s23-s45,s45==-s34-s45+s12,s12==-s34+s51-s23}
+is equivalent to 'x1243'
+  permutation: [[1, 2, 4, 3, 5]]  # name: x12435
+                                # rules_momenta: {p2==-p4,p4==p3,p1==p2,p3==p2-p4+p1-p3}
+                                # rules_invariants: {s34==-s34-s45+s12,s51==s12,s23==s45,s45==-s23+s45-s12,s12==-s34+s51-s23}
+is equivalent to 'x12435'
+  permutation: [[1, 2, 4, 5]]  # name: x1245
+                             # rules_momenta: {p2==-p4,p4==p2-p4+p1-p3,p1==p2}
+                             # rules_invariants: {s34==-s34-s45+s12,s51==s12,s23==s34,s45==s51,s12==-s34+s51-s23}
+is equivalent to 'x1245'
+  permutation: [[1, 2, 4, 5, 3]]  # name: x12453
+                                # rules_momenta: {p2==-p4,p4==p2-p4+p1-p3,p1==p2,p3==-p1}
+                                # rules_invariants: {s34==s51,s51==s23,s23==-s51+s23-s45,s45==-s34-s45+s12,s12==-s34+s51-s23}
+is equivalent to 'x12453'
+  permutation: [[1, 2, 5]]  # name: x125
+                          # rules_momenta: {p2==-p2+p4-p1+p3,p1==p2}
+                          # rules_invariants: {s51==s12,s23==-s34-s45+s12,s45==-s51+s23-s45,s12==s34-s51-s12}
+is equivalent to 'x125'
+  permutation: [[1, 2, 5], [3, 4]]  # name: x125x34
+                                  # rules_momenta: {p2==-p2+p4-p1+p3,p4==p3,p1==p2,p3==p4}
+                                  # rules_invariants: {s51==s12,s23==s45,s45==-s23+s45-s12,s12==s34-s51-s12}
+is equivalent to 'x125x34'
+  permutation: [[1, 2, 5, 3]]  # name: x1253
+                             # rules_momenta: {p2==-p2+p4-p1+p3,p1==p2,p3==-p1}
+                             # rules_invariants: {s34==-s51+s23-s45,s51==s23,s23==s51,s45==s34,s12==s34-s51-s12}
+is equivalent to 'x1253'
+  permutation: [[1, 2, 5, 3, 4]]  # name: x12534
+                                # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p1,p1==p2,p3==p4}
+                                # rules_invariants: {s34==-s51+s23-s45,s51==s23,s23==s45,s45==-s23+s45-s12,s12==s34-s51-s12}
+is equivalent to 'x12534'
+  permutation: [[1, 2, 5, 4]]  # name: x1254
+                             # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p1,p1==p2}
+                             # rules_invariants: {s34==-s23+s45-s12,s51==-s34+s51-s23,s23==-s34-s45+s12,s45==-s51+s23-s45,s12==s34-s51-s12}
+is equivalent to 'x1254'
+  permutation: [[1, 2, 5, 4, 3]]  # name: x12543
+                                # rules_momenta: {p2==-p2+p4-p1+p3,p4==p3,p1==p2,p3==-p1}
+                                # rules_invariants: {s34==-s23+s45-s12,s51==-s34+s51-s23,s23==s51,s45==s34,s12==s34-s51-s12}
+is equivalent to 'x12543'
+  permutation: [[1, 3]]  # name: x13
+                       # rules_momenta: {p1==-p3,p3==-p1}
+                       # rules_invariants: {s34==-s51+s23-s45,s51==-s34-s45+s12,s23==s12,s12==s23}
+is equivalent to 'x13'
+  permutation: [[1, 3], [2, 4]]  # name: x13x24
+                               # rules_momenta: {p2==-p4,p4==-p2,p1==-p3,p3==-p1}
+                               # rules_invariants: {s34==s12,s51==-s34-s45+s12,s23==-s51+s23-s45,s45==s34-s51-s12,s12==s34}
+is equivalent to 'x13x24'
+  permutation: [[1, 3], [2, 4, 5]]  # name: x13x245
+                                  # rules_momenta: {p2==-p4,p4==p2-p4+p1-p3,p1==-p3,p3==-p1}
+                                  # rules_invariants: {s34==s51,s51==s23,s23==-s51+s23-s45,s45==s34-s51-s12,s12==s34}
+is equivalent to 'x13x245'
+  permutation: [[1, 3], [2, 5]]  # name: x13x25
+                               # rules_momenta: {p2==-p2+p4-p1+p3,p1==-p3,p3==-p1}
+                               # rules_invariants: {s34==-s51+s23-s45,s51==s23,s23==s51,s45==-s34+s51-s23,s12==-s34-s45+s12}
+is equivalent to 'x13x25'
+  permutation: [[1, 3], [2, 5, 4]]  # name: x13x254
+                                  # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p2,p1==-p3,p3==-p1}
+                                  # rules_invariants: {s34==s12,s51==s34,s23==s51,s45==-s34+s51-s23,s12==-s34-s45+s12}
+is equivalent to 'x13x254'
+  permutation: [[1, 3], [4, 5]]  # name: x13x45
+                               # rules_momenta: {p4==p2-p4+p1-p3,p1==-p3,p3==-p1}
+                               # rules_invariants: {s34==s51,s51==s34,s23==s12,s12==s23}
+is equivalent to 'x13x45'
+  permutation: [[1, 3, 2]]  # name: x132
+                          # rules_momenta: {p2==p1,p1==-p3,p3==-p2}
+                          # rules_invariants: {s34==-s34+s51-s23,s51==-s34-s45+s12,s23==s12,s12==-s23+s45-s12}
+is equivalent to 'x132'
+  permutation: [[1, 3, 2], [4, 5]]  # name: x132x45
+                                  # rules_momenta: {p2==p1,p4==p2-p4+p1-p3,p1==-p3,p3==-p2}
+                                  # rules_invariants: {s34==s34-s51-s12,s51==s34,s23==s12,s12==-s23+s45-s12}
+is equivalent to 'x132x45'
+  permutation: [[1, 3, 2, 4]]  # name: x1324
+                             # rules_momenta: {p2==-p4,p4==-p1,p1==-p3,p3==-p2}
+                             # rules_invariants: {s34==s12,s51==-s34-s45+s12,s23==-s34+s51-s23,s45==s51,s12==s34}
+is equivalent to 'x1324'
+  permutation: [[1, 3, 2, 4, 5]]  # name: x13245
+                                # rules_momenta: {p2==-p4,p4==p2-p4+p1-p3,p1==-p3,p3==-p2}
+                                # rules_invariants: {s34==s34-s51-s12,s51==-s23+s45-s12,s23==-s34+s51-s23,s45==s51,s12==s34}
+is equivalent to 'x13245'
+  permutation: [[1, 3, 2, 5]]  # name: x1325
+                             # rules_momenta: {p2==-p2+p4-p1+p3,p1==-p3,p3==-p2}
+                             # rules_invariants: {s34==-s34+s51-s23,s51==-s23+s45-s12,s23==s34-s51-s12,s45==-s51+s23-s45,s12==-s34-s45+s12}
+is equivalent to 'x1325'
+  permutation: [[1, 3, 2, 5, 4]]  # name: x13254
+                                # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p1,p1==-p3,p3==-p2}
+                                # rules_invariants: {s34==s12,s51==s34,s23==s34-s51-s12,s45==-s51+s23-s45,s12==-s34-s45+s12}
+is equivalent to 'x13254'
+  permutation: [[1, 3, 4]]  # name: x134
+                          # rules_momenta: {p4==-p1,p1==-p3,p3==p4}
+                          # rules_invariants: {s34==-s51+s23-s45,s51==-s34-s45+s12,s23==-s34+s51-s23,s45==s51,s12==s23}
+is equivalent to 'x134'
+  permutation: [[1, 3, 4], [2, 5]]  # name: x134x25
+                                  # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p1,p1==-p3,p3==p4}
+                                  # rules_invariants: {s34==-s51+s23-s45,s51==s23,s23==s45,s45==s12,s12==-s34-s45+s12}
+is equivalent to 'x134x25'
+  permutation: [[1, 3, 4, 2]]  # name: x1342
+                             # rules_momenta: {p2==p1,p4==-p2,p1==-p3,p3==p4}
+                             # rules_invariants: {s34==-s34+s51-s23,s51==-s34-s45+s12,s23==-s51+s23-s45,s45==s34-s51-s12,s12==-s23+s45-s12}
+is equivalent to 'x1342'
+  permutation: [[1, 3, 4, 2, 5]]  # name: x13425
+                                # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p2,p1==-p3,p3==p4}
+                                # rules_invariants: {s34==-s34+s51-s23,s51==-s23+s45-s12,s23==s45,s45==s12,s12==-s34-s45+s12}
+is equivalent to 'x13425'
+  permutation: [[1, 3, 4, 5]]  # name: x1345
+                             # rules_momenta: {p4==p2-p4+p1-p3,p1==-p3,p3==p4}
+                             # rules_invariants: {s34==s45,s51==-s23+s45-s12,s23==-s34+s51-s23,s45==s51,s12==s23}
+is equivalent to 'x1345'
+  permutation: [[1, 3, 4, 5, 2]]  # name: x13452
+                                # rules_momenta: {p2==p1,p4==p2-p4+p1-p3,p1==-p3,p3==p4}
+                                # rules_invariants: {s34==s45,s51==s23,s23==-s51+s23-s45,s45==s34-s51-s12,s12==-s23+s45-s12}
+is equivalent to 'x13452'
+  permutation: [[1, 3, 5]]  # name: x135
+                          # rules_momenta: {p1==-p3,p3==p2-p4+p1-p3}
+                          # rules_invariants: {s34==s45,s51==-s23+s45-s12,s23==s34-s51-s12,s45==-s51+s23-s45,s12==s23}
+is equivalent to 'x135'
+  permutation: [[1, 3, 5], [2, 4]]  # name: x135x24
+                                  # rules_momenta: {p2==-p4,p4==-p2,p1==-p3,p3==p2-p4+p1-p3}
+                                  # rules_invariants: {s34==s34-s51-s12,s51==-s23+s45-s12,s23==s45,s45==s12,s12==s34}
+is equivalent to 'x135x24'
+  permutation: [[1, 3, 5, 2]]  # name: x1352
+                             # rules_momenta: {p2==p1,p1==-p3,p3==p2-p4+p1-p3}
+                             # rules_invariants: {s34==s45,s51==s23,s23==s51,s45==-s34+s51-s23,s12==-s23+s45-s12}
+is equivalent to 'x1352'
+  permutation: [[1, 3, 5, 2, 4]]  # name: x13524
+                                # rules_momenta: {p2==-p4,p4==-p1,p1==-p3,p3==p2-p4+p1-p3}
+                                # rules_invariants: {s34==s51,s51==s23,s23==s45,s45==s12,s12==s34}
+is equivalent to 'x13524'
+  permutation: [[1, 3, 5, 4]]  # name: x1354
+                             # rules_momenta: {p4==-p1,p1==-p3,p3==p2-p4+p1-p3}
+                             # rules_invariants: {s34==s51,s51==s34,s23==s34-s51-s12,s45==-s51+s23-s45,s12==s23}
+is equivalent to 'x1354'
+  permutation: [[1, 3, 5, 4, 2]]  # name: x13542
+                                # rules_momenta: {p2==p1,p4==-p2,p1==-p3,p3==p2-p4+p1-p3}
+                                # rules_invariants: {s34==s34-s51-s12,s51==s34,s23==s51,s45==-s34+s51-s23,s12==-s23+s45-s12}
+is equivalent to 'x13542'
+  permutation: [[1, 4]]  # name: x14
+                       # rules_momenta: {p4==-p1,p1==-p4}
+                       # rules_invariants: {s34==-s23+s45-s12,s51==s45,s45==s51,s12==-s34+s51-s23}
+is equivalent to 'x14'
+  permutation: [[1, 4], [2, 3]]  # name: x14x23
+                               # rules_momenta: {p2==-p3,p4==-p1,p1==-p4,p3==-p2}
+                               # rules_invariants: {s34==s12,s51==s45,s45==s51,s12==s34}
+is equivalent to 'x14x23'
+  permutation: [[1, 4], [2, 3, 5]]  # name: x14x235
+                                  # rules_momenta: {p2==-p3,p4==-p1,p1==-p4,p3==p2-p4+p1-p3}
+                                  # rules_invariants: {s34==s51,s51==-s34+s51-s23,s23==-s34-s45+s12,s45==s12,s12==s34}
+is equivalent to 'x14x235'
+  permutation: [[1, 4], [2, 5]]  # name: x14x25
+                               # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p1,p1==-p4}
+                               # rules_invariants: {s34==-s23+s45-s12,s51==-s34+s51-s23,s23==-s34-s45+s12,s45==s12,s12==s45}
+is equivalent to 'x14x25'
+  permutation: [[1, 4], [2, 5, 3]]  # name: x14x253
+                                  # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p1,p1==-p4,p3==-p2}
+                                  # rules_invariants: {s34==s12,s51==s34,s23==s34-s51-s12,s45==-s23+s45-s12,s12==s45}
+is equivalent to 'x14x253'
+  permutation: [[1, 4], [3, 5]]  # name: x14x35
+                               # rules_momenta: {p4==-p1,p1==-p4,p3==p2-p4+p1-p3}
+                               # rules_invariants: {s34==s51,s51==s34,s23==s34-s51-s12,s45==-s23+s45-s12,s12==-s34+s51-s23}
+is equivalent to 'x14x35'
+  permutation: [[1, 4, 2]]  # name: x142
+                          # rules_momenta: {p2==p1,p4==-p2,p1==-p4}
+                          # rules_invariants: {s34==s23,s51==s45,s23==-s23+s45-s12,s45==s34-s51-s12,s12==-s51+s23-s45}
+is equivalent to 'x142'
+  permutation: [[1, 4, 2], [3, 5]]  # name: x142x35
+                                  # rules_momenta: {p2==p1,p4==-p2,p1==-p4,p3==p2-p4+p1-p3}
+                                  # rules_invariants: {s34==s34-s51-s12,s51==s34,s23==s51,s45==s23,s12==-s51+s23-s45}
+is equivalent to 'x142x35'
+  permutation: [[1, 4, 2, 3]]  # name: x1423
+                             # rules_momenta: {p2==-p3,p4==-p2,p1==-p4,p3==-p1}
+                             # rules_invariants: {s34==s12,s51==s45,s23==-s23+s45-s12,s45==s34-s51-s12,s12==s34}
+is equivalent to 'x1423'
+  permutation: [[1, 4, 2, 3, 5]]  # name: x14235
+                                # rules_momenta: {p2==-p3,p4==-p2,p1==-p4,p3==p2-p4+p1-p3}
+                                # rules_invariants: {s34==s34-s51-s12,s51==-s51+s23-s45,s23==-s34-s45+s12,s45==s12,s12==s34}
+is equivalent to 'x14235'
+  permutation: [[1, 4, 2, 5]]  # name: x1425
+                             # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p2,p1==-p4}
+                             # rules_invariants: {s34==s23,s51==-s51+s23-s45,s23==-s34-s45+s12,s45==s12,s12==s45}
+is equivalent to 'x1425'
+  permutation: [[1, 4, 2, 5, 3]]  # name: x14253
+                                # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p2,p1==-p4,p3==-p1}
+                                # rules_invariants: {s34==s12,s51==s34,s23==s51,s45==s23,s12==s45}
+is equivalent to 'x14253'
+  permutation: [[1, 4, 3]]  # name: x143
+                          # rules_momenta: {p4==p3,p1==-p4,p3==-p1}
+                          # rules_invariants: {s34==-s23+s45-s12,s51==s45,s23==s12,s45==-s34-s45+s12,s12==-s34+s51-s23}
+is equivalent to 'x143'
+  permutation: [[1, 4, 3], [2, 5]]  # name: x143x25
+                                  # rules_momenta: {p2==-p2+p4-p1+p3,p4==p3,p1==-p4,p3==-p1}
+                                  # rules_invariants: {s34==-s23+s45-s12,s51==-s34+s51-s23,s23==s51,s45==s23,s12==s45}
+is equivalent to 'x143x25'
+  permutation: [[1, 4, 3, 2]]  # name: x1432
+                             # rules_momenta: {p2==p1,p4==p3,p1==-p4,p3==-p2}
+                             # rules_invariants: {s34==s23,s51==s45,s23==s12,s45==-s34-s45+s12,s12==-s51+s23-s45}
+is equivalent to 'x1432'
+  permutation: [[1, 4, 3, 2, 5]]  # name: x14325
+                                # rules_momenta: {p2==-p2+p4-p1+p3,p4==p3,p1==-p4,p3==-p2}
+                                # rules_invariants: {s34==s23,s51==-s51+s23-s45,s23==s34-s51-s12,s45==-s23+s45-s12,s12==s45}
+is equivalent to 'x14325'
+  permutation: [[1, 4, 3, 5]]  # name: x1435
+                             # rules_momenta: {p4==p3,p1==-p4,p3==p2-p4+p1-p3}
+                             # rules_invariants: {s34==-s34-s45+s12,s51==-s51+s23-s45,s23==s34-s51-s12,s45==-s23+s45-s12,s12==-s34+s51-s23}
+is equivalent to 'x1435'
+  permutation: [[1, 4, 3, 5, 2]]  # name: x14352
+                                # rules_momenta: {p2==p1,p4==p3,p1==-p4,p3==p2-p4+p1-p3}
+                                # rules_invariants: {s34==-s34-s45+s12,s51==-s34+s51-s23,s23==s51,s45==s23,s12==-s51+s23-s45}
+is equivalent to 'x14352'
+  permutation: [[1, 4, 5]]  # name: x145
+                          # rules_momenta: {p4==p2-p4+p1-p3,p1==-p4}
+                          # rules_invariants: {s34==-s34-s45+s12,s51==-s51+s23-s45,s45==s51,s12==-s34+s51-s23}
+is equivalent to 'x145'
+  permutation: [[1, 4, 5], [2, 3]]  # name: x145x23
+                                  # rules_momenta: {p2==-p3,p4==p2-p4+p1-p3,p1==-p4,p3==-p2}
+                                  # rules_invariants: {s34==s34-s51-s12,s51==-s51+s23-s45,s45==s51,s12==s34}
+is equivalent to 'x145x23'
+  permutation: [[1, 4, 5, 2]]  # name: x1452
+                             # rules_momenta: {p2==p1,p4==p2-p4+p1-p3,p1==-p4}
+                             # rules_invariants: {s34==-s34-s45+s12,s51==-s34+s51-s23,s23==-s23+s45-s12,s45==s34-s51-s12,s12==-s51+s23-s45}
+is equivalent to 'x1452'
+  permutation: [[1, 4, 5, 2, 3]]  # name: x14523
+                                # rules_momenta: {p2==-p3,p4==p2-p4+p1-p3,p1==-p4,p3==-p1}
+                                # rules_invariants: {s34==s51,s51==-s34+s51-s23,s23==-s23+s45-s12,s45==s34-s51-s12,s12==s34}
+is equivalent to 'x14523'
+  permutation: [[1, 4, 5, 3]]  # name: x1453
+                             # rules_momenta: {p4==p2-p4+p1-p3,p1==-p4,p3==-p1}
+                             # rules_invariants: {s34==s51,s51==s34,s23==s12,s45==-s34-s45+s12,s12==-s34+s51-s23}
+is equivalent to 'x1453'
+  permutation: [[1, 4, 5, 3, 2]]  # name: x14532
+                                # rules_momenta: {p2==p1,p4==p2-p4+p1-p3,p1==-p4,p3==-p2}
+                                # rules_invariants: {s34==s34-s51-s12,s51==s34,s23==s12,s45==-s34-s45+s12,s12==-s51+s23-s45}
+is equivalent to 'x14532'
+  permutation: [[1, 5]]  # name: x15
+                       # rules_momenta: {p1==-p2+p4-p1+p3}
+                       # rules_invariants: {s45==-s51+s23-s45,s12==s34-s51-s12}
+is equivalent to 'x15'
+  permutation: [[1, 5], [2, 3]]  # name: x15x23
+                               # rules_momenta: {p2==-p3,p1==-p2+p4-p1+p3,p3==-p2}
+                               # rules_invariants: {s34==-s34+s51-s23,s45==-s51+s23-s45,s12==-s34-s45+s12}
+is equivalent to 'x15x23'
+  permutation: [[1, 5], [2, 3, 4]]  # name: x15x234
+                                  # rules_momenta: {p2==-p3,p4==-p2,p1==-p2+p4-p1+p3,p3==p4}
+                                  # rules_invariants: {s34==-s34+s51-s23,s23==s34,s45==s12,s12==-s34-s45+s12}
+is equivalent to 'x15x234'
+  permutation: [[1, 5], [2, 4]]  # name: x15x24
+                               # rules_momenta: {p2==-p4,p4==-p2,p1==-p2+p4-p1+p3}
+                               # rules_invariants: {s34==s23,s23==s34,s45==s12,s12==s45}
+is equivalent to 'x15x24'
+  permutation: [[1, 5], [2, 4, 3]]  # name: x15x243
+                                  # rules_momenta: {p2==-p4,p4==p3,p1==-p2+p4-p1+p3,p3==-p2}
+                                  # rules_invariants: {s34==s23,s23==-s34+s51-s23,s45==-s23+s45-s12,s12==s45}
+is equivalent to 'x15x243'
+  permutation: [[1, 5], [3, 4]]  # name: x15x34
+                               # rules_momenta: {p4==p3,p1==-p2+p4-p1+p3,p3==p4}
+                               # rules_invariants: {s23==-s34+s51-s23,s45==-s23+s45-s12,s12==s34-s51-s12}
+is equivalent to 'x15x34'
+  permutation: [[1, 5, 2]]  # name: x152
+                          # rules_momenta: {p2==p1,p1==-p2+p4-p1+p3}
+                          # rules_invariants: {s51==s34-s51-s12,s23==-s23+s45-s12,s45==-s34+s51-s23,s12==s51}
+is equivalent to 'x152'
+  permutation: [[1, 5, 2], [3, 4]]  # name: x152x34
+                                  # rules_momenta: {p2==p1,p4==p3,p1==-p2+p4-p1+p3,p3==p4}
+                                  # rules_invariants: {s51==s34-s51-s12,s23==-s51+s23-s45,s45==s23,s12==s51}
+is equivalent to 'x152x34'
+  permutation: [[1, 5, 2, 3]]  # name: x1523
+                             # rules_momenta: {p2==-p3,p1==-p2+p4-p1+p3,p3==-p1}
+                             # rules_invariants: {s34==-s51+s23-s45,s51==s34-s51-s12,s23==-s23+s45-s12,s45==-s34+s51-s23,s12==-s34-s45+s12}
+is equivalent to 'x1523'
+  permutation: [[1, 5, 2, 3, 4]]  # name: x15234
+                                # rules_momenta: {p2==-p3,p4==-p1,p1==-p2+p4-p1+p3,p3==p4}
+                                # rules_invariants: {s34==-s51+s23-s45,s51==s34-s51-s12,s23==s34,s45==s12,s12==-s34-s45+s12}
+is equivalent to 'x15234'
+  permutation: [[1, 5, 2, 4]]  # name: x1524
+                             # rules_momenta: {p2==-p4,p4==-p1,p1==-p2+p4-p1+p3}
+                             # rules_invariants: {s34==-s23+s45-s12,s51==s34-s51-s12,s23==s34,s45==s12,s12==s45}
+is equivalent to 'x1524'
+  permutation: [[1, 5, 2, 4, 3]]  # name: x15243
+                                # rules_momenta: {p2==-p4,p4==p3,p1==-p2+p4-p1+p3,p3==-p1}
+                                # rules_invariants: {s34==-s23+s45-s12,s51==s34-s51-s12,s23==-s51+s23-s45,s45==s23,s12==s45}
+is equivalent to 'x15243'
+  permutation: [[1, 5, 3]]  # name: x153
+                          # rules_momenta: {p1==-p2+p4-p1+p3,p3==-p1}
+                          # rules_invariants: {s34==-s51+s23-s45,s51==-s34-s45+s12,s23==s12,s45==s34,s12==s34-s51-s12}
+is equivalent to 'x153'
+  permutation: [[1, 5, 3], [2, 4]]  # name: x153x24
+                                  # rules_momenta: {p2==-p4,p4==-p2,p1==-p2+p4-p1+p3,p3==-p1}
+                                  # rules_invariants: {s34==s12,s51==-s34-s45+s12,s23==-s51+s23-s45,s45==s23,s12==s45}
+is equivalent to 'x153x24'
+  permutation: [[1, 5, 3, 2]]  # name: x1532
+                             # rules_momenta: {p2==p1,p1==-p2+p4-p1+p3,p3==-p2}
+                             # rules_invariants: {s34==-s34+s51-s23,s51==-s34-s45+s12,s23==s12,s45==s34,s12==s51}
+is equivalent to 'x1532'
+  permutation: [[1, 5, 3, 2, 4]]  # name: x15324
+                                # rules_momenta: {p2==-p4,p4==-p1,p1==-p2+p4-p1+p3,p3==-p2}
+                                # rules_invariants: {s34==s12,s51==-s34-s45+s12,s23==-s34+s51-s23,s45==-s23+s45-s12,s12==s45}
+is equivalent to 'x15324'
+  permutation: [[1, 5, 3, 4]]  # name: x1534
+                             # rules_momenta: {p4==-p1,p1==-p2+p4-p1+p3,p3==p4}
+                             # rules_invariants: {s34==-s51+s23-s45,s51==-s34-s45+s12,s23==-s34+s51-s23,s45==-s23+s45-s12,s12==s34-s51-s12}
+is equivalent to 'x1534'
+  permutation: [[1, 5, 3, 4, 2]]  # name: x15342
+                                # rules_momenta: {p2==p1,p4==-p2,p1==-p2+p4-p1+p3,p3==p4}
+                                # rules_invariants: {s34==-s34+s51-s23,s51==-s34-s45+s12,s23==-s51+s23-s45,s45==s23,s12==s51}
+is equivalent to 'x15342'
+  permutation: [[1, 5, 4]]  # name: x154
+                          # rules_momenta: {p4==-p1,p1==-p2+p4-p1+p3}
+                          # rules_invariants: {s34==-s23+s45-s12,s51==s45,s45==-s51+s23-s45,s12==s34-s51-s12}
+is equivalent to 'x154'
+  permutation: [[1, 5, 4], [2, 3]]  # name: x154x23
+                                  # rules_momenta: {p2==-p3,p4==-p1,p1==-p2+p4-p1+p3,p3==-p2}
+                                  # rules_invariants: {s34==s12,s51==s45,s45==-s51+s23-s45,s12==-s34-s45+s12}
+is equivalent to 'x154x23'
+  permutation: [[1, 5, 4, 2]]  # name: x1542
+                             # rules_momenta: {p2==p1,p4==-p2,p1==-p2+p4-p1+p3}
+                             # rules_invariants: {s34==s23,s51==s45,s23==-s23+s45-s12,s45==-s34+s51-s23,s12==s51}
+is equivalent to 'x1542'
+  permutation: [[1, 5, 4, 2, 3]]  # name: x15423
+                                # rules_momenta: {p2==-p3,p4==-p2,p1==-p2+p4-p1+p3,p3==-p1}
+                                # rules_invariants: {s34==s12,s51==s45,s23==-s23+s45-s12,s45==-s34+s51-s23,s12==-s34-s45+s12}
+is equivalent to 'x15423'
+  permutation: [[1, 5, 4, 3]]  # name: x1543
+                             # rules_momenta: {p4==p3,p1==-p2+p4-p1+p3,p3==-p1}
+                             # rules_invariants: {s34==-s23+s45-s12,s51==s45,s23==s12,s45==s34,s12==s34-s51-s12}
+is equivalent to 'x1543'
+  permutation: [[1, 5, 4, 3, 2]]  # name: x15432
+                                # rules_momenta: {p2==p1,p4==p3,p1==-p2+p4-p1+p3,p3==-p2}
+                                # rules_invariants: {s34==s23,s51==s45,s23==s12,s45==s34,s12==s51}
+is equivalent to 'x15432'
+  permutation: [[2, 3]]  # name: x23
+                       # rules_momenta: {p2==-p3,p3==-p2}
+                       # rules_invariants: {s34==-s34+s51-s23,s12==-s23+s45-s12}
+is equivalent to 'x23'
+  permutation: [[2, 3], [4, 5]]  # name: x23x45
+                               # rules_momenta: {p2==-p3,p4==p2-p4+p1-p3,p3==-p2}
+                               # rules_invariants: {s34==s34-s51-s12,s51==-s51+s23-s45,s12==-s23+s45-s12}
+is equivalent to 'x23x45'
+  permutation: [[2, 3, 4]]  # name: x234
+                          # rules_momenta: {p2==-p3,p4==-p2,p3==p4}
+                          # rules_invariants: {s34==-s34+s51-s23,s23==s34,s45==s34-s51-s12,s12==-s23+s45-s12}
+is equivalent to 'x234'
+  permutation: [[2, 3, 4, 5]]  # name: x2345
+                             # rules_momenta: {p2==-p3,p4==p2-p4+p1-p3,p3==p4}
+                             # rules_invariants: {s34==s45,s51==s12,s23==s34,s45==s34-s51-s12,s12==-s23+s45-s12}
+is equivalent to 'x2345'
+  permutation: [[2, 3, 5]]  # name: x235
+                          # rules_momenta: {p2==-p3,p3==p2-p4+p1-p3}
+                          # rules_invariants: {s34==s45,s51==s12,s23==-s34-s45+s12,s45==-s34+s51-s23,s12==-s23+s45-s12}
+is equivalent to 'x235'
+  permutation: [[2, 3, 5, 4]]  # name: x2354
+                             # rules_momenta: {p2==-p3,p4==-p2,p3==p2-p4+p1-p3}
+                             # rules_invariants: {s34==s34-s51-s12,s51==-s51+s23-s45,s23==-s34-s45+s12,s45==-s34+s51-s23,s12==-s23+s45-s12}
+is equivalent to 'x2354'
+  permutation: [[2, 4]]  # name: x24
+                       # rules_momenta: {p2==-p4,p4==-p2}
+                       # rules_invariants: {s34==s23,s23==s34,s45==s34-s51-s12,s12==-s51+s23-s45}
+is equivalent to 'x24'
+  permutation: [[2, 4], [3, 5]]  # name: x24x35
+                               # rules_momenta: {p2==-p4,p4==-p2,p3==p2-p4+p1-p3}
+                               # rules_invariants: {s34==s34-s51-s12,s51==-s23+s45-s12,s23==s45,s45==s23,s12==-s51+s23-s45}
+is equivalent to 'x24x35'
+  permutation: [[2, 4, 3]]  # name: x243
+                          # rules_momenta: {p2==-p4,p4==p3,p3==-p2}
+                          # rules_invariants: {s34==s23,s23==-s34+s51-s23,s45==-s34-s45+s12,s12==-s51+s23-s45}
+is equivalent to 'x243'
+  permutation: [[2, 4, 3, 5]]  # name: x2435
+                             # rules_momenta: {p2==-p4,p4==p3,p3==p2-p4+p1-p3}
+                             # rules_invariants: {s34==-s34-s45+s12,s51==s12,s23==s45,s45==s23,s12==-s51+s23-s45}
+is equivalent to 'x2435'
+  permutation: [[2, 4, 5]]  # name: x245
+                          # rules_momenta: {p2==-p4,p4==p2-p4+p1-p3}
+                          # rules_invariants: {s34==-s34-s45+s12,s51==s12,s23==s34,s45==s34-s51-s12,s12==-s51+s23-s45}
+is equivalent to 'x245'
+  permutation: [[2, 4, 5, 3]]  # name: x2453
+                             # rules_momenta: {p2==-p4,p4==p2-p4+p1-p3,p3==-p2}
+                             # rules_invariants: {s34==s34-s51-s12,s51==-s23+s45-s12,s23==-s34+s51-s23,s45==-s34-s45+s12,s12==-s51+s23-s45}
+is equivalent to 'x2453'
+  permutation: [[2, 5]]  # name: x25
+                       # rules_momenta: {p2==-p2+p4-p1+p3}
+                       # rules_invariants: {s51==s12,s23==-s34-s45+s12,s45==-s34+s51-s23,s12==s51}
+is equivalent to 'x25'
+  permutation: [[2, 5], [3, 4]]  # name: x25x34
+                               # rules_momenta: {p2==-p2+p4-p1+p3,p4==p3,p3==p4}
+                               # rules_invariants: {s51==s12,s23==s45,s45==s23,s12==s51}
+is equivalent to 'x25x34'
+  permutation: [[2, 5, 3]]  # name: x253
+                          # rules_momenta: {p2==-p2+p4-p1+p3,p3==-p2}
+                          # rules_invariants: {s34==-s34+s51-s23,s51==-s23+s45-s12,s23==s34-s51-s12,s45==s34,s12==s51}
+is equivalent to 'x253'
+  permutation: [[2, 5, 3, 4]]  # name: x2534
+                             # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p2,p3==p4}
+                             # rules_invariants: {s34==-s34+s51-s23,s51==-s23+s45-s12,s23==s45,s45==s23,s12==s51}
+is equivalent to 'x2534'
+  permutation: [[2, 5, 4]]  # name: x254
+                          # rules_momenta: {p2==-p2+p4-p1+p3,p4==-p2}
+                          # rules_invariants: {s34==s23,s51==-s51+s23-s45,s23==-s34-s45+s12,s45==-s34+s51-s23,s12==s51}
+is equivalent to 'x254'
+  permutation: [[2, 5, 4, 3]]  # name: x2543
+                             # rules_momenta: {p2==-p2+p4-p1+p3,p4==p3,p3==-p2}
+                             # rules_invariants: {s34==s23,s51==-s51+s23-s45,s23==s34-s51-s12,s45==s34,s12==s51}
+is equivalent to 'x2543'
+  permutation: [[3, 4]]  # name: x34
+                       # rules_momenta: {p4==p3,p3==p4}
+                       # rules_invariants: {s23==-s34+s51-s23,s45==-s34-s45+s12}
+is equivalent to 'x34'
+  permutation: [[3, 4, 5]]  # name: x345
+                          # rules_momenta: {p4==p2-p4+p1-p3,p3==p4}
+                          # rules_invariants: {s34==s45,s51==-s23+s45-s12,s23==-s34+s51-s23,s45==-s34-s45+s12}
+is equivalent to 'x345'
+  permutation: [[3, 5]]  # name: x35
+                       # rules_momenta: {p3==p2-p4+p1-p3}
+                       # rules_invariants: {s34==s45,s51==-s23+s45-s12,s23==s34-s51-s12,s45==s34}
+is equivalent to 'x35'
+  permutation: [[3, 5, 4]]  # name: x354
+                          # rules_momenta: {p4==p3,p3==p2-p4+p1-p3}
+                          # rules_invariants: {s34==-s34-s45+s12,s51==-s51+s23-s45,s23==s34-s51-s12,s45==s34}
+is equivalent to 'x354'
+  permutation: [[4, 5]]  # name: x45
+                       # rules_momenta: {p4==p2-p4+p1-p3}
+                       # rules_invariants: {s34==-s34-s45+s12,s51==-s51+s23-s45}
+is equivalent to 'x45'
+
+Integral family 'pentagon1':
+name: pentagon1
+loop_momenta: [k1]
+propagators:
+  - {standard: [k1, 0]}
+  - {standard: [k1+p1, 0]}
+  - {standard: [k1+p2+p1, 0]}
+  - {standard: [k1+p2+p1-p3, 0]}
+  - {standard: [k1+p2-p4+p1-p3, 0]}
+cut_propagators: []
+permutation_symmetries:
+  []
+kinematics: ""
+
+Cut propagators form sector with id 0
+
+Rules scalar products to propagators:
+{SP(k1,p3)==1/2*Prop(k1+p2+p1,0)^(-1)+1/2*s45-1/2*Prop(k1+p2+p1-p3,0)^(-1)-1/2*s12,SP(k1,p4)==-1/2*s45-1/2*Prop(k1+p2-p4+p1-p3,0)^(-1)+1/2*Prop(k1+p2+p1-p3,0)^(-1),SP(k1,p1)==1/2*Prop(k1+p1,0)^(-1)-1/2*Prop(k1,0)^(-1),SP(k1,p2)==-1/2*Prop(k1+p1,0)^(-1)+1/2*Prop(k1+p2+p1,0)^(-1)-1/2*s12,SP(k1,k1)==Prop(k1,0)^(-1)}
+
+Maximal sector id is 31.
+32 sectors occur in total
+Finding non-equivalent sectors using permutation symmetries:
+
+Non-equivalent sectors:
+t = 0:
+0
+t = 1:
+1, 2, 4, 8, 16
+t = 2:
+3, 5, 6, 9, 10, 12, 17, 18, 20, 24
+t = 3:
+7, 11, 13, 14, 19, 21, 22, 25, 26, 28
+t = 4:
+15, 23, 27, 29, 30
+t = 5:
+31
+
+32 non-equivalent sectors were found
+Finding representing graphs of sectors (twists off / construct minimal on):
+  finding graphs
+  ..................................................  **************************************************
+Found 31 graphs
+Printing all graphs from sectors in ./graphs/pentagon1/all/:
+
+Sectors without a graph:
+
+Finding canonical labels:
+  canonical labels:
+  ..................................................  **************************************************
+Finding sector shifts:
+  sector shifts:
+  ..................................................
+  **
+Finding shift for sector (pentagon1:1:1)
+No shift found for sector (pentagon1:1:1)
+*
+Finding shift for sector (pentagon1:1:2)
+Found shift from (pentagon1:1:2) to (pentagon1:1:1)
+**
+Finding shift for sector (pentagon1:1:4)
+Found shift from (pentagon1:1:4) to (pentagon1:1:1)
+*
+Finding shift for sector (pentagon1:1:8)
+Found shift from (pentagon1:1:8) to (pentagon1:1:1)
+**
+Finding shift for sector (pentagon1:1:16)
+Found shift from (pentagon1:1:16) to (pentagon1:1:1)
+**
+Finding shift for sector (pentagon1:2:3)
+No shift found for sector (pentagon1:2:3)
+*
+Finding shift for sector (pentagon1:2:5)
+No shift found for sector (pentagon1:2:5)
+**
+Finding shift for sector (pentagon1:2:6)
+Found shift from (pentagon1:2:6) to (pentagon1x12:2:3)
+**
+Finding shift for sector (pentagon1:2:9)
+Found shift from (pentagon1:2:9) to (pentagon1x14x25:2:5)
+*
+Finding shift for sector (pentagon1:2:10)
+Found shift from (pentagon1:2:10) to (pentagon1x123:2:5)
+**
+Finding shift for sector (pentagon1:2:12)
+Found shift from (pentagon1:2:12) to (pentagon1x13:2:3)
+*
+Finding shift for sector (pentagon1:2:17)
+Found shift from (pentagon1:2:17) to (pentagon1x15:2:3)
+**
+Finding shift for sector (pentagon1:2:18)
+Found shift from (pentagon1:2:18) to (pentagon1x152:2:5)
+**
+Finding shift for sector (pentagon1:2:20)
+Found shift from (pentagon1:2:20) to (pentagon1x13x24:2:5)
+*
+Finding shift for sector (pentagon1:2:24)
+Found shift from (pentagon1:2:24) to (pentagon1x14:2:3)
+**
+Finding shift for sector (pentagon1:3:7)
+No shift found for sector (pentagon1:3:7)
+*
+Finding shift for sector (pentagon1:3:11)
+No shift found for sector (pentagon1:3:11)
+**
+Finding shift for sector (pentagon1:3:13)
+Found shift from (pentagon1:3:13) to (pentagon1x13:3:11)
+**
+Finding shift for sector (pentagon1:3:14)
+Found shift from (pentagon1:3:14) to (pentagon1x123:3:7)
+*
+Finding shift for sector (pentagon1:3:19)
+Found shift from (pentagon1:3:19) to (pentagon1x152:3:7)
+**
+Finding shift for sector (pentagon1:3:21)
+Found shift from (pentagon1:3:21) to (pentagon1x15x234:3:11)
+*
+Finding shift for sector (pentagon1:3:22)
+Found shift from (pentagon1:3:22) to (pentagon1x12x35:3:11)
+**
+Finding shift for sector (pentagon1:3:25)
+Found shift from (pentagon1:3:25) to (pentagon1x14x25:3:7)
+**
+Finding shift for sector (pentagon1:3:26)
+Found shift from (pentagon1:3:26) to (pentagon1x14:3:11)
+*
+Finding shift for sector (pentagon1:3:28)
+Found shift from (pentagon1:3:28) to (pentagon1x13x24:3:7)
+**
+Finding shift for sector (pentagon1:4:15)
+No shift found for sector (pentagon1:4:15)
+**
+Finding shift for sector (pentagon1:4:23)
+Found shift from (pentagon1:4:23) to (pentagon1x12x35:4:15)
+*
+Finding shift for sector (pentagon1:4:27)
+Found shift from (pentagon1:4:27) to (pentagon1x14253:4:15)
+**
+Finding shift for sector (pentagon1:4:29)
+Found shift from (pentagon1:4:29) to (pentagon1x135x24:4:15)
+*
+Finding shift for sector (pentagon1:4:30)
+Found shift from (pentagon1:4:30) to (pentagon1x1234:4:15)
+**
+Finding shift for sector (pentagon1:5:31)
+No shift found for sector (pentagon1:5:31)
+
+Found 24 new shifts to lower sectors
+Found 7 shift target sectors.
+  shift targets contain 7 different graph(s)
+Finding zero sectors of sectors with a graph:
+Loaded only default generic IBP and LI identities
+   t = 1:	0
+   t = 2:	0x
+   t = 3:	xx
+   t = 4:	x
+   t = 5:	x
+Found 11 zero sectors (isomorphics included).
+
+Non-vanishing shift targets:
+t = 2:
+5
+t = 3:
+7, 11
+t = 4:
+15
+t = 5:
+31
+
+Found 5 non-vanishing shift target sectors
+  non-vanishing shift targets contain 5 different graph(s)
+Finding symmetry shift relations:
+  finding symmetry shifts
+  ..................................................
+Finding symmetry shifts for sector (pentagon1:1:1) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon1_1_1:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon1_1_1_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon1:1:1)
+  *******
+Finding symmetry shifts for sector (pentagon1:2:3) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon1_2_3:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon1_2_3_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 2 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 1 symmetry shifts (permutations of multi-edges performed)
+Found 1 symmetry shifts
+Found 1 symmetry shifts for sector (pentagon1:2:3)
+*******
+Finding symmetry shifts for sector (pentagon1:2:5) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon1_2_5:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon1_2_5_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 2 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 1 symmetry shifts (permutations of multi-edges performed)
+Found 1 symmetry shifts
+Found 1 symmetry shifts for sector (pentagon1:2:5)
+*******
+Finding symmetry shifts for sector (pentagon1:3:7) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon1_3_7:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon1_3_7_twisted1:
+  Found 12 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  omitting crossing: {p4==p2-p4+p1-p3} (not equivalent to identity crossing)
+  omitting crossing: {p4==p3,p3==p4} (not equivalent to identity crossing)
+  omitting crossing: {p4==p3,p3==p2-p4+p1-p3} (not equivalent to identity crossing)
+  omitting crossing: {p4==p2-p4+p1-p3,p3==p4} (not equivalent to identity crossing)
+  omitting crossing: {p3==p2-p4+p1-p3} (not equivalent to identity crossing)
+  omitting crossing: {p2==p1,p1==p2} (not equivalent to identity crossing)
+  omitting crossing: {p2==p1,p4==p2-p4+p1-p3,p1==p2} (not equivalent to identity crossing)
+  omitting crossing: {p2==p1,p4==p3,p1==p2,p3==p4} (not equivalent to identity crossing)
+  omitting crossing: {p2==p1,p4==p3,p1==p2,p3==p2-p4+p1-p3} (not equivalent to identity crossing)
+  omitting crossing: {p2==p1,p4==p2-p4+p1-p3,p1==p2,p3==p4} (not equivalent to identity crossing)
+  omitting crossing: {p2==p1,p1==p2,p3==p2-p4+p1-p3} (not equivalent to identity crossing)
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon1:3:7)
+********
+Finding symmetry shifts for sector (pentagon1:3:11) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon1_3_11:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon1_3_11_twisted1:
+  Found 8 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  omitting crossing: {p2==-p3,p3==-p2} (not equivalent to identity crossing)
+  omitting crossing: {p4==p2-p4+p1-p3} (not equivalent to identity crossing)
+  omitting crossing: {p2==-p3,p4==p2-p4+p1-p3,p3==-p2} (not equivalent to identity crossing)
+  omitting crossing: {p2==-p4,p4==-p2,p3==p2-p4+p1-p3} (not equivalent to identity crossing)
+  omitting crossing: {p2==-p4,p4==p3,p3==p2-p4+p1-p3} (not equivalent to identity crossing)
+  omitting crossing: {p2==-p2+p4-p1+p3,p4==-p2,p3==p4} (not equivalent to identity crossing)
+  omitting crossing: {p2==-p2+p4-p1+p3,p4==p3,p3==p4} (not equivalent to identity crossing)
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon1:3:11)
+*******
+Finding symmetry shifts for sector (pentagon1:4:15) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon1_4_15:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon1_4_15_twisted1:
+  Found 4 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  omitting crossing: {p4==p2-p4+p1-p3} (not equivalent to identity crossing)
+  omitting crossing: {p1==-p3,p3==-p1} (not equivalent to identity crossing)
+  omitting crossing: {p4==p2-p4+p1-p3,p1==-p3,p3==-p1} (not equivalent to identity crossing)
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon1:4:15)
+*******
+Finding symmetry shifts for sector (pentagon1:5:31) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon1_5_31:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon1_5_31_twisted1:
+  Found 10 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  omitting crossing: {p2==p1,p1==p2,p3==p2-p4+p1-p3} (not equivalent to identity crossing)
+  omitting crossing: {p2==-p3,p4==p2-p4+p1-p3,p1==p2,p3==p4} (not equivalent to identity crossing)
+  omitting crossing: {p2==-p2+p4-p1+p3,p4==p3,p3==p4} (not equivalent to identity crossing)
+  omitting crossing: {p2==-p4,p4==-p2,p1==-p2+p4-p1+p3} (not equivalent to identity crossing)
+  omitting crossing: {p2==-p4,p4==-p1,p1==-p3,p3==p2-p4+p1-p3} (not equivalent to identity crossing)
+  omitting crossing: {p2==-p2+p4-p1+p3,p4==-p2,p1==-p4,p3==-p1} (not equivalent to identity crossing)
+  omitting crossing: {p2==-p3,p4==-p1,p1==-p4,p3==-p2} (not equivalent to identity crossing)
+  omitting crossing: {p2==p1,p4==p3,p1==-p2+p4-p1+p3,p3==-p2} (not equivalent to identity crossing)
+  omitting crossing: {p4==p2-p4+p1-p3,p1==-p3,p3==-p1} (not equivalent to identity crossing)
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon1:5:31)
+*******
+Finding crossed sector relations for non-zero shift targets
+  crossed relations:
+  ..................................................Found shift from (pentagon1x12:1:1) to (pentagon1:1:1)
+(pentagon1x12:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x12x34:1:1) to (pentagon1:1:1)
+(pentagon1x12x34:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x12x345:1:1) to (pentagon1:1:1)
+(pentagon1x12x345:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x12x35:1:1) to (pentagon1:1:1)
+(pentagon1x12x35:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x12x354:1:1) to (pentagon1:1:1)
+(pentagon1x12x354:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x12x45:1:1) to (pentagon1:1:1)
+(pentagon1x12x45:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x123:1:1) to (pentagon1:1:1)
+(pentagon1x123:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x123x45:1:1) to (pentagon1:1:1)
+(pentagon1x123x45:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1234:1:1) to (pentagon1:1:1)
+(pentagon1x1234:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x12345:1:1) to (pentagon1:1:1)
+(pentagon1x12345:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1235:1:1) to (pentagon1:1:1)
+(pentagon1x1235:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x12354:1:1) to (pentagon1:1:1)
+(pentagon1x12354:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x124:1:1) to (pentagon1:1:1)
+(pentagon1x124:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x124x35:1:1) to (pentagon1:1:1)
+(pentagon1x124x35:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1243:1:1) to (pentagon1:1:1)
+(pentagon1x1243:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x12435:1:1) to (pentagon1:1:1)
+(pentagon1x12435:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1245:1:1) to (pentagon1:1:1)
+(pentagon1x1245:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x12453:1:1) to (pentagon1:1:1)
+(pentagon1x12453:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x125:1:1) to (pentagon1:1:1)
+(pentagon1x125:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x125x34:1:1) to (pentagon1:1:1)
+(pentagon1x125x34:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1253:1:1) to (pentagon1:1:1)
+(pentagon1x1253:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x12534:1:1) to (pentagon1:1:1)
+(pentagon1x12534:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1254:1:1) to (pentagon1:1:1)
+(pentagon1x1254:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x12543:1:1) to (pentagon1:1:1)
+(pentagon1x12543:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x13:1:1) to (pentagon1:1:1)
+(pentagon1x13:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x13x24:1:1) to (pentagon1:1:1)
+(pentagon1x13x24:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x13x245:1:1) to (pentagon1:1:1)
+(pentagon1x13x245:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x13x25:1:1) to (pentagon1:1:1)
+(pentagon1x13x25:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x13x254:1:1) to (pentagon1:1:1)
+(pentagon1x13x254:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x13x45:1:1) to (pentagon1:1:1)
+(pentagon1x13x45:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x132:1:1) to (pentagon1:1:1)
+(pentagon1x132:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x132x45:1:1) to (pentagon1:1:1)
+(pentagon1x132x45:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1324:1:1) to (pentagon1:1:1)
+(pentagon1x1324:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x13245:1:1) to (pentagon1:1:1)
+(pentagon1x13245:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1325:1:1) to (pentagon1:1:1)
+(pentagon1x1325:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x13254:1:1) to (pentagon1:1:1)
+(pentagon1x13254:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x134:1:1) to (pentagon1:1:1)
+(pentagon1x134:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x134x25:1:1) to (pentagon1:1:1)
+(pentagon1x134x25:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1342:1:1) to (pentagon1:1:1)
+(pentagon1x1342:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x13425:1:1) to (pentagon1:1:1)
+(pentagon1x13425:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1345:1:1) to (pentagon1:1:1)
+(pentagon1x1345:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x13452:1:1) to (pentagon1:1:1)
+(pentagon1x13452:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x135:1:1) to (pentagon1:1:1)
+(pentagon1x135:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x135x24:1:1) to (pentagon1:1:1)
+(pentagon1x135x24:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1352:1:1) to (pentagon1:1:1)
+(pentagon1x1352:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x13524:1:1) to (pentagon1:1:1)
+(pentagon1x13524:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1354:1:1) to (pentagon1:1:1)
+(pentagon1x1354:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x13542:1:1) to (pentagon1:1:1)
+(pentagon1x13542:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x14:1:1) to (pentagon1:1:1)
+(pentagon1x14:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x14x23:1:1) to (pentagon1:1:1)
+(pentagon1x14x23:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x14x235:1:1) to (pentagon1:1:1)
+(pentagon1x14x235:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x14x25:1:1) to (pentagon1:1:1)
+(pentagon1x14x25:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x14x253:1:1) to (pentagon1:1:1)
+(pentagon1x14x253:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x14x35:1:1) to (pentagon1:1:1)
+(pentagon1x14x35:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x142:1:1) to (pentagon1:1:1)
+(pentagon1x142:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x142x35:1:1) to (pentagon1:1:1)
+(pentagon1x142x35:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1423:1:1) to (pentagon1:1:1)
+(pentagon1x1423:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x14235:1:1) to (pentagon1:1:1)
+(pentagon1x14235:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1425:1:1) to (pentagon1:1:1)
+(pentagon1x1425:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x14253:1:1) to (pentagon1:1:1)
+(pentagon1x14253:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x143:1:1) to (pentagon1:1:1)
+(pentagon1x143:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x143x25:1:1) to (pentagon1:1:1)
+(pentagon1x143x25:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1432:1:1) to (pentagon1:1:1)
+(pentagon1x1432:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x14325:1:1) to (pentagon1:1:1)
+(pentagon1x14325:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1435:1:1) to (pentagon1:1:1)
+(pentagon1x1435:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x14352:1:1) to (pentagon1:1:1)
+(pentagon1x14352:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x145:1:1) to (pentagon1:1:1)
+(pentagon1x145:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x145x23:1:1) to (pentagon1:1:1)
+(pentagon1x145x23:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1452:1:1) to (pentagon1:1:1)
+(pentagon1x1452:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x14523:1:1) to (pentagon1:1:1)
+(pentagon1x14523:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1453:1:1) to (pentagon1:1:1)
+(pentagon1x1453:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x14532:1:1) to (pentagon1:1:1)
+(pentagon1x14532:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x15:1:1) to (pentagon1:1:1)
+(pentagon1x15:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x15x23:1:1) to (pentagon1:1:1)
+(pentagon1x15x23:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x15x234:1:1) to (pentagon1:1:1)
+(pentagon1x15x234:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x15x24:1:1) to (pentagon1:1:1)
+(pentagon1x15x24:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x15x243:1:1) to (pentagon1:1:1)
+(pentagon1x15x243:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x15x34:1:1) to (pentagon1:1:1)
+(pentagon1x15x34:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x152:1:1) to (pentagon1:1:1)
+(pentagon1x152:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x152x34:1:1) to (pentagon1:1:1)
+(pentagon1x152x34:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1523:1:1) to (pentagon1:1:1)
+(pentagon1x1523:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x15234:1:1) to (pentagon1:1:1)
+(pentagon1x15234:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1524:1:1) to (pentagon1:1:1)
+(pentagon1x1524:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x15243:1:1) to (pentagon1:1:1)
+(pentagon1x15243:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x153:1:1) to (pentagon1:1:1)
+(pentagon1x153:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x153x24:1:1) to (pentagon1:1:1)
+(pentagon1x153x24:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1532:1:1) to (pentagon1:1:1)
+(pentagon1x1532:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x15324:1:1) to (pentagon1:1:1)
+(pentagon1x15324:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1534:1:1) to (pentagon1:1:1)
+(pentagon1x1534:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x15342:1:1) to (pentagon1:1:1)
+(pentagon1x15342:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x154:1:1) to (pentagon1:1:1)
+(pentagon1x154:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x154x23:1:1) to (pentagon1:1:1)
+(pentagon1x154x23:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1542:1:1) to (pentagon1:1:1)
+(pentagon1x1542:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x15423:1:1) to (pentagon1:1:1)
+(pentagon1x15423:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x1543:1:1) to (pentagon1:1:1)
+(pentagon1x1543:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x15432:1:1) to (pentagon1:1:1)
+(pentagon1x15432:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x23:1:1) to (pentagon1:1:1)
+(pentagon1x23:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x23x45:1:1) to (pentagon1:1:1)
+(pentagon1x23x45:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x234:1:1) to (pentagon1:1:1)
+(pentagon1x234:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x2345:1:1) to (pentagon1:1:1)
+(pentagon1x2345:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x235:1:1) to (pentagon1:1:1)
+(pentagon1x235:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x2354:1:1) to (pentagon1:1:1)
+(pentagon1x2354:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x24:1:1) to (pentagon1:1:1)
+(pentagon1x24:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x24x35:1:1) to (pentagon1:1:1)
+(pentagon1x24x35:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x243:1:1) to (pentagon1:1:1)
+(pentagon1x243:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x2435:1:1) to (pentagon1:1:1)
+(pentagon1x2435:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x245:1:1) to (pentagon1:1:1)
+(pentagon1x245:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x2453:1:1) to (pentagon1:1:1)
+(pentagon1x2453:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x25:1:1) to (pentagon1:1:1)
+(pentagon1x25:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x25x34:1:1) to (pentagon1:1:1)
+(pentagon1x25x34:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x253:1:1) to (pentagon1:1:1)
+(pentagon1x253:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x2534:1:1) to (pentagon1:1:1)
+(pentagon1x2534:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x254:1:1) to (pentagon1:1:1)
+(pentagon1x254:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x2543:1:1) to (pentagon1:1:1)
+(pentagon1x2543:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x34:1:1) to (pentagon1:1:1)
+(pentagon1x34:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x345:1:1) to (pentagon1:1:1)
+(pentagon1x345:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x35:1:1) to (pentagon1:1:1)
+(pentagon1x35:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x354:1:1) to (pentagon1:1:1)
+(pentagon1x354:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+Found shift from (pentagon1x45:1:1) to (pentagon1:1:1)
+(pentagon1x45:1:1)=>(pentagon1:1:1): (pentagon1:1:1)
+  *******Found shift from (pentagon1x12x34:2:3) to (pentagon1x12:2:3)
+(pentagon1x12x34:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x12x345:2:3) to (pentagon1x12:2:3)
+(pentagon1x12x345:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x12x35:2:3) to (pentagon1x12:2:3)
+(pentagon1x12x35:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x12x354:2:3) to (pentagon1x12:2:3)
+(pentagon1x12x354:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x12x45:2:3) to (pentagon1x12:2:3)
+(pentagon1x12x45:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x123:2:3) to (pentagon1x12:2:3)
+(pentagon1x123:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x123x45:2:3) to (pentagon1x12:2:3)
+(pentagon1x123x45:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x1234:2:3) to (pentagon1x12:2:3)
+(pentagon1x1234:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x12345:2:3) to (pentagon1x12:2:3)
+(pentagon1x12345:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x1235:2:3) to (pentagon1x12:2:3)
+(pentagon1x1235:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x12354:2:3) to (pentagon1x12:2:3)
+(pentagon1x12354:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x124:2:3) to (pentagon1x12:2:3)
+(pentagon1x124:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x124x35:2:3) to (pentagon1x12:2:3)
+(pentagon1x124x35:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x1243:2:3) to (pentagon1x12:2:3)
+(pentagon1x1243:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x12435:2:3) to (pentagon1x12:2:3)
+(pentagon1x12435:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x1245:2:3) to (pentagon1x12:2:3)
+(pentagon1x1245:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x12453:2:3) to (pentagon1x12:2:3)
+(pentagon1x12453:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x125:2:3) to (pentagon1x12:2:3)
+(pentagon1x125:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x125x34:2:3) to (pentagon1x12:2:3)
+(pentagon1x125x34:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x1253:2:3) to (pentagon1x12:2:3)
+(pentagon1x1253:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x12534:2:3) to (pentagon1x12:2:3)
+(pentagon1x12534:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x1254:2:3) to (pentagon1x12:2:3)
+(pentagon1x1254:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x12543:2:3) to (pentagon1x12:2:3)
+(pentagon1x12543:2:3)=>(pentagon1:2:3): (pentagon1x12:2:3)
+Found shift from (pentagon1x13x24:2:3) to (pentagon1x13:2:3)
+(pentagon1x13x24:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x13x245:2:3) to (pentagon1x13:2:3)
+(pentagon1x13x245:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x13x25:2:3) to (pentagon1x13:2:3)
+(pentagon1x13x25:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x13x254:2:3) to (pentagon1x13:2:3)
+(pentagon1x13x254:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x13x45:2:3) to (pentagon1x13:2:3)
+(pentagon1x13x45:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x132:2:3) to (pentagon1x13:2:3)
+(pentagon1x132:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x132x45:2:3) to (pentagon1x13:2:3)
+(pentagon1x132x45:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x1324:2:3) to (pentagon1x13:2:3)
+(pentagon1x1324:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x13245:2:3) to (pentagon1x13:2:3)
+(pentagon1x13245:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x1325:2:3) to (pentagon1x13:2:3)
+(pentagon1x1325:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x13254:2:3) to (pentagon1x13:2:3)
+(pentagon1x13254:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x134:2:3) to (pentagon1x13:2:3)
+(pentagon1x134:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x134x25:2:3) to (pentagon1x13:2:3)
+(pentagon1x134x25:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x1342:2:3) to (pentagon1x13:2:3)
+(pentagon1x1342:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x13425:2:3) to (pentagon1x13:2:3)
+(pentagon1x13425:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x1345:2:3) to (pentagon1x13:2:3)
+(pentagon1x1345:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x13452:2:3) to (pentagon1x13:2:3)
+(pentagon1x13452:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x135:2:3) to (pentagon1x13:2:3)
+(pentagon1x135:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x135x24:2:3) to (pentagon1x13:2:3)
+(pentagon1x135x24:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x1352:2:3) to (pentagon1x13:2:3)
+(pentagon1x1352:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x13524:2:3) to (pentagon1x13:2:3)
+(pentagon1x13524:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x1354:2:3) to (pentagon1x13:2:3)
+(pentagon1x1354:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x13542:2:3) to (pentagon1x13:2:3)
+(pentagon1x13542:2:3)=>(pentagon1:2:3): (pentagon1x13:2:3)
+Found shift from (pentagon1x14x23:2:3) to (pentagon1x14:2:3)
+(pentagon1x14x23:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x14x235:2:3) to (pentagon1x14:2:3)
+(pentagon1x14x235:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x14x25:2:3) to (pentagon1x14:2:3)
+(pentagon1x14x25:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x14x253:2:3) to (pentagon1x14:2:3)
+(pentagon1x14x253:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x14x35:2:3) to (pentagon1x14:2:3)
+(pentagon1x14x35:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x142:2:3) to (pentagon1x14:2:3)
+(pentagon1x142:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x142x35:2:3) to (pentagon1x14:2:3)
+(pentagon1x142x35:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x1423:2:3) to (pentagon1x14:2:3)
+(pentagon1x1423:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x14235:2:3) to (pentagon1x14:2:3)
+(pentagon1x14235:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x1425:2:3) to (pentagon1x14:2:3)
+(pentagon1x1425:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x14253:2:3) to (pentagon1x14:2:3)
+(pentagon1x14253:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x143:2:3) to (pentagon1x14:2:3)
+(pentagon1x143:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x143x25:2:3) to (pentagon1x14:2:3)
+(pentagon1x143x25:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x1432:2:3) to (pentagon1x14:2:3)
+(pentagon1x1432:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x14325:2:3) to (pentagon1x14:2:3)
+(pentagon1x14325:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x1435:2:3) to (pentagon1x14:2:3)
+(pentagon1x1435:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x14352:2:3) to (pentagon1x14:2:3)
+(pentagon1x14352:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x145:2:3) to (pentagon1x14:2:3)
+(pentagon1x145:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x145x23:2:3) to (pentagon1x14:2:3)
+(pentagon1x145x23:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x1452:2:3) to (pentagon1x14:2:3)
+(pentagon1x1452:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x14523:2:3) to (pentagon1x14:2:3)
+(pentagon1x14523:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x1453:2:3) to (pentagon1x14:2:3)
+(pentagon1x1453:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x14532:2:3) to (pentagon1x14:2:3)
+(pentagon1x14532:2:3)=>(pentagon1:2:3): (pentagon1x14:2:3)
+Found shift from (pentagon1x15x23:2:3) to (pentagon1x15:2:3)
+(pentagon1x15x23:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x15x234:2:3) to (pentagon1x15:2:3)
+(pentagon1x15x234:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x15x24:2:3) to (pentagon1x15:2:3)
+(pentagon1x15x24:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x15x243:2:3) to (pentagon1x15:2:3)
+(pentagon1x15x243:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x15x34:2:3) to (pentagon1x15:2:3)
+(pentagon1x15x34:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x152:2:3) to (pentagon1x15:2:3)
+(pentagon1x152:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x152x34:2:3) to (pentagon1x15:2:3)
+(pentagon1x152x34:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x1523:2:3) to (pentagon1x15:2:3)
+(pentagon1x1523:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x15234:2:3) to (pentagon1x15:2:3)
+(pentagon1x15234:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x1524:2:3) to (pentagon1x15:2:3)
+(pentagon1x1524:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x15243:2:3) to (pentagon1x15:2:3)
+(pentagon1x15243:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x153:2:3) to (pentagon1x15:2:3)
+(pentagon1x153:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x153x24:2:3) to (pentagon1x15:2:3)
+(pentagon1x153x24:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x1532:2:3) to (pentagon1x15:2:3)
+(pentagon1x1532:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x15324:2:3) to (pentagon1x15:2:3)
+(pentagon1x15324:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x1534:2:3) to (pentagon1x15:2:3)
+(pentagon1x1534:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x15342:2:3) to (pentagon1x15:2:3)
+(pentagon1x15342:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x154:2:3) to (pentagon1x15:2:3)
+(pentagon1x154:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x154x23:2:3) to (pentagon1x15:2:3)
+(pentagon1x154x23:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x1542:2:3) to (pentagon1x15:2:3)
+(pentagon1x1542:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x15423:2:3) to (pentagon1x15:2:3)
+(pentagon1x15423:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x1543:2:3) to (pentagon1x15:2:3)
+(pentagon1x1543:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x15432:2:3) to (pentagon1x15:2:3)
+(pentagon1x15432:2:3)=>(pentagon1:2:3): (pentagon1x15:2:3)
+Found shift from (pentagon1x23:2:3) to (pentagon1:2:3)
+(pentagon1x23:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x23x45:2:3) to (pentagon1:2:3)
+(pentagon1x23x45:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x234:2:3) to (pentagon1:2:3)
+(pentagon1x234:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x2345:2:3) to (pentagon1:2:3)
+(pentagon1x2345:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x235:2:3) to (pentagon1:2:3)
+(pentagon1x235:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x2354:2:3) to (pentagon1:2:3)
+(pentagon1x2354:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x24:2:3) to (pentagon1:2:3)
+(pentagon1x24:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x24x35:2:3) to (pentagon1:2:3)
+(pentagon1x24x35:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x243:2:3) to (pentagon1:2:3)
+(pentagon1x243:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x2435:2:3) to (pentagon1:2:3)
+(pentagon1x2435:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x245:2:3) to (pentagon1:2:3)
+(pentagon1x245:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x2453:2:3) to (pentagon1:2:3)
+(pentagon1x2453:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x25:2:3) to (pentagon1:2:3)
+(pentagon1x25:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x25x34:2:3) to (pentagon1:2:3)
+(pentagon1x25x34:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x253:2:3) to (pentagon1:2:3)
+(pentagon1x253:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x2534:2:3) to (pentagon1:2:3)
+(pentagon1x2534:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x254:2:3) to (pentagon1:2:3)
+(pentagon1x254:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x2543:2:3) to (pentagon1:2:3)
+(pentagon1x2543:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x34:2:3) to (pentagon1:2:3)
+(pentagon1x34:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x345:2:3) to (pentagon1:2:3)
+(pentagon1x345:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x35:2:3) to (pentagon1:2:3)
+(pentagon1x35:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x354:2:3) to (pentagon1:2:3)
+(pentagon1x354:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+Found shift from (pentagon1x45:2:3) to (pentagon1:2:3)
+(pentagon1x45:2:3)=>(pentagon1:2:3): (pentagon1:2:3)
+*******Found shift from (pentagon1x12:2:5) to (pentagon1:2:5)
+(pentagon1x12:2:5)=>(pentagon1:2:5): (pentagon1:2:5)
+Found shift from (pentagon1x12x34:2:5) to (pentagon1:2:5)
+(pentagon1x12x34:2:5)=>(pentagon1:2:5): (pentagon1:2:5)
+Found shift from (pentagon1x12x345:2:5) to (pentagon1:2:5)
+(pentagon1x12x345:2:5)=>(pentagon1:2:5): (pentagon1:2:5)
+Found shift from (pentagon1x12x35:2:5) to (pentagon1:2:5)
+(pentagon1x12x35:2:5)=>(pentagon1:2:5): (pentagon1:2:5)
+Found shift from (pentagon1x12x354:2:5) to (pentagon1:2:5)
+(pentagon1x12x354:2:5)=>(pentagon1:2:5): (pentagon1:2:5)
+Found shift from (pentagon1x12x45:2:5) to (pentagon1:2:5)
+(pentagon1x12x45:2:5)=>(pentagon1:2:5): (pentagon1:2:5)
+Found shift from (pentagon1x123x45:2:5) to (pentagon1x123:2:5)
+(pentagon1x123x45:2:5)=>(pentagon1:2:5): (pentagon1x123:2:5)
+Found shift from (pentagon1x1234:2:5) to (pentagon1x123:2:5)
+(pentagon1x1234:2:5)=>(pentagon1:2:5): (pentagon1x123:2:5)
+Found shift from (pentagon1x12345:2:5) to (pentagon1x123:2:5)
+(pentagon1x12345:2:5)=>(pentagon1:2:5): (pentagon1x123:2:5)
+Found shift from (pentagon1x1235:2:5) to (pentagon1x123:2:5)
+(pentagon1x1235:2:5)=>(pentagon1:2:5): (pentagon1x123:2:5)
+Found shift from (pentagon1x12354:2:5) to (pentagon1x123:2:5)
+(pentagon1x12354:2:5)=>(pentagon1:2:5): (pentagon1x123:2:5)
+Found shift from (pentagon1x124x35:2:5) to (pentagon1x124:2:5)
+(pentagon1x124x35:2:5)=>(pentagon1:2:5): (pentagon1x124:2:5)
+Found shift from (pentagon1x1243:2:5) to (pentagon1x124:2:5)
+(pentagon1x1243:2:5)=>(pentagon1:2:5): (pentagon1x124:2:5)
+Found shift from (pentagon1x12435:2:5) to (pentagon1x124:2:5)
+(pentagon1x12435:2:5)=>(pentagon1:2:5): (pentagon1x124:2:5)
+Found shift from (pentagon1x1245:2:5) to (pentagon1x124:2:5)
+(pentagon1x1245:2:5)=>(pentagon1:2:5): (pentagon1x124:2:5)
+Found shift from (pentagon1x12453:2:5) to (pentagon1x124:2:5)
+(pentagon1x12453:2:5)=>(pentagon1:2:5): (pentagon1x124:2:5)
+Found shift from (pentagon1x125x34:2:5) to (pentagon1x125:2:5)
+(pentagon1x125x34:2:5)=>(pentagon1:2:5): (pentagon1x125:2:5)
+Found shift from (pentagon1x1253:2:5) to (pentagon1x125:2:5)
+(pentagon1x1253:2:5)=>(pentagon1:2:5): (pentagon1x125:2:5)
+Found shift from (pentagon1x12534:2:5) to (pentagon1x125:2:5)
+(pentagon1x12534:2:5)=>(pentagon1:2:5): (pentagon1x125:2:5)
+Found shift from (pentagon1x1254:2:5) to (pentagon1x125:2:5)
+(pentagon1x1254:2:5)=>(pentagon1:2:5): (pentagon1x125:2:5)
+Found shift from (pentagon1x12543:2:5) to (pentagon1x125:2:5)
+(pentagon1x12543:2:5)=>(pentagon1:2:5): (pentagon1x125:2:5)
+Found shift from (pentagon1x13:2:5) to (pentagon1x123:2:5)
+(pentagon1x13:2:5)=>(pentagon1:2:5): (pentagon1x123:2:5)
+Found shift from (pentagon1x13x245:2:5) to (pentagon1x13x24:2:5)
+(pentagon1x13x245:2:5)=>(pentagon1:2:5): (pentagon1x13x24:2:5)
+Found shift from (pentagon1x13x254:2:5) to (pentagon1x13x25:2:5)
+(pentagon1x13x254:2:5)=>(pentagon1:2:5): (pentagon1x13x25:2:5)
+Found shift from (pentagon1x13x45:2:5) to (pentagon1x123:2:5)
+(pentagon1x13x45:2:5)=>(pentagon1:2:5): (pentagon1x123:2:5)
+Found shift from (pentagon1x132x45:2:5) to (pentagon1x132:2:5)
+(pentagon1x132x45:2:5)=>(pentagon1:2:5): (pentagon1x132:2:5)
+Found shift from (pentagon1x1324:2:5) to (pentagon1x13x24:2:5)
+(pentagon1x1324:2:5)=>(pentagon1:2:5): (pentagon1x13x24:2:5)
+Found shift from (pentagon1x13245:2:5) to (pentagon1x13x24:2:5)
+(pentagon1x13245:2:5)=>(pentagon1:2:5): (pentagon1x13x24:2:5)
+Found shift from (pentagon1x1325:2:5) to (pentagon1x13x25:2:5)
+(pentagon1x1325:2:5)=>(pentagon1:2:5): (pentagon1x13x25:2:5)
+Found shift from (pentagon1x13254:2:5) to (pentagon1x13x25:2:5)
+(pentagon1x13254:2:5)=>(pentagon1:2:5): (pentagon1x13x25:2:5)
+Found shift from (pentagon1x134:2:5) to (pentagon1x123:2:5)
+(pentagon1x134:2:5)=>(pentagon1:2:5): (pentagon1x123:2:5)
+Found shift from (pentagon1x134x25:2:5) to (pentagon1x13x25:2:5)
+(pentagon1x134x25:2:5)=>(pentagon1:2:5): (pentagon1x13x25:2:5)
+Found shift from (pentagon1x1342:2:5) to (pentagon1x132:2:5)
+(pentagon1x1342:2:5)=>(pentagon1:2:5): (pentagon1x132:2:5)
+Found shift from (pentagon1x13425:2:5) to (pentagon1x13x25:2:5)
+(pentagon1x13425:2:5)=>(pentagon1:2:5): (pentagon1x13x25:2:5)
+Found shift from (pentagon1x1345:2:5) to (pentagon1x123:2:5)
+(pentagon1x1345:2:5)=>(pentagon1:2:5): (pentagon1x123:2:5)
+Found shift from (pentagon1x13452:2:5) to (pentagon1x132:2:5)
+(pentagon1x13452:2:5)=>(pentagon1:2:5): (pentagon1x132:2:5)
+Found shift from (pentagon1x135:2:5) to (pentagon1x123:2:5)
+(pentagon1x135:2:5)=>(pentagon1:2:5): (pentagon1x123:2:5)
+Found shift from (pentagon1x135x24:2:5) to (pentagon1x13x24:2:5)
+(pentagon1x135x24:2:5)=>(pentagon1:2:5): (pentagon1x13x24:2:5)
+Found shift from (pentagon1x1352:2:5) to (pentagon1x132:2:5)
+(pentagon1x1352:2:5)=>(pentagon1:2:5): (pentagon1x132:2:5)
+Found shift from (pentagon1x13524:2:5) to (pentagon1x13x24:2:5)
+(pentagon1x13524:2:5)=>(pentagon1:2:5): (pentagon1x13x24:2:5)
+Found shift from (pentagon1x1354:2:5) to (pentagon1x123:2:5)
+(pentagon1x1354:2:5)=>(pentagon1:2:5): (pentagon1x123:2:5)
+Found shift from (pentagon1x13542:2:5) to (pentagon1x132:2:5)
+(pentagon1x13542:2:5)=>(pentagon1:2:5): (pentagon1x132:2:5)
+Found shift from (pentagon1x14:2:5) to (pentagon1x124:2:5)
+(pentagon1x14:2:5)=>(pentagon1:2:5): (pentagon1x124:2:5)
+Found shift from (pentagon1x14x23:2:5) to (pentagon1x13x24:2:5)
+(pentagon1x14x23:2:5)=>(pentagon1:2:5): (pentagon1x13x24:2:5)
+Found shift from (pentagon1x14x235:2:5) to (pentagon1x13x24:2:5)
+(pentagon1x14x235:2:5)=>(pentagon1:2:5): (pentagon1x13x24:2:5)
+Found shift from (pentagon1x14x253:2:5) to (pentagon1x14x25:2:5)
+(pentagon1x14x253:2:5)=>(pentagon1:2:5): (pentagon1x14x25:2:5)
+Found shift from (pentagon1x14x35:2:5) to (pentagon1x124:2:5)
+(pentagon1x14x35:2:5)=>(pentagon1:2:5): (pentagon1x124:2:5)
+Found shift from (pentagon1x142x35:2:5) to (pentagon1x142:2:5)
+(pentagon1x142x35:2:5)=>(pentagon1:2:5): (pentagon1x142:2:5)
+Found shift from (pentagon1x1423:2:5) to (pentagon1x13x24:2:5)
+(pentagon1x1423:2:5)=>(pentagon1:2:5): (pentagon1x13x24:2:5)
+Found shift from (pentagon1x14235:2:5) to (pentagon1x13x24:2:5)
+(pentagon1x14235:2:5)=>(pentagon1:2:5): (pentagon1x13x24:2:5)
+Found shift from (pentagon1x1425:2:5) to (pentagon1x14x25:2:5)
+(pentagon1x1425:2:5)=>(pentagon1:2:5): (pentagon1x14x25:2:5)
+Found shift from (pentagon1x14253:2:5) to (pentagon1x14x25:2:5)
+(pentagon1x14253:2:5)=>(pentagon1:2:5): (pentagon1x14x25:2:5)
+Found shift from (pentagon1x143:2:5) to (pentagon1x124:2:5)
+(pentagon1x143:2:5)=>(pentagon1:2:5): (pentagon1x124:2:5)
+Found shift from (pentagon1x143x25:2:5) to (pentagon1x14x25:2:5)
+(pentagon1x143x25:2:5)=>(pentagon1:2:5): (pentagon1x14x25:2:5)
+Found shift from (pentagon1x1432:2:5) to (pentagon1x142:2:5)
+(pentagon1x1432:2:5)=>(pentagon1:2:5): (pentagon1x142:2:5)
+Found shift from (pentagon1x14325:2:5) to (pentagon1x14x25:2:5)
+(pentagon1x14325:2:5)=>(pentagon1:2:5): (pentagon1x14x25:2:5)
+Found shift from (pentagon1x1435:2:5) to (pentagon1x124:2:5)
+(pentagon1x1435:2:5)=>(pentagon1:2:5): (pentagon1x124:2:5)
+Found shift from (pentagon1x14352:2:5) to (pentagon1x142:2:5)
+(pentagon1x14352:2:5)=>(pentagon1:2:5): (pentagon1x142:2:5)
+Found shift from (pentagon1x145:2:5) to (pentagon1x124:2:5)
+(pentagon1x145:2:5)=>(pentagon1:2:5): (pentagon1x124:2:5)
+Found shift from (pentagon1x145x23:2:5) to (pentagon1x13x24:2:5)
+(pentagon1x145x23:2:5)=>(pentagon1:2:5): (pentagon1x13x24:2:5)
+Found shift from (pentagon1x1452:2:5) to (pentagon1x142:2:5)
+(pentagon1x1452:2:5)=>(pentagon1:2:5): (pentagon1x142:2:5)
+Found shift from (pentagon1x14523:2:5) to (pentagon1x13x24:2:5)
+(pentagon1x14523:2:5)=>(pentagon1:2:5): (pentagon1x13x24:2:5)
+Found shift from (pentagon1x1453:2:5) to (pentagon1x124:2:5)
+(pentagon1x1453:2:5)=>(pentagon1:2:5): (pentagon1x124:2:5)
+Found shift from (pentagon1x14532:2:5) to (pentagon1x142:2:5)
+(pentagon1x14532:2:5)=>(pentagon1:2:5): (pentagon1x142:2:5)
+Found shift from (pentagon1x15:2:5) to (pentagon1x125:2:5)
+(pentagon1x15:2:5)=>(pentagon1:2:5): (pentagon1x125:2:5)
+Found shift from (pentagon1x15x23:2:5) to (pentagon1x13x25:2:5)
+(pentagon1x15x23:2:5)=>(pentagon1:2:5): (pentagon1x13x25:2:5)
+Found shift from (pentagon1x15x234:2:5) to (pentagon1x13x25:2:5)
+(pentagon1x15x234:2:5)=>(pentagon1:2:5): (pentagon1x13x25:2:5)
+Found shift from (pentagon1x15x24:2:5) to (pentagon1x14x25:2:5)
+(pentagon1x15x24:2:5)=>(pentagon1:2:5): (pentagon1x14x25:2:5)
+Found shift from (pentagon1x15x243:2:5) to (pentagon1x14x25:2:5)
+(pentagon1x15x243:2:5)=>(pentagon1:2:5): (pentagon1x14x25:2:5)
+Found shift from (pentagon1x15x34:2:5) to (pentagon1x125:2:5)
+(pentagon1x15x34:2:5)=>(pentagon1:2:5): (pentagon1x125:2:5)
+Found shift from (pentagon1x152x34:2:5) to (pentagon1x152:2:5)
+(pentagon1x152x34:2:5)=>(pentagon1:2:5): (pentagon1x152:2:5)
+Found shift from (pentagon1x1523:2:5) to (pentagon1x13x25:2:5)
+(pentagon1x1523:2:5)=>(pentagon1:2:5): (pentagon1x13x25:2:5)
+Found shift from (pentagon1x15234:2:5) to (pentagon1x13x25:2:5)
+(pentagon1x15234:2:5)=>(pentagon1:2:5): (pentagon1x13x25:2:5)
+Found shift from (pentagon1x1524:2:5) to (pentagon1x14x25:2:5)
+(pentagon1x1524:2:5)=>(pentagon1:2:5): (pentagon1x14x25:2:5)
+Found shift from (pentagon1x15243:2:5) to (pentagon1x14x25:2:5)
+(pentagon1x15243:2:5)=>(pentagon1:2:5): (pentagon1x14x25:2:5)
+Found shift from (pentagon1x153:2:5) to (pentagon1x125:2:5)
+(pentagon1x153:2:5)=>(pentagon1:2:5): (pentagon1x125:2:5)
+Found shift from (pentagon1x153x24:2:5) to (pentagon1x14x25:2:5)
+(pentagon1x153x24:2:5)=>(pentagon1:2:5): (pentagon1x14x25:2:5)
+Found shift from (pentagon1x1532:2:5) to (pentagon1x152:2:5)
+(pentagon1x1532:2:5)=>(pentagon1:2:5): (pentagon1x152:2:5)
+Found shift from (pentagon1x15324:2:5) to (pentagon1x14x25:2:5)
+(pentagon1x15324:2:5)=>(pentagon1:2:5): (pentagon1x14x25:2:5)
+Found shift from (pentagon1x1534:2:5) to (pentagon1x125:2:5)
+(pentagon1x1534:2:5)=>(pentagon1:2:5): (pentagon1x125:2:5)
+Found shift from (pentagon1x15342:2:5) to (pentagon1x152:2:5)
+(pentagon1x15342:2:5)=>(pentagon1:2:5): (pentagon1x152:2:5)
+Found shift from (pentagon1x154:2:5) to (pentagon1x125:2:5)
+(pentagon1x154:2:5)=>(pentagon1:2:5): (pentagon1x125:2:5)
+Found shift from (pentagon1x154x23:2:5) to (pentagon1x13x25:2:5)
+(pentagon1x154x23:2:5)=>(pentagon1:2:5): (pentagon1x13x25:2:5)
+Found shift from (pentagon1x1542:2:5) to (pentagon1x152:2:5)
+(pentagon1x1542:2:5)=>(pentagon1:2:5): (pentagon1x152:2:5)
+Found shift from (pentagon1x15423:2:5) to (pentagon1x13x25:2:5)
+(pentagon1x15423:2:5)=>(pentagon1:2:5): (pentagon1x13x25:2:5)
+Found shift from (pentagon1x1543:2:5) to (pentagon1x125:2:5)
+(pentagon1x1543:2:5)=>(pentagon1:2:5): (pentagon1x125:2:5)
+Found shift from (pentagon1x15432:2:5) to (pentagon1x152:2:5)
+(pentagon1x15432:2:5)=>(pentagon1:2:5): (pentagon1x152:2:5)
+Found shift from (pentagon1x23:2:5) to (pentagon1x132:2:5)
+(pentagon1x23:2:5)=>(pentagon1:2:5): (pentagon1x132:2:5)
+Found shift from (pentagon1x23x45:2:5) to (pentagon1x132:2:5)
+(pentagon1x23x45:2:5)=>(pentagon1:2:5): (pentagon1x132:2:5)
+Found shift from (pentagon1x234:2:5) to (pentagon1x132:2:5)
+(pentagon1x234:2:5)=>(pentagon1:2:5): (pentagon1x132:2:5)
+Found shift from (pentagon1x2345:2:5) to (pentagon1x132:2:5)
+(pentagon1x2345:2:5)=>(pentagon1:2:5): (pentagon1x132:2:5)
+Found shift from (pentagon1x235:2:5) to (pentagon1x132:2:5)
+(pentagon1x235:2:5)=>(pentagon1:2:5): (pentagon1x132:2:5)
+Found shift from (pentagon1x2354:2:5) to (pentagon1x132:2:5)
+(pentagon1x2354:2:5)=>(pentagon1:2:5): (pentagon1x132:2:5)
+Found shift from (pentagon1x24:2:5) to (pentagon1x142:2:5)
+(pentagon1x24:2:5)=>(pentagon1:2:5): (pentagon1x142:2:5)
+Found shift from (pentagon1x24x35:2:5) to (pentagon1x142:2:5)
+(pentagon1x24x35:2:5)=>(pentagon1:2:5): (pentagon1x142:2:5)
+Found shift from (pentagon1x243:2:5) to (pentagon1x142:2:5)
+(pentagon1x243:2:5)=>(pentagon1:2:5): (pentagon1x142:2:5)
+Found shift from (pentagon1x2435:2:5) to (pentagon1x142:2:5)
+(pentagon1x2435:2:5)=>(pentagon1:2:5): (pentagon1x142:2:5)
+Found shift from (pentagon1x245:2:5) to (pentagon1x142:2:5)
+(pentagon1x245:2:5)=>(pentagon1:2:5): (pentagon1x142:2:5)
+Found shift from (pentagon1x2453:2:5) to (pentagon1x142:2:5)
+(pentagon1x2453:2:5)=>(pentagon1:2:5): (pentagon1x142:2:5)
+Found shift from (pentagon1x25:2:5) to (pentagon1x152:2:5)
+(pentagon1x25:2:5)=>(pentagon1:2:5): (pentagon1x152:2:5)
+Found shift from (pentagon1x25x34:2:5) to (pentagon1x152:2:5)
+(pentagon1x25x34:2:5)=>(pentagon1:2:5): (pentagon1x152:2:5)
+Found shift from (pentagon1x253:2:5) to (pentagon1x152:2:5)
+(pentagon1x253:2:5)=>(pentagon1:2:5): (pentagon1x152:2:5)
+Found shift from (pentagon1x2534:2:5) to (pentagon1x152:2:5)
+(pentagon1x2534:2:5)=>(pentagon1:2:5): (pentagon1x152:2:5)
+Found shift from (pentagon1x254:2:5) to (pentagon1x152:2:5)
+(pentagon1x254:2:5)=>(pentagon1:2:5): (pentagon1x152:2:5)
+Found shift from (pentagon1x2543:2:5) to (pentagon1x152:2:5)
+(pentagon1x2543:2:5)=>(pentagon1:2:5): (pentagon1x152:2:5)
+Found shift from (pentagon1x34:2:5) to (pentagon1:2:5)
+(pentagon1x34:2:5)=>(pentagon1:2:5): (pentagon1:2:5)
+Found shift from (pentagon1x345:2:5) to (pentagon1:2:5)
+(pentagon1x345:2:5)=>(pentagon1:2:5): (pentagon1:2:5)
+Found shift from (pentagon1x35:2:5) to (pentagon1:2:5)
+(pentagon1x35:2:5)=>(pentagon1:2:5): (pentagon1:2:5)
+Found shift from (pentagon1x354:2:5) to (pentagon1:2:5)
+(pentagon1x354:2:5)=>(pentagon1:2:5): (pentagon1:2:5)
+Found shift from (pentagon1x45:2:5) to (pentagon1:2:5)
+(pentagon1x45:2:5)=>(pentagon1:2:5): (pentagon1:2:5)
+*******Found shift from (pentagon1x12:3:7) to (pentagon1:3:7)
+(pentagon1x12:3:7)=>(pentagon1:3:7): (pentagon1:3:7)
+Found shift from (pentagon1x12x34:3:7) to (pentagon1:3:7)
+(pentagon1x12x34:3:7)=>(pentagon1:3:7): (pentagon1:3:7)
+Found shift from (pentagon1x12x345:3:7) to (pentagon1:3:7)
+(pentagon1x12x345:3:7)=>(pentagon1:3:7): (pentagon1:3:7)
+Found shift from (pentagon1x12x35:3:7) to (pentagon1:3:7)
+(pentagon1x12x35:3:7)=>(pentagon1:3:7): (pentagon1:3:7)
+Found shift from (pentagon1x12x354:3:7) to (pentagon1:3:7)
+(pentagon1x12x354:3:7)=>(pentagon1:3:7): (pentagon1:3:7)
+Found shift from (pentagon1x12x45:3:7) to (pentagon1:3:7)
+(pentagon1x12x45:3:7)=>(pentagon1:3:7): (pentagon1:3:7)
+Found shift from (pentagon1x123x45:3:7) to (pentagon1x123:3:7)
+(pentagon1x123x45:3:7)=>(pentagon1:3:7): (pentagon1x123:3:7)
+Found shift from (pentagon1x1234:3:7) to (pentagon1x123:3:7)
+(pentagon1x1234:3:7)=>(pentagon1:3:7): (pentagon1x123:3:7)
+Found shift from (pentagon1x12345:3:7) to (pentagon1x123:3:7)
+(pentagon1x12345:3:7)=>(pentagon1:3:7): (pentagon1x123:3:7)
+Found shift from (pentagon1x1235:3:7) to (pentagon1x123:3:7)
+(pentagon1x1235:3:7)=>(pentagon1:3:7): (pentagon1x123:3:7)
+Found shift from (pentagon1x12354:3:7) to (pentagon1x123:3:7)
+(pentagon1x12354:3:7)=>(pentagon1:3:7): (pentagon1x123:3:7)
+Found shift from (pentagon1x124x35:3:7) to (pentagon1x124:3:7)
+(pentagon1x124x35:3:7)=>(pentagon1:3:7): (pentagon1x124:3:7)
+Found shift from (pentagon1x1243:3:7) to (pentagon1x124:3:7)
+(pentagon1x1243:3:7)=>(pentagon1:3:7): (pentagon1x124:3:7)
+Found shift from (pentagon1x12435:3:7) to (pentagon1x124:3:7)
+(pentagon1x12435:3:7)=>(pentagon1:3:7): (pentagon1x124:3:7)
+Found shift from (pentagon1x1245:3:7) to (pentagon1x124:3:7)
+(pentagon1x1245:3:7)=>(pentagon1:3:7): (pentagon1x124:3:7)
+Found shift from (pentagon1x12453:3:7) to (pentagon1x124:3:7)
+(pentagon1x12453:3:7)=>(pentagon1:3:7): (pentagon1x124:3:7)
+Found shift from (pentagon1x125x34:3:7) to (pentagon1x125:3:7)
+(pentagon1x125x34:3:7)=>(pentagon1:3:7): (pentagon1x125:3:7)
+Found shift from (pentagon1x1253:3:7) to (pentagon1x125:3:7)
+(pentagon1x1253:3:7)=>(pentagon1:3:7): (pentagon1x125:3:7)
+Found shift from (pentagon1x12534:3:7) to (pentagon1x125:3:7)
+(pentagon1x12534:3:7)=>(pentagon1:3:7): (pentagon1x125:3:7)
+Found shift from (pentagon1x1254:3:7) to (pentagon1x125:3:7)
+(pentagon1x1254:3:7)=>(pentagon1:3:7): (pentagon1x125:3:7)
+Found shift from (pentagon1x12543:3:7) to (pentagon1x125:3:7)
+(pentagon1x12543:3:7)=>(pentagon1:3:7): (pentagon1x125:3:7)
+Found shift from (pentagon1x13:3:7) to (pentagon1x123:3:7)
+(pentagon1x13:3:7)=>(pentagon1:3:7): (pentagon1x123:3:7)
+Found shift from (pentagon1x13x245:3:7) to (pentagon1x13x24:3:7)
+(pentagon1x13x245:3:7)=>(pentagon1:3:7): (pentagon1x13x24:3:7)
+Found shift from (pentagon1x13x254:3:7) to (pentagon1x13x25:3:7)
+(pentagon1x13x254:3:7)=>(pentagon1:3:7): (pentagon1x13x25:3:7)
+Found shift from (pentagon1x13x45:3:7) to (pentagon1x123:3:7)
+(pentagon1x13x45:3:7)=>(pentagon1:3:7): (pentagon1x123:3:7)
+Found shift from (pentagon1x132x45:3:7) to (pentagon1x132:3:7)
+(pentagon1x132x45:3:7)=>(pentagon1:3:7): (pentagon1x132:3:7)
+Found shift from (pentagon1x1324:3:7) to (pentagon1x13x24:3:7)
+(pentagon1x1324:3:7)=>(pentagon1:3:7): (pentagon1x13x24:3:7)
+Found shift from (pentagon1x13245:3:7) to (pentagon1x13x24:3:7)
+(pentagon1x13245:3:7)=>(pentagon1:3:7): (pentagon1x13x24:3:7)
+Found shift from (pentagon1x1325:3:7) to (pentagon1x13x25:3:7)
+(pentagon1x1325:3:7)=>(pentagon1:3:7): (pentagon1x13x25:3:7)
+Found shift from (pentagon1x13254:3:7) to (pentagon1x13x25:3:7)
+(pentagon1x13254:3:7)=>(pentagon1:3:7): (pentagon1x13x25:3:7)
+Found shift from (pentagon1x134:3:7) to (pentagon1x123:3:7)
+(pentagon1x134:3:7)=>(pentagon1:3:7): (pentagon1x123:3:7)
+Found shift from (pentagon1x134x25:3:7) to (pentagon1x13x25:3:7)
+(pentagon1x134x25:3:7)=>(pentagon1:3:7): (pentagon1x13x25:3:7)
+Found shift from (pentagon1x1342:3:7) to (pentagon1x132:3:7)
+(pentagon1x1342:3:7)=>(pentagon1:3:7): (pentagon1x132:3:7)
+Found shift from (pentagon1x13425:3:7) to (pentagon1x13x25:3:7)
+(pentagon1x13425:3:7)=>(pentagon1:3:7): (pentagon1x13x25:3:7)
+Found shift from (pentagon1x1345:3:7) to (pentagon1x123:3:7)
+(pentagon1x1345:3:7)=>(pentagon1:3:7): (pentagon1x123:3:7)
+Found shift from (pentagon1x13452:3:7) to (pentagon1x132:3:7)
+(pentagon1x13452:3:7)=>(pentagon1:3:7): (pentagon1x132:3:7)
+Found shift from (pentagon1x135:3:7) to (pentagon1x123:3:7)
+(pentagon1x135:3:7)=>(pentagon1:3:7): (pentagon1x123:3:7)
+Found shift from (pentagon1x135x24:3:7) to (pentagon1x13x24:3:7)
+(pentagon1x135x24:3:7)=>(pentagon1:3:7): (pentagon1x13x24:3:7)
+Found shift from (pentagon1x1352:3:7) to (pentagon1x132:3:7)
+(pentagon1x1352:3:7)=>(pentagon1:3:7): (pentagon1x132:3:7)
+Found shift from (pentagon1x13524:3:7) to (pentagon1x13x24:3:7)
+(pentagon1x13524:3:7)=>(pentagon1:3:7): (pentagon1x13x24:3:7)
+Found shift from (pentagon1x1354:3:7) to (pentagon1x123:3:7)
+(pentagon1x1354:3:7)=>(pentagon1:3:7): (pentagon1x123:3:7)
+Found shift from (pentagon1x13542:3:7) to (pentagon1x132:3:7)
+(pentagon1x13542:3:7)=>(pentagon1:3:7): (pentagon1x132:3:7)
+Found shift from (pentagon1x14:3:7) to (pentagon1x124:3:7)
+(pentagon1x14:3:7)=>(pentagon1:3:7): (pentagon1x124:3:7)
+Found shift from (pentagon1x14x23:3:7) to (pentagon1x13x24:3:7)
+(pentagon1x14x23:3:7)=>(pentagon1:3:7): (pentagon1x13x24:3:7)
+Found shift from (pentagon1x14x235:3:7) to (pentagon1x13x24:3:7)
+(pentagon1x14x235:3:7)=>(pentagon1:3:7): (pentagon1x13x24:3:7)
+Found shift from (pentagon1x14x253:3:7) to (pentagon1x14x25:3:7)
+(pentagon1x14x253:3:7)=>(pentagon1:3:7): (pentagon1x14x25:3:7)
+Found shift from (pentagon1x14x35:3:7) to (pentagon1x124:3:7)
+(pentagon1x14x35:3:7)=>(pentagon1:3:7): (pentagon1x124:3:7)
+Found shift from (pentagon1x142x35:3:7) to (pentagon1x142:3:7)
+(pentagon1x142x35:3:7)=>(pentagon1:3:7): (pentagon1x142:3:7)
+Found shift from (pentagon1x1423:3:7) to (pentagon1x13x24:3:7)
+(pentagon1x1423:3:7)=>(pentagon1:3:7): (pentagon1x13x24:3:7)
+Found shift from (pentagon1x14235:3:7) to (pentagon1x13x24:3:7)
+(pentagon1x14235:3:7)=>(pentagon1:3:7): (pentagon1x13x24:3:7)
+Found shift from (pentagon1x1425:3:7) to (pentagon1x14x25:3:7)
+(pentagon1x1425:3:7)=>(pentagon1:3:7): (pentagon1x14x25:3:7)
+Found shift from (pentagon1x14253:3:7) to (pentagon1x14x25:3:7)
+(pentagon1x14253:3:7)=>(pentagon1:3:7): (pentagon1x14x25:3:7)
+Found shift from (pentagon1x143:3:7) to (pentagon1x124:3:7)
+(pentagon1x143:3:7)=>(pentagon1:3:7): (pentagon1x124:3:7)
+Found shift from (pentagon1x143x25:3:7) to (pentagon1x14x25:3:7)
+(pentagon1x143x25:3:7)=>(pentagon1:3:7): (pentagon1x14x25:3:7)
+Found shift from (pentagon1x1432:3:7) to (pentagon1x142:3:7)
+(pentagon1x1432:3:7)=>(pentagon1:3:7): (pentagon1x142:3:7)
+Found shift from (pentagon1x14325:3:7) to (pentagon1x14x25:3:7)
+(pentagon1x14325:3:7)=>(pentagon1:3:7): (pentagon1x14x25:3:7)
+Found shift from (pentagon1x1435:3:7) to (pentagon1x124:3:7)
+(pentagon1x1435:3:7)=>(pentagon1:3:7): (pentagon1x124:3:7)
+Found shift from (pentagon1x14352:3:7) to (pentagon1x142:3:7)
+(pentagon1x14352:3:7)=>(pentagon1:3:7): (pentagon1x142:3:7)
+Found shift from (pentagon1x145:3:7) to (pentagon1x124:3:7)
+(pentagon1x145:3:7)=>(pentagon1:3:7): (pentagon1x124:3:7)
+Found shift from (pentagon1x145x23:3:7) to (pentagon1x13x24:3:7)
+(pentagon1x145x23:3:7)=>(pentagon1:3:7): (pentagon1x13x24:3:7)
+Found shift from (pentagon1x1452:3:7) to (pentagon1x142:3:7)
+(pentagon1x1452:3:7)=>(pentagon1:3:7): (pentagon1x142:3:7)
+Found shift from (pentagon1x14523:3:7) to (pentagon1x13x24:3:7)
+(pentagon1x14523:3:7)=>(pentagon1:3:7): (pentagon1x13x24:3:7)
+Found shift from (pentagon1x1453:3:7) to (pentagon1x124:3:7)
+(pentagon1x1453:3:7)=>(pentagon1:3:7): (pentagon1x124:3:7)
+Found shift from (pentagon1x14532:3:7) to (pentagon1x142:3:7)
+(pentagon1x14532:3:7)=>(pentagon1:3:7): (pentagon1x142:3:7)
+Found shift from (pentagon1x15:3:7) to (pentagon1x125:3:7)
+(pentagon1x15:3:7)=>(pentagon1:3:7): (pentagon1x125:3:7)
+Found shift from (pentagon1x15x23:3:7) to (pentagon1x13x25:3:7)
+(pentagon1x15x23:3:7)=>(pentagon1:3:7): (pentagon1x13x25:3:7)
+Found shift from (pentagon1x15x234:3:7) to (pentagon1x13x25:3:7)
+(pentagon1x15x234:3:7)=>(pentagon1:3:7): (pentagon1x13x25:3:7)
+Found shift from (pentagon1x15x24:3:7) to (pentagon1x14x25:3:7)
+(pentagon1x15x24:3:7)=>(pentagon1:3:7): (pentagon1x14x25:3:7)
+Found shift from (pentagon1x15x243:3:7) to (pentagon1x14x25:3:7)
+(pentagon1x15x243:3:7)=>(pentagon1:3:7): (pentagon1x14x25:3:7)
+Found shift from (pentagon1x15x34:3:7) to (pentagon1x125:3:7)
+(pentagon1x15x34:3:7)=>(pentagon1:3:7): (pentagon1x125:3:7)
+Found shift from (pentagon1x152x34:3:7) to (pentagon1x152:3:7)
+(pentagon1x152x34:3:7)=>(pentagon1:3:7): (pentagon1x152:3:7)
+Found shift from (pentagon1x1523:3:7) to (pentagon1x13x25:3:7)
+(pentagon1x1523:3:7)=>(pentagon1:3:7): (pentagon1x13x25:3:7)
+Found shift from (pentagon1x15234:3:7) to (pentagon1x13x25:3:7)
+(pentagon1x15234:3:7)=>(pentagon1:3:7): (pentagon1x13x25:3:7)
+Found shift from (pentagon1x1524:3:7) to (pentagon1x14x25:3:7)
+(pentagon1x1524:3:7)=>(pentagon1:3:7): (pentagon1x14x25:3:7)
+Found shift from (pentagon1x15243:3:7) to (pentagon1x14x25:3:7)
+(pentagon1x15243:3:7)=>(pentagon1:3:7): (pentagon1x14x25:3:7)
+Found shift from (pentagon1x153:3:7) to (pentagon1x125:3:7)
+(pentagon1x153:3:7)=>(pentagon1:3:7): (pentagon1x125:3:7)
+Found shift from (pentagon1x153x24:3:7) to (pentagon1x14x25:3:7)
+(pentagon1x153x24:3:7)=>(pentagon1:3:7): (pentagon1x14x25:3:7)
+Found shift from (pentagon1x1532:3:7) to (pentagon1x152:3:7)
+(pentagon1x1532:3:7)=>(pentagon1:3:7): (pentagon1x152:3:7)
+Found shift from (pentagon1x15324:3:7) to (pentagon1x14x25:3:7)
+(pentagon1x15324:3:7)=>(pentagon1:3:7): (pentagon1x14x25:3:7)
+Found shift from (pentagon1x1534:3:7) to (pentagon1x125:3:7)
+(pentagon1x1534:3:7)=>(pentagon1:3:7): (pentagon1x125:3:7)
+Found shift from (pentagon1x15342:3:7) to (pentagon1x152:3:7)
+(pentagon1x15342:3:7)=>(pentagon1:3:7): (pentagon1x152:3:7)
+Found shift from (pentagon1x154:3:7) to (pentagon1x125:3:7)
+(pentagon1x154:3:7)=>(pentagon1:3:7): (pentagon1x125:3:7)
+Found shift from (pentagon1x154x23:3:7) to (pentagon1x13x25:3:7)
+(pentagon1x154x23:3:7)=>(pentagon1:3:7): (pentagon1x13x25:3:7)
+Found shift from (pentagon1x1542:3:7) to (pentagon1x152:3:7)
+(pentagon1x1542:3:7)=>(pentagon1:3:7): (pentagon1x152:3:7)
+Found shift from (pentagon1x15423:3:7) to (pentagon1x13x25:3:7)
+(pentagon1x15423:3:7)=>(pentagon1:3:7): (pentagon1x13x25:3:7)
+Found shift from (pentagon1x1543:3:7) to (pentagon1x125:3:7)
+(pentagon1x1543:3:7)=>(pentagon1:3:7): (pentagon1x125:3:7)
+Found shift from (pentagon1x15432:3:7) to (pentagon1x152:3:7)
+(pentagon1x15432:3:7)=>(pentagon1:3:7): (pentagon1x152:3:7)
+Found shift from (pentagon1x23:3:7) to (pentagon1x132:3:7)
+(pentagon1x23:3:7)=>(pentagon1:3:7): (pentagon1x132:3:7)
+Found shift from (pentagon1x23x45:3:7) to (pentagon1x132:3:7)
+(pentagon1x23x45:3:7)=>(pentagon1:3:7): (pentagon1x132:3:7)
+Found shift from (pentagon1x234:3:7) to (pentagon1x132:3:7)
+(pentagon1x234:3:7)=>(pentagon1:3:7): (pentagon1x132:3:7)
+Found shift from (pentagon1x2345:3:7) to (pentagon1x132:3:7)
+(pentagon1x2345:3:7)=>(pentagon1:3:7): (pentagon1x132:3:7)
+Found shift from (pentagon1x235:3:7) to (pentagon1x132:3:7)
+(pentagon1x235:3:7)=>(pentagon1:3:7): (pentagon1x132:3:7)
+Found shift from (pentagon1x2354:3:7) to (pentagon1x132:3:7)
+(pentagon1x2354:3:7)=>(pentagon1:3:7): (pentagon1x132:3:7)
+Found shift from (pentagon1x24:3:7) to (pentagon1x142:3:7)
+(pentagon1x24:3:7)=>(pentagon1:3:7): (pentagon1x142:3:7)
+Found shift from (pentagon1x24x35:3:7) to (pentagon1x142:3:7)
+(pentagon1x24x35:3:7)=>(pentagon1:3:7): (pentagon1x142:3:7)
+Found shift from (pentagon1x243:3:7) to (pentagon1x142:3:7)
+(pentagon1x243:3:7)=>(pentagon1:3:7): (pentagon1x142:3:7)
+Found shift from (pentagon1x2435:3:7) to (pentagon1x142:3:7)
+(pentagon1x2435:3:7)=>(pentagon1:3:7): (pentagon1x142:3:7)
+Found shift from (pentagon1x245:3:7) to (pentagon1x142:3:7)
+(pentagon1x245:3:7)=>(pentagon1:3:7): (pentagon1x142:3:7)
+Found shift from (pentagon1x2453:3:7) to (pentagon1x142:3:7)
+(pentagon1x2453:3:7)=>(pentagon1:3:7): (pentagon1x142:3:7)
+Found shift from (pentagon1x25:3:7) to (pentagon1x152:3:7)
+(pentagon1x25:3:7)=>(pentagon1:3:7): (pentagon1x152:3:7)
+Found shift from (pentagon1x25x34:3:7) to (pentagon1x152:3:7)
+(pentagon1x25x34:3:7)=>(pentagon1:3:7): (pentagon1x152:3:7)
+Found shift from (pentagon1x253:3:7) to (pentagon1x152:3:7)
+(pentagon1x253:3:7)=>(pentagon1:3:7): (pentagon1x152:3:7)
+Found shift from (pentagon1x2534:3:7) to (pentagon1x152:3:7)
+(pentagon1x2534:3:7)=>(pentagon1:3:7): (pentagon1x152:3:7)
+Found shift from (pentagon1x254:3:7) to (pentagon1x152:3:7)
+(pentagon1x254:3:7)=>(pentagon1:3:7): (pentagon1x152:3:7)
+Found shift from (pentagon1x2543:3:7) to (pentagon1x152:3:7)
+(pentagon1x2543:3:7)=>(pentagon1:3:7): (pentagon1x152:3:7)
+Found shift from (pentagon1x34:3:7) to (pentagon1:3:7)
+(pentagon1x34:3:7)=>(pentagon1:3:7): (pentagon1:3:7)
+Found shift from (pentagon1x345:3:7) to (pentagon1:3:7)
+(pentagon1x345:3:7)=>(pentagon1:3:7): (pentagon1:3:7)
+Found shift from (pentagon1x35:3:7) to (pentagon1:3:7)
+(pentagon1x35:3:7)=>(pentagon1:3:7): (pentagon1:3:7)
+Found shift from (pentagon1x354:3:7) to (pentagon1:3:7)
+(pentagon1x354:3:7)=>(pentagon1:3:7): (pentagon1:3:7)
+Found shift from (pentagon1x45:3:7) to (pentagon1:3:7)
+(pentagon1x45:3:7)=>(pentagon1:3:7): (pentagon1:3:7)
+********Found shift from (pentagon1x12x345:3:11) to (pentagon1x12x34:3:11)
+(pentagon1x12x345:3:11)=>(pentagon1:3:11): (pentagon1x12x34:3:11)
+Found shift from (pentagon1x12x354:3:11) to (pentagon1x12x35:3:11)
+(pentagon1x12x354:3:11)=>(pentagon1:3:11): (pentagon1x12x35:3:11)
+Found shift from (pentagon1x12x45:3:11) to (pentagon1x12:3:11)
+(pentagon1x12x45:3:11)=>(pentagon1:3:11): (pentagon1x12:3:11)
+Found shift from (pentagon1x123:3:11) to (pentagon1x12:3:11)
+(pentagon1x123:3:11)=>(pentagon1:3:11): (pentagon1x12:3:11)
+Found shift from (pentagon1x123x45:3:11) to (pentagon1x12:3:11)
+(pentagon1x123x45:3:11)=>(pentagon1:3:11): (pentagon1x12:3:11)
+Found shift from (pentagon1x1234:3:11) to (pentagon1x12x35:3:11)
+(pentagon1x1234:3:11)=>(pentagon1:3:11): (pentagon1x12x35:3:11)
+Found shift from (pentagon1x12345:3:11) to (pentagon1x12x35:3:11)
+(pentagon1x12345:3:11)=>(pentagon1:3:11): (pentagon1x12x35:3:11)
+Found shift from (pentagon1x1235:3:11) to (pentagon1x12x34:3:11)
+(pentagon1x1235:3:11)=>(pentagon1:3:11): (pentagon1x12x34:3:11)
+Found shift from (pentagon1x12354:3:11) to (pentagon1x12x34:3:11)
+(pentagon1x12354:3:11)=>(pentagon1:3:11): (pentagon1x12x34:3:11)
+Found shift from (pentagon1x124:3:11) to (pentagon1x12x35:3:11)
+(pentagon1x124:3:11)=>(pentagon1:3:11): (pentagon1x12x35:3:11)
+Found shift from (pentagon1x124x35:3:11) to (pentagon1x12:3:11)
+(pentagon1x124x35:3:11)=>(pentagon1:3:11): (pentagon1x12:3:11)
+Found shift from (pentagon1x1243:3:11) to (pentagon1x12x34:3:11)
+(pentagon1x1243:3:11)=>(pentagon1:3:11): (pentagon1x12x34:3:11)
+Found shift from (pentagon1x12435:3:11) to (pentagon1x12:3:11)
+(pentagon1x12435:3:11)=>(pentagon1:3:11): (pentagon1x12:3:11)
+Found shift from (pentagon1x1245:3:11) to (pentagon1x12x35:3:11)
+(pentagon1x1245:3:11)=>(pentagon1:3:11): (pentagon1x12x35:3:11)
+Found shift from (pentagon1x12453:3:11) to (pentagon1x12x34:3:11)
+(pentagon1x12453:3:11)=>(pentagon1:3:11): (pentagon1x12x34:3:11)
+Found shift from (pentagon1x125:3:11) to (pentagon1x12x34:3:11)
+(pentagon1x125:3:11)=>(pentagon1:3:11): (pentagon1x12x34:3:11)
+Found shift from (pentagon1x125x34:3:11) to (pentagon1x12:3:11)
+(pentagon1x125x34:3:11)=>(pentagon1:3:11): (pentagon1x12:3:11)
+Found shift from (pentagon1x1253:3:11) to (pentagon1x12x35:3:11)
+(pentagon1x1253:3:11)=>(pentagon1:3:11): (pentagon1x12x35:3:11)
+Found shift from (pentagon1x12534:3:11) to (pentagon1x12:3:11)
+(pentagon1x12534:3:11)=>(pentagon1:3:11): (pentagon1x12:3:11)
+Found shift from (pentagon1x1254:3:11) to (pentagon1x12x34:3:11)
+(pentagon1x1254:3:11)=>(pentagon1:3:11): (pentagon1x12x34:3:11)
+Found shift from (pentagon1x12543:3:11) to (pentagon1x12x35:3:11)
+(pentagon1x12543:3:11)=>(pentagon1:3:11): (pentagon1x12x35:3:11)
+Found shift from (pentagon1x13x245:3:11) to (pentagon1x13x24:3:11)
+(pentagon1x13x245:3:11)=>(pentagon1:3:11): (pentagon1x13x24:3:11)
+Found shift from (pentagon1x13x254:3:11) to (pentagon1x13x25:3:11)
+(pentagon1x13x254:3:11)=>(pentagon1:3:11): (pentagon1x13x25:3:11)
+Found shift from (pentagon1x13x45:3:11) to (pentagon1x13:3:11)
+(pentagon1x13x45:3:11)=>(pentagon1:3:11): (pentagon1x13:3:11)
+Found shift from (pentagon1x132:3:11) to (pentagon1x13:3:11)
+(pentagon1x132:3:11)=>(pentagon1:3:11): (pentagon1x13:3:11)
+Found shift from (pentagon1x132x45:3:11) to (pentagon1x13:3:11)
+(pentagon1x132x45:3:11)=>(pentagon1:3:11): (pentagon1x13:3:11)
+Found shift from (pentagon1x1324:3:11) to (pentagon1x13x25:3:11)
+(pentagon1x1324:3:11)=>(pentagon1:3:11): (pentagon1x13x25:3:11)
+Found shift from (pentagon1x13245:3:11) to (pentagon1x13x25:3:11)
+(pentagon1x13245:3:11)=>(pentagon1:3:11): (pentagon1x13x25:3:11)
+Found shift from (pentagon1x1325:3:11) to (pentagon1x13x24:3:11)
+(pentagon1x1325:3:11)=>(pentagon1:3:11): (pentagon1x13x24:3:11)
+Found shift from (pentagon1x13254:3:11) to (pentagon1x13x24:3:11)
+(pentagon1x13254:3:11)=>(pentagon1:3:11): (pentagon1x13x24:3:11)
+Found shift from (pentagon1x134:3:11) to (pentagon1x13x25:3:11)
+(pentagon1x134:3:11)=>(pentagon1:3:11): (pentagon1x13x25:3:11)
+Found shift from (pentagon1x134x25:3:11) to (pentagon1x13:3:11)
+(pentagon1x134x25:3:11)=>(pentagon1:3:11): (pentagon1x13:3:11)
+Found shift from (pentagon1x1342:3:11) to (pentagon1x13x24:3:11)
+(pentagon1x1342:3:11)=>(pentagon1:3:11): (pentagon1x13x24:3:11)
+Found shift from (pentagon1x13425:3:11) to (pentagon1x13:3:11)
+(pentagon1x13425:3:11)=>(pentagon1:3:11): (pentagon1x13:3:11)
+Found shift from (pentagon1x1345:3:11) to (pentagon1x13x25:3:11)
+(pentagon1x1345:3:11)=>(pentagon1:3:11): (pentagon1x13x25:3:11)
+Found shift from (pentagon1x13452:3:11) to (pentagon1x13x24:3:11)
+(pentagon1x13452:3:11)=>(pentagon1:3:11): (pentagon1x13x24:3:11)
+Found shift from (pentagon1x135:3:11) to (pentagon1x13x24:3:11)
+(pentagon1x135:3:11)=>(pentagon1:3:11): (pentagon1x13x24:3:11)
+Found shift from (pentagon1x135x24:3:11) to (pentagon1x13:3:11)
+(pentagon1x135x24:3:11)=>(pentagon1:3:11): (pentagon1x13:3:11)
+Found shift from (pentagon1x1352:3:11) to (pentagon1x13x25:3:11)
+(pentagon1x1352:3:11)=>(pentagon1:3:11): (pentagon1x13x25:3:11)
+Found shift from (pentagon1x13524:3:11) to (pentagon1x13:3:11)
+(pentagon1x13524:3:11)=>(pentagon1:3:11): (pentagon1x13:3:11)
+Found shift from (pentagon1x1354:3:11) to (pentagon1x13x24:3:11)
+(pentagon1x1354:3:11)=>(pentagon1:3:11): (pentagon1x13x24:3:11)
+Found shift from (pentagon1x13542:3:11) to (pentagon1x13x25:3:11)
+(pentagon1x13542:3:11)=>(pentagon1:3:11): (pentagon1x13x25:3:11)
+Found shift from (pentagon1x14x23:3:11) to (pentagon1x14:3:11)
+(pentagon1x14x23:3:11)=>(pentagon1:3:11): (pentagon1x14:3:11)
+Found shift from (pentagon1x14x25:3:11) to (pentagon1x14x235:3:11)
+(pentagon1x14x25:3:11)=>(pentagon1:3:11): (pentagon1x14x235:3:11)
+Found shift from (pentagon1x14x35:3:11) to (pentagon1x14x253:3:11)
+(pentagon1x14x35:3:11)=>(pentagon1:3:11): (pentagon1x14x253:3:11)
+Found shift from (pentagon1x142:3:11) to (pentagon1x14x253:3:11)
+(pentagon1x142:3:11)=>(pentagon1:3:11): (pentagon1x14x253:3:11)
+Found shift from (pentagon1x142x35:3:11) to (pentagon1x14:3:11)
+(pentagon1x142x35:3:11)=>(pentagon1:3:11): (pentagon1x14:3:11)
+Found shift from (pentagon1x1423:3:11) to (pentagon1x14x253:3:11)
+(pentagon1x1423:3:11)=>(pentagon1:3:11): (pentagon1x14x253:3:11)
+Found shift from (pentagon1x14235:3:11) to (pentagon1x14x235:3:11)
+(pentagon1x14235:3:11)=>(pentagon1:3:11): (pentagon1x14x235:3:11)
+Found shift from (pentagon1x1425:3:11) to (pentagon1x14x235:3:11)
+(pentagon1x1425:3:11)=>(pentagon1:3:11): (pentagon1x14x235:3:11)
+Found shift from (pentagon1x14253:3:11) to (pentagon1x14:3:11)
+(pentagon1x14253:3:11)=>(pentagon1:3:11): (pentagon1x14:3:11)
+Found shift from (pentagon1x143:3:11) to (pentagon1x14x235:3:11)
+(pentagon1x143:3:11)=>(pentagon1:3:11): (pentagon1x14x235:3:11)
+Found shift from (pentagon1x143x25:3:11) to (pentagon1x14:3:11)
+(pentagon1x143x25:3:11)=>(pentagon1:3:11): (pentagon1x14:3:11)
+Found shift from (pentagon1x1432:3:11) to (pentagon1x14x235:3:11)
+(pentagon1x1432:3:11)=>(pentagon1:3:11): (pentagon1x14x235:3:11)
+Found shift from (pentagon1x14325:3:11) to (pentagon1x14x253:3:11)
+(pentagon1x14325:3:11)=>(pentagon1:3:11): (pentagon1x14x253:3:11)
+Found shift from (pentagon1x1435:3:11) to (pentagon1x14x253:3:11)
+(pentagon1x1435:3:11)=>(pentagon1:3:11): (pentagon1x14x253:3:11)
+Found shift from (pentagon1x14352:3:11) to (pentagon1x14:3:11)
+(pentagon1x14352:3:11)=>(pentagon1:3:11): (pentagon1x14:3:11)
+Found shift from (pentagon1x145:3:11) to (pentagon1x14:3:11)
+(pentagon1x145:3:11)=>(pentagon1:3:11): (pentagon1x14:3:11)
+Found shift from (pentagon1x145x23:3:11) to (pentagon1x14:3:11)
+(pentagon1x145x23:3:11)=>(pentagon1:3:11): (pentagon1x14:3:11)
+Found shift from (pentagon1x1452:3:11) to (pentagon1x14x253:3:11)
+(pentagon1x1452:3:11)=>(pentagon1:3:11): (pentagon1x14x253:3:11)
+Found shift from (pentagon1x14523:3:11) to (pentagon1x14x253:3:11)
+(pentagon1x14523:3:11)=>(pentagon1:3:11): (pentagon1x14x253:3:11)
+Found shift from (pentagon1x1453:3:11) to (pentagon1x14x235:3:11)
+(pentagon1x1453:3:11)=>(pentagon1:3:11): (pentagon1x14x235:3:11)
+Found shift from (pentagon1x14532:3:11) to (pentagon1x14x235:3:11)
+(pentagon1x14532:3:11)=>(pentagon1:3:11): (pentagon1x14x235:3:11)
+Found shift from (pentagon1x15x23:3:11) to (pentagon1x15:3:11)
+(pentagon1x15x23:3:11)=>(pentagon1:3:11): (pentagon1x15:3:11)
+Found shift from (pentagon1x15x24:3:11) to (pentagon1x15x234:3:11)
+(pentagon1x15x24:3:11)=>(pentagon1:3:11): (pentagon1x15x234:3:11)
+Found shift from (pentagon1x15x34:3:11) to (pentagon1x15x243:3:11)
+(pentagon1x15x34:3:11)=>(pentagon1:3:11): (pentagon1x15x243:3:11)
+Found shift from (pentagon1x152:3:11) to (pentagon1x15x243:3:11)
+(pentagon1x152:3:11)=>(pentagon1:3:11): (pentagon1x15x243:3:11)
+Found shift from (pentagon1x152x34:3:11) to (pentagon1x15:3:11)
+(pentagon1x152x34:3:11)=>(pentagon1:3:11): (pentagon1x15:3:11)
+Found shift from (pentagon1x1523:3:11) to (pentagon1x15x243:3:11)
+(pentagon1x1523:3:11)=>(pentagon1:3:11): (pentagon1x15x243:3:11)
+Found shift from (pentagon1x15234:3:11) to (pentagon1x15x234:3:11)
+(pentagon1x15234:3:11)=>(pentagon1:3:11): (pentagon1x15x234:3:11)
+Found shift from (pentagon1x1524:3:11) to (pentagon1x15x234:3:11)
+(pentagon1x1524:3:11)=>(pentagon1:3:11): (pentagon1x15x234:3:11)
+Found shift from (pentagon1x15243:3:11) to (pentagon1x15:3:11)
+(pentagon1x15243:3:11)=>(pentagon1:3:11): (pentagon1x15:3:11)
+Found shift from (pentagon1x153:3:11) to (pentagon1x15x234:3:11)
+(pentagon1x153:3:11)=>(pentagon1:3:11): (pentagon1x15x234:3:11)
+Found shift from (pentagon1x153x24:3:11) to (pentagon1x15:3:11)
+(pentagon1x153x24:3:11)=>(pentagon1:3:11): (pentagon1x15:3:11)
+Found shift from (pentagon1x1532:3:11) to (pentagon1x15x234:3:11)
+(pentagon1x1532:3:11)=>(pentagon1:3:11): (pentagon1x15x234:3:11)
+Found shift from (pentagon1x15324:3:11) to (pentagon1x15x243:3:11)
+(pentagon1x15324:3:11)=>(pentagon1:3:11): (pentagon1x15x243:3:11)
+Found shift from (pentagon1x1534:3:11) to (pentagon1x15x243:3:11)
+(pentagon1x1534:3:11)=>(pentagon1:3:11): (pentagon1x15x243:3:11)
+Found shift from (pentagon1x15342:3:11) to (pentagon1x15:3:11)
+(pentagon1x15342:3:11)=>(pentagon1:3:11): (pentagon1x15:3:11)
+Found shift from (pentagon1x154:3:11) to (pentagon1x15:3:11)
+(pentagon1x154:3:11)=>(pentagon1:3:11): (pentagon1x15:3:11)
+Found shift from (pentagon1x154x23:3:11) to (pentagon1x15:3:11)
+(pentagon1x154x23:3:11)=>(pentagon1:3:11): (pentagon1x15:3:11)
+Found shift from (pentagon1x1542:3:11) to (pentagon1x15x243:3:11)
+(pentagon1x1542:3:11)=>(pentagon1:3:11): (pentagon1x15x243:3:11)
+Found shift from (pentagon1x15423:3:11) to (pentagon1x15x243:3:11)
+(pentagon1x15423:3:11)=>(pentagon1:3:11): (pentagon1x15x243:3:11)
+Found shift from (pentagon1x1543:3:11) to (pentagon1x15x234:3:11)
+(pentagon1x1543:3:11)=>(pentagon1:3:11): (pentagon1x15x234:3:11)
+Found shift from (pentagon1x15432:3:11) to (pentagon1x15x234:3:11)
+(pentagon1x15432:3:11)=>(pentagon1:3:11): (pentagon1x15x234:3:11)
+Found shift from (pentagon1x23:3:11) to (pentagon1:3:11)
+(pentagon1x23:3:11)=>(pentagon1:3:11): (pentagon1:3:11)
+Found shift from (pentagon1x23x45:3:11) to (pentagon1:3:11)
+(pentagon1x23x45:3:11)=>(pentagon1:3:11): (pentagon1:3:11)
+Found shift from (pentagon1x2345:3:11) to (pentagon1x234:3:11)
+(pentagon1x2345:3:11)=>(pentagon1:3:11): (pentagon1x234:3:11)
+Found shift from (pentagon1x2354:3:11) to (pentagon1x235:3:11)
+(pentagon1x2354:3:11)=>(pentagon1:3:11): (pentagon1x235:3:11)
+Found shift from (pentagon1x24:3:11) to (pentagon1x234:3:11)
+(pentagon1x24:3:11)=>(pentagon1:3:11): (pentagon1x234:3:11)
+Found shift from (pentagon1x24x35:3:11) to (pentagon1:3:11)
+(pentagon1x24x35:3:11)=>(pentagon1:3:11): (pentagon1:3:11)
+Found shift from (pentagon1x243:3:11) to (pentagon1x235:3:11)
+(pentagon1x243:3:11)=>(pentagon1:3:11): (pentagon1x235:3:11)
+Found shift from (pentagon1x2435:3:11) to (pentagon1:3:11)
+(pentagon1x2435:3:11)=>(pentagon1:3:11): (pentagon1:3:11)
+Found shift from (pentagon1x245:3:11) to (pentagon1x234:3:11)
+(pentagon1x245:3:11)=>(pentagon1:3:11): (pentagon1x234:3:11)
+Found shift from (pentagon1x2453:3:11) to (pentagon1x235:3:11)
+(pentagon1x2453:3:11)=>(pentagon1:3:11): (pentagon1x235:3:11)
+Found shift from (pentagon1x25:3:11) to (pentagon1x235:3:11)
+(pentagon1x25:3:11)=>(pentagon1:3:11): (pentagon1x235:3:11)
+Found shift from (pentagon1x25x34:3:11) to (pentagon1:3:11)
+(pentagon1x25x34:3:11)=>(pentagon1:3:11): (pentagon1:3:11)
+Found shift from (pentagon1x253:3:11) to (pentagon1x234:3:11)
+(pentagon1x253:3:11)=>(pentagon1:3:11): (pentagon1x234:3:11)
+Found shift from (pentagon1x2534:3:11) to (pentagon1:3:11)
+(pentagon1x2534:3:11)=>(pentagon1:3:11): (pentagon1:3:11)
+Found shift from (pentagon1x254:3:11) to (pentagon1x235:3:11)
+(pentagon1x254:3:11)=>(pentagon1:3:11): (pentagon1x235:3:11)
+Found shift from (pentagon1x2543:3:11) to (pentagon1x234:3:11)
+(pentagon1x2543:3:11)=>(pentagon1:3:11): (pentagon1x234:3:11)
+Found shift from (pentagon1x34:3:11) to (pentagon1x235:3:11)
+(pentagon1x34:3:11)=>(pentagon1:3:11): (pentagon1x235:3:11)
+Found shift from (pentagon1x345:3:11) to (pentagon1x235:3:11)
+(pentagon1x345:3:11)=>(pentagon1:3:11): (pentagon1x235:3:11)
+Found shift from (pentagon1x35:3:11) to (pentagon1x234:3:11)
+(pentagon1x35:3:11)=>(pentagon1:3:11): (pentagon1x234:3:11)
+Found shift from (pentagon1x354:3:11) to (pentagon1x234:3:11)
+(pentagon1x354:3:11)=>(pentagon1:3:11): (pentagon1x234:3:11)
+Found shift from (pentagon1x45:3:11) to (pentagon1:3:11)
+(pentagon1x45:3:11)=>(pentagon1:3:11): (pentagon1:3:11)
+*******Found shift from (pentagon1x12x345:4:15) to (pentagon1x12x34:4:15)
+(pentagon1x12x345:4:15)=>(pentagon1:4:15): (pentagon1x12x34:4:15)
+Found shift from (pentagon1x12x354:4:15) to (pentagon1x12x35:4:15)
+(pentagon1x12x354:4:15)=>(pentagon1:4:15): (pentagon1x12x35:4:15)
+Found shift from (pentagon1x12x45:4:15) to (pentagon1x12:4:15)
+(pentagon1x12x45:4:15)=>(pentagon1:4:15): (pentagon1x12:4:15)
+Found shift from (pentagon1x123x45:4:15) to (pentagon1x123:4:15)
+(pentagon1x123x45:4:15)=>(pentagon1:4:15): (pentagon1x123:4:15)
+Found shift from (pentagon1x12345:4:15) to (pentagon1x1234:4:15)
+(pentagon1x12345:4:15)=>(pentagon1:4:15): (pentagon1x1234:4:15)
+Found shift from (pentagon1x12354:4:15) to (pentagon1x1235:4:15)
+(pentagon1x12354:4:15)=>(pentagon1:4:15): (pentagon1x1235:4:15)
+Found shift from (pentagon1x12435:4:15) to (pentagon1x124x35:4:15)
+(pentagon1x12435:4:15)=>(pentagon1:4:15): (pentagon1x124x35:4:15)
+Found shift from (pentagon1x1245:4:15) to (pentagon1x124:4:15)
+(pentagon1x1245:4:15)=>(pentagon1:4:15): (pentagon1x124:4:15)
+Found shift from (pentagon1x12453:4:15) to (pentagon1x1243:4:15)
+(pentagon1x12453:4:15)=>(pentagon1:4:15): (pentagon1x1243:4:15)
+Found shift from (pentagon1x12534:4:15) to (pentagon1x125x34:4:15)
+(pentagon1x12534:4:15)=>(pentagon1:4:15): (pentagon1x125x34:4:15)
+Found shift from (pentagon1x1254:4:15) to (pentagon1x125:4:15)
+(pentagon1x1254:4:15)=>(pentagon1:4:15): (pentagon1x125:4:15)
+Found shift from (pentagon1x12543:4:15) to (pentagon1x1253:4:15)
+(pentagon1x12543:4:15)=>(pentagon1:4:15): (pentagon1x1253:4:15)
+Found shift from (pentagon1x13:4:15) to (pentagon1:4:15)
+(pentagon1x13:4:15)=>(pentagon1:4:15): (pentagon1:4:15)
+Found shift from (pentagon1x13x245:4:15) to (pentagon1x13x24:4:15)
+(pentagon1x13x245:4:15)=>(pentagon1:4:15): (pentagon1x13x24:4:15)
+Found shift from (pentagon1x13x254:4:15) to (pentagon1x13x25:4:15)
+(pentagon1x13x254:4:15)=>(pentagon1:4:15): (pentagon1x13x25:4:15)
+Found shift from (pentagon1x13x45:4:15) to (pentagon1:4:15)
+(pentagon1x13x45:4:15)=>(pentagon1:4:15): (pentagon1:4:15)
+Found shift from (pentagon1x132:4:15) to (pentagon1x12:4:15)
+(pentagon1x132:4:15)=>(pentagon1:4:15): (pentagon1x12:4:15)
+Found shift from (pentagon1x132x45:4:15) to (pentagon1x12:4:15)
+(pentagon1x132x45:4:15)=>(pentagon1:4:15): (pentagon1x12:4:15)
+Found shift from (pentagon1x1324:4:15) to (pentagon1x124:4:15)
+(pentagon1x1324:4:15)=>(pentagon1:4:15): (pentagon1x124:4:15)
+Found shift from (pentagon1x13245:4:15) to (pentagon1x124:4:15)
+(pentagon1x13245:4:15)=>(pentagon1:4:15): (pentagon1x124:4:15)
+Found shift from (pentagon1x1325:4:15) to (pentagon1x125:4:15)
+(pentagon1x1325:4:15)=>(pentagon1:4:15): (pentagon1x125:4:15)
+Found shift from (pentagon1x13254:4:15) to (pentagon1x125:4:15)
+(pentagon1x13254:4:15)=>(pentagon1:4:15): (pentagon1x125:4:15)
+Found shift from (pentagon1x13425:4:15) to (pentagon1x134x25:4:15)
+(pentagon1x13425:4:15)=>(pentagon1:4:15): (pentagon1x134x25:4:15)
+Found shift from (pentagon1x1345:4:15) to (pentagon1x134:4:15)
+(pentagon1x1345:4:15)=>(pentagon1:4:15): (pentagon1x134:4:15)
+Found shift from (pentagon1x13452:4:15) to (pentagon1x1342:4:15)
+(pentagon1x13452:4:15)=>(pentagon1:4:15): (pentagon1x1342:4:15)
+Found shift from (pentagon1x13524:4:15) to (pentagon1x135x24:4:15)
+(pentagon1x13524:4:15)=>(pentagon1:4:15): (pentagon1x135x24:4:15)
+Found shift from (pentagon1x1354:4:15) to (pentagon1x135:4:15)
+(pentagon1x1354:4:15)=>(pentagon1:4:15): (pentagon1x135:4:15)
+Found shift from (pentagon1x13542:4:15) to (pentagon1x1352:4:15)
+(pentagon1x13542:4:15)=>(pentagon1:4:15): (pentagon1x1352:4:15)
+Found shift from (pentagon1x14:4:15) to (pentagon1x134:4:15)
+(pentagon1x14:4:15)=>(pentagon1:4:15): (pentagon1x134:4:15)
+Found shift from (pentagon1x14x23:4:15) to (pentagon1x1234:4:15)
+(pentagon1x14x23:4:15)=>(pentagon1:4:15): (pentagon1x1234:4:15)
+Found shift from (pentagon1x14x25:4:15) to (pentagon1x134x25:4:15)
+(pentagon1x14x25:4:15)=>(pentagon1:4:15): (pentagon1x134x25:4:15)
+Found shift from (pentagon1x14x253:4:15) to (pentagon1x125x34:4:15)
+(pentagon1x14x253:4:15)=>(pentagon1:4:15): (pentagon1x125x34:4:15)
+Found shift from (pentagon1x142:4:15) to (pentagon1x1342:4:15)
+(pentagon1x142:4:15)=>(pentagon1:4:15): (pentagon1x1342:4:15)
+Found shift from (pentagon1x14235:4:15) to (pentagon1x14x235:4:15)
+(pentagon1x14235:4:15)=>(pentagon1:4:15): (pentagon1x14x235:4:15)
+Found shift from (pentagon1x1425:4:15) to (pentagon1x134x25:4:15)
+(pentagon1x1425:4:15)=>(pentagon1:4:15): (pentagon1x134x25:4:15)
+Found shift from (pentagon1x143x25:4:15) to (pentagon1x14253:4:15)
+(pentagon1x143x25:4:15)=>(pentagon1:4:15): (pentagon1x14253:4:15)
+Found shift from (pentagon1x1432:4:15) to (pentagon1x12x34:4:15)
+(pentagon1x1432:4:15)=>(pentagon1:4:15): (pentagon1x12x34:4:15)
+Found shift from (pentagon1x14325:4:15) to (pentagon1x125x34:4:15)
+(pentagon1x14325:4:15)=>(pentagon1:4:15): (pentagon1x125x34:4:15)
+Found shift from (pentagon1x1435:4:15) to (pentagon1x14x35:4:15)
+(pentagon1x1435:4:15)=>(pentagon1:4:15): (pentagon1x14x35:4:15)
+Found shift from (pentagon1x14352:4:15) to (pentagon1x142x35:4:15)
+(pentagon1x14352:4:15)=>(pentagon1:4:15): (pentagon1x142x35:4:15)
+Found shift from (pentagon1x145:4:15) to (pentagon1x134:4:15)
+(pentagon1x145:4:15)=>(pentagon1:4:15): (pentagon1x134:4:15)
+Found shift from (pentagon1x145x23:4:15) to (pentagon1x1234:4:15)
+(pentagon1x145x23:4:15)=>(pentagon1:4:15): (pentagon1x1234:4:15)
+Found shift from (pentagon1x1452:4:15) to (pentagon1x1342:4:15)
+(pentagon1x1452:4:15)=>(pentagon1:4:15): (pentagon1x1342:4:15)
+Found shift from (pentagon1x14523:4:15) to (pentagon1x1423:4:15)
+(pentagon1x14523:4:15)=>(pentagon1:4:15): (pentagon1x1423:4:15)
+Found shift from (pentagon1x1453:4:15) to (pentagon1x143:4:15)
+(pentagon1x1453:4:15)=>(pentagon1:4:15): (pentagon1x143:4:15)
+Found shift from (pentagon1x14532:4:15) to (pentagon1x12x34:4:15)
+(pentagon1x14532:4:15)=>(pentagon1:4:15): (pentagon1x12x34:4:15)
+Found shift from (pentagon1x15:4:15) to (pentagon1x135:4:15)
+(pentagon1x15:4:15)=>(pentagon1:4:15): (pentagon1x135:4:15)
+Found shift from (pentagon1x15x23:4:15) to (pentagon1x1235:4:15)
+(pentagon1x15x23:4:15)=>(pentagon1:4:15): (pentagon1x1235:4:15)
+Found shift from (pentagon1x15x234:4:15) to (pentagon1x14x235:4:15)
+(pentagon1x15x234:4:15)=>(pentagon1:4:15): (pentagon1x14x235:4:15)
+Found shift from (pentagon1x15x24:4:15) to (pentagon1x135x24:4:15)
+(pentagon1x15x24:4:15)=>(pentagon1:4:15): (pentagon1x135x24:4:15)
+Found shift from (pentagon1x15x243:4:15) to (pentagon1x124x35:4:15)
+(pentagon1x15x243:4:15)=>(pentagon1:4:15): (pentagon1x124x35:4:15)
+Found shift from (pentagon1x15x34:4:15) to (pentagon1x14x35:4:15)
+(pentagon1x15x34:4:15)=>(pentagon1:4:15): (pentagon1x14x35:4:15)
+Found shift from (pentagon1x152:4:15) to (pentagon1x1352:4:15)
+(pentagon1x152:4:15)=>(pentagon1:4:15): (pentagon1x1352:4:15)
+Found shift from (pentagon1x152x34:4:15) to (pentagon1x142x35:4:15)
+(pentagon1x152x34:4:15)=>(pentagon1:4:15): (pentagon1x142x35:4:15)
+Found shift from (pentagon1x15234:4:15) to (pentagon1x14x235:4:15)
+(pentagon1x15234:4:15)=>(pentagon1:4:15): (pentagon1x14x235:4:15)
+Found shift from (pentagon1x1524:4:15) to (pentagon1x135x24:4:15)
+(pentagon1x1524:4:15)=>(pentagon1:4:15): (pentagon1x135x24:4:15)
+Found shift from (pentagon1x153x24:4:15) to (pentagon1x15243:4:15)
+(pentagon1x153x24:4:15)=>(pentagon1:4:15): (pentagon1x15243:4:15)
+Found shift from (pentagon1x1532:4:15) to (pentagon1x12x35:4:15)
+(pentagon1x1532:4:15)=>(pentagon1:4:15): (pentagon1x12x35:4:15)
+Found shift from (pentagon1x15324:4:15) to (pentagon1x124x35:4:15)
+(pentagon1x15324:4:15)=>(pentagon1:4:15): (pentagon1x124x35:4:15)
+Found shift from (pentagon1x1534:4:15) to (pentagon1x14x35:4:15)
+(pentagon1x1534:4:15)=>(pentagon1:4:15): (pentagon1x14x35:4:15)
+Found shift from (pentagon1x15342:4:15) to (pentagon1x142x35:4:15)
+(pentagon1x15342:4:15)=>(pentagon1:4:15): (pentagon1x142x35:4:15)
+Found shift from (pentagon1x154:4:15) to (pentagon1x135:4:15)
+(pentagon1x154:4:15)=>(pentagon1:4:15): (pentagon1x135:4:15)
+Found shift from (pentagon1x154x23:4:15) to (pentagon1x1235:4:15)
+(pentagon1x154x23:4:15)=>(pentagon1:4:15): (pentagon1x1235:4:15)
+Found shift from (pentagon1x1542:4:15) to (pentagon1x1352:4:15)
+(pentagon1x1542:4:15)=>(pentagon1:4:15): (pentagon1x1352:4:15)
+Found shift from (pentagon1x15423:4:15) to (pentagon1x1523:4:15)
+(pentagon1x15423:4:15)=>(pentagon1:4:15): (pentagon1x1523:4:15)
+Found shift from (pentagon1x1543:4:15) to (pentagon1x153:4:15)
+(pentagon1x1543:4:15)=>(pentagon1:4:15): (pentagon1x153:4:15)
+Found shift from (pentagon1x15432:4:15) to (pentagon1x12x35:4:15)
+(pentagon1x15432:4:15)=>(pentagon1:4:15): (pentagon1x12x35:4:15)
+Found shift from (pentagon1x23:4:15) to (pentagon1x123:4:15)
+(pentagon1x23:4:15)=>(pentagon1:4:15): (pentagon1x123:4:15)
+Found shift from (pentagon1x23x45:4:15) to (pentagon1x123:4:15)
+(pentagon1x23x45:4:15)=>(pentagon1:4:15): (pentagon1x123:4:15)
+Found shift from (pentagon1x234:4:15) to (pentagon1x1423:4:15)
+(pentagon1x234:4:15)=>(pentagon1:4:15): (pentagon1x1423:4:15)
+Found shift from (pentagon1x2345:4:15) to (pentagon1x1423:4:15)
+(pentagon1x2345:4:15)=>(pentagon1:4:15): (pentagon1x1423:4:15)
+Found shift from (pentagon1x235:4:15) to (pentagon1x1523:4:15)
+(pentagon1x235:4:15)=>(pentagon1:4:15): (pentagon1x1523:4:15)
+Found shift from (pentagon1x2354:4:15) to (pentagon1x1523:4:15)
+(pentagon1x2354:4:15)=>(pentagon1:4:15): (pentagon1x1523:4:15)
+Found shift from (pentagon1x24:4:15) to (pentagon1x13x24:4:15)
+(pentagon1x24:4:15)=>(pentagon1:4:15): (pentagon1x13x24:4:15)
+Found shift from (pentagon1x24x35:4:15) to (pentagon1x15243:4:15)
+(pentagon1x24x35:4:15)=>(pentagon1:4:15): (pentagon1x15243:4:15)
+Found shift from (pentagon1x243:4:15) to (pentagon1x1243:4:15)
+(pentagon1x243:4:15)=>(pentagon1:4:15): (pentagon1x1243:4:15)
+Found shift from (pentagon1x2435:4:15) to (pentagon1x15243:4:15)
+(pentagon1x2435:4:15)=>(pentagon1:4:15): (pentagon1x15243:4:15)
+Found shift from (pentagon1x245:4:15) to (pentagon1x13x24:4:15)
+(pentagon1x245:4:15)=>(pentagon1:4:15): (pentagon1x13x24:4:15)
+Found shift from (pentagon1x2453:4:15) to (pentagon1x1243:4:15)
+(pentagon1x2453:4:15)=>(pentagon1:4:15): (pentagon1x1243:4:15)
+Found shift from (pentagon1x25:4:15) to (pentagon1x13x25:4:15)
+(pentagon1x25:4:15)=>(pentagon1:4:15): (pentagon1x13x25:4:15)
+Found shift from (pentagon1x25x34:4:15) to (pentagon1x14253:4:15)
+(pentagon1x25x34:4:15)=>(pentagon1:4:15): (pentagon1x14253:4:15)
+Found shift from (pentagon1x253:4:15) to (pentagon1x1253:4:15)
+(pentagon1x253:4:15)=>(pentagon1:4:15): (pentagon1x1253:4:15)
+Found shift from (pentagon1x2534:4:15) to (pentagon1x14253:4:15)
+(pentagon1x2534:4:15)=>(pentagon1:4:15): (pentagon1x14253:4:15)
+Found shift from (pentagon1x254:4:15) to (pentagon1x13x25:4:15)
+(pentagon1x254:4:15)=>(pentagon1:4:15): (pentagon1x13x25:4:15)
+Found shift from (pentagon1x2543:4:15) to (pentagon1x1253:4:15)
+(pentagon1x2543:4:15)=>(pentagon1:4:15): (pentagon1x1253:4:15)
+Found shift from (pentagon1x34:4:15) to (pentagon1x143:4:15)
+(pentagon1x34:4:15)=>(pentagon1:4:15): (pentagon1x143:4:15)
+Found shift from (pentagon1x345:4:15) to (pentagon1x143:4:15)
+(pentagon1x345:4:15)=>(pentagon1:4:15): (pentagon1x143:4:15)
+Found shift from (pentagon1x35:4:15) to (pentagon1x153:4:15)
+(pentagon1x35:4:15)=>(pentagon1:4:15): (pentagon1x153:4:15)
+Found shift from (pentagon1x354:4:15) to (pentagon1x153:4:15)
+(pentagon1x354:4:15)=>(pentagon1:4:15): (pentagon1x153:4:15)
+Found shift from (pentagon1x45:4:15) to (pentagon1:4:15)
+(pentagon1x45:4:15)=>(pentagon1:4:15): (pentagon1:4:15)
+*******Found shift from (pentagon1x12x35:5:31) to (pentagon1:5:31)
+(pentagon1x12x35:5:31)=>(pentagon1:5:31): (pentagon1:5:31)
+Found shift from (pentagon1x12345:5:31) to (pentagon1:5:31)
+(pentagon1x12345:5:31)=>(pentagon1:5:31): (pentagon1:5:31)
+Found shift from (pentagon1x1235:5:31) to (pentagon1x12x345:5:31)
+(pentagon1x1235:5:31)=>(pentagon1:5:31): (pentagon1x12x345:5:31)
+Found shift from (pentagon1x124x35:5:31) to (pentagon1x123x45:5:31)
+(pentagon1x124x35:5:31)=>(pentagon1:5:31): (pentagon1x123x45:5:31)
+Found shift from (pentagon1x12435:5:31) to (pentagon1x12x45:5:31)
+(pentagon1x12435:5:31)=>(pentagon1:5:31): (pentagon1x12x45:5:31)
+Found shift from (pentagon1x1245:5:31) to (pentagon1x12x354:5:31)
+(pentagon1x1245:5:31)=>(pentagon1:5:31): (pentagon1x12x354:5:31)
+Found shift from (pentagon1x12453:5:31) to (pentagon1x12354:5:31)
+(pentagon1x12453:5:31)=>(pentagon1:5:31): (pentagon1x12354:5:31)
+Found shift from (pentagon1x125:5:31) to (pentagon1x12x34:5:31)
+(pentagon1x125:5:31)=>(pentagon1:5:31): (pentagon1x12x34:5:31)
+Found shift from (pentagon1x125x34:5:31) to (pentagon1x12:5:31)
+(pentagon1x125x34:5:31)=>(pentagon1:5:31): (pentagon1x12:5:31)
+Found shift from (pentagon1x1253:5:31) to (pentagon1x1234:5:31)
+(pentagon1x1253:5:31)=>(pentagon1:5:31): (pentagon1x1234:5:31)
+Found shift from (pentagon1x12534:5:31) to (pentagon1x123:5:31)
+(pentagon1x12534:5:31)=>(pentagon1:5:31): (pentagon1x123:5:31)
+Found shift from (pentagon1x1254:5:31) to (pentagon1x1243:5:31)
+(pentagon1x1254:5:31)=>(pentagon1:5:31): (pentagon1x1243:5:31)
+Found shift from (pentagon1x12543:5:31) to (pentagon1x124:5:31)
+(pentagon1x12543:5:31)=>(pentagon1:5:31): (pentagon1x124:5:31)
+Found shift from (pentagon1x13:5:31) to (pentagon1x12x345:5:31)
+(pentagon1x13:5:31)=>(pentagon1:5:31): (pentagon1x12x345:5:31)
+Found shift from (pentagon1x13x24:5:31) to (pentagon1x12x34:5:31)
+(pentagon1x13x24:5:31)=>(pentagon1:5:31): (pentagon1x12x34:5:31)
+Found shift from (pentagon1x13x245:5:31) to (pentagon1x1234:5:31)
+(pentagon1x13x245:5:31)=>(pentagon1:5:31): (pentagon1x1234:5:31)
+Found shift from (pentagon1x13x25:5:31) to (pentagon1x12354:5:31)
+(pentagon1x13x25:5:31)=>(pentagon1:5:31): (pentagon1x12354:5:31)
+Found shift from (pentagon1x13x254:5:31) to (pentagon1x12x354:5:31)
+(pentagon1x13x254:5:31)=>(pentagon1:5:31): (pentagon1x12x354:5:31)
+Found shift from (pentagon1x13x45:5:31) to (pentagon1:5:31)
+(pentagon1x13x45:5:31)=>(pentagon1:5:31): (pentagon1:5:31)
+Found shift from (pentagon1x132:5:31) to (pentagon1x12x45:5:31)
+(pentagon1x132:5:31)=>(pentagon1:5:31): (pentagon1x12x45:5:31)
+Found shift from (pentagon1x132x45:5:31) to (pentagon1x12:5:31)
+(pentagon1x132x45:5:31)=>(pentagon1:5:31): (pentagon1x12:5:31)
+Found shift from (pentagon1x1324:5:31) to (pentagon1x12x354:5:31)
+(pentagon1x1324:5:31)=>(pentagon1:5:31): (pentagon1x12x354:5:31)
+Found shift from (pentagon1x13245:5:31) to (pentagon1x124:5:31)
+(pentagon1x13245:5:31)=>(pentagon1:5:31): (pentagon1x124:5:31)
+Found shift from (pentagon1x1325:5:31) to (pentagon1x1243:5:31)
+(pentagon1x1325:5:31)=>(pentagon1:5:31): (pentagon1x1243:5:31)
+Found shift from (pentagon1x13254:5:31) to (pentagon1x12x34:5:31)
+(pentagon1x13254:5:31)=>(pentagon1:5:31): (pentagon1x12x34:5:31)
+Found shift from (pentagon1x134:5:31) to (pentagon1x12354:5:31)
+(pentagon1x134:5:31)=>(pentagon1:5:31): (pentagon1x12354:5:31)
+Found shift from (pentagon1x134x25:5:31) to (pentagon1x12x345:5:31)
+(pentagon1x134x25:5:31)=>(pentagon1:5:31): (pentagon1x12x345:5:31)
+Found shift from (pentagon1x1342:5:31) to (pentagon1x1243:5:31)
+(pentagon1x1342:5:31)=>(pentagon1:5:31): (pentagon1x1243:5:31)
+Found shift from (pentagon1x13425:5:31) to (pentagon1x12x45:5:31)
+(pentagon1x13425:5:31)=>(pentagon1:5:31): (pentagon1x12x45:5:31)
+Found shift from (pentagon1x1345:5:31) to (pentagon1x123x45:5:31)
+(pentagon1x1345:5:31)=>(pentagon1:5:31): (pentagon1x123x45:5:31)
+Found shift from (pentagon1x13452:5:31) to (pentagon1x123:5:31)
+(pentagon1x13452:5:31)=>(pentagon1:5:31): (pentagon1x123:5:31)
+Found shift from (pentagon1x135:5:31) to (pentagon1x123:5:31)
+(pentagon1x135:5:31)=>(pentagon1:5:31): (pentagon1x123:5:31)
+Found shift from (pentagon1x135x24:5:31) to (pentagon1x12:5:31)
+(pentagon1x135x24:5:31)=>(pentagon1:5:31): (pentagon1x12:5:31)
+Found shift from (pentagon1x1352:5:31) to (pentagon1x123x45:5:31)
+(pentagon1x1352:5:31)=>(pentagon1:5:31): (pentagon1x123x45:5:31)
+Found shift from (pentagon1x13524:5:31) to (pentagon1:5:31)
+(pentagon1x13524:5:31)=>(pentagon1:5:31): (pentagon1:5:31)
+Found shift from (pentagon1x1354:5:31) to (pentagon1x1234:5:31)
+(pentagon1x1354:5:31)=>(pentagon1:5:31): (pentagon1x1234:5:31)
+Found shift from (pentagon1x13542:5:31) to (pentagon1x124:5:31)
+(pentagon1x13542:5:31)=>(pentagon1:5:31): (pentagon1x124:5:31)
+Found shift from (pentagon1x14:5:31) to (pentagon1x123x45:5:31)
+(pentagon1x14:5:31)=>(pentagon1:5:31): (pentagon1x123x45:5:31)
+Found shift from (pentagon1x14x23:5:31) to (pentagon1:5:31)
+(pentagon1x14x23:5:31)=>(pentagon1:5:31): (pentagon1:5:31)
+Found shift from (pentagon1x14x235:5:31) to (pentagon1x12x354:5:31)
+(pentagon1x14x235:5:31)=>(pentagon1:5:31): (pentagon1x12x354:5:31)
+Found shift from (pentagon1x14x25:5:31) to (pentagon1x12x45:5:31)
+(pentagon1x14x25:5:31)=>(pentagon1:5:31): (pentagon1x12x45:5:31)
+Found shift from (pentagon1x14x253:5:31) to (pentagon1x12:5:31)
+(pentagon1x14x253:5:31)=>(pentagon1:5:31): (pentagon1x12:5:31)
+Found shift from (pentagon1x14x35:5:31) to (pentagon1x124:5:31)
+(pentagon1x14x35:5:31)=>(pentagon1:5:31): (pentagon1x124:5:31)
+Found shift from (pentagon1x142:5:31) to (pentagon1x123:5:31)
+(pentagon1x142:5:31)=>(pentagon1:5:31): (pentagon1x123:5:31)
+Found shift from (pentagon1x142x35:5:31) to (pentagon1x1234:5:31)
+(pentagon1x142x35:5:31)=>(pentagon1:5:31): (pentagon1x1234:5:31)
+Found shift from (pentagon1x1423:5:31) to (pentagon1x12:5:31)
+(pentagon1x1423:5:31)=>(pentagon1:5:31): (pentagon1x12:5:31)
+Found shift from (pentagon1x14235:5:31) to (pentagon1x12x34:5:31)
+(pentagon1x14235:5:31)=>(pentagon1:5:31): (pentagon1x12x34:5:31)
+Found shift from (pentagon1x1425:5:31) to (pentagon1x12x345:5:31)
+(pentagon1x1425:5:31)=>(pentagon1:5:31): (pentagon1x12x345:5:31)
+Found shift from (pentagon1x14253:5:31) to (pentagon1:5:31)
+(pentagon1x14253:5:31)=>(pentagon1:5:31): (pentagon1:5:31)
+Found shift from (pentagon1x143:5:31) to (pentagon1x12x45:5:31)
+(pentagon1x143:5:31)=>(pentagon1:5:31): (pentagon1x12x45:5:31)
+Found shift from (pentagon1x143x25:5:31) to (pentagon1x123x45:5:31)
+(pentagon1x143x25:5:31)=>(pentagon1:5:31): (pentagon1x123x45:5:31)
+Found shift from (pentagon1x1432:5:31) to (pentagon1x12x345:5:31)
+(pentagon1x1432:5:31)=>(pentagon1:5:31): (pentagon1x12x345:5:31)
+Found shift from (pentagon1x14325:5:31) to (pentagon1x123:5:31)
+(pentagon1x14325:5:31)=>(pentagon1:5:31): (pentagon1x123:5:31)
+Found shift from (pentagon1x1435:5:31) to (pentagon1x1243:5:31)
+(pentagon1x1435:5:31)=>(pentagon1:5:31): (pentagon1x1243:5:31)
+Found shift from (pentagon1x14352:5:31) to (pentagon1x12354:5:31)
+(pentagon1x14352:5:31)=>(pentagon1:5:31): (pentagon1x12354:5:31)
+Found shift from (pentagon1x145:5:31) to (pentagon1x12354:5:31)
+(pentagon1x145:5:31)=>(pentagon1:5:31): (pentagon1x12354:5:31)
+Found shift from (pentagon1x145x23:5:31) to (pentagon1x1234:5:31)
+(pentagon1x145x23:5:31)=>(pentagon1:5:31): (pentagon1x1234:5:31)
+Found shift from (pentagon1x1452:5:31) to (pentagon1x1243:5:31)
+(pentagon1x1452:5:31)=>(pentagon1:5:31): (pentagon1x1243:5:31)
+Found shift from (pentagon1x14523:5:31) to (pentagon1x124:5:31)
+(pentagon1x14523:5:31)=>(pentagon1:5:31): (pentagon1x124:5:31)
+Found shift from (pentagon1x1453:5:31) to (pentagon1x12x354:5:31)
+(pentagon1x1453:5:31)=>(pentagon1:5:31): (pentagon1x12x354:5:31)
+Found shift from (pentagon1x14532:5:31) to (pentagon1x12x34:5:31)
+(pentagon1x14532:5:31)=>(pentagon1:5:31): (pentagon1x12x34:5:31)
+Found shift from (pentagon1x15:5:31) to (pentagon1x1234:5:31)
+(pentagon1x15:5:31)=>(pentagon1:5:31): (pentagon1x1234:5:31)
+Found shift from (pentagon1x15x23:5:31) to (pentagon1x12354:5:31)
+(pentagon1x15x23:5:31)=>(pentagon1:5:31): (pentagon1x12354:5:31)
+Found shift from (pentagon1x15x234:5:31) to (pentagon1x12x354:5:31)
+(pentagon1x15x234:5:31)=>(pentagon1:5:31): (pentagon1x12x354:5:31)
+Found shift from (pentagon1x15x24:5:31) to (pentagon1:5:31)
+(pentagon1x15x24:5:31)=>(pentagon1:5:31): (pentagon1:5:31)
+Found shift from (pentagon1x15x243:5:31) to (pentagon1x123x45:5:31)
+(pentagon1x15x243:5:31)=>(pentagon1:5:31): (pentagon1x123x45:5:31)
+Found shift from (pentagon1x15x34:5:31) to (pentagon1x124:5:31)
+(pentagon1x15x34:5:31)=>(pentagon1:5:31): (pentagon1x124:5:31)
+Found shift from (pentagon1x152:5:31) to (pentagon1x124:5:31)
+(pentagon1x152:5:31)=>(pentagon1:5:31): (pentagon1x124:5:31)
+Found shift from (pentagon1x152x34:5:31) to (pentagon1x1234:5:31)
+(pentagon1x152x34:5:31)=>(pentagon1:5:31): (pentagon1x1234:5:31)
+Found shift from (pentagon1x1523:5:31) to (pentagon1x1243:5:31)
+(pentagon1x1523:5:31)=>(pentagon1:5:31): (pentagon1x1243:5:31)
+Found shift from (pentagon1x15234:5:31) to (pentagon1x12x34:5:31)
+(pentagon1x15234:5:31)=>(pentagon1:5:31): (pentagon1x12x34:5:31)
+Found shift from (pentagon1x1524:5:31) to (pentagon1x12:5:31)
+(pentagon1x1524:5:31)=>(pentagon1:5:31): (pentagon1x12:5:31)
+Found shift from (pentagon1x15243:5:31) to (pentagon1x123:5:31)
+(pentagon1x15243:5:31)=>(pentagon1:5:31): (pentagon1x123:5:31)
+Found shift from (pentagon1x153:5:31) to (pentagon1x12x34:5:31)
+(pentagon1x153:5:31)=>(pentagon1:5:31): (pentagon1x12x34:5:31)
+Found shift from (pentagon1x153x24:5:31) to (pentagon1x12x345:5:31)
+(pentagon1x153x24:5:31)=>(pentagon1:5:31): (pentagon1x12x345:5:31)
+Found shift from (pentagon1x1532:5:31) to (pentagon1x12x354:5:31)
+(pentagon1x1532:5:31)=>(pentagon1:5:31): (pentagon1x12x354:5:31)
+Found shift from (pentagon1x15324:5:31) to (pentagon1x12x45:5:31)
+(pentagon1x15324:5:31)=>(pentagon1:5:31): (pentagon1x12x45:5:31)
+Found shift from (pentagon1x1534:5:31) to (pentagon1x1243:5:31)
+(pentagon1x1534:5:31)=>(pentagon1:5:31): (pentagon1x1243:5:31)
+Found shift from (pentagon1x15342:5:31) to (pentagon1x12354:5:31)
+(pentagon1x15342:5:31)=>(pentagon1:5:31): (pentagon1x12354:5:31)
+Found shift from (pentagon1x154:5:31) to (pentagon1x123:5:31)
+(pentagon1x154:5:31)=>(pentagon1:5:31): (pentagon1x123:5:31)
+Found shift from (pentagon1x154x23:5:31) to (pentagon1x12x345:5:31)
+(pentagon1x154x23:5:31)=>(pentagon1:5:31): (pentagon1x12x345:5:31)
+Found shift from (pentagon1x1542:5:31) to (pentagon1x123x45:5:31)
+(pentagon1x1542:5:31)=>(pentagon1:5:31): (pentagon1x123x45:5:31)
+Found shift from (pentagon1x15423:5:31) to (pentagon1x12x45:5:31)
+(pentagon1x15423:5:31)=>(pentagon1:5:31): (pentagon1x12x45:5:31)
+Found shift from (pentagon1x1543:5:31) to (pentagon1x12:5:31)
+(pentagon1x1543:5:31)=>(pentagon1:5:31): (pentagon1x12:5:31)
+Found shift from (pentagon1x15432:5:31) to (pentagon1:5:31)
+(pentagon1x15432:5:31)=>(pentagon1:5:31): (pentagon1:5:31)
+Found shift from (pentagon1x23:5:31) to (pentagon1x123x45:5:31)
+(pentagon1x23:5:31)=>(pentagon1:5:31): (pentagon1x123x45:5:31)
+Found shift from (pentagon1x23x45:5:31) to (pentagon1x123:5:31)
+(pentagon1x23x45:5:31)=>(pentagon1:5:31): (pentagon1x123:5:31)
+Found shift from (pentagon1x234:5:31) to (pentagon1x124:5:31)
+(pentagon1x234:5:31)=>(pentagon1:5:31): (pentagon1x124:5:31)
+Found shift from (pentagon1x2345:5:31) to (pentagon1x12:5:31)
+(pentagon1x2345:5:31)=>(pentagon1:5:31): (pentagon1x12:5:31)
+Found shift from (pentagon1x235:5:31) to (pentagon1x12x45:5:31)
+(pentagon1x235:5:31)=>(pentagon1:5:31): (pentagon1x12x45:5:31)
+Found shift from (pentagon1x2354:5:31) to (pentagon1x1243:5:31)
+(pentagon1x2354:5:31)=>(pentagon1:5:31): (pentagon1x1243:5:31)
+Found shift from (pentagon1x24:5:31) to (pentagon1x1234:5:31)
+(pentagon1x24:5:31)=>(pentagon1:5:31): (pentagon1x1234:5:31)
+Found shift from (pentagon1x24x35:5:31) to (pentagon1x123:5:31)
+(pentagon1x24x35:5:31)=>(pentagon1:5:31): (pentagon1x123:5:31)
+Found shift from (pentagon1x243:5:31) to (pentagon1x12354:5:31)
+(pentagon1x243:5:31)=>(pentagon1:5:31): (pentagon1x12354:5:31)
+Found shift from (pentagon1x2435:5:31) to (pentagon1x12x345:5:31)
+(pentagon1x2435:5:31)=>(pentagon1:5:31): (pentagon1x12x345:5:31)
+Found shift from (pentagon1x245:5:31) to (pentagon1x12x34:5:31)
+(pentagon1x245:5:31)=>(pentagon1:5:31): (pentagon1x12x34:5:31)
+Found shift from (pentagon1x2453:5:31) to (pentagon1x1243:5:31)
+(pentagon1x2453:5:31)=>(pentagon1:5:31): (pentagon1x1243:5:31)
+Found shift from (pentagon1x25:5:31) to (pentagon1x12x354:5:31)
+(pentagon1x25:5:31)=>(pentagon1:5:31): (pentagon1x12x354:5:31)
+Found shift from (pentagon1x25x34:5:31) to (pentagon1:5:31)
+(pentagon1x25x34:5:31)=>(pentagon1:5:31): (pentagon1:5:31)
+Found shift from (pentagon1x253:5:31) to (pentagon1x124:5:31)
+(pentagon1x253:5:31)=>(pentagon1:5:31): (pentagon1x124:5:31)
+Found shift from (pentagon1x2534:5:31) to (pentagon1x123x45:5:31)
+(pentagon1x2534:5:31)=>(pentagon1:5:31): (pentagon1x123x45:5:31)
+Found shift from (pentagon1x254:5:31) to (pentagon1x12354:5:31)
+(pentagon1x254:5:31)=>(pentagon1:5:31): (pentagon1x12354:5:31)
+Found shift from (pentagon1x2543:5:31) to (pentagon1x1234:5:31)
+(pentagon1x2543:5:31)=>(pentagon1:5:31): (pentagon1x1234:5:31)
+Found shift from (pentagon1x34:5:31) to (pentagon1x12x354:5:31)
+(pentagon1x34:5:31)=>(pentagon1:5:31): (pentagon1x12x354:5:31)
+Found shift from (pentagon1x345:5:31) to (pentagon1x12x45:5:31)
+(pentagon1x345:5:31)=>(pentagon1:5:31): (pentagon1x12x45:5:31)
+Found shift from (pentagon1x35:5:31) to (pentagon1x12:5:31)
+(pentagon1x35:5:31)=>(pentagon1:5:31): (pentagon1x12:5:31)
+Found shift from (pentagon1x354:5:31) to (pentagon1x12x34:5:31)
+(pentagon1x354:5:31)=>(pentagon1:5:31): (pentagon1x12x34:5:31)
+Found shift from (pentagon1x45:5:31) to (pentagon1x12x345:5:31)
+(pentagon1x45:5:31)=>(pentagon1:5:31): (pentagon1x12x345:5:31)
+*******
+Printing graphs of shift targets in ./graphs/pentagon1/shift_targets/:
+To generate a postscript file from the graphs in the dot format type e.g.
+  dot -Tps -o pentagon1.ps ./graphs/pentagon1/all/pentagon1_*.dot
+  neato -Tps -o pentagon1_shift_targets.ps ./graphs/pentagon1/shift_targets/pentagon1_*.dot
+Printing graphs in mma format to ./graphs/pentagon1/shift_targets.m
+Done setup sector mappings for pentagon1
+Saving sector mappings for pentagon1
+
+
+Job done (total time: 18 s)

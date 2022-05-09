@@ -1,0 +1,322 @@
+
+Date: Mon May  9 14:02:10 2022
+
+
+conditional: false
+qgraf_file: diagram/qqtthoneloop.qgraf.yaml
+output_file: myresults/qqtthoneloop.match.yaml
+info_file_form: myresults/qqtthoneloop.match.info.inc
+names:
+  []
+
+Reading diagrams from file: diagram/qqtthoneloop.qgraf.yaml
+rename negative field indices
+Loaded diagram 1
+rename negative field indices
+Loaded diagram 2
+rename negative field indices
+Loaded diagram 3
+rename negative field indices
+Loaded diagram 4
+rename negative field indices
+Loaded diagram 5
+rename negative field indices
+Loaded diagram 6
+rename negative field indices
+Loaded diagram 7
+rename negative field indices
+Loaded diagram 8
+rename negative field indices
+Loaded diagram 9
+rename negative field indices
+Loaded diagram 10
+rename negative field indices
+Loaded diagram 11
+rename negative field indices
+Loaded diagram 12
+rename negative field indices
+Loaded diagram 13
+rename negative field indices
+Loaded diagram 14
+rename negative field indices
+Loaded diagram 15
+rename negative field indices
+Loaded diagram 16
+rename negative field indices
+Loaded diagram 17
+rename negative field indices
+Loaded diagram 18
+rename negative field indices
+Loaded diagram 19
+rename negative field indices
+Loaded diagram 20
+rename negative field indices
+Loaded diagram 21
+rename negative field indices
+Loaded diagram 22
+rename negative field indices
+Loaded diagram 23
+rename negative field indices
+Loaded diagram 24
+rename negative field indices
+Loaded diagram 25
+rename negative field indices
+Loaded diagram 26
+rename negative field indices
+Loaded diagram 27
+rename negative field indices
+Loaded diagram 28
+rename negative field indices
+Loaded diagram 29
+rename negative field indices
+Loaded diagram 30
+rename negative field indices
+Loaded diagram 31
+Diagrams loaded. Time: 0.041417s
+
+Analyzing topologies of 31 diagrams:
+Analyzing diagram 1
+
+  => matched diagram 1 to (pentagon1:3:21)
+     via shift: {k1==k1}
+read key 'sectormappings' in file './sectormappings/sectormappings_pentagon1.yaml'
+Found valid sector mappings for pentagon1
+     target sector equivalent to (pentagon1x15x234:3:11)
+
+X
+Analyzing diagram 2
+  => matched diagram 2 to (pentagon1:3:21)
+     via shift: {k1==k1}
+     target sector equivalent to (pentagon1x15x234:3:11)
+
+X
+Analyzing diagram 3
+  => matched diagram 3 to (pentagon1x12x34:3:13)
+     via shift: {k1==-p1-k1-p2}
+     target sector equivalent to (pentagon1x1432:3:11)
+
+x
+Analyzing diagram 4
+  => matched diagram 4 to (pentagon1x12x34:3:13)
+     via shift: {k1==-p1-k1-p2}
+     target sector equivalent to (pentagon1x1432:3:11)
+
+x
+Analyzing diagram 5
+  => matched diagram 5 to (pentagon1:3:13)
+     via shift: {k1==-p1-k1-p2}
+     target sector equivalent to (pentagon1x13:3:11)
+
+X
+Analyzing diagram 6
+  => matched diagram 6 to (pentagon1:3:13)
+     via shift: {k1==-p1-k1-p2}
+     target sector equivalent to (pentagon1x13:3:11)
+
+X
+Analyzing diagram 7
+  => matched diagram 7 to (pentagon1x12x34:2:9)
+     via shift: {k1==k1}
+     target sector equivalent to (pentagon1x13425:2:5)
+
+x
+Analyzing diagram 8
+  => matched diagram 8 to (pentagon1:2:9)
+     via shift: {k1==k1}
+     target sector equivalent to (pentagon1x14x25:2:5)
+
+X
+Analyzing diagram 9
+  => matched diagram 9 to (pentagon1:2:5)
+     via shift: {k1==-k1}
+     target sector equivalent to (pentagon1:2:5)
+
+X
+Analyzing diagram 10
+  => matched diagram 10 to (pentagon1:2:5)
+     via shift: {k1==-k1}
+     target sector equivalent to (pentagon1:2:5)
+
+X
+Analyzing diagram 11
+  => matched diagram 11 to (pentagon1:2:5)
+     via shift: {k1==-k1}
+     target sector equivalent to (pentagon1:2:5)
+
+X
+Analyzing diagram 12
+  => matched diagram 12 to (pentagon1:2:5)
+     via shift: {k1==-k1}
+     target sector equivalent to (pentagon1:2:5)
+
+X
+Analyzing diagram 13
+  => matched diagram 13 to (pentagon1:2:5)
+     via shift: {k1==-k1}
+     target sector equivalent to (pentagon1:2:5)
+
+X
+Analyzing diagram 14
+  => matched diagram 14 to (pentagon1:2:5)
+     via shift: {k1==-k1}
+     target sector equivalent to (pentagon1:2:5)
+
+X
+Analyzing diagram 15
+  => matched diagram 15 to (pentagon1:2:5)
+     via shift: {k1==-k1}
+     target sector equivalent to (pentagon1:2:5)
+
+X
+Analyzing diagram 16
+  => matched diagram 16 to (pentagon1:2:5)
+     via shift: {k1==-k1}
+     target sector equivalent to (pentagon1:2:5)
+
+X
+Analyzing diagram 17
+  => matched diagram 17 to (pentagon1x12x34:4:29)
+     via shift: {k1==p4-p1-k1-p2}
+     target sector equivalent to (pentagon1x14x235:4:15)
+
+x
+Analyzing diagram 18
+  => matched diagram 18 to (pentagon1:4:29)
+     via shift: {k1==-p1+p3-k1-p2}
+     target sector equivalent to (pentagon1x135x24:4:15)
+
+X
+Analyzing diagram 19
+  => matched diagram 19 to (pentagon1x12x345:4:29)
+     via shift: {k1==p3+k1}
+     target sector equivalent to (pentagon1x14x25:4:15)
+
+x
+Analyzing diagram 20
+  => matched diagram 20 to (pentagon1x12x34:4:15)
+     via shift: {k1==-k1-p2}
+     target sector equivalent to (pentagon1x12x34:4:15)
+
+x
+Analyzing diagram 21
+  => matched diagram 21 to (pentagon1x12x354:4:23)
+     via shift: {k1==k1+p2}
+     target sector equivalent to (pentagon1x34:4:15)
+
+x
+Analyzing diagram 22
+  => matched diagram 22 to (pentagon1x12:4:15)
+     via shift: {k1==-k1-p2}
+     target sector equivalent to (pentagon1x12:4:15)
+
+x
+Analyzing diagram 23
+  => matched diagram 23 to (pentagon1:4:15)
+     via shift: {k1==-p1-k1}
+     target sector equivalent to (pentagon1:4:15)
+
+X
+Analyzing diagram 24
+  => matched diagram 24 to (pentagon1:3:25)
+     via shift: {k1==-p4+p1-p3+k1+p2}
+     target sector equivalent to (pentagon1x14x25:3:7)
+
+X
+Analyzing diagram 25
+  => matched diagram 25 to (pentagon1x12x34:3:25)
+     via shift: {k1==-p4+p1-p3+k1+p2}
+     target sector equivalent to (pentagon1x13425:3:7)
+
+x
+Analyzing diagram 26
+  => matched diagram 26 to (pentagon1:3:7)
+     via shift: {k1==p1+k1}
+     target sector equivalent to (pentagon1:3:7)
+
+X
+Analyzing diagram 27
+  => matched diagram 27 to (pentagon1:3:7)
+     via shift: {k1==p1+k1}
+     target sector equivalent to (pentagon1:3:7)
+
+X
+Analyzing diagram 28
+  => matched diagram 28 to (pentagon1:3:7)
+     via shift: {k1==p1+k1}
+     target sector equivalent to (pentagon1:3:7)
+
+X
+Analyzing diagram 29
+  => matched diagram 29 to (pentagon1:3:7)
+     via shift: {k1==p1+k1}
+     target sector equivalent to (pentagon1:3:7)
+
+X
+Analyzing diagram 30
+  => matched diagram 30 to (pentagon1x12x45:5:31)
+     via shift: {k1==-k1-p2}
+     target sector equivalent to (pentagon1x12x45:5:31)
+
+x
+Analyzing diagram 31
+  => matched diagram 31 to (pentagon1x12x345:5:31)
+     via shift: {k1==-k1-p2}
+     target sector equivalent to (pentagon1x12x345:5:31)
+
+x
+
+Writing new diagram file: myresults/qqtthoneloop.match.yaml
+
+Matched diagrams: 31
+
+Unmatched diagrams: 0
+
+Sectors: 18
+family pentagon1:
+t = 2: 5 9 
+family pentagon1x12x34:
+t = 2: 9 
+family pentagon1:
+t = 3: 7 13 
+family pentagon1x12x34:
+t = 3: 13 
+family pentagon1:
+t = 3: 21 25 
+family pentagon1x12x34:
+t = 3: 25 
+family pentagon1:
+t = 4: 15 
+family pentagon1x12:
+t = 4: 15 
+family pentagon1x12x34:
+t = 4: 15 
+family pentagon1x12x354:
+t = 4: 23 
+family pentagon1:
+t = 4: 29 
+family pentagon1x12x34:
+t = 4: 29 
+family pentagon1x12x345:
+t = 4: 29 
+t = 5: 31 
+family pentagon1x12x45:
+t = 5: 31 
+
+This selection of sectors should be reduced for the matched diagrams:
+sector_selection:
+  select_all: false
+  select:
+    []
+  select_recursively:
+    - [pentagon1, 31]
+  deselect:
+    []
+  deselect_recursively:
+    []
+  deselect_independents:
+    []
+  deselect_graphless: false
+  deselect_graphs: false
+  t_restriction: [-1, -1]
+
+Job done (total time: 0 s)
