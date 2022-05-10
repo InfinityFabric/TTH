@@ -1,302 +1,61 @@
-10 Fermat/Blackbox instances will be run in parallel.
 Kira found this executable to Fermat: 
 /usr/bin/fer64
 
 One variable is set to 1: {}
-The directories for the temporary files, result files and the sector mapping files are: 
-./tmp
+The input directory is set to:
 ./results
-./sectormappings
-Kira prepares topology: pentagon1 and top level sector: 
-31 
-Following reductions will be performed for the topology: pentagon1
-Sector: 31 rmax: 5 smax: 2 
-
-***********************************************************
-Find IBP LI and symmetry relations for the topology: pentagon1
-***********************************************************
-
-*****Generate IBP identities*******************************
-There are 5 IBP identities
-( 0.003564 s )
-
-*****Generate LI identities********************************
-There are 6 LI identities
-( 0.028595 s )
-
-*****Search trivial sectors********************************
-non trivial sector 5on trivial sector 5 22
-non trivial sector 10n trivial sector 10 2
-non trivial sector 9on trivial sector 9 2
-
-non trivial sector 13n trivial sector 13 3
-
-non trivial sector 7on trivial sector 7 3
-
-non trivial sector 18 8 2
-
-non trivial sector 11n trivial sector 11 3
-
-non trivial sector non trivial sector 14 4 3
-
-non trivial sector non trivial sector 22 3
-
-non trivial sector 19n trivial sector 19 3
-
-non trivial sector 20n trivial sector 20 22
-non trivial sector 26n trivial sector 26 33
-
-non trivial sector 29n trivial sector 29 4
-non trivial sector non trivial sector 25 33
-
-non trivial sector 27 4
-non trivial sector 23 4
-non trivial sector 28 3
-non trivial sector 15 4
-non trivial sector 30 4
-non trivial sector 21 3
-non trivial sector 31 5
-
-Non trivial sectors in total: 21
-Trivial sectors in total: 11
-( 0.0 s )
-
-Search symmetry relations: 
-
-( 0.0 s )
-***********************************************************
-Prepare Symmetries for the topology: pentagon1
-***********************************************************
-Build symmetries for pentagon1 x pentagon1 
-Kira maps this sector 5 to this sector 5
-with external Symmetry 0
-Kira maps this sector 9 to this sector 9
-with external Symmetry 0
-Kira maps this sector 10 to this sector 10
-with external Symmetry 0
-Kira maps this sector 18 to this sector 18
-with external Symmetry 0
-Kira maps this sector 20 to this sector 20
-with external Symmetry 0
-no propagator flow, only for dots: Kira maps this sector 7 to this sector 7
-with external Symmetry 0
-no propagator flow, only for dots: Kira maps this sector 14 to this sector 14
-with external Symmetry 0
-no propagator flow, only for dots: Kira maps this sector 19 to this sector 19
-with external Symmetry 0
-no propagator flow, only for dots: Kira maps this sector 25 to this sector 25
-with external Symmetry 0
-no propagator flow, only for dots: Kira maps this sector 28 to this sector 28
-with external Symmetry 0
-
-Sector relations: 0
-Sector symmetries: 10
-( 0.0 s )
 
 *****Integral ordering*************************************
-VERSION table created successfully
-Kira database version number: 2.1
-WEIGHTBITS table created successfully
-INTEGRALORDERING table created successfully
 Kira will use the integral ordering: 1.
+symbol_to_replace_by_one: x in kinematics.yaml is not set. 
+Mass reconstruction is disabled.
+################################################
+kira2form: Reconstruct results for pentagon1
+################################################
 
-***********************************************************
-Kira starts the reduction of the topology: pentagon1
-***********************************************************
-
-***** Select equations recursively ************************
-length of mandatory list: 1176
 Algebraic reconstruction is switched off.
-988 independent coefficients
-Number of master integrals: 11
-pentagon1[1,0,1,0,0] #  5
-pentagon1[1,0,0,1,0] #  9
-pentagon1[0,1,0,1,0] # 10
-pentagon1[1,1,1,1,0] # 15
-pentagon1[0,1,0,0,1] # 18
-pentagon1[0,0,1,0,1] # 20
-pentagon1[1,1,1,0,1] # 23
-pentagon1[1,1,0,1,1] # 27
-pentagon1[1,0,1,1,1] # 29
-pentagon1[0,1,1,1,1] # 30
-pentagon1[1,1,1,1,1] # 31
-Regenerate:
+This requested integral is a master integral: pentagon1[0,0,1,0,1] # 20
+This requested integral is a master integral: pentagon1[1,0,0,1,0] # 9
+This requested integral is a master integral: pentagon1[1,0,1,0,0] # 5
+This requested integral is a master integral: pentagon1[1,0,1,1,1] # 29
+This requested integral is a master integral: pentagon1[0,0,1,0,1] # 20
+This requested integral is a master integral: pentagon1[0,1,0,1,0] # 10
+This requested integral is a master integral: pentagon1[0,1,1,1,1] # 30
+This requested integral is a master integral: pentagon1[1,0,0,1,0] # 9
+This requested integral is a master integral: pentagon1[1,0,1,0,0] # 5
+This requested integral is a master integral: pentagon1[1,0,1,1,1] # 29
+This requested integral is a master integral: pentagon1[1,1,0,1,1] # 27
+This requested integral is a master integral: pentagon1[1,1,1,0,1] # 23
+This requested integral is a master integral: pentagon1[1,1,1,1,0] # 15
+This requested integral is a master integral: pentagon1[1,1,1,1,1] # 31
+unreduced integrals: 0.
 
-Number of selected equations to reduce: 1285 equations
-( 0.1 s )
-closeCalc: 207333
-closeCalc: 207332
-closeCalc: 207331
-closeCalc: 207330
-closeCalc: 207329
-closeCalc: 207328
-closeCalc: 207327
-closeCalc: 207326
-closeCalc: 207325
-closeCalc: 207324
+closeCalc: 211764
+The input directory is set to:
+./results
+symbol_to_replace_by_one: x in kinematics.yaml is not set. 
+Mass reconstruction is disabled.
+################################################
+kira2math: Reconstruct results for pentagon1
+################################################
+
 Algebraic reconstruction is switched off.
+This requested integral is a master integral: pentagon1[0,0,1,0,1] # 20
+This requested integral is a master integral: pentagon1[1,0,0,1,0] # 9
+This requested integral is a master integral: pentagon1[1,0,1,0,0] # 5
+This requested integral is a master integral: pentagon1[1,0,1,1,1] # 29
+This requested integral is a master integral: pentagon1[0,0,1,0,1] # 20
+This requested integral is a master integral: pentagon1[0,1,0,1,0] # 10
+This requested integral is a master integral: pentagon1[0,1,1,1,1] # 30
+This requested integral is a master integral: pentagon1[1,0,0,1,0] # 9
+This requested integral is a master integral: pentagon1[1,0,1,0,0] # 5
+This requested integral is a master integral: pentagon1[1,0,1,1,1] # 29
+This requested integral is a master integral: pentagon1[1,1,0,1,1] # 27
+This requested integral is a master integral: pentagon1[1,1,1,0,1] # 23
+This requested integral is a master integral: pentagon1[1,1,1,1,0] # 15
+This requested integral is a master integral: pentagon1[1,1,1,1,1] # 31
+unreduced integrals: 0.
 
-***** Select equations recursively ************************
-length of mandatory list: 1176
-
-***** Bring system in triangular form *********************
-
-Iterate the system until it is in triangular form: 
-iteration: 0; items left: 226; time: ( 0.0 s )
-iteration: 1; items left: 136; time: ( 0.0 s )
-iteration: 2; items left: 96; time: ( 0.0 s )
-iteration: 3; items left: 73; time: ( 0.0 s )
-iteration: 4; items left: 58; time: ( 0.0 s )
-iteration: 5; items left: 43; time: ( 0.0 s )
-iteration: 6; items left: 33; time: ( 0.0 s )
-iteration: 7; items left: 28; time: ( 0.0 s )
-iteration: 8; items left: 24; time: ( 0.0 s )
-iteration: 9; items left: 18; time: ( 0.0 s )
-iteration: 10; items left: 12; time: ( 0.0 s )
-iteration: 11; items left: 8; time: ( 0.0 s )
-iteration: 12; items left: 6; time: ( 0.0 s )
-iteration: 13; items left: 3; time: ( 0.0 s )
-iteration: 14; items left: 3; time: ( 0.0 s )
-iteration: 15; items left: 2; time: ( 0.0 s )
-iteration: 16; items left: 1; time: ( 0.0 s )
-redundant: 0; insertions 943
-All coefficients will be normalized
-
-Equations out of bounds rmax and smax: 120
-Equations in the bounds rmax and smax: 1165
-( 0.0 s )
-
-Write the triangular system to ./tmp/ on hard disk
-(--> ./tmp/pentagon1/VERconfig, ./tmp/pentagon1/VER###) 
-
-Triangular form completed after ( 0.0 s )
-closeCalc: 207373
-closeCalc: 207372
-closeCalc: 207371
-closeCalc: 207370
-closeCalc: 207369
-closeCalc: 207368
-closeCalc: 207367
-closeCalc: 207366
-closeCalc: 207365
-closeCalc: 207364
-FIREFLY table created successfully
-Algebraic reconstruction is switched off.
-Equation table created successfully
-
-***** Run the back substitution ***********************
-
-Load all files from ./tmp/
-Take 1165 equations to reduce 1165 missing equations
-
-Back substitution: 
-
-
-Equations reduced: 381 / 1165
-Kira committed results ( 0.1 s )
-
-
-Equations reduced: 401 / 1165
-Kira committed results ( 0.1 s )
-
-
-Equations reduced: 546 / 1165
-Kira committed results ( 0.1 s )
-
-
-Equations reduced: 578 / 1165
-Kira committed results ( 0.2 s )
-
-
-Equations reduced: 604 / 1165
-Kira committed results ( 0.2 s )
-
-
-Equations reduced: 674 / 1165
-Kira committed results ( 0.2 s )
-
-
-Equations reduced: 729 / 1165
-Kira committed results ( 0.3 s )
-
-
-Equations reduced: 802 / 1165
-Kira committed results ( 0.3 s )
-
-
-Equations reduced: 827 / 1165
-Kira committed results ( 0.3 s )
-
-
-Equations reduced: 841 / 1165
-Kira committed results ( 0.3 s )
-
-
-Equations reduced: 865 / 1165
-Kira committed results ( 0.4 s )
-
-
-Equations reduced: 891 / 1165
-Kira committed results ( 0.4 s )
-
-
-Equations reduced: 915 / 1165
-Kira committed results ( 0.4 s )
-
-
-Equations reduced: 929 / 1165
-Kira committed results ( 0.4 s )
-
-
-Equations reduced: 1025 / 1165
-Kira committed results ( 0.5 s )
-
-
-Equations reduced: 1063 / 1165
-Kira committed results ( 0.5 s )
-
-
-Equations reduced: 1084 / 1165
-Kira committed results ( 0.5 s )
-
-
-Equations reduced: 1126 / 1165
-Kira committed results ( 0.6 s )
-
-
-Equations reduced: 1165 / 1165
-Kira committed results ( 0.6 s )
-
-1165 equations were reduced
-
-*****Master integrals***********************************
-pentagon1[1,0,1,0,0] #  5
-pentagon1[1,0,0,1,0] #  9
-pentagon1[0,1,0,1,0] # 10
-pentagon1[1,1,1,1,0] # 15
-pentagon1[0,1,0,0,1] # 18
-pentagon1[0,0,1,0,1] # 20
-pentagon1[1,1,1,0,1] # 23
-pentagon1[1,1,0,1,1] # 27
-pentagon1[1,0,1,1,1] # 29
-pentagon1[0,1,1,1,1] # 30
-pentagon1[1,1,1,1,1] # 31
-
-*****Master integrals which do not appear on the right**
-*****hand side of the selected integrals****************
-pentagon1[1,1,1,1,1] # 31
-
-Total number of master integrals: 11
-( 0.6 s )
-closeCalc: 207543
-closeCalc: 207542
-closeCalc: 207541
-closeCalc: 207540
-closeCalc: 207539
-closeCalc: 207538
-closeCalc: 207537
-closeCalc: 207536
-closeCalc: 207535
-closeCalc: 207534
+closeCalc: 212216
 Total time:
-( 5.5 s )
+( 2.96366 s )

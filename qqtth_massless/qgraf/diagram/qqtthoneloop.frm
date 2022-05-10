@@ -167,8 +167,8 @@ Local loop1diagram12=
  vrtx(Tth,1,p3+q,-2,-p3,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,2,-p3-q,5,p1+p2)*
- vrtx(ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
- vrtx(ghghg,8,-k1+p1+p2,9,k1,6,-p1-p2)
+ vrtx(Ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,8,-k1+p1+p2,9,k1,6,-p1-p2)
 ;
 Local loop1diagram13=
 
@@ -223,8 +223,8 @@ Local loop1diagram16=
  vrtx(Tth,-4,-p4,2,p4+q,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,1,-p4-q,-2,-p3,5,p1+p2)*
- vrtx(ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
- vrtx(ghghg,8,-k1+p1+p2,9,k1,6,-p1-p2)
+ vrtx(Ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,8,-k1+p1+p2,9,k1,6,-p1-p2)
 ;
 Local loop1diagram17=
 

@@ -7,9 +7,23 @@ if (match(Sector(pentagon1x12x34,?a)));
    id Sector(pentagon1x12x34,?a)=Sector(pentagon1,?a)*cross1x12x34;
 endif;
 
-if (match(Sector(pentagon2x12,?a)));
-   Multiply replace_(p1,p2,p2,p1);
-   id Sector(pentagon2x12,?a)=Sector(pentagon2,?a)*cross2x12;
+if (match(Sector(pentagon1x12x345,?a)));
+   Multiply replace_(p2,p1,p4,q,q,p3,p1,p2,p3,p4);
+   id Sector(pentagon1x12x345,?a)=Sector(pentagon1,?a)*cross1x12x345;
 endif;
 
+if (match(Sector(pentagon1x12x354,?a)));
+   Multiply replace_(p2,p1,p4,p3,p1,p2,p3,q,q,p4);
+   id Sector(pentagon1x12x354,?a)=Sector(pentagon1x12x354,?a)*cross1x12x354;
+endif;
+
+if (match(Sector(pentagon1x12,?a)));
+   Multiply replace_(p1,p2,p2,p1);
+   id Sector(pentagon1x12,?a)=Sector(pentagon1,?a)*cross1x12;
+endif;
+
+if (match(Sector(pentagon1x12x45,?a)));
+   Multiply replace_(p1,p2,p2,p1,p4,q,q,p4);
+   id Sector(pentagon1x12x45,?a)=Sector(pentagon1,?a)*cross1x12x45;
+endif;
 #endprocedure

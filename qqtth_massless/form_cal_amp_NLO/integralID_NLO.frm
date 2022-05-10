@@ -14,7 +14,7 @@ CFunction pentagon1x12x34,pentagon2x12;
 CFunction Sector,F;
 Symbol sc,sc1,sc2,sc3,sc4,sc5;
 Symbol mu,mt,mh;
-Symbol cross1x12x34,cross2x12;
+Symbol cross1x12x34,cross1x12,cross1x12x345,cross1x12x354,cross1x12x45;
 Autodeclare Symbol a,[];
 
 Set scalarset:sc1,sc2,sc3,sc4,sc5;

@@ -744,9 +744,9 @@ Local loop2diagram43=
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
  vrtx(Tth,3,p3+q,-2,-p3,-6,-q)*
  vrtx(Ttg,-4,-p4,8,-p3-q,5,p1+p2)*
- vrtx(ghghg,12,-k1,9,k1-p1-p2,2,p1+p2)*
+ vrtx(Ghghg,12,-k1,9,k1-p1-p2,2,p1+p2)*
  vrtx(Ttg,13,k2+p3+q,4,-p3-q,15,-k2)*
- vrtx(ghghg,10,-k1+p1+p2,11,k1,6,-p1-p2)*
+ vrtx(Ghghg,10,-k1+p1+p2,11,k1,6,-p1-p2)*
  vrtx(Ttg,7,p3+q,14,-k2-p3-q,16,k2)
 ;
 Local loop2diagram44=
@@ -820,9 +820,9 @@ Local loop2diagram47=
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
  vrtx(Tth,-4,-p4,4,p4+q,-6,-q)*
  vrtx(Ttg,7,-p4-q,-2,-p3,5,p1+p2)*
- vrtx(ghghg,12,-k1,9,k1-p1-p2,2,p1+p2)*
+ vrtx(Ghghg,12,-k1,9,k1-p1-p2,2,p1+p2)*
  vrtx(Ttg,3,-p4-q,14,k2+p4+q,15,-k2)*
- vrtx(ghghg,10,-k1+p1+p2,11,k1,6,-p1-p2)*
+ vrtx(Ghghg,10,-k1+p1+p2,11,k1,6,-p1-p2)*
  vrtx(Ttg,13,-k2-p4-q,8,p4+q,16,k2)
 ;
 Local loop2diagram48=
@@ -1467,9 +1467,9 @@ Local loop2diagram81=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,6,-k1,7,k1+p4)*
  vrtx(Ttg,5,k1,2,-p3-q,9,-k1+p3+q)*
- vrtx(ghghg,14,k2-p1-p2,11,-k2,4,p1+p2)*
- vrtx(ghghg,12,k2,15,k1-k2+p4,8,-k1-p4)*
- vrtx(ghghg,16,-k1+k2-p4,13,-k2+p1+p2,10,k1-p3-q)
+ vrtx(Ghghg,14,k2-p1-p2,11,-k2,4,p1+p2)*
+ vrtx(Ghghg,12,k2,15,k1-k2+p4,8,-k1-p4)*
+ vrtx(Ghghg,16,-k1+k2-p4,13,-k2+p1+p2,10,k1-p3-q)
 ;
 Local loop2diagram82=
 
@@ -1486,9 +1486,9 @@ Local loop2diagram82=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,6,-k1,7,k1+p4)*
  vrtx(Ttg,5,k1,2,-p3-q,9,-k1+p3+q)*
- vrtx(ghghg,12,-k2,13,k2-p1-p2,4,p1+p2)*
- vrtx(ghghg,16,k1-k2+p4,11,k2,8,-k1-p4)*
- vrtx(ghghg,14,-k2+p1+p2,15,-k1+k2-p4,10,k1-p3-q)
+ vrtx(Ghghg,12,-k2,13,k2-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,16,k1-k2+p4,11,k2,8,-k1-p4)*
+ vrtx(Ghghg,14,-k2+p1+p2,15,-k1+k2-p4,10,k1-p3-q)
 ;
 Local loop2diagram83=
 
@@ -1638,9 +1638,9 @@ Local loop2diagram90=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,5,-k1,-2,-p3,7,k1+p3)*
  vrtx(Ttg,1,-p4-q,6,k1,9,-k1+p4+q)*
- vrtx(ghghg,14,k2-p1-p2,11,-k2,4,p1+p2)*
- vrtx(ghghg,12,k2,15,k1-k2+p3,8,-k1-p3)*
- vrtx(ghghg,16,-k1+k2-p3,13,-k2+p1+p2,10,k1-p4-q)
+ vrtx(Ghghg,14,k2-p1-p2,11,-k2,4,p1+p2)*
+ vrtx(Ghghg,12,k2,15,k1-k2+p3,8,-k1-p3)*
+ vrtx(Ghghg,16,-k1+k2-p3,13,-k2+p1+p2,10,k1-p4-q)
 ;
 Local loop2diagram91=
 
@@ -1657,9 +1657,9 @@ Local loop2diagram91=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,5,-k1,-2,-p3,7,k1+p3)*
  vrtx(Ttg,1,-p4-q,6,k1,9,-k1+p4+q)*
- vrtx(ghghg,12,-k2,13,k2-p1-p2,4,p1+p2)*
- vrtx(ghghg,16,k1-k2+p3,11,k2,8,-k1-p3)*
- vrtx(ghghg,14,-k2+p1+p2,15,-k1+k2-p3,10,k1-p4-q)
+ vrtx(Ghghg,12,-k2,13,k2-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,16,k1-k2+p3,11,k2,8,-k1-p3)*
+ vrtx(Ghghg,14,-k2+p1+p2,15,-k1+k2-p3,10,k1-p4-q)
 ;
 Local loop2diagram92=
 
@@ -1771,9 +1771,9 @@ Local loop2diagram97=
  vrtx(Ttg,-4,-p4,-2,-p3,3,p3+p4)*
  vrtx(Tth,5,-k1,8,k1+q,-6,-q)*
  vrtx(Ttg,9,-k1-p1-p2,6,k1,2,p1+p2)*
- vrtx(ghghg,14,-k2,11,k2+p3+p4,4,-p3-p4)*
+ vrtx(Ghghg,14,-k2,11,k2+p3+p4,4,-p3-p4)*
  vrtx(Ttg,7,-k1-q,10,k1+p1+p2,15,-p3-p4)*
- vrtx(ghghg,12,-k2-p3-p4,13,k2,16,p3+p4)
+ vrtx(Ghghg,12,-k2-p3-p4,13,k2,16,p3+p4)
 ;
 Local loop2diagram98=
 
@@ -1847,9 +1847,9 @@ Local loop2diagram101=
  vrtx(Ttg,-4,-p4,-2,-p3,3,p3+p4)*
  vrtx(Tth,7,k1+q,6,-k1,-6,-q)*
  vrtx(Ttg,5,k1,10,-k1-p1-p2,2,p1+p2)*
- vrtx(ghghg,14,-k2,11,k2+p3+p4,4,-p3-p4)*
+ vrtx(Ghghg,14,-k2,11,k2+p3+p4,4,-p3-p4)*
  vrtx(Ttg,9,k1+p1+p2,8,-k1-q,15,-p3-p4)*
- vrtx(ghghg,12,-k2-p3-p4,13,k2,16,p3+p4)
+ vrtx(Ghghg,12,-k2-p3-p4,13,k2,16,p3+p4)
 ;
 Local loop2diagram102=
 
@@ -1999,9 +1999,9 @@ Local loop2diagram109=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Tth,5,-k1,8,k1+q,-6,-q)*
  vrtx(Ttg,9,-k1+p3+p4,6,k1,2,-p3-p4)*
- vrtx(ghghg,14,-k2,11,k2-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,14,-k2,11,k2-p1-p2,4,p1+p2)*
  vrtx(Ttg,7,-k1-q,10,k1-p3-p4,15,p1+p2)*
- vrtx(ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
+ vrtx(Ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
 ;
 Local loop2diagram110=
 
@@ -2075,9 +2075,9 @@ Local loop2diagram113=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Tth,7,k1+q,6,-k1,-6,-q)*
  vrtx(Ttg,5,k1,10,-k1+p3+p4,2,-p3-p4)*
- vrtx(ghghg,14,-k2,11,k2-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,14,-k2,11,k2-p1-p2,4,p1+p2)*
  vrtx(Ttg,9,k1-p3-p4,8,-k1-q,15,p1+p2)*
- vrtx(ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
+ vrtx(Ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
 ;
 Local loop2diagram114=
 
@@ -2151,9 +2151,9 @@ Local loop2diagram117=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,6,-k1,7,k1+p4)*
  vrtx(Ttg,5,k1,2,-p3-q,9,-k1+p3+q)*
- vrtx(ghghg,14,-k2,11,k2-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,14,-k2,11,k2-p1-p2,4,p1+p2)*
  vrtx(ggg,8,-k1-p4,10,k1-p3-q,15,p1+p2)*
- vrtx(ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
+ vrtx(Ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
 ;
 Local loop2diagram118=
 
@@ -2227,9 +2227,9 @@ Local loop2diagram121=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,8,k1+p4,5,-k1)*
  vrtx(Ttg,9,-k1+p3+q,2,-p3-q,6,k1)*
- vrtx(ghghg,14,-k2,11,k2-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,14,-k2,11,k2-p1-p2,4,p1+p2)*
  vrtx(Ttg,7,-k1-p4,10,k1-p3-q,15,p1+p2)*
- vrtx(ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
+ vrtx(Ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
 ;
 Local loop2diagram122=
 
@@ -2303,9 +2303,9 @@ Local loop2diagram125=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,5,-k1,-2,-p3,7,k1+p3)*
  vrtx(Ttg,1,-p4-q,6,k1,9,-k1+p4+q)*
- vrtx(ghghg,14,-k2,11,k2-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,14,-k2,11,k2-p1-p2,4,p1+p2)*
  vrtx(ggg,8,-k1-p3,10,k1-p4-q,15,p1+p2)*
- vrtx(ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
+ vrtx(Ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
 ;
 Local loop2diagram126=
 
@@ -2379,9 +2379,9 @@ Local loop2diagram129=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,7,k1+p3,-2,-p3,5,-k1)*
  vrtx(Ttg,1,-p4-q,10,-k1+p4+q,6,k1)*
- vrtx(ghghg,14,-k2,11,k2-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,14,-k2,11,k2-p1-p2,4,p1+p2)*
  vrtx(Ttg,9,k1-p4-q,8,-k1-p3,15,p1+p2)*
- vrtx(ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
+ vrtx(Ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
 ;
 Local loop2diagram130=
 
@@ -2494,8 +2494,8 @@ Local loop2diagram135=
  vrtx(Ttg,-4,-p4,6,-k1,7,k1+p4)*
  vrtx(Ttg,5,k1,10,-k1-p1-p2,2,p1+p2)*
  vrtx(Ttg,9,k1+p1+p2,4,-p3-q,11,-k1-p4)*
- vrtx(ghghg,16,-k2,13,k1+k2+p4,8,-k1-p4)*
- vrtx(ghghg,14,-k1-k2-p4,15,k2,12,k1+p4)
+ vrtx(Ghghg,16,-k2,13,k1+k2+p4,8,-k1-p4)*
+ vrtx(Ghghg,14,-k1-k2-p4,15,k2,12,k1+p4)
 ;
 Local loop2diagram136=
 
@@ -2589,8 +2589,8 @@ Local loop2diagram140=
  vrtx(Ttg,5,-k1,-2,-p3,7,k1+p3)*
  vrtx(Ttg,9,-k1-p1-p2,6,k1,2,p1+p2)*
  vrtx(Ttg,3,-p4-q,10,k1+p1+p2,11,-k1-p3)*
- vrtx(ghghg,16,-k2,13,k1+k2+p3,8,-k1-p3)*
- vrtx(ghghg,14,-k1-k2-p3,15,k2,12,k1+p3)
+ vrtx(Ghghg,16,-k2,13,k1+k2+p3,8,-k1-p3)*
+ vrtx(Ghghg,14,-k1-k2-p3,15,k2,12,k1+p3)
 ;
 Local loop2diagram141=
 
@@ -2722,8 +2722,8 @@ Local loop2diagram147=
  vrtx(Ttg,-4,-p4,6,-k1,7,k1+p4)*
  vrtx(Ttg,5,k1,2,-p3-q,9,-k1+p3+q)*
  vrtx(ggg,4,p1+p2,10,k1-p3-q,11,-k1-p4)*
- vrtx(ghghg,16,-k2,13,k1+k2+p4,8,-k1-p4)*
- vrtx(ghghg,14,-k1-k2-p4,15,k2,12,k1+p4)
+ vrtx(Ghghg,16,-k2,13,k1+k2+p4,8,-k1-p4)*
+ vrtx(Ghghg,14,-k1-k2-p4,15,k2,12,k1+p4)
 ;
 Local loop2diagram148=
 
@@ -2817,8 +2817,8 @@ Local loop2diagram152=
  vrtx(Ttg,5,-k1,-2,-p3,7,k1+p3)*
  vrtx(Ttg,1,-p4-q,6,k1,9,-k1+p4+q)*
  vrtx(ggg,4,p1+p2,10,k1-p4-q,11,-k1-p3)*
- vrtx(ghghg,16,-k2,13,k1+k2+p3,8,-k1-p3)*
- vrtx(ghghg,14,-k1-k2-p3,15,k2,12,k1+p3)
+ vrtx(Ghghg,16,-k2,13,k1+k2+p3,8,-k1-p3)*
+ vrtx(Ghghg,14,-k1-k2-p3,15,k2,12,k1+p3)
 ;
 Local loop2diagram153=
 
@@ -2969,8 +2969,8 @@ Local loop2diagram160=
  vrtx(Ttg,-4,-p4,8,k1+p4,5,-k1)*
  vrtx(ggg,2,p1+p2,6,k1,9,-k1-p1-p2)*
  vrtx(Ttg,7,-k1-p4,4,-p3-q,11,k1+p1+p2)*
- vrtx(ghghg,16,-k2,13,-k1+k2-p1-p2,10,k1+p1+p2)*
- vrtx(ghghg,14,k1-k2+p1+p2,15,k2,12,-k1-p1-p2)
+ vrtx(Ghghg,16,-k2,13,-k1+k2-p1-p2,10,k1+p1+p2)*
+ vrtx(Ghghg,14,k1-k2+p1+p2,15,k2,12,-k1-p1-p2)
 ;
 Local loop2diagram161=
 
@@ -3064,8 +3064,8 @@ Local loop2diagram165=
  vrtx(Ttg,7,k1+p3,-2,-p3,5,-k1)*
  vrtx(ggg,2,p1+p2,6,k1,9,-k1-p1-p2)*
  vrtx(Ttg,3,-p4-q,8,-k1-p3,11,k1+p1+p2)*
- vrtx(ghghg,16,-k2,13,-k1+k2-p1-p2,10,k1+p1+p2)*
- vrtx(ghghg,14,k1-k2+p1+p2,15,k2,12,-k1-p1-p2)
+ vrtx(Ghghg,16,-k2,13,-k1+k2-p1-p2,10,k1+p1+p2)*
+ vrtx(Ghghg,14,k1-k2+p1+p2,15,k2,12,-k1-p1-p2)
 ;
 Local loop2diagram166=
 
@@ -3291,9 +3291,9 @@ Local loop2diagram177=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,2,-p3-q,5,p1+p2)*
  vrtx(ggg,4,p1+p2,7,-k1,9,k1-p1-p2)*
- vrtx(ghghg,14,k2+p1+p2,11,-k2,6,-p1-p2)*
- vrtx(ghghg,12,k2,15,-k1-k2,8,k1)*
- vrtx(ghghg,16,k1+k2,13,-k2-p1-p2,10,-k1+p1+p2)
+ vrtx(Ghghg,14,k2+p1+p2,11,-k2,6,-p1-p2)*
+ vrtx(Ghghg,12,k2,15,-k1-k2,8,k1)*
+ vrtx(Ghghg,16,k1+k2,13,-k2-p1-p2,10,-k1+p1+p2)
 ;
 Local loop2diagram178=
 
@@ -3309,10 +3309,10 @@ Local loop2diagram178=
  vrtx(Tth,1,p3+q,-2,-p3,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,2,-p3-q,5,p1+p2)*
- vrtx(ghghg,10,k1-p1-p2,7,-k1,4,p1+p2)*
+ vrtx(Ghghg,10,k1-p1-p2,7,-k1,4,p1+p2)*
  vrtx(ggg,6,-p1-p2,11,-k2,13,k2+p1+p2)*
- vrtx(ghghg,8,k1,15,-k1-k2,12,k2)*
- vrtx(ghghg,16,k1+k2,9,-k1+p1+p2,14,-k2-p1-p2)
+ vrtx(Ghghg,8,k1,15,-k1-k2,12,k2)*
+ vrtx(Ghghg,16,k1+k2,9,-k1+p1+p2,14,-k2-p1-p2)
 ;
 Local loop2diagram179=
 
@@ -3328,10 +3328,10 @@ Local loop2diagram179=
  vrtx(Tth,1,p3+q,-2,-p3,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,2,-p3-q,5,p1+p2)*
- vrtx(ghghg,10,k1-p1-p2,7,-k1,4,p1+p2)*
- vrtx(ghghg,12,-k2,13,k2+p1+p2,6,-p1-p2)*
- vrtx(ghghg,8,k1,11,k2,15,-k1-k2)*
- vrtx(ghghg,14,-k2-p1-p2,9,-k1+p1+p2,16,k1+k2)
+ vrtx(Ghghg,10,k1-p1-p2,7,-k1,4,p1+p2)*
+ vrtx(Ghghg,12,-k2,13,k2+p1+p2,6,-p1-p2)*
+ vrtx(Ghghg,8,k1,11,k2,15,-k1-k2)*
+ vrtx(Ghghg,14,-k2-p1-p2,9,-k1+p1+p2,16,k1+k2)
 ;
 Local loop2diagram180=
 
@@ -3481,9 +3481,9 @@ Local loop2diagram187=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,1,-p4-q,-2,-p3,5,p1+p2)*
  vrtx(ggg,4,p1+p2,7,-k1,9,k1-p1-p2)*
- vrtx(ghghg,14,k2+p1+p2,11,-k2,6,-p1-p2)*
- vrtx(ghghg,12,k2,15,-k1-k2,8,k1)*
- vrtx(ghghg,16,k1+k2,13,-k2-p1-p2,10,-k1+p1+p2)
+ vrtx(Ghghg,14,k2+p1+p2,11,-k2,6,-p1-p2)*
+ vrtx(Ghghg,12,k2,15,-k1-k2,8,k1)*
+ vrtx(Ghghg,16,k1+k2,13,-k2-p1-p2,10,-k1+p1+p2)
 ;
 Local loop2diagram188=
 
@@ -3499,10 +3499,10 @@ Local loop2diagram188=
  vrtx(Tth,-4,-p4,2,p4+q,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,1,-p4-q,-2,-p3,5,p1+p2)*
- vrtx(ghghg,10,k1-p1-p2,7,-k1,4,p1+p2)*
+ vrtx(Ghghg,10,k1-p1-p2,7,-k1,4,p1+p2)*
  vrtx(ggg,6,-p1-p2,11,-k2,13,k2+p1+p2)*
- vrtx(ghghg,8,k1,15,-k1-k2,12,k2)*
- vrtx(ghghg,16,k1+k2,9,-k1+p1+p2,14,-k2-p1-p2)
+ vrtx(Ghghg,8,k1,15,-k1-k2,12,k2)*
+ vrtx(Ghghg,16,k1+k2,9,-k1+p1+p2,14,-k2-p1-p2)
 ;
 Local loop2diagram189=
 
@@ -3518,10 +3518,10 @@ Local loop2diagram189=
  vrtx(Tth,-4,-p4,2,p4+q,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,1,-p4-q,-2,-p3,5,p1+p2)*
- vrtx(ghghg,10,k1-p1-p2,7,-k1,4,p1+p2)*
- vrtx(ghghg,12,-k2,13,k2+p1+p2,6,-p1-p2)*
- vrtx(ghghg,8,k1,11,k2,15,-k1-k2)*
- vrtx(ghghg,14,-k2-p1-p2,9,-k1+p1+p2,16,k1+k2)
+ vrtx(Ghghg,10,k1-p1-p2,7,-k1,4,p1+p2)*
+ vrtx(Ghghg,12,-k2,13,k2+p1+p2,6,-p1-p2)*
+ vrtx(Ghghg,8,k1,11,k2,15,-k1-k2)*
+ vrtx(Ghghg,14,-k2-p1-p2,9,-k1+p1+p2,16,k1+k2)
 ;
 Local loop2diagram190=
 
@@ -3633,9 +3633,9 @@ Local loop2diagram195=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,2,-p3-q,5,p1+p2)*
  vrtx(Uug,7,k1-p1-p2,10,-k1,4,p1+p2)*
- vrtx(ghghg,14,-k2,11,k2+p1+p2,6,-p1-p2)*
+ vrtx(Ghghg,14,-k2,11,k2+p1+p2,6,-p1-p2)*
  vrtx(Uug,9,k1,8,-k1+p1+p2,15,-p1-p2)*
- vrtx(ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
+ vrtx(Ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
 ;
 Local loop2diagram196=
 
@@ -3709,9 +3709,9 @@ Local loop2diagram199=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,2,-p3-q,5,p1+p2)*
  vrtx(Ttg,7,k1-p1-p2,10,-k1,4,p1+p2)*
- vrtx(ghghg,14,-k2,11,k2+p1+p2,6,-p1-p2)*
+ vrtx(Ghghg,14,-k2,11,k2+p1+p2,6,-p1-p2)*
  vrtx(Ttg,9,k1,8,-k1+p1+p2,15,-p1-p2)*
- vrtx(ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
+ vrtx(Ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
 ;
 Local loop2diagram200=
 
@@ -3785,9 +3785,9 @@ Local loop2diagram203=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,2,-p3-q,5,p1+p2)*
  vrtx(ggg,4,p1+p2,7,k1-p1-p2,9,-k1)*
- vrtx(ghghg,14,-k2,11,k2+p1+p2,6,-p1-p2)*
+ vrtx(Ghghg,14,-k2,11,k2+p1+p2,6,-p1-p2)*
  vrtx(ggg,8,-k1+p1+p2,10,k1,15,-p1-p2)*
- vrtx(ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
+ vrtx(Ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
 ;
 Local loop2diagram204=
 
@@ -3803,9 +3803,9 @@ Local loop2diagram204=
  vrtx(Tth,1,p3+q,-2,-p3,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,2,-p3-q,5,p1+p2)*
- vrtx(ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
  vrtx(Uug,11,k2+p1+p2,14,-k2,6,-p1-p2)*
- vrtx(ghghg,8,-k1+p1+p2,9,k1,15,-p1-p2)*
+ vrtx(Ghghg,8,-k1+p1+p2,9,k1,15,-p1-p2)*
  vrtx(Uug,13,k2,12,-k2-p1-p2,16,p1+p2)
 ;
 Local loop2diagram205=
@@ -3822,9 +3822,9 @@ Local loop2diagram205=
  vrtx(Tth,1,p3+q,-2,-p3,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,2,-p3-q,5,p1+p2)*
- vrtx(ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
  vrtx(Ttg,11,k2+p1+p2,14,-k2,6,-p1-p2)*
- vrtx(ghghg,8,-k1+p1+p2,9,k1,15,-p1-p2)*
+ vrtx(Ghghg,8,-k1+p1+p2,9,k1,15,-p1-p2)*
  vrtx(Ttg,13,k2,12,-k2-p1-p2,16,p1+p2)
 ;
 Local loop2diagram206=
@@ -3841,9 +3841,9 @@ Local loop2diagram206=
  vrtx(Tth,1,p3+q,-2,-p3,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,2,-p3-q,5,p1+p2)*
- vrtx(ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
  vrtx(ggg,6,-p1-p2,11,k2+p1+p2,13,-k2)*
- vrtx(ghghg,8,-k1+p1+p2,9,k1,15,-p1-p2)*
+ vrtx(Ghghg,8,-k1+p1+p2,9,k1,15,-p1-p2)*
  vrtx(ggg,16,p1+p2,12,-k2-p1-p2,14,k2)
 ;
 Local loop2diagram207=
@@ -3860,10 +3860,10 @@ Local loop2diagram207=
  vrtx(Tth,1,p3+q,-2,-p3,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,2,-p3-q,5,p1+p2)*
- vrtx(ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
- vrtx(ghghg,14,-k2,11,k2+p1+p2,6,-p1-p2)*
- vrtx(ghghg,8,-k1+p1+p2,9,k1,15,-p1-p2)*
- vrtx(ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
+ vrtx(Ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,14,-k2,11,k2+p1+p2,6,-p1-p2)*
+ vrtx(Ghghg,8,-k1+p1+p2,9,k1,15,-p1-p2)*
+ vrtx(Ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
 ;
 Local loop2diagram208=
 
@@ -3937,9 +3937,9 @@ Local loop2diagram211=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,1,-p4-q,-2,-p3,5,p1+p2)*
  vrtx(Uug,7,k1-p1-p2,10,-k1,4,p1+p2)*
- vrtx(ghghg,14,-k2,11,k2+p1+p2,6,-p1-p2)*
+ vrtx(Ghghg,14,-k2,11,k2+p1+p2,6,-p1-p2)*
  vrtx(Uug,9,k1,8,-k1+p1+p2,15,-p1-p2)*
- vrtx(ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
+ vrtx(Ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
 ;
 Local loop2diagram212=
 
@@ -4013,9 +4013,9 @@ Local loop2diagram215=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,1,-p4-q,-2,-p3,5,p1+p2)*
  vrtx(Ttg,7,k1-p1-p2,10,-k1,4,p1+p2)*
- vrtx(ghghg,14,-k2,11,k2+p1+p2,6,-p1-p2)*
+ vrtx(Ghghg,14,-k2,11,k2+p1+p2,6,-p1-p2)*
  vrtx(Ttg,9,k1,8,-k1+p1+p2,15,-p1-p2)*
- vrtx(ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
+ vrtx(Ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
 ;
 Local loop2diagram216=
 
@@ -4089,9 +4089,9 @@ Local loop2diagram219=
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,1,-p4-q,-2,-p3,5,p1+p2)*
  vrtx(ggg,4,p1+p2,7,k1-p1-p2,9,-k1)*
- vrtx(ghghg,14,-k2,11,k2+p1+p2,6,-p1-p2)*
+ vrtx(Ghghg,14,-k2,11,k2+p1+p2,6,-p1-p2)*
  vrtx(ggg,8,-k1+p1+p2,10,k1,15,-p1-p2)*
- vrtx(ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
+ vrtx(Ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
 ;
 Local loop2diagram220=
 
@@ -4107,9 +4107,9 @@ Local loop2diagram220=
  vrtx(Tth,-4,-p4,2,p4+q,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,1,-p4-q,-2,-p3,5,p1+p2)*
- vrtx(ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
  vrtx(Uug,11,k2+p1+p2,14,-k2,6,-p1-p2)*
- vrtx(ghghg,8,-k1+p1+p2,9,k1,15,-p1-p2)*
+ vrtx(Ghghg,8,-k1+p1+p2,9,k1,15,-p1-p2)*
  vrtx(Uug,13,k2,12,-k2-p1-p2,16,p1+p2)
 ;
 Local loop2diagram221=
@@ -4126,9 +4126,9 @@ Local loop2diagram221=
  vrtx(Tth,-4,-p4,2,p4+q,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,1,-p4-q,-2,-p3,5,p1+p2)*
- vrtx(ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
  vrtx(Ttg,11,k2+p1+p2,14,-k2,6,-p1-p2)*
- vrtx(ghghg,8,-k1+p1+p2,9,k1,15,-p1-p2)*
+ vrtx(Ghghg,8,-k1+p1+p2,9,k1,15,-p1-p2)*
  vrtx(Ttg,13,k2,12,-k2-p1-p2,16,p1+p2)
 ;
 Local loop2diagram222=
@@ -4145,9 +4145,9 @@ Local loop2diagram222=
  vrtx(Tth,-4,-p4,2,p4+q,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,1,-p4-q,-2,-p3,5,p1+p2)*
- vrtx(ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
  vrtx(ggg,6,-p1-p2,11,k2+p1+p2,13,-k2)*
- vrtx(ghghg,8,-k1+p1+p2,9,k1,15,-p1-p2)*
+ vrtx(Ghghg,8,-k1+p1+p2,9,k1,15,-p1-p2)*
  vrtx(ggg,16,p1+p2,12,-k2-p1-p2,14,k2)
 ;
 Local loop2diagram223=
@@ -4164,10 +4164,10 @@ Local loop2diagram223=
  vrtx(Tth,-4,-p4,2,p4+q,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,1,-p4-q,-2,-p3,5,p1+p2)*
- vrtx(ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
- vrtx(ghghg,14,-k2,11,k2+p1+p2,6,-p1-p2)*
- vrtx(ghghg,8,-k1+p1+p2,9,k1,15,-p1-p2)*
- vrtx(ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
+ vrtx(Ghghg,10,-k1,7,k1-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,14,-k2,11,k2+p1+p2,6,-p1-p2)*
+ vrtx(Ghghg,8,-k1+p1+p2,9,k1,15,-p1-p2)*
+ vrtx(Ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
 ;
 Local loop2diagram224=
 
@@ -4242,8 +4242,8 @@ Local loop2diagram227=
  vrtx(Ttg,-4,-p4,6,-p3-q,2,p1+p2)*
  vrtx(Ttg,7,-k1,4,-p3-q,9,k1+p3+q)*
  vrtx(Ttg,5,p3+q,8,k1,11,-k1-p3-q)*
- vrtx(ghghg,16,-k2,13,k1+k2+p3+q,10,-k1-p3-q)*
- vrtx(ghghg,14,-k1-k2-p3-q,15,k2,12,k1+p3+q)
+ vrtx(Ghghg,16,-k2,13,k1+k2+p3+q,10,-k1-p3-q)*
+ vrtx(Ghghg,14,-k1-k2-p3-q,15,k2,12,k1+p3+q)
 ;
 Local loop2diagram228=
 
@@ -4337,8 +4337,8 @@ Local loop2diagram232=
  vrtx(Ttg,5,-p4-q,-2,-p3,2,p1+p2)*
  vrtx(Ttg,3,-p4-q,8,-k1,9,k1+p4+q)*
  vrtx(Ttg,7,k1,6,p4+q,11,-k1-p4-q)*
- vrtx(ghghg,16,-k2,13,k1+k2+p4+q,10,-k1-p4-q)*
- vrtx(ghghg,14,-k1-k2-p4-q,15,k2,12,k1+p4+q)
+ vrtx(Ghghg,16,-k2,13,k1+k2+p4+q,10,-k1-p4-q)*
+ vrtx(Ghghg,14,-k1-k2-p4-q,15,k2,12,k1+p4+q)
 ;
 Local loop2diagram233=
 
@@ -4508,8 +4508,8 @@ Local loop2diagram241=
  vrtx(Ttg,-4,-p4,2,-p3-q,5,p1+p2)*
  vrtx(ggg,4,p1+p2,7,-k1,9,k1-p1-p2)*
  vrtx(ggg,6,-p1-p2,8,k1,11,-k1+p1+p2)*
- vrtx(ghghg,16,-k2,13,k1+k2-p1-p2,10,-k1+p1+p2)*
- vrtx(ghghg,14,-k1-k2+p1+p2,15,k2,12,k1-p1-p2)
+ vrtx(Ghghg,16,-k2,13,k1+k2-p1-p2,10,-k1+p1+p2)*
+ vrtx(Ghghg,14,-k1-k2+p1+p2,15,k2,12,k1-p1-p2)
 ;
 Local loop2diagram242=
 
@@ -4525,10 +4525,10 @@ Local loop2diagram242=
  vrtx(Tth,1,p3+q,-2,-p3,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,2,-p3-q,5,p1+p2)*
- vrtx(ghghg,10,k1-p1-p2,7,-k1,4,p1+p2)*
- vrtx(ghghg,8,k1,11,-k1+p1+p2,6,-p1-p2)*
- vrtx(ghghg,16,-k2,9,-k1+p1+p2,13,k1+k2-p1-p2)*
- vrtx(ghghg,12,k1-p1-p2,15,k2,14,-k1-k2+p1+p2)
+ vrtx(Ghghg,10,k1-p1-p2,7,-k1,4,p1+p2)*
+ vrtx(Ghghg,8,k1,11,-k1+p1+p2,6,-p1-p2)*
+ vrtx(Ghghg,16,-k2,9,-k1+p1+p2,13,k1+k2-p1-p2)*
+ vrtx(Ghghg,12,k1-p1-p2,15,k2,14,-k1-k2+p1+p2)
 ;
 Local loop2diagram243=
 
@@ -4544,10 +4544,10 @@ Local loop2diagram243=
  vrtx(Tth,1,p3+q,-2,-p3,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,2,-p3-q,5,p1+p2)*
- vrtx(ghghg,8,-k1,9,k1-p1-p2,4,p1+p2)*
- vrtx(ghghg,12,-k1+p1+p2,7,k1,6,-p1-p2)*
- vrtx(ghghg,10,-k1+p1+p2,15,-k2,13,k1+k2-p1-p2)*
- vrtx(ghghg,16,k2,11,k1-p1-p2,14,-k1-k2+p1+p2)
+ vrtx(Ghghg,8,-k1,9,k1-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,12,-k1+p1+p2,7,k1,6,-p1-p2)*
+ vrtx(Ghghg,10,-k1+p1+p2,15,-k2,13,k1+k2-p1-p2)*
+ vrtx(Ghghg,16,k2,11,k1-p1-p2,14,-k1-k2+p1+p2)
 ;
 Local loop2diagram244=
 
@@ -4698,8 +4698,8 @@ Local loop2diagram251=
  vrtx(Ttg,1,-p4-q,-2,-p3,5,p1+p2)*
  vrtx(ggg,4,p1+p2,7,-k1,9,k1-p1-p2)*
  vrtx(ggg,6,-p1-p2,8,k1,11,-k1+p1+p2)*
- vrtx(ghghg,16,-k2,13,k1+k2-p1-p2,10,-k1+p1+p2)*
- vrtx(ghghg,14,-k1-k2+p1+p2,15,k2,12,k1-p1-p2)
+ vrtx(Ghghg,16,-k2,13,k1+k2-p1-p2,10,-k1+p1+p2)*
+ vrtx(Ghghg,14,-k1-k2+p1+p2,15,k2,12,k1-p1-p2)
 ;
 Local loop2diagram252=
 
@@ -4715,10 +4715,10 @@ Local loop2diagram252=
  vrtx(Tth,-4,-p4,2,p4+q,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,1,-p4-q,-2,-p3,5,p1+p2)*
- vrtx(ghghg,10,k1-p1-p2,7,-k1,4,p1+p2)*
- vrtx(ghghg,8,k1,11,-k1+p1+p2,6,-p1-p2)*
- vrtx(ghghg,16,-k2,9,-k1+p1+p2,13,k1+k2-p1-p2)*
- vrtx(ghghg,12,k1-p1-p2,15,k2,14,-k1-k2+p1+p2)
+ vrtx(Ghghg,10,k1-p1-p2,7,-k1,4,p1+p2)*
+ vrtx(Ghghg,8,k1,11,-k1+p1+p2,6,-p1-p2)*
+ vrtx(Ghghg,16,-k2,9,-k1+p1+p2,13,k1+k2-p1-p2)*
+ vrtx(Ghghg,12,k1-p1-p2,15,k2,14,-k1-k2+p1+p2)
 ;
 Local loop2diagram253=
 
@@ -4734,10 +4734,10 @@ Local loop2diagram253=
  vrtx(Tth,-4,-p4,2,p4+q,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,1,-p4-q,-2,-p3,5,p1+p2)*
- vrtx(ghghg,8,-k1,9,k1-p1-p2,4,p1+p2)*
- vrtx(ghghg,12,-k1+p1+p2,7,k1,6,-p1-p2)*
- vrtx(ghghg,10,-k1+p1+p2,15,-k2,13,k1+k2-p1-p2)*
- vrtx(ghghg,16,k2,11,k1-p1-p2,14,-k1-k2+p1+p2)
+ vrtx(Ghghg,8,-k1,9,k1-p1-p2,4,p1+p2)*
+ vrtx(Ghghg,12,-k1+p1+p2,7,k1,6,-p1-p2)*
+ vrtx(Ghghg,10,-k1+p1+p2,15,-k2,13,k1+k2-p1-p2)*
+ vrtx(Ghghg,16,k2,11,k1-p1-p2,14,-k1-k2+p1+p2)
 ;
 Local loop2diagram254=
 
@@ -6369,9 +6369,9 @@ Local loop2diagram339=
  vrtx(Ttg,3,-k1,-2,-p3,5,k1+p3)*
  vrtx(Tth,7,-k1+q,4,k1,-6,-q)*
  vrtx(Ttg,-4,-p4,10,-p3-q,11,p1+p2)*
- vrtx(ghghg,16,-k2,13,k2-p1-p2,2,p1+p2)*
+ vrtx(Ghghg,16,-k2,13,k2-p1-p2,2,p1+p2)*
  vrtx(Ttg,9,p3+q,8,k1-q,6,-k1-p3)*
- vrtx(ghghg,14,-k2+p1+p2,15,k2,12,-p1-p2)
+ vrtx(Ghghg,14,-k2+p1+p2,15,k2,12,-p1-p2)
 ;
 Local loop2diagram340=
 
@@ -6445,9 +6445,9 @@ Local loop2diagram343=
  vrtx(Ttg,-4,-p4,4,-k1,5,k1+p4)*
  vrtx(Tth,3,k1,8,-k1+q,-6,-q)*
  vrtx(Ttg,9,-p4-q,-2,-p3,11,p1+p2)*
- vrtx(ghghg,16,-k2,13,k2-p1-p2,2,p1+p2)*
+ vrtx(Ghghg,16,-k2,13,k2-p1-p2,2,p1+p2)*
  vrtx(Ttg,7,k1-q,10,p4+q,6,-k1-p4)*
- vrtx(ghghg,14,-k2+p1+p2,15,k2,12,-p1-p2)
+ vrtx(Ghghg,14,-k2+p1+p2,15,k2,12,-p1-p2)
 ;
 Local loop2diagram344=
 
@@ -7700,8 +7700,8 @@ Local loop2diagram409=
  vrtx(Ttg,3,k1,-2,-p3,7,-k1+p3)*
  vrtx(Ttg,-4,-p4,10,-k1+p3+p4,11,k1-p3)*
  vrtx(Ttg,9,k1-p3-p4,6,-k1-q,2,p1+p2)*
- vrtx(ghghg,16,-k2,13,-k1+k2+p3,8,k1-p3)*
- vrtx(ghghg,14,k1-k2-p3,15,k2,12,-k1+p3)
+ vrtx(Ghghg,16,-k2,13,-k1+k2+p3,8,k1-p3)*
+ vrtx(Ghghg,14,k1-k2-p3,15,k2,12,-k1+p3)
 ;
 Local loop2diagram410=
 
@@ -7776,8 +7776,8 @@ Local loop2diagram413=
  vrtx(Ttg,-4,-p4,4,k1,7,-k1+p4)*
  vrtx(Ttg,9,-k1+p3+p4,-2,-p3,11,k1-p4)*
  vrtx(Ttg,5,-k1-q,10,k1-p3-p4,2,p1+p2)*
- vrtx(ghghg,16,-k2,13,-k1+k2+p4,8,k1-p4)*
- vrtx(ghghg,14,k1-k2-p4,15,k2,12,-k1+p4)
+ vrtx(Ghghg,16,-k2,13,-k1+k2+p4,8,k1-p4)*
+ vrtx(Ghghg,14,k1-k2-p4,15,k2,12,-k1+p4)
 ;
 Local loop2diagram414=
 
@@ -7852,8 +7852,8 @@ Local loop2diagram417=
  vrtx(Uug,3,k1,-3,p2,7,-k1-p2)*
  vrtx(Ttg,-4,-p4,10,-k1-p2+p4,11,k1+p2)*
  vrtx(Ttg,9,k1+p2-p4,2,-p3-q,6,-k1+p1)*
- vrtx(ghghg,16,-k2,13,-k1+k2-p2,8,k1+p2)*
- vrtx(ghghg,14,k1-k2+p2,15,k2,12,-k1-p2)
+ vrtx(Ghghg,16,-k2,13,-k1+k2-p2,8,k1+p2)*
+ vrtx(Ghghg,14,k1-k2+p2,15,k2,12,-k1-p2)
 ;
 Local loop2diagram418=
 
@@ -7928,8 +7928,8 @@ Local loop2diagram421=
  vrtx(Uug,-1,p1,4,k1,7,-k1-p1)*
  vrtx(Ttg,-4,-p4,10,-k1-p1+p4,11,k1+p1)*
  vrtx(Ttg,9,k1+p1-p4,2,-p3-q,6,-k1+p2)*
- vrtx(ghghg,16,-k2,13,-k1+k2-p1,8,k1+p1)*
- vrtx(ghghg,14,k1-k2+p1,15,k2,12,-k1-p1)
+ vrtx(Ghghg,16,-k2,13,-k1+k2-p1,8,k1+p1)*
+ vrtx(Ghghg,14,k1-k2+p1,15,k2,12,-k1-p1)
 ;
 Local loop2diagram422=
 
@@ -8042,8 +8042,8 @@ Local loop2diagram427=
  vrtx(Uug,3,k1,-3,p2,7,-k1-p2)*
  vrtx(Ttg,9,-k1-p2+p3,-2,-p3,11,k1+p2)*
  vrtx(Ttg,1,-p4-q,10,k1+p2-p3,6,-k1+p1)*
- vrtx(ghghg,16,-k2,13,-k1+k2-p2,8,k1+p2)*
- vrtx(ghghg,14,k1-k2+p2,15,k2,12,-k1-p2)
+ vrtx(Ghghg,16,-k2,13,-k1+k2-p2,8,k1+p2)*
+ vrtx(Ghghg,14,k1-k2+p2,15,k2,12,-k1-p2)
 ;
 Local loop2diagram428=
 
@@ -8118,8 +8118,8 @@ Local loop2diagram431=
  vrtx(Uug,-1,p1,4,k1,7,-k1-p1)*
  vrtx(Ttg,9,-k1-p1+p3,-2,-p3,11,k1+p1)*
  vrtx(Ttg,1,-p4-q,10,k1+p1-p3,6,-k1+p2)*
- vrtx(ghghg,16,-k2,13,-k1+k2-p1,8,k1+p1)*
- vrtx(ghghg,14,k1-k2+p1,15,k2,12,-k1-p1)
+ vrtx(Ghghg,16,-k2,13,-k1+k2-p1,8,k1+p1)*
+ vrtx(Ghghg,14,k1-k2+p1,15,k2,12,-k1-p1)
 ;
 Local loop2diagram432=
 
@@ -8345,9 +8345,9 @@ Local loop2diagram443=
  vrtx(Tth,5,k1+q,4,-k1,-6,-q)*
  vrtx(Ttg,3,k1,-2,-p3,7,-k1+p3)*
  vrtx(Ttg,-4,-p4,6,-k1-q,9,k1+p4+q)*
- vrtx(ghghg,14,k2-p1-p2,11,-k2,2,p1+p2)*
- vrtx(ghghg,12,k2,15,-k1-k2+p3,8,k1-p3)*
- vrtx(ghghg,16,k1+k2-p3,13,-k2+p1+p2,10,-k1-p4-q)
+ vrtx(Ghghg,14,k2-p1-p2,11,-k2,2,p1+p2)*
+ vrtx(Ghghg,12,k2,15,-k1-k2+p3,8,k1-p3)*
+ vrtx(Ghghg,16,k1+k2-p3,13,-k2+p1+p2,10,-k1-p4-q)
 ;
 Local loop2diagram444=
 
@@ -8364,9 +8364,9 @@ Local loop2diagram444=
  vrtx(Tth,5,k1+q,4,-k1,-6,-q)*
  vrtx(Ttg,3,k1,-2,-p3,7,-k1+p3)*
  vrtx(Ttg,-4,-p4,6,-k1-q,9,k1+p4+q)*
- vrtx(ghghg,12,-k2,13,k2-p1-p2,2,p1+p2)*
- vrtx(ghghg,16,-k1-k2+p3,11,k2,8,k1-p3)*
- vrtx(ghghg,14,-k2+p1+p2,15,k1+k2-p3,10,-k1-p4-q)
+ vrtx(Ghghg,12,-k2,13,k2-p1-p2,2,p1+p2)*
+ vrtx(Ghghg,16,-k1-k2+p3,11,k2,8,k1-p3)*
+ vrtx(Ghghg,14,-k2+p1+p2,15,k1+k2-p3,10,-k1-p4-q)
 ;
 Local loop2diagram445=
 
@@ -8592,9 +8592,9 @@ Local loop2diagram456=
  vrtx(Ttg,5,k1+p3,-2,-p3,3,-k1)*
  vrtx(Ttg,-4,-p4,8,-k1+p4,4,k1)*
  vrtx(Tth,9,k1+p3+q,6,-k1-p3,-6,-q)*
- vrtx(ghghg,14,-k2,11,k2-p1-p2,2,p1+p2)*
+ vrtx(Ghghg,14,-k2,11,k2-p1-p2,2,p1+p2)*
  vrtx(Ttg,7,k1-p4,10,-k1-p3-q,15,p1+p2)*
- vrtx(ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
+ vrtx(Ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
 ;
 Local loop2diagram457=
 
@@ -8668,9 +8668,9 @@ Local loop2diagram460=
  vrtx(Ttg,-4,-p4,6,k1+p4,3,-k1)*
  vrtx(Ttg,7,-k1+p3,-2,-p3,4,k1)*
  vrtx(Tth,5,-k1-p4,10,k1+p4+q,-6,-q)*
- vrtx(ghghg,14,-k2,11,k2-p1-p2,2,p1+p2)*
+ vrtx(Ghghg,14,-k2,11,k2-p1-p2,2,p1+p2)*
  vrtx(Ttg,9,-k1-p4-q,8,k1-p3,15,p1+p2)*
- vrtx(ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
+ vrtx(Ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
 ;
 Local loop2diagram461=
 
@@ -8744,9 +8744,9 @@ Local loop2diagram464=
  vrtx(Tth,5,k1+q,4,-k1,-6,-q)*
  vrtx(Ttg,3,k1,-2,-p3,7,-k1+p3)*
  vrtx(Ttg,-4,-p4,6,-k1-q,9,k1+p4+q)*
- vrtx(ghghg,14,-k2,11,k2-p1-p2,2,p1+p2)*
+ vrtx(Ghghg,14,-k2,11,k2-p1-p2,2,p1+p2)*
  vrtx(ggg,8,k1-p3,10,-k1-p4-q,15,p1+p2)*
- vrtx(ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
+ vrtx(Ghghg,12,-k2+p1+p2,13,k2,16,-p1-p2)
 ;
 Local loop2diagram465=
 
@@ -8973,8 +8973,8 @@ Local loop2diagram476=
  vrtx(Ttg,3,k1,-2,-p3,7,-k1+p3)*
  vrtx(Ttg,-4,-p4,6,-k1-q,9,k1+p4+q)*
  vrtx(ggg,2,p1+p2,8,k1-p3,11,-k1-p4-q)*
- vrtx(ghghg,16,-k2,13,k1+k2+p4+q,10,-k1-p4-q)*
- vrtx(ghghg,14,-k1-k2-p4-q,15,k2,12,k1+p4+q)
+ vrtx(Ghghg,16,-k2,13,k1+k2+p4+q,10,-k1-p4-q)*
+ vrtx(Ghghg,14,-k1-k2-p4-q,15,k2,12,k1+p4+q)
 ;
 Local loop2diagram477=
 
@@ -9049,8 +9049,8 @@ Local loop2diagram480=
  vrtx(Ttg,-4,-p4,4,k1,7,-k1+p4)*
  vrtx(Ttg,5,-k1-q,-2,-p3,9,k1+p3+q)*
  vrtx(ggg,2,p1+p2,8,k1-p4,11,-k1-p3-q)*
- vrtx(ghghg,16,-k2,13,k1+k2+p3+q,10,-k1-p3-q)*
- vrtx(ghghg,14,-k1-k2-p3-q,15,k2,12,k1+p3+q)
+ vrtx(Ghghg,16,-k2,13,k1+k2+p3+q,10,-k1-p3-q)*
+ vrtx(Ghghg,14,-k1-k2-p3-q,15,k2,12,k1+p3+q)
 ;
 Local loop2diagram481=
 
@@ -9144,8 +9144,8 @@ Local loop2diagram485=
  vrtx(Ttg,-4,-p4,8,-k1+p4,4,k1)*
  vrtx(Uug,5,-k1+p1,-3,p2,9,k1-p1-p2)*
  vrtx(Ttg,7,k1-p4,2,-p3-q,11,-k1+p1+p2)*
- vrtx(ghghg,16,-k2,13,k1+k2-p1-p2,10,-k1+p1+p2)*
- vrtx(ghghg,14,-k1-k2+p1+p2,15,k2,12,k1-p1-p2)
+ vrtx(Ghghg,16,-k2,13,k1+k2-p1-p2,10,-k1+p1+p2)*
+ vrtx(Ghghg,14,-k1-k2+p1+p2,15,k2,12,k1-p1-p2)
 ;
 Local loop2diagram486=
 
@@ -9239,8 +9239,8 @@ Local loop2diagram490=
  vrtx(Ttg,-4,-p4,8,-k1+p4,4,k1)*
  vrtx(Uug,-1,p1,6,-k1+p2,9,k1-p1-p2)*
  vrtx(Ttg,7,k1-p4,2,-p3-q,11,-k1+p1+p2)*
- vrtx(ghghg,16,-k2,13,k1+k2-p1-p2,10,-k1+p1+p2)*
- vrtx(ghghg,14,-k1-k2+p1+p2,15,k2,12,k1-p1-p2)
+ vrtx(Ghghg,16,-k2,13,k1+k2-p1-p2,10,-k1+p1+p2)*
+ vrtx(Ghghg,14,-k1-k2+p1+p2,15,k2,12,k1-p1-p2)
 ;
 Local loop2diagram491=
 
@@ -9334,8 +9334,8 @@ Local loop2diagram495=
  vrtx(Ttg,7,-k1+p3,-2,-p3,4,k1)*
  vrtx(Uug,5,-k1+p1,-3,p2,9,k1-p1-p2)*
  vrtx(Ttg,1,-p4-q,8,k1-p3,11,-k1+p1+p2)*
- vrtx(ghghg,16,-k2,13,k1+k2-p1-p2,10,-k1+p1+p2)*
- vrtx(ghghg,14,-k1-k2+p1+p2,15,k2,12,k1-p1-p2)
+ vrtx(Ghghg,16,-k2,13,k1+k2-p1-p2,10,-k1+p1+p2)*
+ vrtx(Ghghg,14,-k1-k2+p1+p2,15,k2,12,k1-p1-p2)
 ;
 Local loop2diagram496=
 
@@ -9429,8 +9429,8 @@ Local loop2diagram500=
  vrtx(Ttg,7,-k1+p3,-2,-p3,4,k1)*
  vrtx(Uug,-1,p1,6,-k1+p2,9,k1-p1-p2)*
  vrtx(Ttg,1,-p4-q,8,k1-p3,11,-k1+p1+p2)*
- vrtx(ghghg,16,-k2,13,k1+k2-p1-p2,10,-k1+p1+p2)*
- vrtx(ghghg,14,-k1-k2+p1+p2,15,k2,12,k1-p1-p2)
+ vrtx(Ghghg,16,-k2,13,k1+k2-p1-p2,10,-k1+p1+p2)*
+ vrtx(Ghghg,14,-k1-k2+p1+p2,15,k2,12,k1-p1-p2)
 ;
 Local loop2diagram501=
 
@@ -10227,8 +10227,8 @@ Local loop2diagram542=
  vrtx(Uug,-1,p1,6,-k1,7,k1-p1)*
  vrtx(Uug,9,k1-p1-p2,-3,p2,11,-k1+p1)*
  vrtx(Uug,5,k1,10,-k1+p1+p2,4,-p1-p2)*
- vrtx(ghghg,16,-k2,13,k1+k2-p1,8,-k1+p1)*
- vrtx(ghghg,14,-k1-k2+p1,15,k2,12,k1-p1)
+ vrtx(Ghghg,16,-k2,13,k1+k2-p1,8,-k1+p1)*
+ vrtx(Ghghg,14,-k1-k2+p1,15,k2,12,k1-p1)
 ;
 Local loop2diagram543=
 
@@ -10322,8 +10322,8 @@ Local loop2diagram547=
  vrtx(Uug,-1,p1,6,-k1,7,k1-p1)*
  vrtx(Uug,9,k1-p1-p2,-3,p2,11,-k1+p1)*
  vrtx(Uug,5,k1,10,-k1+p1+p2,4,-p1-p2)*
- vrtx(ghghg,16,-k2,13,k1+k2-p1,8,-k1+p1)*
- vrtx(ghghg,14,-k1-k2+p1,15,k2,12,k1-p1)
+ vrtx(Ghghg,16,-k2,13,k1+k2-p1,8,-k1+p1)*
+ vrtx(Ghghg,14,-k1-k2+p1,15,k2,12,k1-p1)
 ;
 Local loop2diagram548=
 
@@ -10530,9 +10530,9 @@ Local loop2diagram558=
  vrtx(Ttg,-4,-p4,2,-p3-q,3,p1+p2)*
  vrtx(Uug,-1,p1,6,-k1,7,k1-p1)*
  vrtx(Uug,5,k1,-3,p2,9,-k1-p2)*
- vrtx(ghghg,14,k2+p1+p2,11,-k2,4,-p1-p2)*
- vrtx(ghghg,12,k2,15,k1-k2-p1,8,-k1+p1)*
- vrtx(ghghg,16,-k1+k2+p1,13,-k2-p1-p2,10,k1+p2)
+ vrtx(Ghghg,14,k2+p1+p2,11,-k2,4,-p1-p2)*
+ vrtx(Ghghg,12,k2,15,k1-k2-p1,8,-k1+p1)*
+ vrtx(Ghghg,16,-k1+k2+p1,13,-k2-p1-p2,10,k1+p2)
 ;
 Local loop2diagram559=
 
@@ -10549,9 +10549,9 @@ Local loop2diagram559=
  vrtx(Ttg,-4,-p4,2,-p3-q,3,p1+p2)*
  vrtx(Uug,-1,p1,6,-k1,7,k1-p1)*
  vrtx(Uug,5,k1,-3,p2,9,-k1-p2)*
- vrtx(ghghg,12,-k2,13,k2+p1+p2,4,-p1-p2)*
- vrtx(ghghg,16,k1-k2-p1,11,k2,8,-k1+p1)*
- vrtx(ghghg,14,-k2-p1-p2,15,-k1+k2+p1,10,k1+p2)
+ vrtx(Ghghg,12,-k2,13,k2+p1+p2,4,-p1-p2)*
+ vrtx(Ghghg,16,k1-k2-p1,11,k2,8,-k1+p1)*
+ vrtx(Ghghg,14,-k2-p1-p2,15,-k1+k2+p1,10,k1+p2)
 ;
 Local loop2diagram560=
 
@@ -10701,9 +10701,9 @@ Local loop2diagram567=
  vrtx(Ttg,1,-p4-q,-2,-p3,3,p1+p2)*
  vrtx(Uug,-1,p1,6,-k1,7,k1-p1)*
  vrtx(Uug,5,k1,-3,p2,9,-k1-p2)*
- vrtx(ghghg,14,k2+p1+p2,11,-k2,4,-p1-p2)*
- vrtx(ghghg,12,k2,15,k1-k2-p1,8,-k1+p1)*
- vrtx(ghghg,16,-k1+k2+p1,13,-k2-p1-p2,10,k1+p2)
+ vrtx(Ghghg,14,k2+p1+p2,11,-k2,4,-p1-p2)*
+ vrtx(Ghghg,12,k2,15,k1-k2-p1,8,-k1+p1)*
+ vrtx(Ghghg,16,-k1+k2+p1,13,-k2-p1-p2,10,k1+p2)
 ;
 Local loop2diagram568=
 
@@ -10720,9 +10720,9 @@ Local loop2diagram568=
  vrtx(Ttg,1,-p4-q,-2,-p3,3,p1+p2)*
  vrtx(Uug,-1,p1,6,-k1,7,k1-p1)*
  vrtx(Uug,5,k1,-3,p2,9,-k1-p2)*
- vrtx(ghghg,12,-k2,13,k2+p1+p2,4,-p1-p2)*
- vrtx(ghghg,16,k1-k2-p1,11,k2,8,-k1+p1)*
- vrtx(ghghg,14,-k2-p1-p2,15,-k1+k2+p1,10,k1+p2)
+ vrtx(Ghghg,12,-k2,13,k2+p1+p2,4,-p1-p2)*
+ vrtx(Ghghg,16,k1-k2-p1,11,k2,8,-k1+p1)*
+ vrtx(Ghghg,14,-k2-p1-p2,15,-k1+k2+p1,10,k1+p2)
 ;
 Local loop2diagram569=
 
@@ -10872,9 +10872,9 @@ Local loop2diagram576=
  vrtx(Ttg,-4,-p4,2,-p3-q,3,p1+p2)*
  vrtx(Uug,-1,p1,6,-k1,7,k1-p1)*
  vrtx(Uug,5,k1,-3,p2,9,-k1-p2)*
- vrtx(ghghg,14,-k2,11,k2+p1+p2,4,-p1-p2)*
+ vrtx(Ghghg,14,-k2,11,k2+p1+p2,4,-p1-p2)*
  vrtx(ggg,8,-k1+p1,10,k1+p2,15,-p1-p2)*
- vrtx(ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
+ vrtx(Ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
 ;
 Local loop2diagram577=
 
@@ -10948,9 +10948,9 @@ Local loop2diagram580=
  vrtx(Ttg,-4,-p4,2,-p3-q,3,p1+p2)*
  vrtx(Uug,-1,p1,8,k1-p1,5,-k1)*
  vrtx(Uug,9,-k1-p2,-3,p2,6,k1)*
- vrtx(ghghg,14,-k2,11,k2+p1+p2,4,-p1-p2)*
+ vrtx(Ghghg,14,-k2,11,k2+p1+p2,4,-p1-p2)*
  vrtx(Uug,7,-k1+p1,10,k1+p2,15,-p1-p2)*
- vrtx(ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
+ vrtx(Ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
 ;
 Local loop2diagram581=
 
@@ -11024,9 +11024,9 @@ Local loop2diagram584=
  vrtx(Ttg,1,-p4-q,-2,-p3,3,p1+p2)*
  vrtx(Uug,-1,p1,6,-k1,7,k1-p1)*
  vrtx(Uug,5,k1,-3,p2,9,-k1-p2)*
- vrtx(ghghg,14,-k2,11,k2+p1+p2,4,-p1-p2)*
+ vrtx(Ghghg,14,-k2,11,k2+p1+p2,4,-p1-p2)*
  vrtx(ggg,8,-k1+p1,10,k1+p2,15,-p1-p2)*
- vrtx(ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
+ vrtx(Ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
 ;
 Local loop2diagram585=
 
@@ -11100,9 +11100,9 @@ Local loop2diagram588=
  vrtx(Ttg,1,-p4-q,-2,-p3,3,p1+p2)*
  vrtx(Uug,-1,p1,8,k1-p1,5,-k1)*
  vrtx(Uug,9,-k1-p2,-3,p2,6,k1)*
- vrtx(ghghg,14,-k2,11,k2+p1+p2,4,-p1-p2)*
+ vrtx(Ghghg,14,-k2,11,k2+p1+p2,4,-p1-p2)*
  vrtx(Uug,7,-k1+p1,10,k1+p2,15,-p1-p2)*
- vrtx(ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
+ vrtx(Ghghg,12,-k2-p1-p2,13,k2,16,p1+p2)
 ;
 Local loop2diagram589=
 
@@ -11196,8 +11196,8 @@ Local loop2diagram593=
  vrtx(Tth,5,-k1,8,k1+q,-6,-q)*
  vrtx(Ttg,-4,-p4,6,k1,9,-k1+p4)*
  vrtx(Ttg,7,-k1-q,4,p4+q,11,k1-p4)*
- vrtx(ghghg,16,-k2,13,-k1+k2+p4,10,k1-p4)*
- vrtx(ghghg,14,k1-k2-p4,15,k2,12,-k1+p4)
+ vrtx(Ghghg,16,-k2,13,-k1+k2+p4,10,k1-p4)*
+ vrtx(Ghghg,14,k1-k2-p4,15,k2,12,-k1+p4)
 ;
 Local loop2diagram594=
 
@@ -11291,8 +11291,8 @@ Local loop2diagram598=
  vrtx(Tth,7,k1+q,6,-k1,-6,-q)*
  vrtx(Ttg,5,k1,-2,-p3,9,-k1+p3)*
  vrtx(Ttg,3,p3+q,8,-k1-q,11,k1-p3)*
- vrtx(ghghg,16,-k2,13,-k1+k2+p3,10,k1-p3)*
- vrtx(ghghg,14,k1-k2-p3,15,k2,12,-k1+p3)
+ vrtx(Ghghg,16,-k2,13,-k1+k2+p3,10,k1-p3)*
+ vrtx(Ghghg,14,k1-k2-p3,15,k2,12,-k1+p3)
 ;
 Local loop2diagram599=
 
@@ -11367,8 +11367,8 @@ Local loop2diagram602=
  vrtx(Uug,-1,p1,6,-k1,7,k1-p1)*
  vrtx(Uug,5,k1,-3,p2,9,-k1-p2)*
  vrtx(ggg,4,-p1-p2,8,-k1+p1,11,k1+p2)*
- vrtx(ghghg,16,-k2,13,-k1+k2-p2,10,k1+p2)*
- vrtx(ghghg,14,k1-k2+p2,15,k2,12,-k1-p2)
+ vrtx(Ghghg,16,-k2,13,-k1+k2-p2,10,k1+p2)*
+ vrtx(Ghghg,14,k1-k2+p2,15,k2,12,-k1-p2)
 ;
 Local loop2diagram603=
 
@@ -11462,8 +11462,8 @@ Local loop2diagram607=
  vrtx(Uug,5,-k1,-3,p2,7,k1-p2)*
  vrtx(Uug,-1,p1,6,k1,9,-k1-p1)*
  vrtx(ggg,4,-p1-p2,8,-k1+p2,11,k1+p1)*
- vrtx(ghghg,16,-k2,13,-k1+k2-p1,10,k1+p1)*
- vrtx(ghghg,14,k1-k2+p1,15,k2,12,-k1-p1)
+ vrtx(Ghghg,16,-k2,13,-k1+k2-p1,10,k1+p1)*
+ vrtx(Ghghg,14,k1-k2+p1,15,k2,12,-k1-p1)
 ;
 Local loop2diagram608=
 
@@ -11557,8 +11557,8 @@ Local loop2diagram612=
  vrtx(Uug,-1,p1,6,-k1,7,k1-p1)*
  vrtx(Uug,5,k1,-3,p2,9,-k1-p2)*
  vrtx(ggg,4,-p1-p2,8,-k1+p1,11,k1+p2)*
- vrtx(ghghg,16,-k2,13,-k1+k2-p2,10,k1+p2)*
- vrtx(ghghg,14,k1-k2+p2,15,k2,12,-k1-p2)
+ vrtx(Ghghg,16,-k2,13,-k1+k2-p2,10,k1+p2)*
+ vrtx(Ghghg,14,k1-k2+p2,15,k2,12,-k1-p2)
 ;
 Local loop2diagram613=
 
@@ -11652,8 +11652,8 @@ Local loop2diagram617=
  vrtx(Uug,5,-k1,-3,p2,7,k1-p2)*
  vrtx(Uug,-1,p1,6,k1,9,-k1-p1)*
  vrtx(ggg,4,-p1-p2,8,-k1+p2,11,k1+p1)*
- vrtx(ghghg,16,-k2,13,-k1+k2-p1,10,k1+p1)*
- vrtx(ghghg,14,k1-k2+p1,15,k2,12,-k1-p1)
+ vrtx(Ghghg,16,-k2,13,-k1+k2-p1,10,k1+p1)*
+ vrtx(Ghghg,14,k1-k2+p1,15,k2,12,-k1-p1)
 ;
 Local loop2diagram618=
 
@@ -13343,8 +13343,8 @@ Local loop2diagram706=
  vrtx(Tth,7,k1+p3+q,4,-k1-p3,-6,-q)*
  vrtx(Uug,5,k1+p1,-3,p2,9,-k1-p1-p2)*
  vrtx(Ttg,-4,-p4,8,-k1-p3-q,11,k1+p1+p2)*
- vrtx(ghghg,16,-k2,13,-k1+k2-p1-p2,10,k1+p1+p2)*
- vrtx(ghghg,14,k1-k2+p1+p2,15,k2,12,-k1-p1-p2)
+ vrtx(Ghghg,16,-k2,13,-k1+k2-p1-p2,10,k1+p1+p2)*
+ vrtx(Ghghg,14,k1-k2+p1+p2,15,k2,12,-k1-p1-p2)
 ;
 Local loop2diagram707=
 
@@ -13419,8 +13419,8 @@ Local loop2diagram710=
  vrtx(Tth,7,k1+p3+q,4,-k1-p3,-6,-q)*
  vrtx(Uug,-1,p1,6,k1+p2,9,-k1-p1-p2)*
  vrtx(Ttg,-4,-p4,8,-k1-p3-q,11,k1+p1+p2)*
- vrtx(ghghg,16,-k2,13,-k1+k2-p1-p2,10,k1+p1+p2)*
- vrtx(ghghg,14,k1-k2+p1+p2,15,k2,12,-k1-p1-p2)
+ vrtx(Ghghg,16,-k2,13,-k1+k2-p1-p2,10,k1+p1+p2)*
+ vrtx(Ghghg,14,k1-k2+p1+p2,15,k2,12,-k1-p1-p2)
 ;
 Local loop2diagram711=
 
@@ -13495,8 +13495,8 @@ Local loop2diagram714=
  vrtx(Tth,3,-k1-p4,8,k1+p4+q,-6,-q)*
  vrtx(Uug,5,k1+p1,-3,p2,9,-k1-p1-p2)*
  vrtx(Ttg,7,-k1-p4-q,-2,-p3,11,k1+p1+p2)*
- vrtx(ghghg,16,-k2,13,-k1+k2-p1-p2,10,k1+p1+p2)*
- vrtx(ghghg,14,k1-k2+p1+p2,15,k2,12,-k1-p1-p2)
+ vrtx(Ghghg,16,-k2,13,-k1+k2-p1-p2,10,k1+p1+p2)*
+ vrtx(Ghghg,14,k1-k2+p1+p2,15,k2,12,-k1-p1-p2)
 ;
 Local loop2diagram715=
 
@@ -13571,8 +13571,8 @@ Local loop2diagram718=
  vrtx(Tth,3,-k1-p4,8,k1+p4+q,-6,-q)*
  vrtx(Uug,-1,p1,6,k1+p2,9,-k1-p1-p2)*
  vrtx(Ttg,7,-k1-p4-q,-2,-p3,11,k1+p1+p2)*
- vrtx(ghghg,16,-k2,13,-k1+k2-p1-p2,10,k1+p1+p2)*
- vrtx(ghghg,14,k1-k2+p1+p2,15,k2,12,-k1-p1-p2)
+ vrtx(Ghghg,16,-k2,13,-k1+k2-p1-p2,10,k1+p1+p2)*
+ vrtx(Ghghg,14,k1-k2+p1+p2,15,k2,12,-k1-p1-p2)
 ;
 Local loop2diagram719=
 

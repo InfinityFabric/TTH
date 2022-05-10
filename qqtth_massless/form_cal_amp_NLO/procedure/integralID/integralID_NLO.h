@@ -15,7 +15,7 @@ id Sector(pentagon?,i?,i1?,i2?,i3?,i4?,i5?)=
     prop4^(-i4)*
     prop5^(-i5);
 
-#do i=1,2
+#do i=1,1
 
     if(match(Sector(pentagon`i')));
    
@@ -24,9 +24,9 @@ id Sector(pentagon?,i?,i1?,i2?,i3?,i4?,i5?)=
 
 #enddo
 
-#include ../reduze_NLO/creat_integralfamilies/scalarset.h
+#include ./procedure/integralID/scalarset.h
    
-#do i=1,2
+#do i=1,1
     label 1000`i';
 #enddo
 

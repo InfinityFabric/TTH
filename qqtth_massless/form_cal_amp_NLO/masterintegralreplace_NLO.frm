@@ -27,7 +27,7 @@ Delete storage;
 id D=d;
 *****
 
-#do i=1,2
+#do i=1,1
     
 #include ../multivariateapart/pentagon`i'/kira_rule.inc
 

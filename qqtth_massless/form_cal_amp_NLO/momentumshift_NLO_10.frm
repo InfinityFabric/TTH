@@ -17,7 +17,7 @@ Symbol gs,Y;
 * local declaration
 
 CFunction DiaMatch,Sector,Shift;
-CFunction pentagon2,pentagon2x12,pentagon1,pentagon1x12x34;
+CFunction pentagon1,pentagon1x12x34,pentagon1x12x345,pentagon1x12x354,pentagon1x12,pentagon1x12x45;
 Symbol [];
 
 Load ../../../data_save/qqtth_massless/NLO/Mat.sav;

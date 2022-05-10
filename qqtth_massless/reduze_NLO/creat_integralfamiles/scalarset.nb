@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     13967,        338]
-NotebookOptionsPosition[     12964,        313]
-NotebookOutlinePosition[     13329,        329]
-CellTagsIndexPosition[     13286,        326]
+NotebookDataLength[     13923,        338]
+NotebookOptionsPosition[     12921,        313]
+NotebookOutlinePosition[     13285,        329]
+CellTagsIndexPosition[     13242,        326]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -92,25 +92,23 @@ Cell[BoxData[
      RowBox[{"{", 
       RowBox[{
        RowBox[{"p1", " ", "p2"}], ",", 
-       RowBox[{"p1", " ", "p3"}], ",", 
-       RowBox[{"p1", " ", "p4"}], ",", 
        RowBox[{"p2", " ", "p3"}], ",", 
-       RowBox[{"p2", " ", "p4"}], ",", 
-       RowBox[{"p3", " ", "p4"}]}], "}"}]}], ";"}], "\[IndentingNewLine]", 
+       RowBox[{"p3", " ", "p4"}], ",", 
+       RowBox[{"p4", " ", "q"}], ",", 
+       RowBox[{"q", " ", "p1"}], ",", 
+       RowBox[{"q", " ", "q"}]}], "}"}]}], ";"}], "\[IndentingNewLine]", 
    RowBox[{
     RowBox[{"table6", "=", 
      RowBox[{"{", 
       RowBox[{
        RowBox[{"s12", "/", "2"}], ",", 
        RowBox[{
-        RowBox[{"-", "s13"}], "/", "2"}], ",", 
-       RowBox[{
-        RowBox[{"-", "s14"}], "/", "2"}], ",", 
-       RowBox[{
         RowBox[{"-", "s23"}], "/", "2"}], ",", 
+       RowBox[{"s34", "/", "2"}], ",", 
+       RowBox[{"s45", "/", "2"}], ",", 
        RowBox[{
-        RowBox[{"-", "s24"}], "/", "2"}], ",", 
-       RowBox[{"s34", "/", "2"}]}], "}"}]}], ";"}], "\[IndentingNewLine]", 
+        RowBox[{"-", "s51"}], "/", "2"}], ",", "0"}], "}"}]}], ";"}], 
+   "\[IndentingNewLine]", 
    RowBox[{
     RowBox[{"replace2", "=", 
      RowBox[{"Thread", "[", 
@@ -126,8 +124,10 @@ Cell[BoxData[
    3.8489740355774803`*^9, 3.848974072170493*^9}, {3.856425294090127*^9, 
    3.8564253815671663`*^9}, 3.856425731086904*^9, {3.856425847730541*^9, 
    3.856425857656539*^9}, {3.85642597129348*^9, 3.856425990921927*^9}, 
-   3.856426021073737*^9, {3.856428534021925*^9, 3.8564285443641863`*^9}},
- CellLabel->"In[8]:=",ExpressionUUID->"7b8b8261-06ce-4f9e-bfc0-5baad3db3feb"],
+   3.856426021073737*^9, {3.856428534021925*^9, 3.8564285443641863`*^9}, {
+   3.8611446688902893`*^9, 
+   3.861144735084746*^9}},ExpressionUUID->"7b8b8261-06ce-4f9e-bfc0-\
+5baad3db3feb"],
 
 Cell[BoxData[
  RowBox[{"For", "[", 
@@ -311,8 +311,8 @@ Cell[BoxData[
  CellLabel->"In[11]:=",ExpressionUUID->"9cb3b1fe-6c93-42d9-96e9-10196d758c85"]
 }, Open  ]]
 },
-WindowSize->{1259, 1534},
-WindowMargins->{{Automatic, 13}, {13, Automatic}},
+WindowSize->{1259, 1007},
+WindowMargins->{{96, Automatic}, {0, Automatic}},
 Magnification:>2. Inherited,
 FrontEndVersion->"12.0 for Linux x86 (64-bit) (April 8, 2019)",
 StyleDefinitions->"Default.nb"
@@ -329,15 +329,15 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 348, 7, 92, "Input",ExpressionUUID->"71c8b73e-cbbe-4335-b740-e54317e40874",
+Cell[580, 22, 348, 7, 88, "Input",ExpressionUUID->"71c8b73e-cbbe-4335-b740-e54317e40874",
  CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
-Cell[931, 31, 693, 13, 92, "Input",ExpressionUUID->"8d74e93f-3d83-487d-8c1c-9e7757461060",
+Cell[931, 31, 693, 13, 88, "Input",ExpressionUUID->"8d74e93f-3d83-487d-8c1c-9e7757461060",
  CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
-Cell[1627, 46, 1508, 38, 281, "Input",ExpressionUUID->"874c69e3-331e-42c8-ab36-ae8acc2f76e7",
+Cell[1627, 46, 1508, 38, 265, "Input",ExpressionUUID->"874c69e3-331e-42c8-ab36-ae8acc2f76e7",
  CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
-Cell[3138, 86, 1850, 43, 281, "Input",ExpressionUUID->"7b8b8261-06ce-4f9e-bfc0-5baad3db3feb",
+Cell[3138, 86, 1807, 43, 238, "Input",ExpressionUUID->"7b8b8261-06ce-4f9e-bfc0-5baad3db3feb",
  CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
-Cell[4991, 131, 7957, 179, 1534, "Input",ExpressionUUID->"9cb3b1fe-6c93-42d9-96e9-10196d758c85",
+Cell[4948, 131, 7957, 179, 1321, "Input",ExpressionUUID->"9cb3b1fe-6c93-42d9-96e9-10196d758c85",
  CellGroupingRules->{"GroupTogetherGrouping", 10000.}]
 }, Open  ]]
 }

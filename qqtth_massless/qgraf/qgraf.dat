@@ -3,11 +3,11 @@
 
  style= 'xty.sty' ;
  
- output= 'diagram/qqtthonetree.frm' ;
+ output= 'diagram/qqtthtree.frm' ;
 
  style= 'reduze.sty' ;
 
- output= '../reduze_NLO/diagram/qqtthonetree.qgraf.yaml';
+ output= '../reduze_NLO/diagram/qqtthtree.qgraf.yaml';
 
  model= 'qqtth_massless';
 
