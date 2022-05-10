@@ -1,0 +1,6 @@
+2 k1 k1-p1 1 1 1 0 {place==holder} {place==holder} -1 0 -1 -1 -1 0 0
+4 k1 k1-p2-p1 1 1 1 0 {place==holder} {place==holder} -1 -1 0 -1 -1 0 0
+6 placeholder placeholder 1 3 2 0 {place==holder} {place==holder} -1 0 1 -1 -1 1 0
+6 placeholder placeholder 1 3 2 0 {place==holder} {place==holder} -1 1 0 -1 -1 1 0
+16 k1 k1-p2+p3+p4-p1 1 1 1 0 {place==holder} {place==holder} -1 -1 -1 -1 0 0 0
+24 placeholder placeholder 1 12 2 0 {place==holder} {place==holder} -1 -1 -1 3 2 1 0
