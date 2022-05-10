@@ -1,7 +1,7 @@
 S I;
-S q1;
-S s12;
-set dens39: q1;
+S q1,q2;
+S d,s45;
+set dens39: q1,q2;
 
 
 #procedure apartreduce39(expr)

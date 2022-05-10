@@ -38,7 +38,7 @@ NSkip `expr';
 #write "calc module nr 4"
 #do j=1,1
 if (match(q3*s12));
-id q3*s12 = 1 + q3*s34;
+id q3*s12 = 1 + q3*s45;
 redefine j "0";
 endif;
 .sort

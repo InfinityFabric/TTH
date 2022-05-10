@@ -1,3 +1,3 @@
 id den(x?number_)=1/x;
-id den(?a)=q1
+id den(?a)=q1/4
 ;

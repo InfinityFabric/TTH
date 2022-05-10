@@ -13,8 +13,8 @@ NSkip `expr';
 #if `rule2'==1
 #write "calc module nr 2"
 #do j=1,1
-if (match(q2*s12));
-id q2*s12 = 1 + q2*s34;
+if (match(q2*s23));
+id q2*s23 = 1 + q2*s45;
 redefine j "0";
 endif;
 .sort

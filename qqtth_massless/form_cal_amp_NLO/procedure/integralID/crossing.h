@@ -14,7 +14,7 @@ endif;
 
 if (match(Sector(pentagon1x12x354,?a)));
    Multiply replace_(p2,p1,p4,p3,p1,p2,p3,q,q,p4);
-   id Sector(pentagon1x12x354,?a)=Sector(pentagon1x12x354,?a)*cross1x12x354;
+   id Sector(pentagon1x12x354,?a)=Sector(pentagon1,?a)*cross1x12x354;
 endif;
 
 if (match(Sector(pentagon1x12,?a)));

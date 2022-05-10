@@ -1,7 +1,7 @@
 S I;
-S q1,q2,q3;
-S d,s12,s34;
-set dens86: q1,q2,q3;
+S q1;
+S s23,s34,s51;
+set dens86: q1;
 
 
 #procedure apartreduce86(expr)

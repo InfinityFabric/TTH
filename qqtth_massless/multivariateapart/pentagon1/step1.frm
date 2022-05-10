@@ -8,7 +8,7 @@ Table rest(1:52);
 Off statistics;
 
 #include kira_myintegrals.inc
-#$total=133;
+#$total=81;
 
 *id den(x?number_)=1/x;
 *.sort

@@ -1,2 +1,2 @@
-id q1=den(s12
+id q1=den(-1 + d
 );
