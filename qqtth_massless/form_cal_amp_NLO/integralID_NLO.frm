@@ -21,7 +21,7 @@ Set scalarset:sc1,sc2,sc3,sc4,sc5;
 
 Off statistics;
 
-Load ../../../data_save/qqtth_massive/NLO/am_after_momentumshift.sav;
+Load ../../../data_save/qqtth_massless/NLO/am_after_momentumshift.sav;
 
 .sort
 
@@ -44,7 +44,7 @@ format mathematica;
 Print;
 .store
 
-save ../../../data_save/qqtth_massive/NLO/amp_ID.sav;
+save ../../../data_save/qqtth_massless/NLO/amp_ID.sav;
 
 .sort
 .end

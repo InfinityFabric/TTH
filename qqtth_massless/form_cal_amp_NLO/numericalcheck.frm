@@ -12,7 +12,7 @@ Symbol mu,mt,mh;
 Symbol cross1x12x34,cross2x12;
 Autodeclare Symbol a,[];
 
-Load ../../../data_save/qqtth_massive/NLO/amp_master.sav;
+Load ../../../data_save/qqtth_massless/NLO/amp_master.sav;
 
 .sort
 #do i=1,31
@@ -33,7 +33,7 @@ Local matsum=
 .sort
 Format mathematica;
 
-#write <../../../data_save/qqtth_massive/NLO/matsum.m> "(%E)",matsum
+#write <../../../data_save/qqtth_massless/NLO/matsum.m> "(%E)",matsum
 
 Print matsum;
 .end
