@@ -1,4 +1,8 @@
-id q1=den(-4 + d
+id q1=den(-3 + d
 );
-id q2=den(s31 - s45
+id q2=den(mt
+);
+id q3=den(mh^2 - 2*mh*mt + mt^2 - s53
+);
+id q4=den(mh^2 + 2*mh*mt + mt^2 - s53
 );

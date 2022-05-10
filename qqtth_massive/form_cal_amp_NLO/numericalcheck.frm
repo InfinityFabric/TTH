@@ -12,12 +12,12 @@ Symbol mu,mt,mh;
 Symbol cross1x12x34,cross2x12;
 Autodeclare Symbol a,[];
 
-Load ../../../data_save/qqtth_massive/NLO/amp_ID.sav;
+Load ../../../data_save/qqtth_massive/NLO/amp_master.sav;
 
 .sort
 #do i=1,31
     #do j=1,2
-        Local amp10`i'o`j'=a10o`i'o`j';
+        Local bmp10o`i'o`j'=a10o`i'o`j';
     #enddo
 #enddo
 .sort
@@ -25,7 +25,7 @@ Load ../../../data_save/qqtth_massive/NLO/amp_ID.sav;
 Local matsum=
 #do i=1,31
     #do j=1,2
-        +amp10o`i'o`j'
+        +bmp10o`i'o`j'
     #enddo
 #enddo
 ;
@@ -35,4 +35,5 @@ Format mathematica;
 
 #write <../../../data_save/qqtth_massive/NLO/matsum.m> "(%E)",matsum
 
+Print matsum;
 .end

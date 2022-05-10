@@ -1,6 +1,8 @@
 id q1=den(-4 + d
 );
-id q2=den(s12
+id q2=den(mt^2 - s31
 );
-id q3=den(mt^2*s24 - s12*s24 - s24^2 - mt^2*s53 + s24*s53
+id q3=den(s31 - s45
+);
+id q4=den(mt^2*s31 - s12*s31 - s31^2 - mt^2*s45 + s31*s45
 );

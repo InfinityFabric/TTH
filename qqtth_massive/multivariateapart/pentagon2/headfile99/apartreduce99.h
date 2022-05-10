@@ -1,6 +1,6 @@
 S I;
 S q1;
-S mt,s12,s45;
+S s12;
 set dens99: q1;
 
 

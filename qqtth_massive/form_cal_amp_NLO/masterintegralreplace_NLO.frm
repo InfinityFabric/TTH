@@ -43,7 +43,7 @@ id d=D;
 .sort
 Bracket pentagon1,pentagon2,basis1,basis2,Basis1,Basis2,Nc,Y,gs;
 Print +s;
-Format mathematica;
+*Format mathematica;
 *#write <../myresults.nb> "(%E)",a10o10o1
 .store
 

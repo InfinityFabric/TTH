@@ -4,28 +4,68 @@
 #define rule4 "0"
 #define rule5 "0"
 #define rule6 "0"
-if (match(d*q1));
+#define rule7 "0"
+#define rule8 "0"
+#define rule9 "0"
+#define rule10 "0"
+#define rule11 "0"
+#define rule12 "0"
+#define rule13 "0"
+#define rule14 "0"
+if (match(mt*q2));
  redefine rule1 "1";
  $repeat = 1;
 endif;
-if (match(mt^2*q2));
+if (match(q3*s12));
  redefine rule2 "1";
  $repeat = 1;
 endif;
-if (match(q3*s24));
+if (match(d*q1));
  redefine rule3 "1";
  $repeat = 1;
 endif;
-if (match(q2*q4*s12*s24));
+if (match(mt^2*q4));
  redefine rule4 "1";
  $repeat = 1;
 endif;
-if (match(q3*q4*s12*s53));
+if (match(q2*q4*s31));
  redefine rule5 "1";
  $repeat = 1;
 endif;
-if (match(mt^2*q4*s24));
+if (match(mt^2*q5));
  redefine rule6 "1";
+ $repeat = 1;
+endif;
+if (match(q2*q5*s45));
+ redefine rule7 "1";
+ $repeat = 1;
+endif;
+if (match(q4*q5*s31));
+ redefine rule8 "1";
+ $repeat = 1;
+endif;
+if (match(q4*q6));
+ redefine rule9 "1";
+ $repeat = 1;
+endif;
+if (match(mt^2*q6*s31));
+ redefine rule10 "1";
+ $repeat = 1;
+endif;
+if (match(q2*q6*s12*s31));
+ redefine rule11 "1";
+ $repeat = 1;
+endif;
+if (match(q2*q3*q6*s31^2));
+ redefine rule12 "1";
+ $repeat = 1;
+endif;
+if (match(q5*q6*s12*s31));
+ redefine rule13 "1";
+ $repeat = 1;
+endif;
+if (match(q3*q5*q6*s31^2));
+ redefine rule14 "1";
  $repeat = 1;
 endif;
 .sort

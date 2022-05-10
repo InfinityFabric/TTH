@@ -1,6 +1,6 @@
 S I;
 S q1,q2;
-S d,s12;
+S mh,mt,s53;
 set dens92: q1,q2;
 
 

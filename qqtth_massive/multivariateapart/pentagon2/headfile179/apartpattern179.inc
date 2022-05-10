@@ -4,7 +4,7 @@ if (match(d*q1));
  redefine rule1 "1";
  $repeat = 1;
 endif;
-if (match(mh^2*mt^4*q2));
+if (match(mt^4*q2));
  redefine rule2 "1";
  $repeat = 1;
 endif;

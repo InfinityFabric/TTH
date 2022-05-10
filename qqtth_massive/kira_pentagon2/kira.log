@@ -34,7 +34,7 @@ This requested integral is a master integral: pentagon2[1,1,1,1,0] # 15
 This requested integral is a master integral: pentagon2[1,1,1,1,1] # 31
 unreduced integrals: 0.
 
-closeCalc: 30803
+closeCalc: 156061
 The input directory is set to:
 ./results
 symbol_to_replace_by_one: x in kinematics.yaml is not set. 
@@ -64,6 +64,6 @@ This requested integral is a master integral: pentagon2[1,1,1,1,0] # 15
 This requested integral is a master integral: pentagon2[1,1,1,1,1] # 31
 unreduced integrals: 0.
 
-closeCalc: 31263
+closeCalc: 156541
 Total time:
-( 0.702527 s )
+( 0.790787 s )

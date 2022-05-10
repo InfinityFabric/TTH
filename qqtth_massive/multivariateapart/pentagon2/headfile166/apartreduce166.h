@@ -1,6 +1,6 @@
 S I;
 S q1,q2,q4,q3;
-S d,mt,s12,s31,s45;
+S d,mt,s12,s24,s53;
 set dens166: q1,q2,q4,q3;
 
 

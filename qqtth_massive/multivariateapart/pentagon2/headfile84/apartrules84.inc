@@ -1,8 +1,8 @@
 #if `rule1'==1
 #write "calc module nr 1"
 #do j=1,1
-if (match(mh*mt*q1*q2));
-id mh*mt*q1*q2 = q1/4 - q2/4;
+if (match(mt*q2));
+id mt*q2 = 1;
 redefine j "0";
 endif;
 .sort
@@ -13,8 +13,8 @@ NSkip `expr';
 #if `rule2'==1
 #write "calc module nr 2"
 #do j=1,1
-if (match(mh^2*q1));
-id mh^2*q1 = 1 + 2*mh*mt*q1 - mt^2*q1 + q1*s53;
+if (match(d*q1));
+id d*q1 = 1 + 4*q1;
 redefine j "0";
 endif;
 .sort
@@ -25,8 +25,8 @@ NSkip `expr';
 #if `rule3'==1
 #write "calc module nr 3"
 #do j=1,1
-if (match(mh^2*q2));
-id mh^2*q2 = 1 - 2*mh*mt*q2 - mt^2*q2 + q2*s53;
+if (match(mt^2*q3));
+id mt^2*q3 = 1 + q3*s31;
 redefine j "0";
 endif;
 .sort
@@ -37,8 +37,8 @@ NSkip `expr';
 #if `rule4'==1
 #write "calc module nr 4"
 #do j=1,1
-if (match(mt^3*q1*q2));
-id mt^3*q1*q2 = -(mh*q1)/4 + (mt*q1)/2 + (mh*q2)/4 + (mt*q2)/2 + mt*q1*q2*s53;
+if (match(q2*q3*s31));
+id q2*q3*s31 = -q2 + mt*q3;
 redefine j "0";
 endif;
 .sort

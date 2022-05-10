@@ -2,13 +2,13 @@
 Symbol x,y,z,a;
 CFunction den,pentagon2,num;
 Symbol d,mt,mh,mu,s12,s24,s45,s53,s31;
-Table tab(1:82);
+Table tab(1:84);
 
 Off statistics;
 
 #include expr.h
 #include kira_myintegrals.inc
-#$total=82;
+#$total=84;
 
 #$allterm3=0;
 #$nu=0;

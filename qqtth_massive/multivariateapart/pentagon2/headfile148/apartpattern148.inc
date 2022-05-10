@@ -5,37 +5,32 @@
 #define rule5 "0"
 #define rule6 "0"
 #define rule7 "0"
-#define rule8 "0"
-if (match(q2*s12));
+if (match(d*q1));
  redefine rule1 "1";
  $repeat = 1;
 endif;
-if (match(d*q1));
+if (match(mt^2*q2));
  redefine rule2 "1";
  $repeat = 1;
 endif;
-if (match(mt^2*q3));
+if (match(q3*s24));
  redefine rule3 "1";
  $repeat = 1;
 endif;
-if (match(q4*s31));
+if (match(mt^4*q3*q4*s53));
  redefine rule4 "1";
  $repeat = 1;
 endif;
-if (match(q4*q5*s45));
+if (match(mh^2*mt^2*q4*s24));
  redefine rule5 "1";
  $repeat = 1;
 endif;
-if (match(mt^2*q5*s31));
+if (match(mh^2*q2*q4*s24*s31));
  redefine rule6 "1";
  $repeat = 1;
 endif;
-if (match(q3*q5*s12*s31));
+if (match(q2*q3*q4*s31^2*s53));
  redefine rule7 "1";
- $repeat = 1;
-endif;
-if (match(q2*q3*q5*s31^2));
- redefine rule8 "1";
  $repeat = 1;
 endif;
 .sort
