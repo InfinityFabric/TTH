@@ -1,0 +1,15 @@
+
+Date: Mon May 16 14:52:02 2022
+
+
+conditional: false
+integralfamily: pentagonbox7
+abort_on_first_error: true
+dummy_output_file: ./tmp/permutation_symmetries_verified_for_pentagonbox7
+
+Verifying permutation symmetries of integral family 'pentagonbox7'
+All permutation symmetries verified
+
+Complete permutation symmetries of integral family 'pentagonbox7'
+
+Job done (total time: 0 s)

@@ -1,0 +1,15 @@
+
+Date: Mon May 16 14:52:02 2022
+
+
+conditional: false
+integralfamily: doublepentagon63
+abort_on_first_error: true
+dummy_output_file: ./tmp/permutation_symmetries_verified_for_doublepentagon63
+
+Verifying permutation symmetries of integral family 'doublepentagon63'
+All permutation symmetries verified
+
+Complete permutation symmetries of integral family 'doublepentagon63'
+
+Job done (total time: 0 s)

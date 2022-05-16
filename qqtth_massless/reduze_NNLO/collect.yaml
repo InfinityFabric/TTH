@@ -1,0 +1,5 @@
+jobs:
+  - collect_integrals:
+      input_file: "../test.frm"
+      output_file: "../test1.frm"
+

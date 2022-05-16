@@ -1,0 +1,15 @@
+
+Date: Mon May 16 14:52:02 2022
+
+
+conditional: false
+integralfamily: hexagonbox22
+abort_on_first_error: true
+dummy_output_file: ./tmp/permutation_symmetries_verified_for_hexagonbox22
+
+Verifying permutation symmetries of integral family 'hexagonbox22'
+All permutation symmetries verified
+
+Complete permutation symmetries of integral family 'hexagonbox22'
+
+Job done (total time: 0 s)
