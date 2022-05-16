@@ -1,0 +1,6286 @@
+
+Date: Mon May 16 16:24:38 2022
+
+
+conditional: false
+qgraf_file: diagram/qqtthtwoloop.qgraf.yaml
+output_file: myresults/qqtthtwoloop.match.yaml
+info_file_form: myresults/qqtthtwoloop.match.info.inc
+names:
+  []
+
+Reading diagrams from file: diagram/qqtthtwoloop.qgraf.yaml
+rename negative field indices
+Loaded diagram 1
+rename negative field indices
+Loaded diagram 2
+rename negative field indices
+Loaded diagram 3
+rename negative field indices
+Loaded diagram 4
+rename negative field indices
+Loaded diagram 5
+rename negative field indices
+Loaded diagram 6
+rename negative field indices
+Loaded diagram 7
+rename negative field indices
+Loaded diagram 8
+rename negative field indices
+Loaded diagram 9
+rename negative field indices
+Loaded diagram 10
+rename negative field indices
+Loaded diagram 11
+rename negative field indices
+Loaded diagram 12
+rename negative field indices
+Loaded diagram 13
+rename negative field indices
+Loaded diagram 14
+rename negative field indices
+Loaded diagram 15
+rename negative field indices
+Loaded diagram 16
+rename negative field indices
+Loaded diagram 17
+rename negative field indices
+Loaded diagram 18
+rename negative field indices
+Loaded diagram 19
+rename negative field indices
+Loaded diagram 20
+rename negative field indices
+Loaded diagram 21
+rename negative field indices
+Loaded diagram 22
+rename negative field indices
+Loaded diagram 23
+rename negative field indices
+Loaded diagram 24
+rename negative field indices
+Loaded diagram 25
+rename negative field indices
+Loaded diagram 26
+rename negative field indices
+Loaded diagram 27
+rename negative field indices
+Loaded diagram 28
+rename negative field indices
+Loaded diagram 29
+rename negative field indices
+Loaded diagram 30
+rename negative field indices
+Loaded diagram 31
+rename negative field indices
+Loaded diagram 32
+rename negative field indices
+Loaded diagram 33
+rename negative field indices
+Loaded diagram 34
+rename negative field indices
+Loaded diagram 35
+rename negative field indices
+Loaded diagram 36
+rename negative field indices
+Loaded diagram 37
+rename negative field indices
+Loaded diagram 38
+rename negative field indices
+Loaded diagram 39
+rename negative field indices
+Loaded diagram 40
+rename negative field indices
+Loaded diagram 41
+rename negative field indices
+Loaded diagram 42
+rename negative field indices
+Loaded diagram 43
+rename negative field indices
+Loaded diagram 44
+rename negative field indices
+Loaded diagram 45
+rename negative field indices
+Loaded diagram 46
+rename negative field indices
+Loaded diagram 47
+rename negative field indices
+Loaded diagram 48
+rename negative field indices
+Loaded diagram 49
+rename negative field indices
+Loaded diagram 50
+rename negative field indices
+Loaded diagram 51
+rename negative field indices
+Loaded diagram 52
+rename negative field indices
+Loaded diagram 53
+rename negative field indices
+Loaded diagram 54
+rename negative field indices
+Loaded diagram 55
+rename negative field indices
+Loaded diagram 56
+rename negative field indices
+Loaded diagram 57
+rename negative field indices
+Loaded diagram 58
+rename negative field indices
+Loaded diagram 59
+rename negative field indices
+Loaded diagram 60
+rename negative field indices
+Loaded diagram 61
+rename negative field indices
+Loaded diagram 62
+rename negative field indices
+Loaded diagram 63
+rename negative field indices
+Loaded diagram 64
+rename negative field indices
+Loaded diagram 65
+rename negative field indices
+Loaded diagram 66
+rename negative field indices
+Loaded diagram 67
+rename negative field indices
+Loaded diagram 68
+rename negative field indices
+Loaded diagram 69
+rename negative field indices
+Loaded diagram 70
+rename negative field indices
+Loaded diagram 71
+rename negative field indices
+Loaded diagram 72
+rename negative field indices
+Loaded diagram 73
+rename negative field indices
+Loaded diagram 74
+rename negative field indices
+Loaded diagram 75
+rename negative field indices
+Loaded diagram 76
+rename negative field indices
+Loaded diagram 77
+rename negative field indices
+Loaded diagram 78
+rename negative field indices
+Loaded diagram 79
+rename negative field indices
+Loaded diagram 80
+rename negative field indices
+Loaded diagram 81
+rename negative field indices
+Loaded diagram 82
+rename negative field indices
+Loaded diagram 83
+rename negative field indices
+Loaded diagram 84
+rename negative field indices
+Loaded diagram 85
+rename negative field indices
+Loaded diagram 86
+rename negative field indices
+Loaded diagram 87
+rename negative field indices
+Loaded diagram 88
+rename negative field indices
+Loaded diagram 89
+rename negative field indices
+Loaded diagram 90
+rename negative field indices
+Loaded diagram 91
+rename negative field indices
+Loaded diagram 92
+rename negative field indices
+Loaded diagram 93
+rename negative field indices
+Loaded diagram 94
+rename negative field indices
+Loaded diagram 95
+rename negative field indices
+Loaded diagram 96
+rename negative field indices
+Loaded diagram 97
+rename negative field indices
+Loaded diagram 98
+rename negative field indices
+Loaded diagram 99
+rename negative field indices
+Loaded diagram 100
+rename negative field indices
+Loaded diagram 101
+rename negative field indices
+Loaded diagram 102
+rename negative field indices
+Loaded diagram 103
+rename negative field indices
+Loaded diagram 104
+rename negative field indices
+Loaded diagram 105
+rename negative field indices
+Loaded diagram 106
+rename negative field indices
+Loaded diagram 107
+rename negative field indices
+Loaded diagram 108
+rename negative field indices
+Loaded diagram 109
+rename negative field indices
+Loaded diagram 110
+rename negative field indices
+Loaded diagram 111
+rename negative field indices
+Loaded diagram 112
+rename negative field indices
+Loaded diagram 113
+rename negative field indices
+Loaded diagram 114
+rename negative field indices
+Loaded diagram 115
+rename negative field indices
+Loaded diagram 116
+rename negative field indices
+Loaded diagram 117
+rename negative field indices
+Loaded diagram 118
+rename negative field indices
+Loaded diagram 119
+rename negative field indices
+Loaded diagram 120
+rename negative field indices
+Loaded diagram 121
+rename negative field indices
+Loaded diagram 122
+rename negative field indices
+Loaded diagram 123
+rename negative field indices
+Loaded diagram 124
+rename negative field indices
+Loaded diagram 125
+rename negative field indices
+Loaded diagram 126
+rename negative field indices
+Loaded diagram 127
+rename negative field indices
+Loaded diagram 128
+rename negative field indices
+Loaded diagram 129
+rename negative field indices
+Loaded diagram 130
+rename negative field indices
+Loaded diagram 131
+rename negative field indices
+Loaded diagram 132
+rename negative field indices
+Loaded diagram 133
+rename negative field indices
+Loaded diagram 134
+rename negative field indices
+Loaded diagram 135
+rename negative field indices
+Loaded diagram 136
+rename negative field indices
+Loaded diagram 137
+rename negative field indices
+Loaded diagram 138
+rename negative field indices
+Loaded diagram 139
+rename negative field indices
+Loaded diagram 140
+rename negative field indices
+Loaded diagram 141
+rename negative field indices
+Loaded diagram 142
+rename negative field indices
+Loaded diagram 143
+rename negative field indices
+Loaded diagram 144
+rename negative field indices
+Loaded diagram 145
+rename negative field indices
+Loaded diagram 146
+rename negative field indices
+Loaded diagram 147
+rename negative field indices
+Loaded diagram 148
+rename negative field indices
+Loaded diagram 149
+rename negative field indices
+Loaded diagram 150
+rename negative field indices
+Loaded diagram 151
+rename negative field indices
+Loaded diagram 152
+rename negative field indices
+Loaded diagram 153
+rename negative field indices
+Loaded diagram 154
+rename negative field indices
+Loaded diagram 155
+rename negative field indices
+Loaded diagram 156
+rename negative field indices
+Loaded diagram 157
+rename negative field indices
+Loaded diagram 158
+rename negative field indices
+Loaded diagram 159
+rename negative field indices
+Loaded diagram 160
+rename negative field indices
+Loaded diagram 161
+rename negative field indices
+Loaded diagram 162
+rename negative field indices
+Loaded diagram 163
+rename negative field indices
+Loaded diagram 164
+rename negative field indices
+Loaded diagram 165
+rename negative field indices
+Loaded diagram 166
+rename negative field indices
+Loaded diagram 167
+rename negative field indices
+Loaded diagram 168
+rename negative field indices
+Loaded diagram 169
+rename negative field indices
+Loaded diagram 170
+rename negative field indices
+Loaded diagram 171
+rename negative field indices
+Loaded diagram 172
+rename negative field indices
+Loaded diagram 173
+rename negative field indices
+Loaded diagram 174
+rename negative field indices
+Loaded diagram 175
+rename negative field indices
+Loaded diagram 176
+rename negative field indices
+Loaded diagram 177
+rename negative field indices
+Loaded diagram 178
+rename negative field indices
+Loaded diagram 179
+rename negative field indices
+Loaded diagram 180
+rename negative field indices
+Loaded diagram 181
+rename negative field indices
+Loaded diagram 182
+rename negative field indices
+Loaded diagram 183
+rename negative field indices
+Loaded diagram 184
+rename negative field indices
+Loaded diagram 185
+rename negative field indices
+Loaded diagram 186
+rename negative field indices
+Loaded diagram 187
+rename negative field indices
+Loaded diagram 188
+rename negative field indices
+Loaded diagram 189
+rename negative field indices
+Loaded diagram 190
+rename negative field indices
+Loaded diagram 191
+rename negative field indices
+Loaded diagram 192
+rename negative field indices
+Loaded diagram 193
+rename negative field indices
+Loaded diagram 194
+rename negative field indices
+Loaded diagram 195
+rename negative field indices
+Loaded diagram 196
+rename negative field indices
+Loaded diagram 197
+rename negative field indices
+Loaded diagram 198
+rename negative field indices
+Loaded diagram 199
+rename negative field indices
+Loaded diagram 200
+rename negative field indices
+Loaded diagram 201
+rename negative field indices
+Loaded diagram 202
+rename negative field indices
+Loaded diagram 203
+rename negative field indices
+Loaded diagram 204
+rename negative field indices
+Loaded diagram 205
+rename negative field indices
+Loaded diagram 206
+rename negative field indices
+Loaded diagram 207
+rename negative field indices
+Loaded diagram 208
+rename negative field indices
+Loaded diagram 209
+rename negative field indices
+Loaded diagram 210
+rename negative field indices
+Loaded diagram 211
+rename negative field indices
+Loaded diagram 212
+rename negative field indices
+Loaded diagram 213
+rename negative field indices
+Loaded diagram 214
+rename negative field indices
+Loaded diagram 215
+rename negative field indices
+Loaded diagram 216
+rename negative field indices
+Loaded diagram 217
+rename negative field indices
+Loaded diagram 218
+rename negative field indices
+Loaded diagram 219
+rename negative field indices
+Loaded diagram 220
+rename negative field indices
+Loaded diagram 221
+rename negative field indices
+Loaded diagram 222
+rename negative field indices
+Loaded diagram 223
+rename negative field indices
+Loaded diagram 224
+rename negative field indices
+Loaded diagram 225
+rename negative field indices
+Loaded diagram 226
+rename negative field indices
+Loaded diagram 227
+rename negative field indices
+Loaded diagram 228
+rename negative field indices
+Loaded diagram 229
+rename negative field indices
+Loaded diagram 230
+rename negative field indices
+Loaded diagram 231
+rename negative field indices
+Loaded diagram 232
+rename negative field indices
+Loaded diagram 233
+rename negative field indices
+Loaded diagram 234
+rename negative field indices
+Loaded diagram 235
+rename negative field indices
+Loaded diagram 236
+rename negative field indices
+Loaded diagram 237
+rename negative field indices
+Loaded diagram 238
+rename negative field indices
+Loaded diagram 239
+rename negative field indices
+Loaded diagram 240
+rename negative field indices
+Loaded diagram 241
+rename negative field indices
+Loaded diagram 242
+rename negative field indices
+Loaded diagram 243
+rename negative field indices
+Loaded diagram 244
+rename negative field indices
+Loaded diagram 245
+rename negative field indices
+Loaded diagram 246
+rename negative field indices
+Loaded diagram 247
+rename negative field indices
+Loaded diagram 248
+rename negative field indices
+Loaded diagram 249
+rename negative field indices
+Loaded diagram 250
+rename negative field indices
+Loaded diagram 251
+rename negative field indices
+Loaded diagram 252
+rename negative field indices
+Loaded diagram 253
+rename negative field indices
+Loaded diagram 254
+rename negative field indices
+Loaded diagram 255
+rename negative field indices
+Loaded diagram 256
+rename negative field indices
+Loaded diagram 257
+rename negative field indices
+Loaded diagram 258
+rename negative field indices
+Loaded diagram 259
+rename negative field indices
+Loaded diagram 260
+rename negative field indices
+Loaded diagram 261
+rename negative field indices
+Loaded diagram 262
+rename negative field indices
+Loaded diagram 263
+rename negative field indices
+Loaded diagram 264
+rename negative field indices
+Loaded diagram 265
+rename negative field indices
+Loaded diagram 266
+rename negative field indices
+Loaded diagram 267
+rename negative field indices
+Loaded diagram 268
+rename negative field indices
+Loaded diagram 269
+rename negative field indices
+Loaded diagram 270
+rename negative field indices
+Loaded diagram 271
+rename negative field indices
+Loaded diagram 272
+rename negative field indices
+Loaded diagram 273
+rename negative field indices
+Loaded diagram 274
+rename negative field indices
+Loaded diagram 275
+rename negative field indices
+Loaded diagram 276
+rename negative field indices
+Loaded diagram 277
+rename negative field indices
+Loaded diagram 278
+rename negative field indices
+Loaded diagram 279
+rename negative field indices
+Loaded diagram 280
+rename negative field indices
+Loaded diagram 281
+rename negative field indices
+Loaded diagram 282
+rename negative field indices
+Loaded diagram 283
+rename negative field indices
+Loaded diagram 284
+rename negative field indices
+Loaded diagram 285
+rename negative field indices
+Loaded diagram 286
+rename negative field indices
+Loaded diagram 287
+rename negative field indices
+Loaded diagram 288
+rename negative field indices
+Loaded diagram 289
+rename negative field indices
+Loaded diagram 290
+rename negative field indices
+Loaded diagram 291
+rename negative field indices
+Loaded diagram 292
+rename negative field indices
+Loaded diagram 293
+rename negative field indices
+Loaded diagram 294
+rename negative field indices
+Loaded diagram 295
+rename negative field indices
+Loaded diagram 296
+rename negative field indices
+Loaded diagram 297
+rename negative field indices
+Loaded diagram 298
+rename negative field indices
+Loaded diagram 299
+rename negative field indices
+Loaded diagram 300
+rename negative field indices
+Loaded diagram 301
+rename negative field indices
+Loaded diagram 302
+rename negative field indices
+Loaded diagram 303
+rename negative field indices
+Loaded diagram 304
+rename negative field indices
+Loaded diagram 305
+rename negative field indices
+Loaded diagram 306
+rename negative field indices
+Loaded diagram 307
+rename negative field indices
+Loaded diagram 308
+rename negative field indices
+Loaded diagram 309
+rename negative field indices
+Loaded diagram 310
+rename negative field indices
+Loaded diagram 311
+rename negative field indices
+Loaded diagram 312
+rename negative field indices
+Loaded diagram 313
+rename negative field indices
+Loaded diagram 314
+rename negative field indices
+Loaded diagram 315
+rename negative field indices
+Loaded diagram 316
+rename negative field indices
+Loaded diagram 317
+rename negative field indices
+Loaded diagram 318
+rename negative field indices
+Loaded diagram 319
+rename negative field indices
+Loaded diagram 320
+rename negative field indices
+Loaded diagram 321
+rename negative field indices
+Loaded diagram 322
+rename negative field indices
+Loaded diagram 323
+rename negative field indices
+Loaded diagram 324
+rename negative field indices
+Loaded diagram 325
+rename negative field indices
+Loaded diagram 326
+rename negative field indices
+Loaded diagram 327
+rename negative field indices
+Loaded diagram 328
+rename negative field indices
+Loaded diagram 329
+rename negative field indices
+Loaded diagram 330
+rename negative field indices
+Loaded diagram 331
+rename negative field indices
+Loaded diagram 332
+rename negative field indices
+Loaded diagram 333
+rename negative field indices
+Loaded diagram 334
+rename negative field indices
+Loaded diagram 335
+rename negative field indices
+Loaded diagram 336
+rename negative field indices
+Loaded diagram 337
+rename negative field indices
+Loaded diagram 338
+rename negative field indices
+Loaded diagram 339
+rename negative field indices
+Loaded diagram 340
+rename negative field indices
+Loaded diagram 341
+rename negative field indices
+Loaded diagram 342
+rename negative field indices
+Loaded diagram 343
+rename negative field indices
+Loaded diagram 344
+rename negative field indices
+Loaded diagram 345
+rename negative field indices
+Loaded diagram 346
+rename negative field indices
+Loaded diagram 347
+rename negative field indices
+Loaded diagram 348
+rename negative field indices
+Loaded diagram 349
+rename negative field indices
+Loaded diagram 350
+rename negative field indices
+Loaded diagram 351
+rename negative field indices
+Loaded diagram 352
+rename negative field indices
+Loaded diagram 353
+rename negative field indices
+Loaded diagram 354
+rename negative field indices
+Loaded diagram 355
+rename negative field indices
+Loaded diagram 356
+rename negative field indices
+Loaded diagram 357
+rename negative field indices
+Loaded diagram 358
+rename negative field indices
+Loaded diagram 359
+rename negative field indices
+Loaded diagram 360
+rename negative field indices
+Loaded diagram 361
+rename negative field indices
+Loaded diagram 362
+rename negative field indices
+Loaded diagram 363
+rename negative field indices
+Loaded diagram 364
+rename negative field indices
+Loaded diagram 365
+rename negative field indices
+Loaded diagram 366
+rename negative field indices
+Loaded diagram 367
+rename negative field indices
+Loaded diagram 368
+rename negative field indices
+Loaded diagram 369
+rename negative field indices
+Loaded diagram 370
+rename negative field indices
+Loaded diagram 371
+rename negative field indices
+Loaded diagram 372
+rename negative field indices
+Loaded diagram 373
+rename negative field indices
+Loaded diagram 374
+rename negative field indices
+Loaded diagram 375
+rename negative field indices
+Loaded diagram 376
+rename negative field indices
+Loaded diagram 377
+rename negative field indices
+Loaded diagram 378
+rename negative field indices
+Loaded diagram 379
+rename negative field indices
+Loaded diagram 380
+rename negative field indices
+Loaded diagram 381
+rename negative field indices
+Loaded diagram 382
+rename negative field indices
+Loaded diagram 383
+rename negative field indices
+Loaded diagram 384
+rename negative field indices
+Loaded diagram 385
+rename negative field indices
+Loaded diagram 386
+rename negative field indices
+Loaded diagram 387
+rename negative field indices
+Loaded diagram 388
+rename negative field indices
+Loaded diagram 389
+rename negative field indices
+Loaded diagram 390
+rename negative field indices
+Loaded diagram 391
+rename negative field indices
+Loaded diagram 392
+rename negative field indices
+Loaded diagram 393
+rename negative field indices
+Loaded diagram 394
+rename negative field indices
+Loaded diagram 395
+rename negative field indices
+Loaded diagram 396
+rename negative field indices
+Loaded diagram 397
+rename negative field indices
+Loaded diagram 398
+rename negative field indices
+Loaded diagram 399
+rename negative field indices
+Loaded diagram 400
+rename negative field indices
+Loaded diagram 401
+rename negative field indices
+Loaded diagram 402
+rename negative field indices
+Loaded diagram 403
+rename negative field indices
+Loaded diagram 404
+rename negative field indices
+Loaded diagram 405
+rename negative field indices
+Loaded diagram 406
+rename negative field indices
+Loaded diagram 407
+rename negative field indices
+Loaded diagram 408
+rename negative field indices
+Loaded diagram 409
+rename negative field indices
+Loaded diagram 410
+rename negative field indices
+Loaded diagram 411
+rename negative field indices
+Loaded diagram 412
+rename negative field indices
+Loaded diagram 413
+rename negative field indices
+Loaded diagram 414
+rename negative field indices
+Loaded diagram 415
+rename negative field indices
+Loaded diagram 416
+rename negative field indices
+Loaded diagram 417
+rename negative field indices
+Loaded diagram 418
+rename negative field indices
+Loaded diagram 419
+rename negative field indices
+Loaded diagram 420
+rename negative field indices
+Loaded diagram 421
+rename negative field indices
+Loaded diagram 422
+rename negative field indices
+Loaded diagram 423
+rename negative field indices
+Loaded diagram 424
+rename negative field indices
+Loaded diagram 425
+rename negative field indices
+Loaded diagram 426
+rename negative field indices
+Loaded diagram 427
+rename negative field indices
+Loaded diagram 428
+rename negative field indices
+Loaded diagram 429
+rename negative field indices
+Loaded diagram 430
+rename negative field indices
+Loaded diagram 431
+rename negative field indices
+Loaded diagram 432
+rename negative field indices
+Loaded diagram 433
+rename negative field indices
+Loaded diagram 434
+rename negative field indices
+Loaded diagram 435
+rename negative field indices
+Loaded diagram 436
+rename negative field indices
+Loaded diagram 437
+rename negative field indices
+Loaded diagram 438
+rename negative field indices
+Loaded diagram 439
+rename negative field indices
+Loaded diagram 440
+rename negative field indices
+Loaded diagram 441
+rename negative field indices
+Loaded diagram 442
+rename negative field indices
+Loaded diagram 443
+rename negative field indices
+Loaded diagram 444
+rename negative field indices
+Loaded diagram 445
+rename negative field indices
+Loaded diagram 446
+rename negative field indices
+Loaded diagram 447
+rename negative field indices
+Loaded diagram 448
+rename negative field indices
+Loaded diagram 449
+rename negative field indices
+Loaded diagram 450
+rename negative field indices
+Loaded diagram 451
+rename negative field indices
+Loaded diagram 452
+rename negative field indices
+Loaded diagram 453
+rename negative field indices
+Loaded diagram 454
+rename negative field indices
+Loaded diagram 455
+rename negative field indices
+Loaded diagram 456
+rename negative field indices
+Loaded diagram 457
+rename negative field indices
+Loaded diagram 458
+rename negative field indices
+Loaded diagram 459
+rename negative field indices
+Loaded diagram 460
+rename negative field indices
+Loaded diagram 461
+rename negative field indices
+Loaded diagram 462
+rename negative field indices
+Loaded diagram 463
+rename negative field indices
+Loaded diagram 464
+rename negative field indices
+Loaded diagram 465
+rename negative field indices
+Loaded diagram 466
+rename negative field indices
+Loaded diagram 467
+rename negative field indices
+Loaded diagram 468
+rename negative field indices
+Loaded diagram 469
+rename negative field indices
+Loaded diagram 470
+rename negative field indices
+Loaded diagram 471
+rename negative field indices
+Loaded diagram 472
+rename negative field indices
+Loaded diagram 473
+rename negative field indices
+Loaded diagram 474
+rename negative field indices
+Loaded diagram 475
+rename negative field indices
+Loaded diagram 476
+rename negative field indices
+Loaded diagram 477
+rename negative field indices
+Loaded diagram 478
+rename negative field indices
+Loaded diagram 479
+rename negative field indices
+Loaded diagram 480
+rename negative field indices
+Loaded diagram 481
+rename negative field indices
+Loaded diagram 482
+rename negative field indices
+Loaded diagram 483
+rename negative field indices
+Loaded diagram 484
+rename negative field indices
+Loaded diagram 485
+rename negative field indices
+Loaded diagram 486
+rename negative field indices
+Loaded diagram 487
+rename negative field indices
+Loaded diagram 488
+rename negative field indices
+Loaded diagram 489
+rename negative field indices
+Loaded diagram 490
+rename negative field indices
+Loaded diagram 491
+rename negative field indices
+Loaded diagram 492
+rename negative field indices
+Loaded diagram 493
+rename negative field indices
+Loaded diagram 494
+rename negative field indices
+Loaded diagram 495
+rename negative field indices
+Loaded diagram 496
+rename negative field indices
+Loaded diagram 497
+rename negative field indices
+Loaded diagram 498
+rename negative field indices
+Loaded diagram 499
+rename negative field indices
+Loaded diagram 500
+rename negative field indices
+Loaded diagram 501
+rename negative field indices
+Loaded diagram 502
+rename negative field indices
+Loaded diagram 503
+rename negative field indices
+Loaded diagram 504
+rename negative field indices
+Loaded diagram 505
+rename negative field indices
+Loaded diagram 506
+rename negative field indices
+Loaded diagram 507
+rename negative field indices
+Loaded diagram 508
+rename negative field indices
+Loaded diagram 509
+rename negative field indices
+Loaded diagram 510
+rename negative field indices
+Loaded diagram 511
+rename negative field indices
+Loaded diagram 512
+rename negative field indices
+Loaded diagram 513
+rename negative field indices
+Loaded diagram 514
+rename negative field indices
+Loaded diagram 515
+rename negative field indices
+Loaded diagram 516
+rename negative field indices
+Loaded diagram 517
+rename negative field indices
+Loaded diagram 518
+rename negative field indices
+Loaded diagram 519
+rename negative field indices
+Loaded diagram 520
+rename negative field indices
+Loaded diagram 521
+rename negative field indices
+Loaded diagram 522
+rename negative field indices
+Loaded diagram 523
+rename negative field indices
+Loaded diagram 524
+rename negative field indices
+Loaded diagram 525
+rename negative field indices
+Loaded diagram 526
+rename negative field indices
+Loaded diagram 527
+rename negative field indices
+Loaded diagram 528
+rename negative field indices
+Loaded diagram 529
+rename negative field indices
+Loaded diagram 530
+rename negative field indices
+Loaded diagram 531
+rename negative field indices
+Loaded diagram 532
+rename negative field indices
+Loaded diagram 533
+rename negative field indices
+Loaded diagram 534
+rename negative field indices
+Loaded diagram 535
+rename negative field indices
+Loaded diagram 536
+rename negative field indices
+Loaded diagram 537
+rename negative field indices
+Loaded diagram 538
+rename negative field indices
+Loaded diagram 539
+rename negative field indices
+Loaded diagram 540
+rename negative field indices
+Loaded diagram 541
+rename negative field indices
+Loaded diagram 542
+rename negative field indices
+Loaded diagram 543
+rename negative field indices
+Loaded diagram 544
+rename negative field indices
+Loaded diagram 545
+rename negative field indices
+Loaded diagram 546
+rename negative field indices
+Loaded diagram 547
+rename negative field indices
+Loaded diagram 548
+rename negative field indices
+Loaded diagram 549
+rename negative field indices
+Loaded diagram 550
+rename negative field indices
+Loaded diagram 551
+rename negative field indices
+Loaded diagram 552
+rename negative field indices
+Loaded diagram 553
+rename negative field indices
+Loaded diagram 554
+rename negative field indices
+Loaded diagram 555
+rename negative field indices
+Loaded diagram 556
+rename negative field indices
+Loaded diagram 557
+rename negative field indices
+Loaded diagram 558
+rename negative field indices
+Loaded diagram 559
+rename negative field indices
+Loaded diagram 560
+rename negative field indices
+Loaded diagram 561
+rename negative field indices
+Loaded diagram 562
+rename negative field indices
+Loaded diagram 563
+rename negative field indices
+Loaded diagram 564
+rename negative field indices
+Loaded diagram 565
+rename negative field indices
+Loaded diagram 566
+rename negative field indices
+Loaded diagram 567
+rename negative field indices
+Loaded diagram 568
+rename negative field indices
+Loaded diagram 569
+rename negative field indices
+Loaded diagram 570
+rename negative field indices
+Loaded diagram 571
+rename negative field indices
+Loaded diagram 572
+rename negative field indices
+Loaded diagram 573
+rename negative field indices
+Loaded diagram 574
+rename negative field indices
+Loaded diagram 575
+rename negative field indices
+Loaded diagram 576
+rename negative field indices
+Loaded diagram 577
+rename negative field indices
+Loaded diagram 578
+rename negative field indices
+Loaded diagram 579
+rename negative field indices
+Loaded diagram 580
+rename negative field indices
+Loaded diagram 581
+rename negative field indices
+Loaded diagram 582
+rename negative field indices
+Loaded diagram 583
+rename negative field indices
+Loaded diagram 584
+rename negative field indices
+Loaded diagram 585
+rename negative field indices
+Loaded diagram 586
+rename negative field indices
+Loaded diagram 587
+rename negative field indices
+Loaded diagram 588
+rename negative field indices
+Loaded diagram 589
+rename negative field indices
+Loaded diagram 590
+rename negative field indices
+Loaded diagram 591
+rename negative field indices
+Loaded diagram 592
+rename negative field indices
+Loaded diagram 593
+rename negative field indices
+Loaded diagram 594
+rename negative field indices
+Loaded diagram 595
+rename negative field indices
+Loaded diagram 596
+rename negative field indices
+Loaded diagram 597
+rename negative field indices
+Loaded diagram 598
+rename negative field indices
+Loaded diagram 599
+rename negative field indices
+Loaded diagram 600
+rename negative field indices
+Loaded diagram 601
+rename negative field indices
+Loaded diagram 602
+rename negative field indices
+Loaded diagram 603
+rename negative field indices
+Loaded diagram 604
+rename negative field indices
+Loaded diagram 605
+rename negative field indices
+Loaded diagram 606
+rename negative field indices
+Loaded diagram 607
+rename negative field indices
+Loaded diagram 608
+rename negative field indices
+Loaded diagram 609
+rename negative field indices
+Loaded diagram 610
+rename negative field indices
+Loaded diagram 611
+rename negative field indices
+Loaded diagram 612
+rename negative field indices
+Loaded diagram 613
+rename negative field indices
+Loaded diagram 614
+rename negative field indices
+Loaded diagram 615
+rename negative field indices
+Loaded diagram 616
+rename negative field indices
+Loaded diagram 617
+rename negative field indices
+Loaded diagram 618
+rename negative field indices
+Loaded diagram 619
+rename negative field indices
+Loaded diagram 620
+rename negative field indices
+Loaded diagram 621
+rename negative field indices
+Loaded diagram 622
+rename negative field indices
+Loaded diagram 623
+rename negative field indices
+Loaded diagram 624
+rename negative field indices
+Loaded diagram 625
+rename negative field indices
+Loaded diagram 626
+rename negative field indices
+Loaded diagram 627
+rename negative field indices
+Loaded diagram 628
+rename negative field indices
+Loaded diagram 629
+rename negative field indices
+Loaded diagram 630
+rename negative field indices
+Loaded diagram 631
+rename negative field indices
+Loaded diagram 632
+rename negative field indices
+Loaded diagram 633
+rename negative field indices
+Loaded diagram 634
+rename negative field indices
+Loaded diagram 635
+rename negative field indices
+Loaded diagram 636
+rename negative field indices
+Loaded diagram 637
+rename negative field indices
+Loaded diagram 638
+rename negative field indices
+Loaded diagram 639
+rename negative field indices
+Loaded diagram 640
+rename negative field indices
+Loaded diagram 641
+rename negative field indices
+Loaded diagram 642
+rename negative field indices
+Loaded diagram 643
+rename negative field indices
+Loaded diagram 644
+rename negative field indices
+Loaded diagram 645
+rename negative field indices
+Loaded diagram 646
+rename negative field indices
+Loaded diagram 647
+rename negative field indices
+Loaded diagram 648
+rename negative field indices
+Loaded diagram 649
+rename negative field indices
+Loaded diagram 650
+rename negative field indices
+Loaded diagram 651
+rename negative field indices
+Loaded diagram 652
+rename negative field indices
+Loaded diagram 653
+rename negative field indices
+Loaded diagram 654
+rename negative field indices
+Loaded diagram 655
+rename negative field indices
+Loaded diagram 656
+rename negative field indices
+Loaded diagram 657
+rename negative field indices
+Loaded diagram 658
+rename negative field indices
+Loaded diagram 659
+rename negative field indices
+Loaded diagram 660
+rename negative field indices
+Loaded diagram 661
+rename negative field indices
+Loaded diagram 662
+rename negative field indices
+Loaded diagram 663
+rename negative field indices
+Loaded diagram 664
+rename negative field indices
+Loaded diagram 665
+rename negative field indices
+Loaded diagram 666
+rename negative field indices
+Loaded diagram 667
+rename negative field indices
+Loaded diagram 668
+rename negative field indices
+Loaded diagram 669
+rename negative field indices
+Loaded diagram 670
+rename negative field indices
+Loaded diagram 671
+rename negative field indices
+Loaded diagram 672
+rename negative field indices
+Loaded diagram 673
+rename negative field indices
+Loaded diagram 674
+rename negative field indices
+Loaded diagram 675
+rename negative field indices
+Loaded diagram 676
+rename negative field indices
+Loaded diagram 677
+rename negative field indices
+Loaded diagram 678
+rename negative field indices
+Loaded diagram 679
+rename negative field indices
+Loaded diagram 680
+rename negative field indices
+Loaded diagram 681
+rename negative field indices
+Loaded diagram 682
+rename negative field indices
+Loaded diagram 683
+rename negative field indices
+Loaded diagram 684
+rename negative field indices
+Loaded diagram 685
+rename negative field indices
+Loaded diagram 686
+rename negative field indices
+Loaded diagram 687
+rename negative field indices
+Loaded diagram 688
+rename negative field indices
+Loaded diagram 689
+rename negative field indices
+Loaded diagram 690
+rename negative field indices
+Loaded diagram 691
+rename negative field indices
+Loaded diagram 692
+rename negative field indices
+Loaded diagram 693
+rename negative field indices
+Loaded diagram 694
+rename negative field indices
+Loaded diagram 695
+rename negative field indices
+Loaded diagram 696
+rename negative field indices
+Loaded diagram 697
+rename negative field indices
+Loaded diagram 698
+rename negative field indices
+Loaded diagram 699
+rename negative field indices
+Loaded diagram 700
+rename negative field indices
+Loaded diagram 701
+rename negative field indices
+Loaded diagram 702
+rename negative field indices
+Loaded diagram 703
+rename negative field indices
+Loaded diagram 704
+rename negative field indices
+Loaded diagram 705
+rename negative field indices
+Loaded diagram 706
+rename negative field indices
+Loaded diagram 707
+rename negative field indices
+Loaded diagram 708
+rename negative field indices
+Loaded diagram 709
+rename negative field indices
+Loaded diagram 710
+rename negative field indices
+Loaded diagram 711
+rename negative field indices
+Loaded diagram 712
+rename negative field indices
+Loaded diagram 713
+rename negative field indices
+Loaded diagram 714
+rename negative field indices
+Loaded diagram 715
+rename negative field indices
+Loaded diagram 716
+rename negative field indices
+Loaded diagram 717
+rename negative field indices
+Loaded diagram 718
+rename negative field indices
+Loaded diagram 719
+rename negative field indices
+Loaded diagram 720
+Diagrams loaded. Time: 1.04082s
+
+Analyzing topologies of 720 diagrams:
+Analyzing diagram 1
+
+  => matched diagram 1 to (pentagonbox1:3:148)
+     via shift: {k1==-k2,k2==k1+p2+p1}
+read key 'sectormappings' in file './sectormappings/sectormappings_pentagonbox1.yaml'
+Found valid sector mappings for pentagonbox1
+     target sector equivalent to (pentagonbox1:3:148)
+
+X
+Analyzing diagram 2
+  => matched diagram 2 to (pentagonbox1:3:148)
+     via shift: {k1==-k2,k2==k1+p2+p1}
+     target sector equivalent to (pentagonbox1:3:148)
+
+X
+Analyzing diagram 3
+  => matched diagram 3 to (pentagonbox1:5:465)
+     via shift: {k1==p3-k1-p2+p4-p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1:0:0)
+
+O
+Analyzing diagram 4
+  => matched diagram 4 to (pentagonbox1x12x34:5:188)
+     via shift: {k1==k1+p2-p4+p1,k2==-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x1432:5:179)
+
+x
+Analyzing diagram 5
+  => matched diagram 5 to (pentagonbox1:5:188)
+     via shift: {k1==-p3+k1+p2+p1,k2==p3-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x13:5:179)
+
+X
+Analyzing diagram 6
+  => matched diagram 6 to (pentagonbox1x12x34:5:157)
+     via shift: {k1==k1+p2-p4+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x12x34:5:157)
+
+x
+Analyzing diagram 7
+  => matched diagram 7 to (pentagonbox1:5:157)
+     via shift: {k1==-p3+k1+p2+p1,k2==k2}
+     target sector equivalent to (pentagonbox1:5:157)
+
+X
+Analyzing diagram 8
+  => matched diagram 8 to (pentagonbox1x12x34:5:1165)
+     via shift: {k1==k1+p2-p4+p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1x1425:5:155)
+
+x
+Analyzing diagram 9
+  => matched diagram 9 to (pentagonbox1:5:1165)
+     via shift: {k1==-p3+k1+p2+p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1x134x25:5:155)
+
+X
+Analyzing diagram 10
+  => matched diagram 10 to (pentagonbox1x12x34:5:1053)
+     via shift: {k1==k1+p2-p4+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x1425:5:59)
+
+x
+Analyzing diagram 11
+  => matched diagram 11 to (pentagonbox1:5:1053)
+     via shift: {k1==-p3+k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x134x25:5:59)
+
+X
+Analyzing diagram 12
+  => matched diagram 12 to (pentagonbox1:4:149)
+     via shift: {k1==k1,k2==k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 13
+  => matched diagram 13 to (pentagonbox1:4:149)
+     via shift: {k1==k1,k2==k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 14
+  => matched diagram 14 to (pentagonbox1:4:149)
+     via shift: {k1==-k1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 15
+  => matched diagram 15 to (pentagonbox1:4:149)
+     via shift: {k1==-k1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 16
+  => matched diagram 16 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 17
+  => matched diagram 17 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 18
+  => matched diagram 18 to (pentagonbox1x12x345:6:252)
+     via shift: {k1==p3+k2,k2==k1+p2-p4+p1}
+     target sector equivalent to (pentagonbox1x15423:6:215)
+
+x
+Analyzing diagram 19
+  => matched diagram 19 to (pentagonbox1x12x345:6:476)
+     via shift: {k1==-k1-p2+p4-p1,k2==-p3-k2}
+     target sector equivalent to (pentagonbox1x153x24:6:215)
+
+x
+Analyzing diagram 20
+  => matched diagram 20 to (pentagonbox1x12x345:6:413)
+     via shift: {k1==p3+k1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:159)
+
+x
+Analyzing diagram 21
+  => matched diagram 21 to (pentagonbox1x12x345:6:1268)
+     via shift: {k1==-p2-k2+p4-p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x14x25:6:159)
+
+x
+Analyzing diagram 22
+  => matched diagram 22 to (pentagonbox1x12x34:6:1079)
+     via shift: {k1==-k1-p2,k2==p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x1425:6:123)
+
+x
+Analyzing diagram 23
+  => matched diagram 23 to (pentagonbox1:6:1079)
+     via shift: {k1==k1+p1,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:6:123)
+
+X
+Analyzing diagram 24
+  => matched diagram 24 to (pentagonbox1x12x345:6:1141)
+     via shift: {k1==p3+k2,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x25:6:63)
+
+x
+Analyzing diagram 25
+  => matched diagram 25 to (pentagonbox1:5:662)
+     via shift: {k1==k2+p1,k2==-k1-p1}
+     target sector equivalent to (pentagonbox1x12345:5:211)
+
+X
+Analyzing diagram 26
+  => matched diagram 26 to (pentagonbox1:5:662)
+     via shift: {k1==k2+p1,k2==-k1-p1}
+     target sector equivalent to (pentagonbox1x12345:5:211)
+
+X
+Analyzing diagram 27
+  => matched diagram 27 to (pentagonbox1:5:151)
+     via shift: {k1==k1+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:151)
+
+X
+Analyzing diagram 28
+  => matched diagram 28 to (pentagonbox1:5:1159)
+     via shift: {k1==-k1-p1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12:5:151)
+
+X
+Analyzing diagram 29
+  => matched diagram 29 to (pentagonbox1:5:151)
+     via shift: {k1==k1+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:151)
+
+X
+Analyzing diagram 30
+  => matched diagram 30 to (pentagonbox1:5:1159)
+     via shift: {k1==-k1-p1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12:5:151)
+
+X
+Analyzing diagram 31
+  => matched diagram 31 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 32
+  => matched diagram 32 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 33
+  => matched diagram 33 to (pentagonbox1x12x345:7:1143)
+     via shift: {k1==p3+k2,k2==-k1-p2}
+     target sector equivalent to (pentagonbox1x14x25:7:127)
+
+x
+Analyzing diagram 34
+  => matched diagram 34 to (hexagonbox1x12345:6:490)
+     via shift: {k1==p3-k2-p2+p4-p1+k1,k2==k2+p1}
+read key 'sectormappings' in file './sectormappings/sectormappings_hexagonbox1.yaml'
+Found valid sector mappings for hexagonbox1
+     target sector equivalent to (hexagonbox1x12345:6:490)
+
+x
+Analyzing diagram 35
+  => matched diagram 35 to (hexagonbox1x12345:6:490)
+     via shift: {k1==p3-k2-p2+p4-p1+k1,k2==k2+p1}
+     target sector equivalent to (hexagonbox1x12345:6:490)
+
+x
+Analyzing diagram 36
+  => matched diagram 36 to (hexagonbox1x1235:6:490)
+     via shift: {k1==-k2-p4+k1,k2==k2+p1}
+     target sector equivalent to (hexagonbox1x1235:6:490)
+
+x
+Analyzing diagram 37
+  => matched diagram 37 to (hexagonbox1x1235:6:490)
+     via shift: {k1==-k2-p4+k1,k2==k2+p1}
+     target sector equivalent to (hexagonbox1x1235:6:490)
+
+x
+Analyzing diagram 38
+  => matched diagram 38 to (hexagonbox1x12435:6:490)
+     via shift: {k1==-p3-k2+k1,k2==k2+p1}
+     target sector equivalent to (hexagonbox1x12435:6:490)
+
+x
+Analyzing diagram 39
+  => matched diagram 39 to (hexagonbox1x12435:6:490)
+     via shift: {k1==-p3-k2+k1,k2==k2+p1}
+     target sector equivalent to (hexagonbox1x12435:6:490)
+
+x
+Analyzing diagram 40
+  => matched diagram 40 to (pentagonbox1x12x34:4:53)
+     via shift: {k1==-k1,k2==k2}
+     target sector equivalent to (pentagonbox1x12x34:4:53)
+
+x
+Analyzing diagram 41
+  => matched diagram 41 to (pentagonbox1x12x34:4:53)
+     via shift: {k1==-k1,k2==k2}
+     target sector equivalent to (pentagonbox1x12x34:4:53)
+
+x
+Analyzing diagram 42
+  => matched diagram 42 to (pentagonbox1x12x34:4:53)
+     via shift: {k1==-k1,k2==k2}
+     target sector equivalent to (pentagonbox1x12x34:4:53)
+
+x
+Analyzing diagram 43
+  => matched diagram 43 to (pentagonbox1x12x34:4:53)
+     via shift: {k1==-k1,k2==k2}
+     target sector equivalent to (pentagonbox1x12x34:4:53)
+
+x
+Analyzing diagram 44
+  => matched diagram 44 to (pentagonbox1:4:53)
+     via shift: {k1==-k1,k2==k2}
+     target sector equivalent to (pentagonbox1:4:53)
+
+X
+Analyzing diagram 45
+  => matched diagram 45 to (pentagonbox1:4:53)
+     via shift: {k1==-k1,k2==k2}
+     target sector equivalent to (pentagonbox1:4:53)
+
+X
+Analyzing diagram 46
+  => matched diagram 46 to (pentagonbox1:4:53)
+     via shift: {k1==-k1,k2==k2}
+     target sector equivalent to (pentagonbox1:4:53)
+
+X
+Analyzing diagram 47
+  => matched diagram 47 to (pentagonbox1:4:53)
+     via shift: {k1==-k1,k2==k2}
+     target sector equivalent to (pentagonbox1:4:53)
+
+X
+Analyzing diagram 48
+  => matched diagram 48 to (pentagonbox1:6:469)
+     via shift: {k1==k2,k2==k1+p2+p1}
+     target sector equivalent to (pentagonbox1:6:469)
+
+X
+Analyzing diagram 49
+  => matched diagram 49 to (pentagonbox1:6:469)
+     via shift: {k1==k2,k2==k1+p2+p1}
+     target sector equivalent to (pentagonbox1:6:469)
+
+X
+Analyzing diagram 50
+  => matched diagram 50 to (pentagonbox1:6:469)
+     via shift: {k1==k2,k2==k1+p2+p1}
+     target sector equivalent to (pentagonbox1:6:469)
+
+X
+Analyzing diagram 51
+
+  => matched diagram 51 to (pentagonbox1:6:469)
+     via shift: {k1==k2,k2==k1+p2+p1}
+     target sector equivalent to (pentagonbox1:6:469)
+
+X
+Analyzing diagram 52
+  => matched diagram 52 to (pentagonbox1x12x34:6:1197)
+     via shift: {k1==-p2-k2-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x45:6:469)
+
+x
+Analyzing diagram 53
+  => matched diagram 53 to (pentagonbox1x12x34:6:1197)
+     via shift: {k1==-p2-k2-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x45:6:469)
+
+x
+Analyzing diagram 54
+  => matched diagram 54 to (pentagonbox1x12x34:6:1197)
+     via shift: {k1==-p2-k2-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x45:6:469)
+
+x
+Analyzing diagram 55
+  => matched diagram 55 to (pentagonbox1x12x34:6:1197)
+     via shift: {k1==-p2-k2-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x45:6:469)
+
+x
+Analyzing diagram 56
+  => matched diagram 56 to (pentagonbox1:6:1197)
+     via shift: {k1==-p2-k2-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x12x345:6:469)
+
+X
+Analyzing diagram 57
+  => matched diagram 57 to (pentagonbox1:6:1197)
+     via shift: {k1==-p2-k2-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x12x345:6:469)
+
+X
+Analyzing diagram 58
+  => matched diagram 58 to (pentagonbox1:6:1197)
+     via shift: {k1==-p2-k2-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x12x345:6:469)
+
+X
+Analyzing diagram 59
+  => matched diagram 59 to (pentagonbox1:6:1197)
+     via shift: {k1==-p2-k2-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x12x345:6:469)
+
+X
+Analyzing diagram 60
+  => matched diagram 60 to (pentagonbox1:6:1477)
+     via shift: {k1==k1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x153:6:187)
+
+X
+Analyzing diagram 61
+  => matched diagram 61 to (pentagonbox1:6:1477)
+     via shift: {k1==k1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x153:6:187)
+
+X
+Analyzing diagram 62
+  => matched diagram 62 to (pentagonbox1:6:1477)
+     via shift: {k1==k1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x153:6:187)
+
+X
+Analyzing diagram 63
+  => matched diagram 63 to (pentagonbox1:6:1477)
+     via shift: {k1==k1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x153:6:187)
+
+X
+Analyzing diagram 64
+  => matched diagram 64 to (pentagonbox1x12x34:6:189)
+     via shift: {k1==-k1-p2-p1,k2==-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x1432:6:187)
+
+x
+Analyzing diagram 65
+  => matched diagram 65 to (pentagonbox1x12x34:6:189)
+     via shift: {k1==-k1-p2-p1,k2==-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x1432:6:187)
+
+x
+Analyzing diagram 66
+  => matched diagram 66 to (pentagonbox1x12x34:6:189)
+     via shift: {k1==-k1-p2-p1,k2==-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x1432:6:187)
+
+x
+Analyzing diagram 67
+  => matched diagram 67 to (pentagonbox1x12x34:6:189)
+     via shift: {k1==-k1-p2-p1,k2==-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x1432:6:187)
+
+x
+Analyzing diagram 68
+  => matched diagram 68 to (pentagonbox1:6:189)
+     via shift: {k1==-k1-p2-p1,k2==p3-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x13:6:187)
+
+X
+Analyzing diagram 69
+  => matched diagram 69 to (pentagonbox1:6:189)
+     via shift: {k1==-k1-p2-p1,k2==p3-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x13:6:187)
+
+X
+Analyzing diagram 70
+  => matched diagram 70 to (pentagonbox1:6:189)
+     via shift: {k1==-k1-p2-p1,k2==p3-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x13:6:187)
+
+X
+Analyzing diagram 71
+  => matched diagram 71 to (pentagonbox1:6:189)
+     via shift: {k1==-k1-p2-p1,k2==p3-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x13:6:187)
+
+X
+Analyzing diagram 72
+  => matched diagram 72 to (pentagonbox1:6:1237)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x15x234:6:187)
+
+X
+Analyzing diagram 73
+  => matched diagram 73 to (pentagonbox1:6:1237)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x15x234:6:187)
+
+X
+Analyzing diagram 74
+  => matched diagram 74 to (pentagonbox1:6:1237)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x15x234:6:187)
+
+X
+Analyzing diagram 75
+  => matched diagram 75 to (pentagonbox1:6:1237)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x15x234:6:187)
+
+X
+Analyzing diagram 76
+  => matched diagram 76 to (pentagonbox1x12x34:6:1181)
+     via shift: {k1==k1+p2-p4+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x1425:6:187)
+
+x
+Analyzing diagram 77
+  => matched diagram 77 to (pentagonbox1x12x34:6:1181)
+     via shift: {k1==k1+p2-p4+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x1425:6:187)
+
+x
+Analyzing diagram 78
+  => matched diagram 78 to (pentagonbox1x12x34:6:1181)
+     via shift: {k1==k1+p2-p4+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x1425:6:187)
+
+x
+Analyzing diagram 79
+  => matched diagram 79 to (pentagonbox1x12x34:6:1181)
+     via shift: {k1==k1+p2-p4+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x1425:6:187)
+
+x
+Analyzing diagram 80
+  => matched diagram 80 to (pentagonbox1x12x34:6:1181)
+     via shift: {k1==k1+p2-p4+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x1425:6:187)
+
+x
+Analyzing diagram 81
+  => matched diagram 81 to (pentagonbox1x12x34:6:1181)
+     via shift: {k1==k1+p2-p4+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x1425:6:187)
+
+x
+Analyzing diagram 82
+  => matched diagram 82 to (pentagonbox1x12x34:6:1181)
+     via shift: {k1==k1+p2-p4+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x1425:6:187)
+
+x
+Analyzing diagram 83
+  => matched diagram 83 to (pentagonbox1x12x34:6:1181)
+     via shift: {k1==k1+p2-p4+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x1425:6:187)
+
+x
+Analyzing diagram 84
+  => matched diagram 84 to (pentagonbox1x12x34:6:1181)
+     via shift: {k1==k1+p2-p4+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x1425:6:187)
+
+x
+Analyzing diagram 85
+  => matched diagram 85 to (pentagonbox1:6:1181)
+     via shift: {k1==-p3+k1+p2+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:6:187)
+
+X
+Analyzing diagram 86
+  => matched diagram 86 to (pentagonbox1:6:1181)
+     via shift: {k1==-p3+k1+p2+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:6:187)
+
+X
+Analyzing diagram 87
+  => matched diagram 87 to (pentagonbox1:6:1181)
+     via shift: {k1==-p3+k1+p2+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:6:187)
+
+X
+Analyzing diagram 88
+  => matched diagram 88 to (pentagonbox1:6:1181)
+     via shift: {k1==-p3+k1+p2+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:6:187)
+
+X
+Analyzing diagram 89
+  => matched diagram 89 to (pentagonbox1:6:1181)
+     via shift: {k1==-p3+k1+p2+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:6:187)
+
+X
+Analyzing diagram 90
+  => matched diagram 90 to (pentagonbox1:6:1181)
+     via shift: {k1==-p3+k1+p2+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:6:187)
+
+X
+Analyzing diagram 91
+  => matched diagram 91 to (pentagonbox1:6:1181)
+     via shift: {k1==-p3+k1+p2+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:6:187)
+
+X
+Analyzing diagram 92
+  => matched diagram 92 to (pentagonbox1:6:1181)
+     via shift: {k1==-p3+k1+p2+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:6:187)
+
+X
+Analyzing diagram 93
+  => matched diagram 93 to (pentagonbox1:6:1181)
+     via shift: {k1==-p3+k1+p2+p1,k2==p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:6:187)
+
+X
+Analyzing diagram 94
+  => matched diagram 94 to (pentagonbox1:5:1349)
+     via shift: {k1==k1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x153:5:59)
+
+X
+Analyzing diagram 95
+  => matched diagram 95 to (pentagonbox1:5:1349)
+     via shift: {k1==k1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x153:5:59)
+
+X
+Analyzing diagram 96
+  => matched diagram 96 to (pentagonbox1:5:1349)
+     via shift: {k1==k1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x153:5:59)
+
+X
+Analyzing diagram 97
+  => matched diagram 97 to (pentagonbox1:5:1349)
+     via shift: {k1==k1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x153:5:59)
+
+X
+Analyzing diagram 98
+  => matched diagram 98 to (pentagonbox1:5:1349)
+     via shift: {k1==k1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x153:5:59)
+
+X
+Analyzing diagram 99
+  => matched diagram 99 to (pentagonbox1:5:1349)
+     via shift: {k1==k1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x153:5:59)
+
+X
+Analyzing diagram 100
+  => matched diagram 100 to (pentagonbox1:5:1349)
+     via shift: {k1==k1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x153:5:59)
+
+X
+Analyzing diagram 101
+
+  => matched diagram 101 to (pentagonbox1:5:1349)
+     via shift: {k1==k1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x153:5:59)
+
+X
+Analyzing diagram 102
+  => matched diagram 102 to (pentagonbox1x12x34:5:61)
+     via shift: {k1==-k1-p2-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x1432:5:59)
+
+x
+Analyzing diagram 103
+  => matched diagram 103 to (pentagonbox1x12x34:5:61)
+     via shift: {k1==-k1-p2-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x1432:5:59)
+
+x
+Analyzing diagram 104
+  => matched diagram 104 to (pentagonbox1:5:61)
+     via shift: {k1==-k1-p2-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x13:5:59)
+
+X
+Analyzing diagram 105
+  => matched diagram 105 to (pentagonbox1:5:61)
+     via shift: {k1==-k1-p2-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x13:5:59)
+
+X
+Analyzing diagram 106
+  => matched diagram 106 to (pentagonbox1:5:1109)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x15x234:5:59)
+
+X
+Analyzing diagram 107
+  => matched diagram 107 to (pentagonbox1:5:1109)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x15x234:5:59)
+
+X
+Analyzing diagram 108
+  => matched diagram 108 to (pentagonbox1:5:1109)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x15x234:5:59)
+
+X
+Analyzing diagram 109
+  => matched diagram 109 to (pentagonbox1:5:1109)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x15x234:5:59)
+
+X
+Analyzing diagram 110
+  => matched diagram 110 to (pentagonbox1:5:1109)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x15x234:5:59)
+
+X
+Analyzing diagram 111
+  => matched diagram 111 to (pentagonbox1:5:1109)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x15x234:5:59)
+
+X
+Analyzing diagram 112
+  => matched diagram 112 to (pentagonbox1:5:1109)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x15x234:5:59)
+
+X
+Analyzing diagram 113
+  => matched diagram 113 to (pentagonbox1:5:1109)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x15x234:5:59)
+
+X
+Analyzing diagram 114
+  => matched diagram 114 to (pentagonbox1x12x34:5:1053)
+     via shift: {k1==k1+p2-p4+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x1425:5:59)
+
+x
+Analyzing diagram 115
+  => matched diagram 115 to (pentagonbox1x12x34:5:1053)
+     via shift: {k1==k1+p2-p4+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x1425:5:59)
+
+x
+Analyzing diagram 116
+  => matched diagram 116 to (pentagonbox1x12x34:5:1053)
+     via shift: {k1==k1+p2-p4+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x1425:5:59)
+
+x
+Analyzing diagram 117
+  => matched diagram 117 to (pentagonbox1x12x34:5:1053)
+     via shift: {k1==k1+p2-p4+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x1425:5:59)
+
+x
+Analyzing diagram 118
+  => matched diagram 118 to (pentagonbox1x12x34:5:1053)
+     via shift: {k1==k1+p2-p4+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x1425:5:59)
+
+x
+Analyzing diagram 119
+  => matched diagram 119 to (pentagonbox1x12x34:5:1053)
+     via shift: {k1==k1+p2-p4+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x1425:5:59)
+
+x
+Analyzing diagram 120
+  => matched diagram 120 to (pentagonbox1x12x34:5:1053)
+     via shift: {k1==k1+p2-p4+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x1425:5:59)
+
+x
+Analyzing diagram 121
+  => matched diagram 121 to (pentagonbox1x12x34:5:1053)
+     via shift: {k1==k1+p2-p4+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x1425:5:59)
+
+x
+Analyzing diagram 122
+  => matched diagram 122 to (pentagonbox1:5:1053)
+     via shift: {k1==-p3+k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x134x25:5:59)
+
+X
+Analyzing diagram 123
+  => matched diagram 123 to (pentagonbox1:5:1053)
+     via shift: {k1==-p3+k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x134x25:5:59)
+
+X
+Analyzing diagram 124
+  => matched diagram 124 to (pentagonbox1:5:1053)
+     via shift: {k1==-p3+k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x134x25:5:59)
+
+X
+Analyzing diagram 125
+  => matched diagram 125 to (pentagonbox1:5:1053)
+     via shift: {k1==-p3+k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x134x25:5:59)
+
+X
+Analyzing diagram 126
+  => matched diagram 126 to (pentagonbox1:5:1053)
+     via shift: {k1==-p3+k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x134x25:5:59)
+
+X
+Analyzing diagram 127
+  => matched diagram 127 to (pentagonbox1:5:1053)
+     via shift: {k1==-p3+k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x134x25:5:59)
+
+X
+Analyzing diagram 128
+  => matched diagram 128 to (pentagonbox1:5:1053)
+     via shift: {k1==-p3+k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x134x25:5:59)
+
+X
+Analyzing diagram 129
+  => matched diagram 129 to (pentagonbox1:5:1053)
+     via shift: {k1==-p3+k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x134x25:5:59)
+
+X
+Analyzing diagram 130
+  => matched diagram 130 to (pentagonbox1:5:453)
+     via shift: {k1==k1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x153:5:155)
+
+X
+Analyzing diagram 131
+  => matched diagram 131 to (pentagonbox1:5:453)
+     via shift: {k1==k1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x153:5:155)
+
+X
+Analyzing diagram 132
+  => matched diagram 132 to (pentagonbox1x12x34:5:173)
+     via shift: {k1==-k1-p2-p1,k2==p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x1432:5:155)
+
+x
+Analyzing diagram 133
+  => matched diagram 133 to (pentagonbox1x12x34:5:173)
+     via shift: {k1==-k1-p2-p1,k2==p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x1432:5:155)
+
+x
+Analyzing diagram 134
+  => matched diagram 134 to (pentagonbox1x12x34:5:173)
+     via shift: {k1==-k1-p2-p1,k2==p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x1432:5:155)
+
+x
+Analyzing diagram 135
+  => matched diagram 135 to (pentagonbox1x12x34:5:173)
+     via shift: {k1==-k1-p2-p1,k2==p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x1432:5:155)
+
+x
+Analyzing diagram 136
+  => matched diagram 136 to (pentagonbox1x12x34:5:173)
+     via shift: {k1==-k1-p2-p1,k2==p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x1432:5:155)
+
+x
+Analyzing diagram 137
+  => matched diagram 137 to (pentagonbox1:5:173)
+     via shift: {k1==-k1-p2-p1,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x13:5:155)
+
+X
+Analyzing diagram 138
+  => matched diagram 138 to (pentagonbox1:5:173)
+     via shift: {k1==-k1-p2-p1,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x13:5:155)
+
+X
+Analyzing diagram 139
+  => matched diagram 139 to (pentagonbox1:5:173)
+     via shift: {k1==-k1-p2-p1,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x13:5:155)
+
+X
+Analyzing diagram 140
+  => matched diagram 140 to (pentagonbox1:5:173)
+     via shift: {k1==-k1-p2-p1,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x13:5:155)
+
+X
+Analyzing diagram 141
+  => matched diagram 141 to (pentagonbox1:5:173)
+     via shift: {k1==-k1-p2-p1,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x13:5:155)
+
+X
+Analyzing diagram 142
+  => matched diagram 142 to (pentagonbox1:5:405)
+     via shift: {k1==p3-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x15x234:5:155)
+
+X
+Analyzing diagram 143
+  => matched diagram 143 to (pentagonbox1:5:405)
+     via shift: {k1==p3-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x15x234:5:155)
+
+X
+Analyzing diagram 144
+  => matched diagram 144 to (pentagonbox1x12x34:5:1165)
+     via shift: {k1==k1+p2-p4+p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1x1425:5:155)
+
+x
+Analyzing diagram 145
+  => matched diagram 145 to (pentagonbox1x12x34:5:1165)
+     via shift: {k1==k1+p2-p4+p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1x1425:5:155)
+
+x
+Analyzing diagram 146
+  => matched diagram 146 to (pentagonbox1x12x34:5:1165)
+     via shift: {k1==k1+p2-p4+p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1x1425:5:155)
+
+x
+Analyzing diagram 147
+  => matched diagram 147 to (pentagonbox1x12x34:5:1165)
+     via shift: {k1==k1+p2-p4+p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1x1425:5:155)
+
+x
+Analyzing diagram 148
+  => matched diagram 148 to (pentagonbox1x12x34:5:1165)
+     via shift: {k1==k1+p2-p4+p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1x1425:5:155)
+
+x
+Analyzing diagram 149
+  => matched diagram 149 to (pentagonbox1:5:1165)
+     via shift: {k1==-p3+k1+p2+p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1x134x25:5:155)
+
+X
+Analyzing diagram 150
+  => matched diagram 150 to (pentagonbox1:5:1165)
+     via shift: {k1==-p3+k1+p2+p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1x134x25:5:155)
+
+X
+Analyzing diagram 151
+
+  => matched diagram 151 to (pentagonbox1:5:1165)
+     via shift: {k1==-p3+k1+p2+p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1x134x25:5:155)
+
+X
+Analyzing diagram 152
+  => matched diagram 152 to (pentagonbox1:5:1165)
+     via shift: {k1==-p3+k1+p2+p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1x134x25:5:155)
+
+X
+Analyzing diagram 153
+  => matched diagram 153 to (pentagonbox1:5:1165)
+     via shift: {k1==-p3+k1+p2+p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1x134x25:5:155)
+
+X
+Analyzing diagram 154
+  => matched diagram 154 to (pentagonbox1:5:1236)
+     via shift: {k1==k2,k2==k1+p2+p1}
+     target sector equivalent to (pentagonbox1x12x35:5:157)
+
+X
+Analyzing diagram 155
+  => matched diagram 155 to (pentagonbox1:5:1236)
+     via shift: {k1==k2,k2==k1+p2+p1}
+     target sector equivalent to (pentagonbox1x12x35:5:157)
+
+X
+Analyzing diagram 156
+  => matched diagram 156 to (pentagonbox1x12x34:5:157)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x34:5:157)
+
+x
+Analyzing diagram 157
+  => matched diagram 157 to (pentagonbox1x12x34:5:157)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x34:5:157)
+
+x
+Analyzing diagram 158
+  => matched diagram 158 to (pentagonbox1x12x34:5:157)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x34:5:157)
+
+x
+Analyzing diagram 159
+  => matched diagram 159 to (pentagonbox1x12x34:5:157)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x34:5:157)
+
+x
+Analyzing diagram 160
+  => matched diagram 160 to (pentagonbox1x12x34:5:157)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x34:5:157)
+
+x
+Analyzing diagram 161
+  => matched diagram 161 to (pentagonbox1:5:157)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:157)
+
+X
+Analyzing diagram 162
+  => matched diagram 162 to (pentagonbox1:5:157)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:157)
+
+X
+Analyzing diagram 163
+  => matched diagram 163 to (pentagonbox1:5:157)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:157)
+
+X
+Analyzing diagram 164
+  => matched diagram 164 to (pentagonbox1:5:157)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:157)
+
+X
+Analyzing diagram 165
+  => matched diagram 165 to (pentagonbox1:5:157)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:157)
+
+X
+Analyzing diagram 166
+  => matched diagram 166 to (pentagonbox1x12x34:5:185)
+     via shift: {k1==-p2-k2+p4-p1,k2==k1+p2-p4+p1}
+     target sector equivalent to (pentagonbox1x12x34:5:185)
+
+x
+Analyzing diagram 167
+  => matched diagram 167 to (pentagonbox1x12x34:5:185)
+     via shift: {k1==-p2-k2+p4-p1,k2==k1+p2-p4+p1}
+     target sector equivalent to (pentagonbox1x12x34:5:185)
+
+x
+Analyzing diagram 168
+  => matched diagram 168 to (pentagonbox1:5:185)
+     via shift: {k1==p3-p2-k2-p1,k2==-p3+k1+p2+p1}
+     target sector equivalent to (pentagonbox1:5:185)
+
+X
+Analyzing diagram 169
+  => matched diagram 169 to (pentagonbox1:5:185)
+     via shift: {k1==p3-p2-k2-p1,k2==-p3+k1+p2+p1}
+     target sector equivalent to (pentagonbox1:5:185)
+
+X
+Analyzing diagram 170
+  => matched diagram 170 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 171
+  => matched diagram 171 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 172
+  => matched diagram 172 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 173
+  => matched diagram 173 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 174
+  => matched diagram 174 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 175
+  => matched diagram 175 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 176
+  => matched diagram 176 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 177
+  => matched diagram 177 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 178
+  => matched diagram 178 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 179
+  => matched diagram 179 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 180
+  => matched diagram 180 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 181
+  => matched diagram 181 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 182
+  => matched diagram 182 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 183
+  => matched diagram 183 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 184
+  => matched diagram 184 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 185
+  => matched diagram 185 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 186
+  => matched diagram 186 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 187
+  => matched diagram 187 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 188
+  => matched diagram 188 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 189
+  => matched diagram 189 to (pentagonbox1:5:1173)
+     via shift: {k1==p2+k2+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x134x25:5:185)
+
+X
+Analyzing diagram 190
+  => matched diagram 190 to (pentagonbox1x12x34:4:57)
+     via shift: {k1==k2,k2==-k1}
+     target sector equivalent to (pentagonbox1x12x34:4:57)
+
+x
+Analyzing diagram 191
+  => matched diagram 191 to (pentagonbox1:4:57)
+     via shift: {k1==k2,k2==-k1}
+     target sector equivalent to (pentagonbox1:4:57)
+
+X
+Analyzing diagram 192
+  => matched diagram 192 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 193
+  => matched diagram 193 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 194
+  => matched diagram 194 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 195
+  => matched diagram 195 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 196
+  => matched diagram 196 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 197
+  => matched diagram 197 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 198
+  => matched diagram 198 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 199
+  => matched diagram 199 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 200
+  => matched diagram 200 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 201
+
+  => matched diagram 201 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 202
+  => matched diagram 202 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 203
+  => matched diagram 203 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 204
+  => matched diagram 204 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 205
+  => matched diagram 205 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 206
+  => matched diagram 206 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 207
+  => matched diagram 207 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 208
+  => matched diagram 208 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 209
+  => matched diagram 209 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 210
+  => matched diagram 210 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 211
+  => matched diagram 211 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 212
+  => matched diagram 212 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 213
+  => matched diagram 213 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 214
+  => matched diagram 214 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 215
+  => matched diagram 215 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 216
+  => matched diagram 216 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 217
+  => matched diagram 217 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 218
+  => matched diagram 218 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 219
+  => matched diagram 219 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 220
+  => matched diagram 220 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 221
+  => matched diagram 221 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 222
+  => matched diagram 222 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 223
+  => matched diagram 223 to (pentagonbox1:4:1045)
+     via shift: {k1==-k2,k2==k1}
+     target sector equivalent to (pentagonbox1x134x25:4:57)
+
+X
+Analyzing diagram 224
+  => matched diagram 224 to (pentagonbox1x12x34:4:153)
+     via shift: {k1==-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x13425:4:149)
+
+x
+Analyzing diagram 225
+  => matched diagram 225 to (pentagonbox1x12x34:4:153)
+     via shift: {k1==-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x13425:4:149)
+
+x
+Analyzing diagram 226
+  => matched diagram 226 to (pentagonbox1x12x34:4:153)
+     via shift: {k1==-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x13425:4:149)
+
+x
+Analyzing diagram 227
+  => matched diagram 227 to (pentagonbox1x12x34:4:153)
+     via shift: {k1==-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x13425:4:149)
+
+x
+Analyzing diagram 228
+  => matched diagram 228 to (pentagonbox1x12x34:4:153)
+     via shift: {k1==-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x13425:4:149)
+
+x
+Analyzing diagram 229
+  => matched diagram 229 to (pentagonbox1:4:153)
+     via shift: {k1==p3-k1-p2-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x14x25:4:149)
+
+X
+Analyzing diagram 230
+  => matched diagram 230 to (pentagonbox1:4:153)
+     via shift: {k1==p3-k1-p2-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x14x25:4:149)
+
+X
+Analyzing diagram 231
+  => matched diagram 231 to (pentagonbox1:4:153)
+     via shift: {k1==p3-k1-p2-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x14x25:4:149)
+
+X
+Analyzing diagram 232
+  => matched diagram 232 to (pentagonbox1:4:153)
+     via shift: {k1==p3-k1-p2-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x14x25:4:149)
+
+X
+Analyzing diagram 233
+  => matched diagram 233 to (pentagonbox1:4:153)
+     via shift: {k1==p3-k1-p2-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x14x25:4:149)
+
+X
+Analyzing diagram 234
+  => matched diagram 234 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 235
+  => matched diagram 235 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 236
+  => matched diagram 236 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 237
+  => matched diagram 237 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 238
+  => matched diagram 238 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 239
+  => matched diagram 239 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 240
+  => matched diagram 240 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 241
+  => matched diagram 241 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 242
+  => matched diagram 242 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 243
+  => matched diagram 243 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 244
+  => matched diagram 244 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 245
+  => matched diagram 245 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 246
+  => matched diagram 246 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 247
+  => matched diagram 247 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 248
+  => matched diagram 248 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 249
+  => matched diagram 249 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 250
+  => matched diagram 250 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 251
+
+  => matched diagram 251 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 252
+  => matched diagram 252 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 253
+  => matched diagram 253 to (pentagonbox1:4:149)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:4:149)
+
+X
+Analyzing diagram 254
+  => matched diagram 254 to (hexagonbox1:7:253)
+     via shift: {k1==-p2-p1+k1,k2==-k2-p4+k1}
+     target sector equivalent to (hexagonbox1x13:7:251)
+
+X
+Analyzing diagram 255
+  => matched diagram 255 to (hexagonbox1:7:253)
+     via shift: {k1==-p2-p1+k1,k2==-k2-p4+k1}
+     target sector equivalent to (hexagonbox1x13:7:251)
+
+X
+Analyzing diagram 256
+  => matched diagram 256 to (hexagonbox1x12x34:7:253)
+     via shift: {k1==-p2-p1+k1,k2==-p3-k2+k1}
+     target sector equivalent to (hexagonbox1x1432:7:251)
+
+x
+Analyzing diagram 257
+  => matched diagram 257 to (hexagonbox1x12x34:7:253)
+     via shift: {k1==-p2-p1+k1,k2==-p3-k2+k1}
+     target sector equivalent to (hexagonbox1x1432:7:251)
+
+x
+Analyzing diagram 258
+  => matched diagram 258 to (hexagonbox1:7:764)
+     via shift: {k1==-k2,k2==-p3+p2+p1-k1}
+     target sector equivalent to (hexagonbox1x153:7:251)
+
+X
+Analyzing diagram 259
+  => matched diagram 259 to (hexagonbox1:7:764)
+     via shift: {k1==-k2,k2==-p3+p2+p1-k1}
+     target sector equivalent to (hexagonbox1x153:7:251)
+
+X
+Analyzing diagram 260
+  => matched diagram 260 to (hexagonbox1x13x25:7:253)
+     via shift: {k1==p2-p4+p1+k1,k2==k2+p2}
+     target sector equivalent to (hexagonbox1x25:7:251)
+
+x
+Analyzing diagram 261
+  => matched diagram 261 to (hexagonbox1x1235:7:251)
+     via shift: {k1==p2-k1,k2==-k2}
+     target sector equivalent to (hexagonbox1x1235:7:251)
+
+x
+Analyzing diagram 262
+  => matched diagram 262 to (hexagonbox1x13x24:7:1004)
+     via shift: {k1==p3+k2,k2==p3+p4+k1}
+     target sector equivalent to (hexagonbox1x14235:7:251)
+
+x
+Analyzing diagram 263
+  => matched diagram 263 to (hexagonbox1x13x24:7:1004)
+     via shift: {k1==p3+k2,k2==p3+p4+k1}
+     target sector equivalent to (hexagonbox1x14235:7:251)
+
+x
+Analyzing diagram 264
+  => matched diagram 264 to (hexagonbox1x142:7:1004)
+     via shift: {k1==k2+p4,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x24x35:7:251)
+
+x
+Analyzing diagram 265
+  => matched diagram 265 to (hexagonbox1x124x35:7:251)
+     via shift: {k1==p2-k1,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x124x35:7:251)
+
+x
+Analyzing diagram 266
+  => matched diagram 266 to (hexagonbox1x134x25:7:251)
+     via shift: {k1==-p3-k1,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x134x25:7:251)
+
+x
+Analyzing diagram 267
+  => matched diagram 267 to (hexagonbox1x134x25:7:251)
+     via shift: {k1==-p3-k1,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x134x25:7:251)
+
+x
+Analyzing diagram 268
+  => matched diagram 268 to (pentagonbox1x12x345:7:493)
+     via shift: {k1==k1,k2==p3+k2}
+     target sector equivalent to (pentagonbox1x1432:7:475)
+
+x
+Analyzing diagram 269
+  => matched diagram 269 to (pentagonbox1x12x345:7:493)
+     via shift: {k1==k1,k2==p3+k2}
+     target sector equivalent to (pentagonbox1x1432:7:475)
+
+x
+Analyzing diagram 270
+  => matched diagram 270 to (pentagonbox1x12x345:7:493)
+     via shift: {k1==k1,k2==p3+k2}
+     target sector equivalent to (pentagonbox1x1432:7:475)
+
+x
+Analyzing diagram 271
+  => matched diagram 271 to (pentagonbox1:7:493)
+     via shift: {k1==-k1-p2-p1,k2==p3-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x13x45:7:475)
+
+X
+Analyzing diagram 272
+  => matched diagram 272 to (pentagonbox1:7:493)
+     via shift: {k1==-k1-p2-p1,k2==p3-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x13x45:7:475)
+
+X
+Analyzing diagram 273
+  => matched diagram 273 to (pentagonbox1x12x34:7:493)
+     via shift: {k1==-k1-p2-p1,k2==-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x14532:7:475)
+
+x
+Analyzing diagram 274
+  => matched diagram 274 to (pentagonbox1x12x34:7:493)
+     via shift: {k1==-k1-p2-p1,k2==-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x14532:7:475)
+
+x
+Analyzing diagram 275
+  => matched diagram 275 to (pentagonbox1x1234:7:475)
+     via shift: {k1==p3-k1-p2+p4,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x1234:7:475)
+
+x
+Analyzing diagram 276
+  => matched diagram 276 to (pentagonbox1x1234:7:475)
+     via shift: {k1==p3-k1-p2+p4,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x1234:7:475)
+
+x
+Analyzing diagram 277
+  => matched diagram 277 to (pentagonbox1x12x354:7:919)
+     via shift: {k1==k1+p2+p1,k2==p2+k2}
+     target sector equivalent to (pentagonbox1x25:7:475)
+
+x
+Analyzing diagram 278
+  => matched diagram 278 to (pentagonbox1x12x354:7:919)
+     via shift: {k1==k1+p2+p1,k2==p2+k2}
+     target sector equivalent to (pentagonbox1x25:7:475)
+
+x
+Analyzing diagram 279
+  => matched diagram 279 to (pentagonbox1x12x34:7:1679)
+     via shift: {k1==-k1,k2==-p2-k2}
+     target sector equivalent to (pentagonbox1x1425:7:475)
+
+x
+Analyzing diagram 280
+  => matched diagram 280 to (pentagonbox1x12x34:7:1679)
+     via shift: {k1==-k1,k2==-p2-k2}
+     target sector equivalent to (pentagonbox1x1425:7:475)
+
+x
+Analyzing diagram 281
+  => matched diagram 281 to (pentagonbox1:7:1679)
+     via shift: {k1==-k1,k2==-k2-p1}
+     target sector equivalent to (pentagonbox1x134x25:7:475)
+
+X
+Analyzing diagram 282
+  => matched diagram 282 to (pentagonbox1:7:1679)
+     via shift: {k1==-k1,k2==-k2-p1}
+     target sector equivalent to (pentagonbox1x134x25:7:475)
+
+X
+Analyzing diagram 283
+  => matched diagram 283 to (pentagonbox1x12:7:1679)
+     via shift: {k1==-k1,k2==-p2-k2}
+     target sector equivalent to (pentagonbox1x13425:7:475)
+
+x
+Analyzing diagram 284
+  => matched diagram 284 to (pentagonbox1x12:7:1679)
+     via shift: {k1==-k1,k2==-p2-k2}
+     target sector equivalent to (pentagonbox1x13425:7:475)
+
+x
+Analyzing diagram 285
+  => matched diagram 285 to (hexagonbox1x12345:7:494)
+     via shift: {k1==-p3+p2-k1,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x12345:7:494)
+
+x
+Analyzing diagram 286
+  => matched diagram 286 to (hexagonbox1x12345:7:494)
+     via shift: {k1==-p3+p2-k1,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x12345:7:494)
+
+x
+Analyzing diagram 287
+  => matched diagram 287 to (hexagonbox1x12345:7:494)
+     via shift: {k1==-p3+p2-k1,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x12345:7:494)
+
+x
+Analyzing diagram 288
+  => matched diagram 288 to (hexagonbox1x1235:7:494)
+     via shift: {k1==-p3+p2-k1,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x1235:7:494)
+
+x
+Analyzing diagram 289
+  => matched diagram 289 to (hexagonbox1x1235:7:494)
+     via shift: {k1==-p3+p2-k1,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x1235:7:494)
+
+x
+Analyzing diagram 290
+  => matched diagram 290 to (hexagonbox1x12435:7:494)
+     via shift: {k1==p2-p4-k1,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x12435:7:494)
+
+x
+Analyzing diagram 291
+  => matched diagram 291 to (hexagonbox1x12435:7:494)
+     via shift: {k1==p2-p4-k1,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x12435:7:494)
+
+x
+Analyzing diagram 292
+  => matched diagram 292 to (hexagonbox1x12345:7:506)
+     via shift: {k1==-k2,k2==p3-k2-p2+p4-p1+k1}
+     target sector equivalent to (hexagonbox1x13x45:7:494)
+
+x
+Analyzing diagram 293
+  => matched diagram 293 to (hexagonbox1x12345:7:506)
+     via shift: {k1==-k2,k2==p3-k2-p2+p4-p1+k1}
+     target sector equivalent to (hexagonbox1x13x45:7:494)
+
+x
+Analyzing diagram 294
+  => matched diagram 294 to (hexagonbox1x1235:7:506)
+     via shift: {k1==-k2,k2==-k2-p4+k1}
+     target sector equivalent to (hexagonbox1x13:7:494)
+
+x
+Analyzing diagram 295
+  => matched diagram 295 to (hexagonbox1x1235:7:506)
+     via shift: {k1==-k2,k2==-k2-p4+k1}
+     target sector equivalent to (hexagonbox1x13:7:494)
+
+x
+Analyzing diagram 296
+  => matched diagram 296 to (hexagonbox1x13x24:7:494)
+     via shift: {k1==p3+p4+k1,k2==-k2+p2+k1}
+     target sector equivalent to (hexagonbox1x13x24:7:494)
+
+x
+Analyzing diagram 297
+  => matched diagram 297 to (hexagonbox1x12354:7:506)
+     via shift: {k1==k2,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x134:7:494)
+
+x
+Analyzing diagram 298
+  => matched diagram 298 to (hexagonbox1x12435:7:506)
+     via shift: {k1==-k2,k2==-p3-k2+k1}
+     target sector equivalent to (hexagonbox1x143:7:494)
+
+x
+Analyzing diagram 299
+  => matched diagram 299 to (hexagonbox1x12435:7:506)
+     via shift: {k1==-k2,k2==-p3-k2+k1}
+     target sector equivalent to (hexagonbox1x143:7:494)
+
+x
+Analyzing diagram 300
+  => matched diagram 300 to (hexagonbox1x13425:7:506)
+     via shift: {k1==-k2,k2==-k2+p2+k1}
+     target sector equivalent to (hexagonbox1x15423:7:494)
+
+x
+Analyzing diagram 301
+
+  => matched diagram 301 to (hexagonbox1x124x35:7:506)
+     via shift: {k1==k2,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x14:7:494)
+
+x
+Analyzing diagram 302
+  => matched diagram 302 to (pentagonbox1x12x34:7:1500)
+     via shift: {k1==-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x1532:7:251)
+
+x
+Analyzing diagram 303
+  => matched diagram 303 to (pentagonbox1x12x34:7:1500)
+     via shift: {k1==-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x1532:7:251)
+
+x
+Analyzing diagram 304
+  => matched diagram 304 to (pentagonbox1x12x34:7:1500)
+     via shift: {k1==-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x1532:7:251)
+
+x
+Analyzing diagram 305
+  => matched diagram 305 to (pentagonbox1x12x34:7:253)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x14532:7:251)
+
+x
+Analyzing diagram 306
+  => matched diagram 306 to (pentagonbox1x12x34:7:253)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x14532:7:251)
+
+x
+Analyzing diagram 307
+  => matched diagram 307 to (pentagonbox1:7:1500)
+     via shift: {k1==p3-k1-p2-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x1543:7:251)
+
+X
+Analyzing diagram 308
+  => matched diagram 308 to (pentagonbox1:7:1500)
+     via shift: {k1==p3-k1-p2-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x1543:7:251)
+
+X
+Analyzing diagram 309
+  => matched diagram 309 to (pentagonbox1:7:1500)
+     via shift: {k1==p3-k1-p2-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x1543:7:251)
+
+X
+Analyzing diagram 310
+  => matched diagram 310 to (pentagonbox1:7:253)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x13x45:7:251)
+
+X
+Analyzing diagram 311
+  => matched diagram 311 to (pentagonbox1:7:253)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x13x45:7:251)
+
+X
+Analyzing diagram 312
+  => matched diagram 312 to (pentagonbox1x12x345:7:253)
+     via shift: {k1==p3+k2,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x1432:7:251)
+
+x
+Analyzing diagram 313
+  => matched diagram 313 to (pentagonbox1x12x345:7:253)
+     via shift: {k1==p3+k2,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x1432:7:251)
+
+x
+Analyzing diagram 314
+  => matched diagram 314 to (pentagonbox1x12x345:7:1500)
+     via shift: {k1==-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x132:7:251)
+
+x
+Analyzing diagram 315
+  => matched diagram 315 to (pentagonbox1x12x345:7:1500)
+     via shift: {k1==-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x132:7:251)
+
+x
+Analyzing diagram 316
+  => matched diagram 316 to (pentagonbox1:7:1239)
+     via shift: {k1==k1+p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x15x234:7:251)
+
+X
+Analyzing diagram 317
+  => matched diagram 317 to (pentagonbox1:7:1239)
+     via shift: {k1==k1+p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x15x234:7:251)
+
+X
+Analyzing diagram 318
+  => matched diagram 318 to (pentagonbox1x12:7:1239)
+     via shift: {k1==k1+p2,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x15234:7:251)
+
+x
+Analyzing diagram 319
+  => matched diagram 319 to (pentagonbox1x12:7:1239)
+     via shift: {k1==k1+p2,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x15234:7:251)
+
+x
+Analyzing diagram 320
+  => matched diagram 320 to (pentagonbox1x12x34:7:1207)
+     via shift: {k1==-k1-p2,k2==p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x1425:7:251)
+
+x
+Analyzing diagram 321
+  => matched diagram 321 to (pentagonbox1x12x34:7:1207)
+     via shift: {k1==-k1-p2,k2==p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x1425:7:251)
+
+x
+Analyzing diagram 322
+  => matched diagram 322 to (pentagonbox1x12x34:7:1207)
+     via shift: {k1==-k1-p2,k2==p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x1425:7:251)
+
+x
+Analyzing diagram 323
+  => matched diagram 323 to (pentagonbox1x12x34:7:702)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x1235:7:251)
+
+x
+Analyzing diagram 324
+  => matched diagram 324 to (pentagonbox1x12x354:7:1239)
+     via shift: {k1==k1+p2,k2==-k2-p4}
+     target sector equivalent to (pentagonbox1x14x25:7:251)
+
+x
+Analyzing diagram 325
+  => matched diagram 325 to (pentagonbox1x12x354:7:1239)
+     via shift: {k1==k1+p2,k2==-k2-p4}
+     target sector equivalent to (pentagonbox1x14x25:7:251)
+
+x
+Analyzing diagram 326
+  => matched diagram 326 to (pentagonbox1x12x354:7:1239)
+     via shift: {k1==k1+p2,k2==-k2-p4}
+     target sector equivalent to (pentagonbox1x14x25:7:251)
+
+x
+Analyzing diagram 327
+  => matched diagram 327 to (pentagonbox1x12x354:7:982)
+     via shift: {k1==-k2,k2==k1+p2+p1}
+     target sector equivalent to (pentagonbox1x25:7:251)
+
+x
+Analyzing diagram 328
+  => matched diagram 328 to (pentagonbox1x12:7:1207)
+     via shift: {k1==-k1-p2,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x13425:7:251)
+
+x
+Analyzing diagram 329
+  => matched diagram 329 to (pentagonbox1x12:7:1207)
+     via shift: {k1==-k1-p2,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x13425:7:251)
+
+x
+Analyzing diagram 330
+  => matched diagram 330 to (pentagonbox1x12:7:1207)
+     via shift: {k1==-k1-p2,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x13425:7:251)
+
+x
+Analyzing diagram 331
+  => matched diagram 331 to (pentagonbox1x12:7:702)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12435:7:251)
+
+x
+Analyzing diagram 332
+  => matched diagram 332 to (pentagonbox1:7:1207)
+     via shift: {k1==-k1-p1,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:7:251)
+
+X
+Analyzing diagram 333
+  => matched diagram 333 to (pentagonbox1:7:1207)
+     via shift: {k1==-k1-p1,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:7:251)
+
+X
+Analyzing diagram 334
+  => matched diagram 334 to (pentagonbox1:7:1207)
+     via shift: {k1==-k1-p1,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:7:251)
+
+X
+Analyzing diagram 335
+  => matched diagram 335 to (pentagonbox1:7:702)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x2435:7:251)
+
+X
+Analyzing diagram 336
+  => matched diagram 336 to (pentagonbox1x12x34:5:117)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x13425:5:55)
+
+x
+Analyzing diagram 337
+  => matched diagram 337 to (pentagonbox1x12x34:5:117)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x13425:5:55)
+
+x
+Analyzing diagram 338
+  => matched diagram 338 to (pentagonbox1x12x34:5:117)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x13425:5:55)
+
+x
+Analyzing diagram 339
+  => matched diagram 339 to (pentagonbox1x12x34:5:117)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x13425:5:55)
+
+x
+Analyzing diagram 340
+  => matched diagram 340 to (pentagonbox1:5:117)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x25:5:55)
+
+X
+Analyzing diagram 341
+  => matched diagram 341 to (pentagonbox1:5:117)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x25:5:55)
+
+X
+Analyzing diagram 342
+  => matched diagram 342 to (pentagonbox1:5:117)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x25:5:55)
+
+X
+Analyzing diagram 343
+  => matched diagram 343 to (pentagonbox1:5:117)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x25:5:55)
+
+X
+Analyzing diagram 344
+  => matched diagram 344 to (pentagonbox1x12x34:5:55)
+     via shift: {k1==-k1-p2,k2==k2}
+     target sector equivalent to (pentagonbox1x12x34:5:55)
+
+x
+Analyzing diagram 345
+  => matched diagram 345 to (pentagonbox1x12x34:5:55)
+     via shift: {k1==-k1-p2,k2==k2}
+     target sector equivalent to (pentagonbox1x12x34:5:55)
+
+x
+Analyzing diagram 346
+  => matched diagram 346 to (pentagonbox1:5:55)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1:5:55)
+
+X
+Analyzing diagram 347
+  => matched diagram 347 to (pentagonbox1:5:55)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1:5:55)
+
+X
+Analyzing diagram 348
+  => matched diagram 348 to (pentagonbox1:6:1372)
+     via shift: {k1==-p3+k1+p2+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x153:6:123)
+
+X
+Analyzing diagram 349
+  => matched diagram 349 to (pentagonbox1:6:1372)
+     via shift: {k1==-p3+k1+p2+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x153:6:123)
+
+X
+Analyzing diagram 350
+  => matched diagram 350 to (pentagonbox1:6:1372)
+     via shift: {k1==-p3+k1+p2+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x153:6:123)
+
+X
+Analyzing diagram 351
+
+  => matched diagram 351 to (pentagonbox1:6:1372)
+     via shift: {k1==-p3+k1+p2+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x153:6:123)
+
+X
+Analyzing diagram 352
+  => matched diagram 352 to (pentagonbox1x12x34:6:125)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x1432:6:123)
+
+x
+Analyzing diagram 353
+  => matched diagram 353 to (pentagonbox1x12x34:6:125)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x1432:6:123)
+
+x
+Analyzing diagram 354
+  => matched diagram 354 to (pentagonbox1:6:125)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x13:6:123)
+
+X
+Analyzing diagram 355
+  => matched diagram 355 to (pentagonbox1:6:125)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x13:6:123)
+
+X
+Analyzing diagram 356
+  => matched diagram 356 to (pentagonbox1:6:1111)
+     via shift: {k1==k1+p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x15x234:6:123)
+
+X
+Analyzing diagram 357
+  => matched diagram 357 to (pentagonbox1:6:1111)
+     via shift: {k1==k1+p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x15x234:6:123)
+
+X
+Analyzing diagram 358
+  => matched diagram 358 to (pentagonbox1:6:1111)
+     via shift: {k1==k1+p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x15x234:6:123)
+
+X
+Analyzing diagram 359
+  => matched diagram 359 to (pentagonbox1:6:1111)
+     via shift: {k1==k1+p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x15x234:6:123)
+
+X
+Analyzing diagram 360
+  => matched diagram 360 to (pentagonbox1x12x34:6:1079)
+     via shift: {k1==-k1-p2,k2==p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x1425:6:123)
+
+x
+Analyzing diagram 361
+  => matched diagram 361 to (pentagonbox1x12x34:6:1079)
+     via shift: {k1==-k1-p2,k2==p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x1425:6:123)
+
+x
+Analyzing diagram 362
+  => matched diagram 362 to (pentagonbox1x12x34:6:1079)
+     via shift: {k1==-k1-p2,k2==p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x1425:6:123)
+
+x
+Analyzing diagram 363
+  => matched diagram 363 to (pentagonbox1x12x34:6:1079)
+     via shift: {k1==-k1-p2,k2==p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x1425:6:123)
+
+x
+Analyzing diagram 364
+  => matched diagram 364 to (pentagonbox1:6:1079)
+     via shift: {k1==k1+p1,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:6:123)
+
+X
+Analyzing diagram 365
+  => matched diagram 365 to (pentagonbox1:6:1079)
+     via shift: {k1==k1+p1,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:6:123)
+
+X
+Analyzing diagram 366
+  => matched diagram 366 to (pentagonbox1:6:1079)
+     via shift: {k1==k1+p1,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:6:123)
+
+X
+Analyzing diagram 367
+  => matched diagram 367 to (pentagonbox1:6:1079)
+     via shift: {k1==k1+p1,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x134x25:6:123)
+
+X
+Analyzing diagram 368
+  => matched diagram 368 to (pentagonbox1:7:477)
+     via shift: {k1==-p3+k1+p2+p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x14x23:7:471)
+
+X
+Analyzing diagram 369
+  => matched diagram 369 to (pentagonbox1:7:477)
+     via shift: {k1==-p3+k1+p2+p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x14x23:7:471)
+
+X
+Analyzing diagram 370
+  => matched diagram 370 to (pentagonbox1:7:477)
+     via shift: {k1==-p3+k1+p2+p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x14x23:7:471)
+
+X
+Analyzing diagram 371
+  => matched diagram 371 to (pentagonbox1x12x345:7:1276)
+     via shift: {k1==-p3-k2,k2==k1+p2-p4+p1}
+     target sector equivalent to (pentagonbox1x15423:7:471)
+
+x
+Analyzing diagram 372
+  => matched diagram 372 to (pentagonbox1x12x345:7:1276)
+     via shift: {k1==-p3-k2,k2==k1+p2-p4+p1}
+     target sector equivalent to (pentagonbox1x15423:7:471)
+
+x
+Analyzing diagram 373
+  => matched diagram 373 to (pentagonbox1x12x34:7:477)
+     via shift: {k1==k1+p2-p4+p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x13x24:7:471)
+
+x
+Analyzing diagram 374
+  => matched diagram 374 to (pentagonbox1x12x34:7:477)
+     via shift: {k1==k1+p2-p4+p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x13x24:7:471)
+
+x
+Analyzing diagram 375
+  => matched diagram 375 to (pentagonbox1x12x34:7:477)
+     via shift: {k1==k1+p2-p4+p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x13x24:7:471)
+
+x
+Analyzing diagram 376
+  => matched diagram 376 to (pentagonbox1x12x345:7:477)
+     via shift: {k1==k1+p2-p4+p1,k2==-p3-k2}
+     target sector equivalent to (pentagonbox1x153x24:7:471)
+
+x
+Analyzing diagram 377
+  => matched diagram 377 to (pentagonbox1x12x345:7:477)
+     via shift: {k1==k1+p2-p4+p1,k2==-p3-k2}
+     target sector equivalent to (pentagonbox1x153x24:7:471)
+
+x
+Analyzing diagram 378
+  => matched diagram 378 to (pentagonbox1x12x34:7:1276)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==k1+p2-p4+p1}
+     target sector equivalent to (pentagonbox1x13x254:7:471)
+
+x
+Analyzing diagram 379
+  => matched diagram 379 to (pentagonbox1x12x34:7:1276)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==k1+p2-p4+p1}
+     target sector equivalent to (pentagonbox1x13x254:7:471)
+
+x
+Analyzing diagram 380
+  => matched diagram 380 to (pentagonbox1:7:1276)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-p3+k1+p2+p1}
+     target sector equivalent to (pentagonbox1x14x253:7:471)
+
+X
+Analyzing diagram 381
+  => matched diagram 381 to (pentagonbox1:7:1276)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-p3+k1+p2+p1}
+     target sector equivalent to (pentagonbox1x14x253:7:471)
+
+X
+Analyzing diagram 382
+  => matched diagram 382 to (pentagonbox1x12:7:471)
+     via shift: {k1==-k1-p2,k2==k2}
+     target sector equivalent to (pentagonbox1x12:7:471)
+
+x
+Analyzing diagram 383
+  => matched diagram 383 to (pentagonbox1x12:7:471)
+     via shift: {k1==-k1-p2,k2==k2}
+     target sector equivalent to (pentagonbox1x12:7:471)
+
+x
+Analyzing diagram 384
+  => matched diagram 384 to (pentagonbox1:7:471)
+     via shift: {k1==-k1-p1,k2==k2}
+     target sector equivalent to (pentagonbox1:7:471)
+
+X
+Analyzing diagram 385
+  => matched diagram 385 to (pentagonbox1:7:471)
+     via shift: {k1==-k1-p1,k2==k2}
+     target sector equivalent to (pentagonbox1:7:471)
+
+X
+Analyzing diagram 386
+  => matched diagram 386 to (pentagonbox1x12x354:7:471)
+     via shift: {k1==-k1-p2,k2==k2}
+     target sector equivalent to (pentagonbox1x12x354:7:471)
+
+x
+Analyzing diagram 387
+  => matched diagram 387 to (pentagonbox1x12x354:7:471)
+     via shift: {k1==-k1-p2,k2==k2}
+     target sector equivalent to (pentagonbox1x12x354:7:471)
+
+x
+Analyzing diagram 388
+  => matched diagram 388 to (pentagonbox1x12x34:7:1199)
+     via shift: {k1==k1+p2,k2==-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x45:7:471)
+
+x
+Analyzing diagram 389
+  => matched diagram 389 to (pentagonbox1x12x34:7:1199)
+     via shift: {k1==k1+p2,k2==-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x45:7:471)
+
+x
+Analyzing diagram 390
+  => matched diagram 390 to (pentagonbox1x12x34:7:671)
+     via shift: {k1==-k1-p2-p1,k2==p2+k2}
+     target sector equivalent to (pentagonbox1x245:7:471)
+
+x
+Analyzing diagram 391
+  => matched diagram 391 to (pentagonbox1x12x34:7:671)
+     via shift: {k1==-k1-p2-p1,k2==p2+k2}
+     target sector equivalent to (pentagonbox1x245:7:471)
+
+x
+Analyzing diagram 392
+  => matched diagram 392 to (pentagonbox1x12x354:7:1750)
+     via shift: {k1==k2,k2==-k1-p2}
+     target sector equivalent to (pentagonbox1x12435:7:471)
+
+x
+Analyzing diagram 393
+  => matched diagram 393 to (pentagonbox1x12x354:7:1750)
+     via shift: {k1==k2,k2==-k1-p2}
+     target sector equivalent to (pentagonbox1x12435:7:471)
+
+x
+Analyzing diagram 394
+  => matched diagram 394 to (pentagonbox1:7:1199)
+     via shift: {k1==k1+p1,k2==-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x12x345:7:471)
+
+X
+Analyzing diagram 395
+  => matched diagram 395 to (pentagonbox1:7:1199)
+     via shift: {k1==k1+p1,k2==-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x12x345:7:471)
+
+X
+Analyzing diagram 396
+  => matched diagram 396 to (pentagonbox1x12:7:1199)
+     via shift: {k1==k1+p2,k2==-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x345:7:471)
+
+x
+Analyzing diagram 397
+  => matched diagram 397 to (pentagonbox1x12:7:1199)
+     via shift: {k1==k1+p2,k2==-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x345:7:471)
+
+x
+Analyzing diagram 398
+  => matched diagram 398 to (pentagonbox1x12:7:671)
+     via shift: {k1==-k1-p2-p1,k2==p2+k2}
+     target sector equivalent to (pentagonbox1x2345:7:471)
+
+x
+Analyzing diagram 399
+  => matched diagram 399 to (pentagonbox1x12:7:671)
+     via shift: {k1==-k1-p2-p1,k2==p2+k2}
+     target sector equivalent to (pentagonbox1x2345:7:471)
+
+x
+Analyzing diagram 400
+  => matched diagram 400 to (pentagonbox1:7:671)
+     via shift: {k1==-k1-p2-p1,k2==k2+p1}
+     target sector equivalent to (pentagonbox1x12345:7:471)
+
+X
+Analyzing diagram 401
+
+  => matched diagram 401 to (pentagonbox1:7:671)
+     via shift: {k1==-k1-p2-p1,k2==k2+p1}
+     target sector equivalent to (pentagonbox1x12345:7:471)
+
+X
+Analyzing diagram 402
+  => matched diagram 402 to (pentagonbox1:6:461)
+     via shift: {k1==-p3+k1+p2+p1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x14x23:6:407)
+
+X
+Analyzing diagram 403
+  => matched diagram 403 to (pentagonbox1x12x345:6:429)
+     via shift: {k1==-p3-k1,k2==-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x15423:6:407)
+
+x
+Analyzing diagram 404
+  => matched diagram 404 to (pentagonbox1x12x34:6:461)
+     via shift: {k1==k1+p2-p4+p1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x13x24:6:407)
+
+x
+Analyzing diagram 405
+  => matched diagram 405 to (pentagonbox1x12x345:6:461)
+     via shift: {k1==k1+p2-p4+p1,k2==p3+k2}
+     target sector equivalent to (pentagonbox1x153x24:6:407)
+
+x
+Analyzing diagram 406
+  => matched diagram 406 to (pentagonbox1x12x34:6:429)
+     via shift: {k1==p3-k1-p2+p4-p1,k2==-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x13x254:6:407)
+
+x
+Analyzing diagram 407
+  => matched diagram 407 to (pentagonbox1x12x34:6:429)
+     via shift: {k1==p3-k1-p2+p4-p1,k2==-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x13x254:6:407)
+
+x
+Analyzing diagram 408
+  => matched diagram 408 to (pentagonbox1x12x34:6:429)
+     via shift: {k1==p3-k1-p2+p4-p1,k2==-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x13x254:6:407)
+
+x
+Analyzing diagram 409
+  => matched diagram 409 to (pentagonbox1x12x34:6:429)
+     via shift: {k1==p3-k1-p2+p4-p1,k2==-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x13x254:6:407)
+
+x
+Analyzing diagram 410
+  => matched diagram 410 to (pentagonbox1:6:429)
+     via shift: {k1==p3-k1-p2+p4-p1,k2==p3-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x14x253:6:407)
+
+X
+Analyzing diagram 411
+  => matched diagram 411 to (pentagonbox1:6:429)
+     via shift: {k1==p3-k1-p2+p4-p1,k2==p3-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x14x253:6:407)
+
+X
+Analyzing diagram 412
+  => matched diagram 412 to (pentagonbox1:6:429)
+     via shift: {k1==p3-k1-p2+p4-p1,k2==p3-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x14x253:6:407)
+
+X
+Analyzing diagram 413
+  => matched diagram 413 to (pentagonbox1:6:429)
+     via shift: {k1==p3-k1-p2+p4-p1,k2==p3-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x14x253:6:407)
+
+X
+Analyzing diagram 414
+  => matched diagram 414 to (pentagonbox1x12x354:6:407)
+     via shift: {k1==-k1-p2,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x354:6:407)
+
+x
+Analyzing diagram 415
+  => matched diagram 415 to (pentagonbox1x12x354:6:407)
+     via shift: {k1==-k1-p2,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x354:6:407)
+
+x
+Analyzing diagram 416
+  => matched diagram 416 to (pentagonbox1x12x354:6:407)
+     via shift: {k1==-k1-p2,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x354:6:407)
+
+x
+Analyzing diagram 417
+  => matched diagram 417 to (pentagonbox1x12x354:6:407)
+     via shift: {k1==-k1-p2,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x354:6:407)
+
+x
+Analyzing diagram 418
+  => matched diagram 418 to (pentagonbox1x12x34:6:1167)
+     via shift: {k1==k1+p2,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x45:6:407)
+
+x
+Analyzing diagram 419
+  => matched diagram 419 to (pentagonbox1x12x34:6:1167)
+     via shift: {k1==k1+p2,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x45:6:407)
+
+x
+Analyzing diagram 420
+  => matched diagram 420 to (pentagonbox1x12x34:6:1167)
+     via shift: {k1==k1+p2,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x45:6:407)
+
+x
+Analyzing diagram 421
+  => matched diagram 421 to (pentagonbox1x12x34:6:1167)
+     via shift: {k1==k1+p2,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x45:6:407)
+
+x
+Analyzing diagram 422
+  => matched diagram 422 to (pentagonbox1x12x34:6:655)
+     via shift: {k1==-k1-p2-p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1x245:6:407)
+
+x
+Analyzing diagram 423
+  => matched diagram 423 to (pentagonbox1x12x354:6:903)
+     via shift: {k1==k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12435:6:407)
+
+x
+Analyzing diagram 424
+  => matched diagram 424 to (pentagonbox1:6:1167)
+     via shift: {k1==k1+p1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12x345:6:407)
+
+X
+Analyzing diagram 425
+  => matched diagram 425 to (pentagonbox1:6:1167)
+     via shift: {k1==k1+p1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12x345:6:407)
+
+X
+Analyzing diagram 426
+  => matched diagram 426 to (pentagonbox1:6:1167)
+     via shift: {k1==k1+p1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12x345:6:407)
+
+X
+Analyzing diagram 427
+  => matched diagram 427 to (pentagonbox1:6:1167)
+     via shift: {k1==k1+p1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12x345:6:407)
+
+X
+Analyzing diagram 428
+  => matched diagram 428 to (pentagonbox1x12:6:1167)
+     via shift: {k1==k1+p2,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x345:6:407)
+
+x
+Analyzing diagram 429
+  => matched diagram 429 to (pentagonbox1x12:6:1167)
+     via shift: {k1==k1+p2,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x345:6:407)
+
+x
+Analyzing diagram 430
+  => matched diagram 430 to (pentagonbox1x12:6:1167)
+     via shift: {k1==k1+p2,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x345:6:407)
+
+x
+Analyzing diagram 431
+  => matched diagram 431 to (pentagonbox1x12:6:1167)
+     via shift: {k1==k1+p2,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x345:6:407)
+
+x
+Analyzing diagram 432
+  => matched diagram 432 to (pentagonbox1x12:6:655)
+     via shift: {k1==-k1-p2-p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1x2345:6:407)
+
+x
+Analyzing diagram 433
+  => matched diagram 433 to (pentagonbox1:6:655)
+     via shift: {k1==-k1-p2-p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1x12345:6:407)
+
+X
+Analyzing diagram 434
+  => matched diagram 434 to (pentagonbox1x12x34:7:1269)
+     via shift: {k1==-p2-k2+p4-p1,k2==k1+p2+p1}
+     target sector equivalent to (pentagonbox1x14x235:7:191)
+
+x
+Analyzing diagram 435
+  => matched diagram 435 to (pentagonbox1x12x34:7:1269)
+     via shift: {k1==-p2-k2+p4-p1,k2==k1+p2+p1}
+     target sector equivalent to (pentagonbox1x14x235:7:191)
+
+x
+Analyzing diagram 436
+  => matched diagram 436 to (pentagonbox1:7:1269)
+     via shift: {k1==p3-p2-k2-p1,k2==k1+p2+p1}
+     target sector equivalent to (pentagonbox1x135x24:7:191)
+
+X
+Analyzing diagram 437
+  => matched diagram 437 to (pentagonbox1:7:1269)
+     via shift: {k1==p3-p2-k2-p1,k2==k1+p2+p1}
+     target sector equivalent to (pentagonbox1x135x24:7:191)
+
+X
+Analyzing diagram 438
+  => matched diagram 438 to (pentagonbox1x12x345:7:1269)
+     via shift: {k1==p3+k2,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x25:7:191)
+
+x
+Analyzing diagram 439
+  => matched diagram 439 to (pentagonbox1x12x345:7:1269)
+     via shift: {k1==p3+k2,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x25:7:191)
+
+x
+Analyzing diagram 440
+  => matched diagram 440 to (pentagonbox1x12x345:7:1269)
+     via shift: {k1==p3+k2,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x25:7:191)
+
+x
+Analyzing diagram 441
+  => matched diagram 441 to (pentagonbox1x12x345:7:1269)
+     via shift: {k1==p3+k2,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x25:7:191)
+
+x
+Analyzing diagram 442
+  => matched diagram 442 to (pentagonbox1x12x345:7:1269)
+     via shift: {k1==p3+k2,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x25:7:191)
+
+x
+Analyzing diagram 443
+  => matched diagram 443 to (pentagonbox1x12x345:7:1269)
+     via shift: {k1==p3+k2,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x25:7:191)
+
+x
+Analyzing diagram 444
+  => matched diagram 444 to (pentagonbox1x12x345:7:1269)
+     via shift: {k1==p3+k2,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x25:7:191)
+
+x
+Analyzing diagram 445
+  => matched diagram 445 to (pentagonbox1x12x34:7:191)
+     via shift: {k1==-k1-p2,k2==k2}
+     target sector equivalent to (pentagonbox1x12x34:7:191)
+
+x
+Analyzing diagram 446
+  => matched diagram 446 to (pentagonbox1x12x34:7:191)
+     via shift: {k1==-k1-p2,k2==k2}
+     target sector equivalent to (pentagonbox1x12x34:7:191)
+
+x
+Analyzing diagram 447
+  => matched diagram 447 to (pentagonbox1x12x354:7:1479)
+     via shift: {k1==k1+p2,k2==-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x34:7:191)
+
+x
+Analyzing diagram 448
+  => matched diagram 448 to (pentagonbox1x12x354:7:1479)
+     via shift: {k1==k1+p2,k2==-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x34:7:191)
+
+x
+Analyzing diagram 449
+  => matched diagram 449 to (pentagonbox1x12:7:191)
+     via shift: {k1==-k1-p2,k2==k2}
+     target sector equivalent to (pentagonbox1x12:7:191)
+
+x
+Analyzing diagram 450
+  => matched diagram 450 to (pentagonbox1x12:7:191)
+     via shift: {k1==-k1-p2,k2==k2}
+     target sector equivalent to (pentagonbox1x12:7:191)
+
+x
+Analyzing diagram 451
+
+  => matched diagram 451 to (pentagonbox1:7:191)
+     via shift: {k1==-k1-p1,k2==k2}
+     target sector equivalent to (pentagonbox1:7:191)
+
+X
+Analyzing diagram 452
+  => matched diagram 452 to (pentagonbox1:7:191)
+     via shift: {k1==-k1-p1,k2==k2}
+     target sector equivalent to (pentagonbox1:7:191)
+
+X
+Analyzing diagram 453
+  => matched diagram 453 to (pentagonbox1x12x34:6:1141)
+     via shift: {k1==-p2-k2+p4-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x235:6:63)
+
+x
+Analyzing diagram 454
+  => matched diagram 454 to (pentagonbox1x12x34:6:1141)
+     via shift: {k1==-p2-k2+p4-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x235:6:63)
+
+x
+Analyzing diagram 455
+  => matched diagram 455 to (pentagonbox1x12x34:6:1141)
+     via shift: {k1==-p2-k2+p4-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x235:6:63)
+
+x
+Analyzing diagram 456
+  => matched diagram 456 to (pentagonbox1x12x34:6:1141)
+     via shift: {k1==-p2-k2+p4-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x235:6:63)
+
+x
+Analyzing diagram 457
+  => matched diagram 457 to (pentagonbox1:6:1141)
+     via shift: {k1==p3-p2-k2-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x135x24:6:63)
+
+X
+Analyzing diagram 458
+  => matched diagram 458 to (pentagonbox1:6:1141)
+     via shift: {k1==p3-p2-k2-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x135x24:6:63)
+
+X
+Analyzing diagram 459
+  => matched diagram 459 to (pentagonbox1:6:1141)
+     via shift: {k1==p3-p2-k2-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x135x24:6:63)
+
+X
+Analyzing diagram 460
+  => matched diagram 460 to (pentagonbox1:6:1141)
+     via shift: {k1==p3-p2-k2-p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x135x24:6:63)
+
+X
+Analyzing diagram 461
+  => matched diagram 461 to (pentagonbox1x12x345:6:1141)
+     via shift: {k1==p3+k2,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x25:6:63)
+
+x
+Analyzing diagram 462
+  => matched diagram 462 to (pentagonbox1x12x345:6:1141)
+     via shift: {k1==p3+k2,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x25:6:63)
+
+x
+Analyzing diagram 463
+  => matched diagram 463 to (pentagonbox1x12x345:6:1141)
+     via shift: {k1==p3+k2,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x25:6:63)
+
+x
+Analyzing diagram 464
+  => matched diagram 464 to (pentagonbox1x12x345:6:1141)
+     via shift: {k1==p3+k2,k2==-k1}
+     target sector equivalent to (pentagonbox1x14x25:6:63)
+
+x
+Analyzing diagram 465
+  => matched diagram 465 to (pentagonbox1x12x34:6:63)
+     via shift: {k1==-k1-p2,k2==k2}
+     target sector equivalent to (pentagonbox1x12x34:6:63)
+
+x
+Analyzing diagram 466
+  => matched diagram 466 to (pentagonbox1x12x354:6:1351)
+     via shift: {k1==k1+p2,k2==k2+p4}
+     target sector equivalent to (pentagonbox1x34:6:63)
+
+x
+Analyzing diagram 467
+  => matched diagram 467 to (pentagonbox1x12:6:63)
+     via shift: {k1==-k1-p2,k2==k2}
+     target sector equivalent to (pentagonbox1x12:6:63)
+
+x
+Analyzing diagram 468
+  => matched diagram 468 to (pentagonbox1:6:63)
+     via shift: {k1==-k1-p1,k2==k2}
+     target sector equivalent to (pentagonbox1:6:63)
+
+X
+Analyzing diagram 469
+  => matched diagram 469 to (pentagonbox1x12x34:6:413)
+     via shift: {k1==-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x15234:6:159)
+
+x
+Analyzing diagram 470
+  => matched diagram 470 to (pentagonbox1x12x34:6:1268)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x14x235:6:159)
+
+x
+Analyzing diagram 471
+  => matched diagram 471 to (pentagonbox1:6:413)
+     via shift: {k1==p3-k1-p2-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x15x24:6:159)
+
+X
+Analyzing diagram 472
+  => matched diagram 472 to (pentagonbox1:6:1268)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x135x24:6:159)
+
+X
+Analyzing diagram 473
+  => matched diagram 473 to (pentagonbox1x12x345:6:1268)
+     via shift: {k1==p3+k2,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x14x25:6:159)
+
+x
+Analyzing diagram 474
+  => matched diagram 474 to (pentagonbox1x12x345:6:1268)
+     via shift: {k1==p3+k2,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x14x25:6:159)
+
+x
+Analyzing diagram 475
+  => matched diagram 475 to (pentagonbox1x12x345:6:1268)
+     via shift: {k1==p3+k2,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x14x25:6:159)
+
+x
+Analyzing diagram 476
+  => matched diagram 476 to (pentagonbox1x12x345:6:1268)
+     via shift: {k1==p3+k2,k2==-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x14x25:6:159)
+
+x
+Analyzing diagram 477
+  => matched diagram 477 to (pentagonbox1x12x345:6:413)
+     via shift: {k1==-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:159)
+
+x
+Analyzing diagram 478
+  => matched diagram 478 to (pentagonbox1x12x345:6:413)
+     via shift: {k1==-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:159)
+
+x
+Analyzing diagram 479
+  => matched diagram 479 to (pentagonbox1x12x345:6:413)
+     via shift: {k1==-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:159)
+
+x
+Analyzing diagram 480
+  => matched diagram 480 to (pentagonbox1x12x345:6:413)
+     via shift: {k1==-k1-p2+p4-p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:159)
+
+x
+Analyzing diagram 481
+  => matched diagram 481 to (pentagonbox1x12x34:6:175)
+     via shift: {k1==-k1-p2,k2==p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x1432:6:159)
+
+x
+Analyzing diagram 482
+  => matched diagram 482 to (pentagonbox1x12x34:6:159)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x34:6:159)
+
+x
+Analyzing diagram 483
+  => matched diagram 483 to (pentagonbox1x12x34:6:159)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x34:6:159)
+
+x
+Analyzing diagram 484
+  => matched diagram 484 to (pentagonbox1x12x34:6:159)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x34:6:159)
+
+x
+Analyzing diagram 485
+  => matched diagram 485 to (pentagonbox1x12x34:6:159)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x34:6:159)
+
+x
+Analyzing diagram 486
+  => matched diagram 486 to (pentagonbox1x12x354:6:455)
+     via shift: {k1==k1+p2,k2==-k2-p4}
+     target sector equivalent to (pentagonbox1x143:6:159)
+
+x
+Analyzing diagram 487
+  => matched diagram 487 to (pentagonbox1x12x354:6:1415)
+     via shift: {k1==-k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x34:6:159)
+
+x
+Analyzing diagram 488
+  => matched diagram 488 to (pentagonbox1x12x354:6:1415)
+     via shift: {k1==-k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x34:6:159)
+
+x
+Analyzing diagram 489
+  => matched diagram 489 to (pentagonbox1x12x354:6:1415)
+     via shift: {k1==-k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x34:6:159)
+
+x
+Analyzing diagram 490
+  => matched diagram 490 to (pentagonbox1x12x354:6:1415)
+     via shift: {k1==-k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x34:6:159)
+
+x
+Analyzing diagram 491
+  => matched diagram 491 to (pentagonbox1x12:6:175)
+     via shift: {k1==-k1-p2,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x132:6:159)
+
+x
+Analyzing diagram 492
+  => matched diagram 492 to (pentagonbox1x12:6:159)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12:6:159)
+
+x
+Analyzing diagram 493
+  => matched diagram 493 to (pentagonbox1x12:6:159)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12:6:159)
+
+x
+Analyzing diagram 494
+  => matched diagram 494 to (pentagonbox1x12:6:159)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12:6:159)
+
+x
+Analyzing diagram 495
+  => matched diagram 495 to (pentagonbox1x12:6:159)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12:6:159)
+
+x
+Analyzing diagram 496
+  => matched diagram 496 to (pentagonbox1:6:175)
+     via shift: {k1==-k1-p1,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x13:6:159)
+
+X
+Analyzing diagram 497
+  => matched diagram 497 to (pentagonbox1:6:159)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:6:159)
+
+X
+Analyzing diagram 498
+  => matched diagram 498 to (pentagonbox1:6:159)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:6:159)
+
+X
+Analyzing diagram 499
+  => matched diagram 499 to (pentagonbox1:6:159)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:6:159)
+
+X
+Analyzing diagram 500
+  => matched diagram 500 to (pentagonbox1:6:159)
+     via shift: {k1==k1+p2+p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:6:159)
+
+X
+Analyzing diagram 501
+
+  => matched diagram 501 to (hexagonbox1:6:249)
+     via shift: {k1==-k2-p4+k1,k2==p3+k2-p2+p4-p1}
+     target sector equivalent to (hexagonbox1:6:249)
+
+X
+Analyzing diagram 502
+  => matched diagram 502 to (hexagonbox1x12x34:6:249)
+     via shift: {k1==-p3-k2+k1,k2==p3+k2-p2+p4-p1}
+     target sector equivalent to (hexagonbox1x12x34:6:249)
+
+x
+Analyzing diagram 503
+  => matched diagram 503 to (hexagonbox1x13x24:6:748)
+     via shift: {k1==-p3-p4+p1-k1,k2==-k2+p2+k1}
+     target sector equivalent to (hexagonbox1x14235:6:249)
+
+x
+Analyzing diagram 504
+  => matched diagram 504 to (hexagonbox1x13x24:6:748)
+     via shift: {k1==-p3-p4+p1-k1,k2==-k2+p2+k1}
+     target sector equivalent to (hexagonbox1x14235:6:249)
+
+x
+Analyzing diagram 505
+  => matched diagram 505 to (hexagonbox1x13x24:6:748)
+     via shift: {k1==-p3-p4+p1-k1,k2==-k2+p2+k1}
+     target sector equivalent to (hexagonbox1x14235:6:249)
+
+x
+Analyzing diagram 506
+  => matched diagram 506 to (hexagonbox1x13x24:6:748)
+     via shift: {k1==-p3-p4+p1-k1,k2==-k2+p2+k1}
+     target sector equivalent to (hexagonbox1x14235:6:249)
+
+x
+Analyzing diagram 507
+  => matched diagram 507 to (pentagonbox1:6:473)
+     via shift: {k1==p3-k1-p2-p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x14:6:467)
+
+X
+Analyzing diagram 508
+  => matched diagram 508 to (pentagonbox1:6:473)
+     via shift: {k1==p3-k1-p2-p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x14:6:467)
+
+X
+Analyzing diagram 509
+  => matched diagram 509 to (pentagonbox1:6:473)
+     via shift: {k1==p3-k1-p2-p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x14:6:467)
+
+X
+Analyzing diagram 510
+  => matched diagram 510 to (pentagonbox1:6:489)
+     via shift: {k1==k1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x154:6:467)
+
+X
+Analyzing diagram 511
+  => matched diagram 511 to (pentagonbox1:6:489)
+     via shift: {k1==k1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x154:6:467)
+
+X
+Analyzing diagram 512
+  => matched diagram 512 to (pentagonbox1x12x34:6:473)
+     via shift: {k1==-k1-p2+p4-p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x1342:6:467)
+
+x
+Analyzing diagram 513
+  => matched diagram 513 to (pentagonbox1x12x34:6:473)
+     via shift: {k1==-k1-p2+p4-p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x1342:6:467)
+
+x
+Analyzing diagram 514
+  => matched diagram 514 to (pentagonbox1x12x34:6:473)
+     via shift: {k1==-k1-p2+p4-p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x1342:6:467)
+
+x
+Analyzing diagram 515
+  => matched diagram 515 to (pentagonbox1x12x34:6:489)
+     via shift: {k1==k1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x15342:6:467)
+
+x
+Analyzing diagram 516
+  => matched diagram 516 to (pentagonbox1x12x34:6:489)
+     via shift: {k1==k1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x15342:6:467)
+
+x
+Analyzing diagram 517
+  => matched diagram 517 to (pentagonbox1x12:6:467)
+     via shift: {k1==k1+p2,k2==k2}
+     target sector equivalent to (pentagonbox1x12:6:467)
+
+x
+Analyzing diagram 518
+  => matched diagram 518 to (pentagonbox1x12:6:467)
+     via shift: {k1==k1+p2,k2==k2}
+     target sector equivalent to (pentagonbox1x12:6:467)
+
+x
+Analyzing diagram 519
+  => matched diagram 519 to (pentagonbox1:6:467)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1:6:467)
+
+X
+Analyzing diagram 520
+  => matched diagram 520 to (pentagonbox1:6:467)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1:6:467)
+
+X
+Analyzing diagram 521
+  => matched diagram 521 to (pentagonbox1:6:1671)
+     via shift: {k1==-k1,k2==-k2-p1}
+     target sector equivalent to (pentagonbox1x2345:6:467)
+
+X
+Analyzing diagram 522
+  => matched diagram 522 to (pentagonbox1:6:1671)
+     via shift: {k1==-k1,k2==-k2-p1}
+     target sector equivalent to (pentagonbox1x2345:6:467)
+
+X
+Analyzing diagram 523
+  => matched diagram 523 to (pentagonbox1:6:1671)
+     via shift: {k1==-k1,k2==-k2-p1}
+     target sector equivalent to (pentagonbox1x2345:6:467)
+
+X
+Analyzing diagram 524
+  => matched diagram 524 to (pentagonbox1:6:1671)
+     via shift: {k1==-k1,k2==-k2-p1}
+     target sector equivalent to (pentagonbox1x2345:6:467)
+
+X
+Analyzing diagram 525
+  => matched diagram 525 to (pentagonbox1:6:663)
+     via shift: {k1==k1+p2+p1,k2==k2+p1}
+     target sector equivalent to (pentagonbox1x12345:6:467)
+
+X
+Analyzing diagram 526
+  => matched diagram 526 to (pentagonbox1:6:663)
+     via shift: {k1==k1+p2+p1,k2==k2+p1}
+     target sector equivalent to (pentagonbox1x12345:6:467)
+
+X
+Analyzing diagram 527
+  => matched diagram 527 to (pentagonbox1:6:663)
+     via shift: {k1==k1+p2+p1,k2==k2+p1}
+     target sector equivalent to (pentagonbox1x12345:6:467)
+
+X
+Analyzing diagram 528
+  => matched diagram 528 to (pentagonbox1:6:663)
+     via shift: {k1==k1+p2+p1,k2==k2+p1}
+     target sector equivalent to (pentagonbox1x12345:6:467)
+
+X
+Analyzing diagram 529
+  => matched diagram 529 to (pentagonbox1:6:1671)
+     via shift: {k1==-k1,k2==-k2-p1}
+     target sector equivalent to (pentagonbox1x2345:6:467)
+
+X
+Analyzing diagram 530
+  => matched diagram 530 to (pentagonbox1:6:1671)
+     via shift: {k1==-k1,k2==-k2-p1}
+     target sector equivalent to (pentagonbox1x2345:6:467)
+
+X
+Analyzing diagram 531
+  => matched diagram 531 to (pentagonbox1:6:1671)
+     via shift: {k1==-k1,k2==-k2-p1}
+     target sector equivalent to (pentagonbox1x2345:6:467)
+
+X
+Analyzing diagram 532
+  => matched diagram 532 to (pentagonbox1:6:1671)
+     via shift: {k1==-k1,k2==-k2-p1}
+     target sector equivalent to (pentagonbox1x2345:6:467)
+
+X
+Analyzing diagram 533
+  => matched diagram 533 to (pentagonbox1:6:663)
+     via shift: {k1==k1+p2+p1,k2==k2+p1}
+     target sector equivalent to (pentagonbox1x12345:6:467)
+
+X
+Analyzing diagram 534
+  => matched diagram 534 to (pentagonbox1:6:663)
+     via shift: {k1==k1+p2+p1,k2==k2+p1}
+     target sector equivalent to (pentagonbox1x12345:6:467)
+
+X
+Analyzing diagram 535
+  => matched diagram 535 to (pentagonbox1:6:663)
+     via shift: {k1==k1+p2+p1,k2==k2+p1}
+     target sector equivalent to (pentagonbox1x12345:6:467)
+
+X
+Analyzing diagram 536
+  => matched diagram 536 to (pentagonbox1:6:663)
+     via shift: {k1==k1+p2+p1,k2==k2+p1}
+     target sector equivalent to (pentagonbox1x12345:6:467)
+
+X
+Analyzing diagram 537
+  => matched diagram 537 to (pentagonbox1:5:457)
+     via shift: {k1==p3-k1-p2-p1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x14:5:403)
+
+X
+Analyzing diagram 538
+  => matched diagram 538 to (pentagonbox1x12x34:5:457)
+     via shift: {k1==-k1-p2+p4-p1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x1342:5:403)
+
+x
+Analyzing diagram 539
+  => matched diagram 539 to (pentagonbox1:5:647)
+     via shift: {k1==-k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x2345:5:403)
+
+X
+Analyzing diagram 540
+  => matched diagram 540 to (pentagonbox1:5:647)
+     via shift: {k1==-k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x2345:5:403)
+
+X
+Analyzing diagram 541
+  => matched diagram 541 to (pentagonbox1:5:647)
+     via shift: {k1==-k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x2345:5:403)
+
+X
+Analyzing diagram 542
+  => matched diagram 542 to (pentagonbox1:5:647)
+     via shift: {k1==-k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x2345:5:403)
+
+X
+Analyzing diagram 543
+  => matched diagram 543 to (pentagonbox1:5:647)
+     via shift: {k1==-k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x2345:5:403)
+
+X
+Analyzing diagram 544
+  => matched diagram 544 to (pentagonbox1:5:647)
+     via shift: {k1==-k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x2345:5:403)
+
+X
+Analyzing diagram 545
+  => matched diagram 545 to (pentagonbox1:5:647)
+     via shift: {k1==-k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x2345:5:403)
+
+X
+Analyzing diagram 546
+  => matched diagram 546 to (pentagonbox1:5:647)
+     via shift: {k1==-k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x2345:5:403)
+
+X
+Analyzing diagram 547
+  => matched diagram 547 to (pentagonbox1:5:647)
+     via shift: {k1==-k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x2345:5:403)
+
+X
+Analyzing diagram 548
+  => matched diagram 548 to (pentagonbox1:5:647)
+     via shift: {k1==-k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x2345:5:403)
+
+X
+Analyzing diagram 549
+  => matched diagram 549 to (pentagonbox1:6:249)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-p3+k1+p2+p1}
+     target sector equivalent to (pentagonbox1:6:249)
+
+X
+Analyzing diagram 550
+  => matched diagram 550 to (pentagonbox1:6:249)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-p3+k1+p2+p1}
+     target sector equivalent to (pentagonbox1:6:249)
+
+X
+Analyzing diagram 551
+
+  => matched diagram 551 to (pentagonbox1x12x34:6:249)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==k1+p2-p4+p1}
+     target sector equivalent to (pentagonbox1x12x34:6:249)
+
+x
+Analyzing diagram 552
+  => matched diagram 552 to (pentagonbox1x12x34:6:249)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==k1+p2-p4+p1}
+     target sector equivalent to (pentagonbox1x12x34:6:249)
+
+x
+Analyzing diagram 553
+  => matched diagram 553 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 554
+  => matched diagram 554 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 555
+  => matched diagram 555 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 556
+  => matched diagram 556 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 557
+  => matched diagram 557 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 558
+  => matched diagram 558 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 559
+  => matched diagram 559 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 560
+  => matched diagram 560 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 561
+  => matched diagram 561 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 562
+  => matched diagram 562 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 563
+  => matched diagram 563 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 564
+  => matched diagram 564 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 565
+  => matched diagram 565 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 566
+  => matched diagram 566 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 567
+  => matched diagram 567 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 568
+  => matched diagram 568 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 569
+  => matched diagram 569 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 570
+  => matched diagram 570 to (pentagonbox1:6:1175)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:6:249)
+
+X
+Analyzing diagram 571
+  => matched diagram 571 to (pentagonbox1:5:121)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1}
+     target sector equivalent to (pentagonbox1:5:121)
+
+X
+Analyzing diagram 572
+  => matched diagram 572 to (pentagonbox1x12x34:5:121)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==-k1}
+     target sector equivalent to (pentagonbox1x12x34:5:121)
+
+x
+Analyzing diagram 573
+  => matched diagram 573 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 574
+  => matched diagram 574 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 575
+  => matched diagram 575 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 576
+  => matched diagram 576 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 577
+  => matched diagram 577 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 578
+  => matched diagram 578 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 579
+  => matched diagram 579 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 580
+  => matched diagram 580 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 581
+  => matched diagram 581 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 582
+  => matched diagram 582 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 583
+  => matched diagram 583 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 584
+  => matched diagram 584 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 585
+  => matched diagram 585 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 586
+  => matched diagram 586 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 587
+  => matched diagram 587 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 588
+  => matched diagram 588 to (pentagonbox1:5:1047)
+     via shift: {k1==k1+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x134x25:5:121)
+
+X
+Analyzing diagram 589
+  => matched diagram 589 to (pentagonbox1:5:241)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==k1}
+     target sector equivalent to (pentagonbox1x15x24:5:151)
+
+X
+Analyzing diagram 590
+  => matched diagram 590 to (pentagonbox1:5:248)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==p3-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x14x25:5:151)
+
+X
+Analyzing diagram 591
+  => matched diagram 591 to (pentagonbox1:5:248)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==p3-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x14x25:5:151)
+
+X
+Analyzing diagram 592
+  => matched diagram 592 to (pentagonbox1:5:248)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==p3-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x14x25:5:151)
+
+X
+Analyzing diagram 593
+  => matched diagram 593 to (pentagonbox1:5:248)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==p3-k1-p2-p1}
+     target sector equivalent to (pentagonbox1x14x25:5:151)
+
+X
+Analyzing diagram 594
+  => matched diagram 594 to (pentagonbox1x12x34:5:241)
+     via shift: {k1==-p3+p2+k2-p4+p1,k2==k1}
+     target sector equivalent to (pentagonbox1x15234:5:151)
+
+x
+Analyzing diagram 595
+  => matched diagram 595 to (pentagonbox1x12x34:5:248)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-k1-p2+p4-p1}
+     target sector equivalent to (pentagonbox1x13425:5:151)
+
+x
+Analyzing diagram 596
+  => matched diagram 596 to (pentagonbox1x12x34:5:248)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-k1-p2+p4-p1}
+     target sector equivalent to (pentagonbox1x13425:5:151)
+
+x
+Analyzing diagram 597
+  => matched diagram 597 to (pentagonbox1x12x34:5:248)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-k1-p2+p4-p1}
+     target sector equivalent to (pentagonbox1x13425:5:151)
+
+x
+Analyzing diagram 598
+  => matched diagram 598 to (pentagonbox1x12x34:5:248)
+     via shift: {k1==p3-p2-k2+p4-p1,k2==-k1-p2+p4-p1}
+     target sector equivalent to (pentagonbox1x13425:5:151)
+
+x
+Analyzing diagram 599
+  => matched diagram 599 to (pentagonbox1:5:1159)
+     via shift: {k1==k1+p1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12:5:151)
+
+X
+Analyzing diagram 600
+  => matched diagram 600 to (pentagonbox1:5:1159)
+     via shift: {k1==k1+p1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12:5:151)
+
+X
+Analyzing diagram 601
+
+  => matched diagram 601 to (pentagonbox1:5:1159)
+     via shift: {k1==k1+p1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12:5:151)
+
+X
+Analyzing diagram 602
+  => matched diagram 602 to (pentagonbox1:5:1159)
+     via shift: {k1==k1+p1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12:5:151)
+
+X
+Analyzing diagram 603
+  => matched diagram 603 to (pentagonbox1:5:1159)
+     via shift: {k1==k1+p1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12:5:151)
+
+X
+Analyzing diagram 604
+  => matched diagram 604 to (pentagonbox1:5:151)
+     via shift: {k1==-k1-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:151)
+
+X
+Analyzing diagram 605
+  => matched diagram 605 to (pentagonbox1:5:151)
+     via shift: {k1==-k1-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:151)
+
+X
+Analyzing diagram 606
+  => matched diagram 606 to (pentagonbox1:5:151)
+     via shift: {k1==-k1-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:151)
+
+X
+Analyzing diagram 607
+  => matched diagram 607 to (pentagonbox1:5:151)
+     via shift: {k1==-k1-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:151)
+
+X
+Analyzing diagram 608
+  => matched diagram 608 to (pentagonbox1:5:151)
+     via shift: {k1==-k1-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:151)
+
+X
+Analyzing diagram 609
+  => matched diagram 609 to (pentagonbox1:5:1159)
+     via shift: {k1==k1+p1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12:5:151)
+
+X
+Analyzing diagram 610
+  => matched diagram 610 to (pentagonbox1:5:1159)
+     via shift: {k1==k1+p1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12:5:151)
+
+X
+Analyzing diagram 611
+  => matched diagram 611 to (pentagonbox1:5:1159)
+     via shift: {k1==k1+p1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12:5:151)
+
+X
+Analyzing diagram 612
+  => matched diagram 612 to (pentagonbox1:5:1159)
+     via shift: {k1==k1+p1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12:5:151)
+
+X
+Analyzing diagram 613
+  => matched diagram 613 to (pentagonbox1:5:1159)
+     via shift: {k1==k1+p1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x12:5:151)
+
+X
+Analyzing diagram 614
+  => matched diagram 614 to (pentagonbox1:5:151)
+     via shift: {k1==-k1-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:151)
+
+X
+Analyzing diagram 615
+  => matched diagram 615 to (pentagonbox1:5:151)
+     via shift: {k1==-k1-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:151)
+
+X
+Analyzing diagram 616
+  => matched diagram 616 to (pentagonbox1:5:151)
+     via shift: {k1==-k1-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:151)
+
+X
+Analyzing diagram 617
+  => matched diagram 617 to (pentagonbox1:5:151)
+     via shift: {k1==-k1-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:151)
+
+X
+Analyzing diagram 618
+  => matched diagram 618 to (pentagonbox1:5:151)
+     via shift: {k1==-k1-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1:5:151)
+
+X
+Analyzing diagram 619
+  => matched diagram 619 to (hexagonbox1x1245:8:510)
+     via shift: {k1==-k2,k2==-p2+p4+k1}
+     target sector equivalent to (hexagonbox1x1245:8:510)
+
+x
+Analyzing diagram 620
+  => matched diagram 620 to (hexagonbox1x125:8:510)
+     via shift: {k1==-k2,k2==-p3-p4+p1+k1}
+     target sector equivalent to (hexagonbox1x125:8:510)
+
+x
+Analyzing diagram 621
+  => matched diagram 621 to (hexagonbox1x12345:8:510)
+     via shift: {k1==-k2,k2==p3-p2+k1}
+     target sector equivalent to (hexagonbox1x12345:8:510)
+
+x
+Analyzing diagram 622
+  => matched diagram 622 to (hexagonbox1x125x34:8:510)
+     via shift: {k1==-k2,k2==-p3-p4+p1+k1}
+     target sector equivalent to (hexagonbox1x125x34:8:510)
+
+x
+Analyzing diagram 623
+  => matched diagram 623 to (hexagonbox1x1235:8:510)
+     via shift: {k1==-k2,k2==p3-p2+k1}
+     target sector equivalent to (hexagonbox1x1235:8:510)
+
+x
+Analyzing diagram 624
+  => matched diagram 624 to (hexagonbox1x12435:8:510)
+     via shift: {k1==-k2,k2==-p2+p4+k1}
+     target sector equivalent to (hexagonbox1x12435:8:510)
+
+x
+Analyzing diagram 625
+  => matched diagram 625 to (hexagonbox1x13425:8:510)
+     via shift: {k1==-k2,k2==p2-p4+p1+k1}
+     target sector equivalent to (hexagonbox1x13425:8:510)
+
+x
+Analyzing diagram 626
+  => matched diagram 626 to (hexagonbox1x1342:8:510)
+     via shift: {k1==-p3+p1-k1,k2==k2}
+     target sector equivalent to (hexagonbox1x1342:8:510)
+
+x
+Analyzing diagram 627
+  => matched diagram 627 to (hexagonbox1x124x35:8:510)
+     via shift: {k1==k2,k2==p2-p4-k1}
+     target sector equivalent to (hexagonbox1x124x35:8:510)
+
+x
+Analyzing diagram 628
+  => matched diagram 628 to (hexagonbox1x12354:8:510)
+     via shift: {k1==k2,k2==-p3+p2-k1}
+     target sector equivalent to (hexagonbox1x12354:8:510)
+
+x
+Analyzing diagram 629
+  => matched diagram 629 to (pentagonbox1x12x34:6:119)
+     via shift: {k1==-k1-p2,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x12x34:6:119)
+
+x
+Analyzing diagram 630
+  => matched diagram 630 to (pentagonbox1x12x34:6:119)
+     via shift: {k1==-k1-p2,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x12x34:6:119)
+
+x
+Analyzing diagram 631
+  => matched diagram 631 to (pentagonbox1:6:119)
+     via shift: {k1==k1+p1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1:6:119)
+
+X
+Analyzing diagram 632
+  => matched diagram 632 to (pentagonbox1:6:119)
+     via shift: {k1==k1+p1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1:6:119)
+
+X
+Analyzing diagram 633
+  => matched diagram 633 to (hexagonbox1x12:8:255)
+     via shift: {k1==-p2+k1,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x12:8:255)
+
+x
+Analyzing diagram 634
+  => matched diagram 634 to (hexagonbox1x12x34:8:255)
+     via shift: {k1==-p2+k1,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x12x34:8:255)
+
+x
+Analyzing diagram 635
+  => matched diagram 635 to (hexagonbox1:8:255)
+     via shift: {k1==-p1+k1,k2==k2-k1}
+     target sector equivalent to (hexagonbox1:8:255)
+
+X
+Analyzing diagram 636
+  => matched diagram 636 to (hexagonbox1x12x354:8:1020)
+     via shift: {k1==-k2+p2,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x34:8:255)
+
+x
+Analyzing diagram 637
+  => matched diagram 637 to (hexagonbox1x132:8:1020)
+     via shift: {k1==-p3-k2,k2==p3-p1+k1}
+     target sector equivalent to (hexagonbox1x235:8:255)
+
+x
+Analyzing diagram 638
+  => matched diagram 638 to (hexagonbox1x1235:8:255)
+     via shift: {k1==-p2+k1,k2==-k2}
+     target sector equivalent to (hexagonbox1x1235:8:255)
+
+x
+Analyzing diagram 639
+  => matched diagram 639 to (hexagonbox1x142:8:1020)
+     via shift: {k1==-k2-p4,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x24x35:8:255)
+
+x
+Analyzing diagram 640
+  => matched diagram 640 to (hexagonbox1x124x35:8:255)
+     via shift: {k1==-p2+k1,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x124x35:8:255)
+
+x
+Analyzing diagram 641
+  => matched diagram 641 to (hexagonbox1x134x25:8:255)
+     via shift: {k1==p3+k1,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x134x25:8:255)
+
+x
+Analyzing diagram 642
+  => matched diagram 642 to (hexagonbox1x134x25:8:255)
+     via shift: {k1==p3+k1,k2==k2-k1}
+     target sector equivalent to (hexagonbox1x134x25:8:255)
+
+x
+Analyzing diagram 643
+  => matched diagram 643 to (pentagonbox1x12x45:8:255)
+     via shift: {k1==-k1-p2,k2==-k2-p4}
+     target sector equivalent to (pentagonbox1x12x45:8:255)
+
+x
+Analyzing diagram 644
+  => matched diagram 644 to (pentagonbox1x12:8:255)
+     via shift: {k1==-k1-p2,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x12:8:255)
+
+x
+Analyzing diagram 645
+  => matched diagram 645 to (pentagonbox1x12x345:8:255)
+     via shift: {k1==-k1-p2,k2==-p3-k2}
+     target sector equivalent to (pentagonbox1x12x345:8:255)
+
+x
+Analyzing diagram 646
+  => matched diagram 646 to (pentagonbox1x12x34:8:255)
+     via shift: {k1==-k1-p2,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x12x34:8:255)
+
+x
+Analyzing diagram 647
+  => matched diagram 647 to (pentagonbox1x12x345:8:1511)
+     via shift: {k1==k1+p2,k2==p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x45:8:255)
+
+x
+Analyzing diagram 648
+  => matched diagram 648 to (pentagonbox1:8:255)
+     via shift: {k1==-k1-p1,k2==p3-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1:8:255)
+
+X
+Analyzing diagram 649
+  => matched diagram 649 to (pentagonbox1x12x45:8:1511)
+     via shift: {k1==k1+p2,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x345:8:255)
+
+x
+Analyzing diagram 650
+  => matched diagram 650 to (pentagonbox1x12x354:8:1511)
+     via shift: {k1==k1+p2,k2==p3+k2+p4}
+     target sector equivalent to (pentagonbox1x34:8:255)
+
+x
+Analyzing diagram 651
+
+  => matched diagram 651 to (pentagonbox1x12x45:8:990)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x235:8:255)
+
+x
+Analyzing diagram 652
+  => matched diagram 652 to (pentagonbox1x12x345:8:766)
+     via shift: {k1==k2,k2==k1+p2+p1}
+     target sector equivalent to (pentagonbox1x154x23:8:255)
+
+x
+Analyzing diagram 653
+  => matched diagram 653 to (pentagonbox1x12x34:8:1271)
+     via shift: {k1==-p2-k2+p4-p1,k2==-k1-p2}
+     target sector equivalent to (pentagonbox1x14235:8:255)
+
+x
+Analyzing diagram 654
+  => matched diagram 654 to (pentagonbox1x12x354:8:1271)
+     via shift: {k1==k2+p4,k2==k1+p2}
+     target sector equivalent to (pentagonbox1x15x234:8:255)
+
+x
+Analyzing diagram 655
+  => matched diagram 655 to (pentagonbox1x12x345:8:990)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x2435:8:255)
+
+x
+Analyzing diagram 656
+  => matched diagram 656 to (pentagonbox1x12x45:8:766)
+     via shift: {k1==k2,k2==k1+p2+p1}
+     target sector equivalent to (pentagonbox1x15324:8:255)
+
+x
+Analyzing diagram 657
+  => matched diagram 657 to (pentagonbox1x12:8:1271)
+     via shift: {k1==p3-p2-k2-p1,k2==-k1-p2}
+     target sector equivalent to (pentagonbox1x135x24:8:255)
+
+x
+Analyzing diagram 658
+  => matched diagram 658 to (pentagonbox1:8:1271)
+     via shift: {k1==p3-p2-k2-p1,k2==-k1-p1}
+     target sector equivalent to (pentagonbox1x13524:8:255)
+
+X
+Analyzing diagram 659
+  => matched diagram 659 to (pentagonbox1x12x45:8:1271)
+     via shift: {k1==p3-p2-k2-p1,k2==-k1-p2}
+     target sector equivalent to (pentagonbox1x13425:8:255)
+
+x
+Analyzing diagram 660
+  => matched diagram 660 to (pentagonbox1x12x45:8:1271)
+     via shift: {k1==p3-p2-k2-p1,k2==-k1-p2}
+     target sector equivalent to (pentagonbox1x13425:8:255)
+
+x
+Analyzing diagram 661
+  => matched diagram 661 to (pentagonbox1x12x345:8:1271)
+     via shift: {k1==p3+k2,k2==k1+p2}
+     target sector equivalent to (pentagonbox1x1425:8:255)
+
+x
+Analyzing diagram 662
+  => matched diagram 662 to (pentagonbox1x12x345:8:1271)
+     via shift: {k1==p3+k2,k2==k1+p2}
+     target sector equivalent to (pentagonbox1x1425:8:255)
+
+x
+Analyzing diagram 663
+  => matched diagram 663 to (pentagonbox1x12:7:127)
+     via shift: {k1==-k1-p2,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x12:7:127)
+
+x
+Analyzing diagram 664
+  => matched diagram 664 to (pentagonbox1x12x34:7:127)
+     via shift: {k1==-k1-p2,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x12x34:7:127)
+
+x
+Analyzing diagram 665
+  => matched diagram 665 to (pentagonbox1:7:127)
+     via shift: {k1==-k1-p1,k2==-p3+p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1:7:127)
+
+X
+Analyzing diagram 666
+  => matched diagram 666 to (pentagonbox1x12x354:7:1383)
+     via shift: {k1==k1+p2,k2==-p3-k2-p4}
+     target sector equivalent to (pentagonbox1x34:7:127)
+
+x
+Analyzing diagram 667
+  => matched diagram 667 to (pentagonbox1x12x34:7:1143)
+     via shift: {k1==-p2-k2+p4-p1,k2==-k1-p2}
+     target sector equivalent to (pentagonbox1x14x235:7:127)
+
+x
+Analyzing diagram 668
+  => matched diagram 668 to (pentagonbox1x12x34:7:1143)
+     via shift: {k1==-p2-k2+p4-p1,k2==-k1-p2}
+     target sector equivalent to (pentagonbox1x14x235:7:127)
+
+x
+Analyzing diagram 669
+  => matched diagram 669 to (pentagonbox1:7:1143)
+     via shift: {k1==p3-p2-k2-p1,k2==k1+p1}
+     target sector equivalent to (pentagonbox1x135x24:7:127)
+
+X
+Analyzing diagram 670
+  => matched diagram 670 to (pentagonbox1:7:1143)
+     via shift: {k1==p3-p2-k2-p1,k2==k1+p1}
+     target sector equivalent to (pentagonbox1x135x24:7:127)
+
+X
+Analyzing diagram 671
+  => matched diagram 671 to (pentagonbox1x12x345:7:1143)
+     via shift: {k1==p3+k2,k2==-k1-p2}
+     target sector equivalent to (pentagonbox1x14x25:7:127)
+
+x
+Analyzing diagram 672
+  => matched diagram 672 to (pentagonbox1x12x345:7:1143)
+     via shift: {k1==p3+k2,k2==-k1-p2}
+     target sector equivalent to (pentagonbox1x14x25:7:127)
+
+x
+Analyzing diagram 673
+  => matched diagram 673 to (pentagonbox1x12x45:8:495)
+     via shift: {k1==-k1-p2,k2==p3-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x132:8:479)
+
+x
+Analyzing diagram 674
+  => matched diagram 674 to (pentagonbox1x12x345:8:495)
+     via shift: {k1==-k1-p2,k2==-p2-k2+p4-p1}
+     target sector equivalent to (pentagonbox1x1432:8:479)
+
+x
+Analyzing diagram 675
+  => matched diagram 675 to (pentagonbox1x12:8:479)
+     via shift: {k1==k1+p2+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x12:8:479)
+
+x
+Analyzing diagram 676
+  => matched diagram 676 to (pentagonbox1x12:8:479)
+     via shift: {k1==k1+p2+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x12:8:479)
+
+x
+Analyzing diagram 677
+  => matched diagram 677 to (pentagonbox1x12x45:8:479)
+     via shift: {k1==k1+p2+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x12x45:8:479)
+
+x
+Analyzing diagram 678
+  => matched diagram 678 to (pentagonbox1x12x45:8:479)
+     via shift: {k1==k1+p2+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x12x45:8:479)
+
+x
+Analyzing diagram 679
+  => matched diagram 679 to (pentagonbox1x12x34:8:479)
+     via shift: {k1==k1+p2+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x12x34:8:479)
+
+x
+Analyzing diagram 680
+  => matched diagram 680 to (pentagonbox1x12x34:8:479)
+     via shift: {k1==k1+p2+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x12x34:8:479)
+
+x
+Analyzing diagram 681
+  => matched diagram 681 to (pentagonbox1x12x345:8:479)
+     via shift: {k1==k1+p2+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x12x345:8:479)
+
+x
+Analyzing diagram 682
+  => matched diagram 682 to (pentagonbox1x12x345:8:479)
+     via shift: {k1==k1+p2+p1,k2==k2}
+     target sector equivalent to (pentagonbox1x12x345:8:479)
+
+x
+Analyzing diagram 683
+  => matched diagram 683 to (pentagonbox1:8:479)
+     via shift: {k1==k1+p2+p1,k2==k2}
+     target sector equivalent to (pentagonbox1:8:479)
+
+X
+Analyzing diagram 684
+  => matched diagram 684 to (pentagonbox1:8:479)
+     via shift: {k1==k1+p2+p1,k2==k2}
+     target sector equivalent to (pentagonbox1:8:479)
+
+X
+Analyzing diagram 685
+  => matched diagram 685 to (pentagonbox1x12x345:8:1455)
+     via shift: {k1==-k1,k2==-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x45:8:479)
+
+x
+Analyzing diagram 686
+  => matched diagram 686 to (pentagonbox1x12x345:8:1455)
+     via shift: {k1==-k1,k2==-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x45:8:479)
+
+x
+Analyzing diagram 687
+  => matched diagram 687 to (pentagonbox1x12x354:8:1455)
+     via shift: {k1==-k1,k2==-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x34:8:479)
+
+x
+Analyzing diagram 688
+  => matched diagram 688 to (pentagonbox1x12x354:8:1455)
+     via shift: {k1==-k1,k2==-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x34:8:479)
+
+x
+Analyzing diagram 689
+  => matched diagram 689 to (pentagonbox1x12x45:8:1455)
+     via shift: {k1==-k1,k2==-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x345:8:479)
+
+x
+Analyzing diagram 690
+  => matched diagram 690 to (pentagonbox1x12x45:8:1455)
+     via shift: {k1==-k1,k2==-p2-k2-p1}
+     target sector equivalent to (pentagonbox1x345:8:479)
+
+x
+Analyzing diagram 691
+  => matched diagram 691 to (pentagonbox1x12x45:8:927)
+     via shift: {k1==-p3+k1+p2+p1,k2==p2+k2}
+     target sector equivalent to (pentagonbox1x235:8:479)
+
+x
+Analyzing diagram 692
+  => matched diagram 692 to (pentagonbox1x12x45:8:927)
+     via shift: {k1==-p3+k1+p2+p1,k2==p2+k2}
+     target sector equivalent to (pentagonbox1x235:8:479)
+
+x
+Analyzing diagram 693
+  => matched diagram 693 to (pentagonbox1x12x345:8:1782)
+     via shift: {k1==-p3-k2,k2==-k1-p2}
+     target sector equivalent to (pentagonbox1x1425:8:479)
+
+x
+Analyzing diagram 694
+  => matched diagram 694 to (pentagonbox1x12x345:8:1782)
+     via shift: {k1==-p3-k2,k2==-k1-p2}
+     target sector equivalent to (pentagonbox1x1425:8:479)
+
+x
+Analyzing diagram 695
+  => matched diagram 695 to (pentagonbox1x12x345:8:927)
+     via shift: {k1==k1+p2-p4+p1,k2==p2+k2}
+     target sector equivalent to (pentagonbox1x2435:8:479)
+
+x
+Analyzing diagram 696
+  => matched diagram 696 to (pentagonbox1x12x345:8:927)
+     via shift: {k1==k1+p2-p4+p1,k2==p2+k2}
+     target sector equivalent to (pentagonbox1x2435:8:479)
+
+x
+Analyzing diagram 697
+  => matched diagram 697 to (pentagonbox1x12x45:8:1782)
+     via shift: {k1==-k2-p4,k2==-k1-p2}
+     target sector equivalent to (pentagonbox1x13425:8:479)
+
+x
+Analyzing diagram 698
+  => matched diagram 698 to (pentagonbox1x12x45:8:1782)
+     via shift: {k1==-k2-p4,k2==-k1-p2}
+     target sector equivalent to (pentagonbox1x13425:8:479)
+
+x
+Analyzing diagram 699
+  => matched diagram 699 to (pentagonbox1x12x45:7:463)
+     via shift: {k1==-k1-p2,k2==-k2-p4}
+     target sector equivalent to (pentagonbox1x15423:7:415)
+
+x
+Analyzing diagram 700
+  => matched diagram 700 to (pentagonbox1x12x345:7:463)
+     via shift: {k1==-k1-p2,k2==-p3-k2}
+     target sector equivalent to (pentagonbox1x153x24:7:415)
+
+x
+Analyzing diagram 701
+
+  => matched diagram 701 to (pentagonbox1x12x345:7:431)
+     via shift: {k1==k1+p2,k2==p2+k2-p4+p1}
+     target sector equivalent to (pentagonbox1x1432:7:415)
+
+x
+Analyzing diagram 702
+  => matched diagram 702 to (pentagonbox1x12x45:7:431)
+     via shift: {k1==k1+p2,k2==-p3+p2+k2+p1}
+     target sector equivalent to (pentagonbox1x132:7:415)
+
+x
+Analyzing diagram 703
+  => matched diagram 703 to (pentagonbox1x12x45:7:415)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x45:7:415)
+
+x
+Analyzing diagram 704
+  => matched diagram 704 to (pentagonbox1x12x45:7:415)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x45:7:415)
+
+x
+Analyzing diagram 705
+  => matched diagram 705 to (pentagonbox1x12x45:7:415)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x45:7:415)
+
+x
+Analyzing diagram 706
+  => matched diagram 706 to (pentagonbox1x12x45:7:415)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x45:7:415)
+
+x
+Analyzing diagram 707
+  => matched diagram 707 to (pentagonbox1x12x345:7:1423)
+     via shift: {k1==k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x45:7:415)
+
+x
+Analyzing diagram 708
+  => matched diagram 708 to (pentagonbox1x12x345:7:1423)
+     via shift: {k1==k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x45:7:415)
+
+x
+Analyzing diagram 709
+  => matched diagram 709 to (pentagonbox1x12x345:7:1423)
+     via shift: {k1==k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x45:7:415)
+
+x
+Analyzing diagram 710
+  => matched diagram 710 to (pentagonbox1x12x345:7:1423)
+     via shift: {k1==k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x45:7:415)
+
+x
+Analyzing diagram 711
+  => matched diagram 711 to (pentagonbox1x12x345:7:415)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x345:7:415)
+
+x
+Analyzing diagram 712
+  => matched diagram 712 to (pentagonbox1x12x345:7:415)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x345:7:415)
+
+x
+Analyzing diagram 713
+  => matched diagram 713 to (pentagonbox1x12x345:7:415)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x345:7:415)
+
+x
+Analyzing diagram 714
+  => matched diagram 714 to (pentagonbox1x12x345:7:415)
+     via shift: {k1==-k1-p2-p1,k2==-k2}
+     target sector equivalent to (pentagonbox1x12x345:7:415)
+
+x
+Analyzing diagram 715
+  => matched diagram 715 to (pentagonbox1x12x45:7:1423)
+     via shift: {k1==k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x345:7:415)
+
+x
+Analyzing diagram 716
+  => matched diagram 716 to (pentagonbox1x12x45:7:1423)
+     via shift: {k1==k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x345:7:415)
+
+x
+Analyzing diagram 717
+  => matched diagram 717 to (pentagonbox1x12x45:7:1423)
+     via shift: {k1==k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x345:7:415)
+
+x
+Analyzing diagram 718
+  => matched diagram 718 to (pentagonbox1x12x45:7:1423)
+     via shift: {k1==k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x345:7:415)
+
+x
+Analyzing diagram 719
+  => matched diagram 719 to (pentagonbox1x12x45:7:911)
+     via shift: {k1==p3-k1-p2-p1,k2==-k1+k2}
+     target sector equivalent to (pentagonbox1x12435:7:415)
+
+x
+Analyzing diagram 720
+  => matched diagram 720 to (pentagonbox1x12x345:7:911)
+     via shift: {k1==p3+k1,k2==k1-k2}
+     target sector equivalent to (pentagonbox1x1235:7:415)
+
+x
+
+Writing new diagram file: myresults/qqtthtwoloop.match.yaml
+
+Matched diagrams: 720
+
+Unmatched diagrams: 0
+
+Sectors: 252
+family pentagonbox1:
+t = 3: 148 
+t = 4: 53 
+family pentagonbox1x12x34:
+t = 4: 53 
+family pentagonbox1:
+t = 4: 57 
+family pentagonbox1x12x34:
+t = 4: 57 
+family pentagonbox1:
+t = 4: 149 153 
+family pentagonbox1x12x34:
+t = 4: 153 
+family pentagonbox1:
+t = 4: 1045 
+t = 5: 55 
+family pentagonbox1x12x34:
+t = 5: 55 
+family pentagonbox1:
+t = 5: 61 
+family pentagonbox1x12x34:
+t = 5: 61 
+family pentagonbox1:
+t = 5: 117 
+family pentagonbox1x12x34:
+t = 5: 117 
+family pentagonbox1:
+t = 5: 121 
+family pentagonbox1x12x34:
+t = 5: 121 
+family pentagonbox1:
+t = 5: 151 157 
+family pentagonbox1x12x34:
+t = 5: 157 
+family pentagonbox1:
+t = 5: 173 
+family pentagonbox1x12x34:
+t = 5: 173 
+family pentagonbox1:
+t = 5: 185 
+family pentagonbox1x12x34:
+t = 5: 185 
+family pentagonbox1:
+t = 5: 188 
+family pentagonbox1x12x34:
+t = 5: 188 
+family pentagonbox1:
+t = 5: 241 
+family pentagonbox1x12x34:
+t = 5: 241 
+family pentagonbox1:
+t = 5: 248 
+family pentagonbox1x12x34:
+t = 5: 248 
+family pentagonbox1:
+t = 5: 405 453 457 
+family pentagonbox1x12x34:
+t = 5: 457 
+family pentagonbox1:
+t = 5: 465 647 662 1047 1053 
+family pentagonbox1x12x34:
+t = 5: 1053 
+family pentagonbox1:
+t = 5: 1109 1159 1165 
+family pentagonbox1x12x34:
+t = 5: 1165 
+family pentagonbox1:
+t = 5: 1173 1236 1349 
+t = 6: 63 
+family pentagonbox1x12:
+t = 6: 63 
+family pentagonbox1x12x34:
+t = 6: 63 
+family pentagonbox1:
+t = 6: 119 
+family pentagonbox1x12x34:
+t = 6: 119 
+family pentagonbox1:
+t = 6: 125 
+family pentagonbox1x12x34:
+t = 6: 125 
+family pentagonbox1:
+t = 6: 159 
+family pentagonbox1x12:
+t = 6: 159 
+family pentagonbox1x12x34:
+t = 6: 159 
+family pentagonbox1:
+t = 6: 175 
+family pentagonbox1x12:
+t = 6: 175 
+family pentagonbox1x12x34:
+t = 6: 175 
+family pentagonbox1:
+t = 6: 189 
+family pentagonbox1x12x34:
+t = 6: 189 
+family pentagonbox1:
+t = 6: 249 
+family pentagonbox1x12x34:
+t = 6: 249 
+family pentagonbox1x12x345:
+t = 6: 252 
+family pentagonbox1x12x354:
+t = 6: 407 
+family pentagonbox1:
+t = 6: 413 
+family pentagonbox1x12x34:
+t = 6: 413 
+family pentagonbox1x12x345:
+t = 6: 413 
+family pentagonbox1:
+t = 6: 429 
+family pentagonbox1x12x34:
+t = 6: 429 
+family pentagonbox1x12x345:
+t = 6: 429 
+family pentagonbox1x12x354:
+t = 6: 455 
+family pentagonbox1:
+t = 6: 461 
+family pentagonbox1x12x34:
+t = 6: 461 
+family pentagonbox1x12x345:
+t = 6: 461 
+family pentagonbox1:
+t = 6: 467 
+family pentagonbox1x12:
+t = 6: 467 
+family pentagonbox1:
+t = 6: 469 473 
+family pentagonbox1x12x34:
+t = 6: 473 
+family pentagonbox1x12x345:
+t = 6: 476 
+family pentagonbox1:
+t = 6: 489 
+family pentagonbox1x12x34:
+t = 6: 489 
+family pentagonbox1:
+t = 6: 655 
+family pentagonbox1x12:
+t = 6: 655 
+family pentagonbox1x12x34:
+t = 6: 655 
+family pentagonbox1:
+t = 6: 663 
+family pentagonbox1x12x354:
+t = 6: 903 
+family pentagonbox1:
+t = 6: 1079 
+family pentagonbox1x12x34:
+t = 6: 1079 
+family pentagonbox1:
+t = 6: 1111 1141 
+family pentagonbox1x12x34:
+t = 6: 1141 
+family pentagonbox1x12x345:
+t = 6: 1141 
+family pentagonbox1:
+t = 6: 1167 
+family pentagonbox1x12:
+t = 6: 1167 
+family pentagonbox1x12x34:
+t = 6: 1167 
+family pentagonbox1:
+t = 6: 1175 1181 
+family pentagonbox1x12x34:
+t = 6: 1181 
+family pentagonbox1:
+t = 6: 1197 
+family pentagonbox1x12x34:
+t = 6: 1197 
+family pentagonbox1:
+t = 6: 1237 1268 
+family pentagonbox1x12x34:
+t = 6: 1268 
+family pentagonbox1x12x345:
+t = 6: 1268 
+family pentagonbox1x12x354:
+t = 6: 1351 
+family pentagonbox1:
+t = 6: 1372 
+family pentagonbox1x12x354:
+t = 6: 1415 
+family pentagonbox1:
+t = 6: 1477 1671 
+t = 7: 127 
+family pentagonbox1x12:
+t = 7: 127 
+family pentagonbox1x12x34:
+t = 7: 127 
+family pentagonbox1:
+t = 7: 191 
+family pentagonbox1x12:
+t = 7: 191 
+family pentagonbox1x12x34:
+t = 7: 191 
+family pentagonbox1:
+t = 7: 253 
+family pentagonbox1x12x34:
+t = 7: 253 
+family pentagonbox1x12x345:
+t = 7: 253 415 
+family pentagonbox1x12x45:
+t = 7: 415 
+family pentagonbox1x12x345:
+t = 7: 431 
+family pentagonbox1x12x45:
+t = 7: 431 
+family pentagonbox1x12x345:
+t = 7: 463 
+family pentagonbox1x12x45:
+t = 7: 463 
+family pentagonbox1:
+t = 7: 471 
+family pentagonbox1x12:
+t = 7: 471 
+family pentagonbox1x12x354:
+t = 7: 471 
+family pentagonbox1x1234:
+t = 7: 475 
+family pentagonbox1:
+t = 7: 477 
+family pentagonbox1x12x34:
+t = 7: 477 
+family pentagonbox1x12x345:
+t = 7: 477 
+family pentagonbox1:
+t = 7: 493 
+family pentagonbox1x12x34:
+t = 7: 493 
+family pentagonbox1x12x345:
+t = 7: 493 
+family pentagonbox1:
+t = 7: 671 
+family pentagonbox1x12:
+t = 7: 671 
+family pentagonbox1x12x34:
+t = 7: 671 
+family pentagonbox1:
+t = 7: 702 
+family pentagonbox1x12:
+t = 7: 702 
+family pentagonbox1x12x34:
+t = 7: 702 
+family pentagonbox1x12x345:
+t = 7: 911 
+family pentagonbox1x12x45:
+t = 7: 911 
+family pentagonbox1x12x354:
+t = 7: 919 982 
+family pentagonbox1:
+t = 7: 1143 
+family pentagonbox1x12x34:
+t = 7: 1143 
+family pentagonbox1x12x345:
+t = 7: 1143 
+family pentagonbox1:
+t = 7: 1199 
+family pentagonbox1x12:
+t = 7: 1199 
+family pentagonbox1x12x34:
+t = 7: 1199 
+family pentagonbox1:
+t = 7: 1207 
+family pentagonbox1x12:
+t = 7: 1207 
+family pentagonbox1x12x34:
+t = 7: 1207 
+family pentagonbox1:
+t = 7: 1239 
+family pentagonbox1x12:
+t = 7: 1239 
+family pentagonbox1x12x354:
+t = 7: 1239 
+family pentagonbox1:
+t = 7: 1269 
+family pentagonbox1x12x34:
+t = 7: 1269 
+family pentagonbox1x12x345:
+t = 7: 1269 
+family pentagonbox1:
+t = 7: 1276 
+family pentagonbox1x12x34:
+t = 7: 1276 
+family pentagonbox1x12x345:
+t = 7: 1276 
+family pentagonbox1x12x354:
+t = 7: 1383 
+family pentagonbox1x12x345:
+t = 7: 1423 
+family pentagonbox1x12x45:
+t = 7: 1423 
+family pentagonbox1x12x354:
+t = 7: 1479 
+family pentagonbox1:
+t = 7: 1500 
+family pentagonbox1x12x34:
+t = 7: 1500 
+family pentagonbox1x12x345:
+t = 7: 1500 
+family pentagonbox1:
+t = 7: 1679 
+family pentagonbox1x12:
+t = 7: 1679 
+family pentagonbox1x12x34:
+t = 7: 1679 
+family pentagonbox1x12x354:
+t = 7: 1750 
+family pentagonbox1:
+t = 8: 255 
+family pentagonbox1x12:
+t = 8: 255 
+family pentagonbox1x12x34:
+t = 8: 255 
+family pentagonbox1x12x345:
+t = 8: 255 
+family pentagonbox1x12x45:
+t = 8: 255 
+family pentagonbox1:
+t = 8: 479 
+family pentagonbox1x12:
+t = 8: 479 
+family pentagonbox1x12x34:
+t = 8: 479 
+family pentagonbox1x12x345:
+t = 8: 479 
+family pentagonbox1x12x45:
+t = 8: 479 
+family pentagonbox1x12x345:
+t = 8: 495 
+family pentagonbox1x12x45:
+t = 8: 495 
+family pentagonbox1x12x345:
+t = 8: 766 
+family pentagonbox1x12x45:
+t = 8: 766 
+family pentagonbox1x12x345:
+t = 8: 927 
+family pentagonbox1x12x45:
+t = 8: 927 
+family pentagonbox1x12x345:
+t = 8: 990 
+family pentagonbox1x12x45:
+t = 8: 990 
+family pentagonbox1:
+t = 8: 1271 
+family pentagonbox1x12:
+t = 8: 1271 
+family pentagonbox1x12x34:
+t = 8: 1271 
+family pentagonbox1x12x345:
+t = 8: 1271 
+family pentagonbox1x12x354:
+t = 8: 1271 
+family pentagonbox1x12x45:
+t = 8: 1271 
+family pentagonbox1x12x345:
+t = 8: 1455 
+family pentagonbox1x12x354:
+t = 8: 1455 
+family pentagonbox1x12x45:
+t = 8: 1455 
+family pentagonbox1x12x345:
+t = 8: 1511 
+family pentagonbox1x12x354:
+t = 8: 1511 
+family pentagonbox1x12x45:
+t = 8: 1511 
+family pentagonbox1x12x345:
+t = 8: 1782 
+family pentagonbox1x12x45:
+t = 8: 1782 
+family hexagonbox1:
+t = 6: 249 
+family hexagonbox1x12x34:
+t = 6: 249 
+family hexagonbox1x12345:
+t = 6: 490 
+family hexagonbox1x1235:
+t = 6: 490 
+family hexagonbox1x12435:
+t = 6: 490 
+family hexagonbox1x13x24:
+t = 6: 748 
+family hexagonbox1x1235:
+t = 7: 251 
+family hexagonbox1x124x35:
+t = 7: 251 
+family hexagonbox1x134x25:
+t = 7: 251 
+family hexagonbox1:
+t = 7: 253 
+family hexagonbox1x12x34:
+t = 7: 253 
+family hexagonbox1x13x25:
+t = 7: 253 
+family hexagonbox1x12345:
+t = 7: 494 
+family hexagonbox1x1235:
+t = 7: 494 
+family hexagonbox1x12435:
+t = 7: 494 
+family hexagonbox1x13x24:
+t = 7: 494 
+family hexagonbox1x12345:
+t = 7: 506 
+family hexagonbox1x1235:
+t = 7: 506 
+family hexagonbox1x12354:
+t = 7: 506 
+family hexagonbox1x124x35:
+t = 7: 506 
+family hexagonbox1x12435:
+t = 7: 506 
+family hexagonbox1x13425:
+t = 7: 506 
+family hexagonbox1:
+t = 7: 764 
+family hexagonbox1x13x24:
+t = 7: 1004 
+family hexagonbox1x142:
+t = 7: 1004 
+family hexagonbox1:
+t = 8: 255 
+family hexagonbox1x12:
+t = 8: 255 
+family hexagonbox1x12x34:
+t = 8: 255 
+family hexagonbox1x1235:
+t = 8: 255 
+family hexagonbox1x124x35:
+t = 8: 255 
+family hexagonbox1x134x25:
+t = 8: 255 
+family hexagonbox1x12345:
+t = 8: 510 
+family hexagonbox1x1235:
+t = 8: 510 
+family hexagonbox1x12354:
+t = 8: 510 
+family hexagonbox1x124x35:
+t = 8: 510 
+family hexagonbox1x12435:
+t = 8: 510 
+family hexagonbox1x1245:
+t = 8: 510 
+family hexagonbox1x125:
+t = 8: 510 
+family hexagonbox1x125x34:
+t = 8: 510 
+family hexagonbox1x1342:
+t = 8: 510 
+family hexagonbox1x13425:
+t = 8: 510 
+family hexagonbox1x12x354:
+t = 8: 1020 
+family hexagonbox1x132:
+t = 8: 1020 
+family hexagonbox1x142:
+t = 8: 1020 
+
+This selection of sectors should be reduced for the matched diagrams:
+sector_selection:
+  select_all: false
+  select:
+    []
+  select_recursively:
+    - [hexagonbox1, 510]
+    - [hexagonbox1, 255]
+    - [pentagonbox1, 479]
+    - [pentagonbox1, 255]
+  deselect:
+    []
+  deselect_recursively:
+    []
+  deselect_independents:
+    []
+  deselect_graphless: false
+  deselect_graphs: false
+  t_restriction: [-1, -1]
+
+Job done (total time: 548 s)
