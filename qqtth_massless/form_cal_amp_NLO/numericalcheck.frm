@@ -31,11 +31,14 @@ Global matsum=
 #enddo
 ;
 
-.store
+.sort
 Format mathematica;
 
 #write <../../../data_save/qqtth_massless/NLO/matsum.m> "(%E)",matsum
-Save ../../../data_save/qqtth_massless/NLO/matsum.sav
 
 Print matsum;
+
+.store
+Save ../../../data_save/qqtth_massless/NLO/matsum.sav
+
 .end

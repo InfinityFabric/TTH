@@ -15,7 +15,7 @@ Autodeclare Symbol a,[];
 CFunction DiLog,Log;
 Symbol Mu2,Eps;
 
-Load ../../../data_save/qqtth_massless/NLO/matsum.sav
+Load ../../../data_save/qqtth_massless/NLO/matsum.sav;
 
 Local amp=matsum;
 
