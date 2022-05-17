@@ -13,7 +13,7 @@ Symbol cross1x12,cross1x12x34,cross1x12x345,cross1x12x354,cross1x12x45;
 Autodeclare Symbol a,[];
 
 CFunction DiLog,Log;
-Symbol Mu2,Eps;
+Symbol Mu,Mu2,Eps,Pi;
 
 Load ../../../data_save/qqtth_massless/NLO/matsum.sav;
 
@@ -25,16 +25,16 @@ if (match(cross1x12));
    Multiply replace_(s12,s12,s23,-s12-s23+s45,s34,s34,s45,s45,s51,-s12+s34-s51);
 elseif (match(cross1x12x34));
    Multiply replace_(s12,s12,s23,s23-s45-s51,s34,s34,s45,s12-s34-s45,s51,-s12+s34-s51);
-elseif (match(crossx1x12x345));
+elseif (match(cross1x12x345));
    Multiply replace_(s12,s12,s23,s51,s34,s12-s34-s45,s45,s34,s51,-s23-s34+s51);
-elseif (match(crossx1x12x354));
+elseif (match(cross1x12x354));
    Multiply replace_(s12,s12,s23,s23-s45-s51,s34,s45,s45,s12-s34-s45,s51,s23);
-elseif (match(crossx1x12x45));
+elseif (match(cross1x12x45));
    Multiply replace_(s12,s12,s23,-s12-s23+s45,s34,s12-s34-s45,s45,s45,s51,-s23-s34+s51);
 endif;
 
 id D=4-2*Eps;
-
+id Mu^2=Mu2;
 Format mathematica;
 #write <../../../data_save/qqtth_massless/NLO/amp.m> "(%E)",amp
 
