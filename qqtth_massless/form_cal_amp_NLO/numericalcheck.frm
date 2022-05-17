@@ -22,7 +22,8 @@ Load ../../../data_save/qqtth_massless/NLO/amp_master.sav;
 #enddo
 .sort
 
-Local matsum=
+Delete storage;
+Global matsum=
 #do i=1,31
     #do j=1,2
         +bmp10o`i'o`j'
@@ -30,10 +31,11 @@ Local matsum=
 #enddo
 ;
 
-.sort
+.store
 Format mathematica;
 
 #write <../../../data_save/qqtth_massless/NLO/matsum.m> "(%E)",matsum
+Save ../../../data_save/qqtth_massless/NLO/matsum.sav
 
 Print matsum;
 .end
