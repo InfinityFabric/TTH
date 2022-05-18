@@ -7,7 +7,7 @@
 qgraf_globals:
   - "qgraf_version = qgraf-3.5.0"
   - " style= 'reduze.sty' ;"
-  - " output= '../reduze/diagram/qqtthtree.yaml';"
+  - " output= '../reduze_NLO/diagram/qqtthtree.yaml';"
   - " model= 'qqtth';"
   - " in= quark1[p1],qbar1[p2];"
   - " out= quark2[p3],qbar2[p4],higgs[q];"

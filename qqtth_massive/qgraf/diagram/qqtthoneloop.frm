@@ -7,9 +7,9 @@ Local loop1diagram1=
  +(1)*
  glprop(1,2,-p1-p2,0)*
  glprop(3,4,p3+p4,0)*
- fprop(5,6,-k1,mt)*
- fprop(7,8,-k1-q,mt)*
- fprop(9,10,-k1-p1-p2,mt)*
+ fpropt(5,6,-k1,mt)*
+ fpropt(7,8,-k1-q,mt)*
+ fpropt(9,10,-k1-p1-p2,mt)*
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
  vrtx(Ttg,-4,-p4,-2,-p3,3,p3+p4)*
  vrtx(Tth,5,-k1,8,k1+q,-6,-q)*
@@ -21,9 +21,9 @@ Local loop1diagram2=
  +(1)*
  glprop(1,2,-p1-p2,0)*
  glprop(3,4,p3+p4,0)*
- fprop(5,6,k1,mt)*
- fprop(7,8,k1+q,mt)*
- fprop(9,10,k1+p1+p2,mt)*
+ fpropt(5,6,k1,mt)*
+ fpropt(7,8,k1+q,mt)*
+ fpropt(9,10,k1+p1+p2,mt)*
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
  vrtx(Ttg,-4,-p4,-2,-p3,3,p3+p4)*
  vrtx(Tth,7,k1+q,6,-k1,-6,-q)*
@@ -34,10 +34,10 @@ Local loop1diagram3=
 
  -(1)*
  glprop(1,2,-p1-p2,0)*
- fprop(3,4,p3+q,mt)*
- fprop(5,6,k1,mt)*
+ fpropt(3,4,p3+q,mt)*
+ fpropt(5,6,k1,mt)*
  glprop(7,8,k1+p4,0)*
- fprop(9,10,k1+p1+p2,mt)*
+ fpropt(9,10,k1+p1+p2,mt)*
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
  vrtx(Tth,3,p3+q,-2,-p3,-6,-q)*
  vrtx(Ttg,-4,-p4,6,-k1,7,k1+p4)*
@@ -48,9 +48,9 @@ Local loop1diagram4=
 
  +(1)*
  glprop(1,2,-p1-p2,0)*
- fprop(3,4,p3+q,mt)*
+ fpropt(3,4,p3+q,mt)*
  glprop(5,6,-k1,0)*
- fprop(7,8,-k1-p4,mt)*
+ fpropt(7,8,-k1-p4,mt)*
  glprop(9,10,-k1-p1-p2,0)*
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
  vrtx(Tth,3,p3+q,-2,-p3,-6,-q)*
@@ -62,10 +62,10 @@ Local loop1diagram5=
 
  -(1)*
  glprop(1,2,-p1-p2,0)*
- fprop(3,4,-p4-q,mt)*
- fprop(5,6,-k1,mt)*
+ fpropt(3,4,-p4-q,mt)*
+ fpropt(5,6,-k1,mt)*
  glprop(7,8,k1+p3,0)*
- fprop(9,10,-k1-p1-p2,mt)*
+ fpropt(9,10,-k1-p1-p2,mt)*
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
  vrtx(Tth,-4,-p4,4,p4+q,-6,-q)*
  vrtx(Ttg,5,-k1,-2,-p3,7,k1+p3)*
@@ -76,9 +76,9 @@ Local loop1diagram6=
 
  +(1)*
  glprop(1,2,-p1-p2,0)*
- fprop(3,4,-p4-q,mt)*
+ fpropt(3,4,-p4-q,mt)*
  glprop(5,6,-k1,0)*
- fprop(7,8,k1+p3,mt)*
+ fpropt(7,8,k1+p3,mt)*
  glprop(9,10,-k1-p1-p2,0)*
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
  vrtx(Tth,-4,-p4,4,p4+q,-6,-q)*
@@ -90,9 +90,9 @@ Local loop1diagram7=
 
  -(1)*
  glprop(1,2,-p1-p2,0)*
- fprop(3,4,p3+q,mt)*
- fprop(5,6,p3+q,mt)*
- fprop(7,8,k1+p3+q,mt)*
+ fpropt(3,4,p3+q,mt)*
+ fpropt(5,6,p3+q,mt)*
+ fpropt(7,8,k1+p3+q,mt)*
  glprop(9,10,-k1,0)*
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
  vrtx(Tth,3,p3+q,-2,-p3,-6,-q)*
@@ -104,9 +104,9 @@ Local loop1diagram8=
 
  -(1)*
  glprop(1,2,-p1-p2,0)*
- fprop(3,4,-p4-q,mt)*
- fprop(5,6,-p4-q,mt)*
- fprop(7,8,-k1-p4-q,mt)*
+ fpropt(3,4,-p4-q,mt)*
+ fpropt(5,6,-p4-q,mt)*
+ fpropt(7,8,-k1-p4-q,mt)*
  glprop(9,10,-k1,0)*
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
  vrtx(Tth,-4,-p4,4,p4+q,-6,-q)*
@@ -117,11 +117,11 @@ Local loop1diagram8=
 Local loop1diagram9=
 
  +(1)*
- fprop(1,2,p3+q,mt)*
+ fpropt(1,2,p3+q,mt)*
  glprop(3,4,-p1-p2,0)*
  glprop(5,6,p1+p2,0)*
- fprop(7,8,k1-p1-p2,0)*
- fprop(9,10,k1,0)*
+ fpropu(7,8,k1-p1-p2,0)*
+ fpropu(9,10,k1,0)*
  vrtx(Tth,1,p3+q,-2,-p3,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,2,-p3-q,5,p1+p2)*
@@ -131,11 +131,11 @@ Local loop1diagram9=
 Local loop1diagram10=
 
  +(1)*
- fprop(1,2,p3+q,mt)*
+ fpropt(1,2,p3+q,mt)*
  glprop(3,4,-p1-p2,0)*
  glprop(5,6,p1+p2,0)*
- fprop(7,8,k1-p1-p2,mt)*
- fprop(9,10,k1,mt)*
+ fpropt(7,8,k1-p1-p2,mt)*
+ fpropt(9,10,k1,mt)*
  vrtx(Tth,1,p3+q,-2,-p3,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,-4,-p4,2,-p3-q,5,p1+p2)*
@@ -145,7 +145,7 @@ Local loop1diagram10=
 Local loop1diagram11=
 
  -(1/2)*
- fprop(1,2,p3+q,mt)*
+ fpropt(1,2,p3+q,mt)*
  glprop(3,4,-p1-p2,0)*
  glprop(5,6,p1+p2,0)*
  glprop(7,8,k1-p1-p2,0)*
@@ -159,7 +159,7 @@ Local loop1diagram11=
 Local loop1diagram12=
 
  +(1)*
- fprop(1,2,p3+q,mt)*
+ fpropt(1,2,p3+q,mt)*
  glprop(3,4,-p1-p2,0)*
  glprop(5,6,p1+p2,0)*
  ghprop(7,8,k1-p1-p2,0)*
@@ -173,11 +173,11 @@ Local loop1diagram12=
 Local loop1diagram13=
 
  +(1)*
- fprop(1,2,-p4-q,mt)*
+ fpropt(1,2,-p4-q,mt)*
  glprop(3,4,-p1-p2,0)*
  glprop(5,6,p1+p2,0)*
- fprop(7,8,k1-p1-p2,0)*
- fprop(9,10,k1,0)*
+ fpropu(7,8,k1-p1-p2,0)*
+ fpropu(9,10,k1,0)*
  vrtx(Tth,-4,-p4,2,p4+q,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,1,-p4-q,-2,-p3,5,p1+p2)*
@@ -187,11 +187,11 @@ Local loop1diagram13=
 Local loop1diagram14=
 
  +(1)*
- fprop(1,2,-p4-q,mt)*
+ fpropt(1,2,-p4-q,mt)*
  glprop(3,4,-p1-p2,0)*
  glprop(5,6,p1+p2,0)*
- fprop(7,8,k1-p1-p2,mt)*
- fprop(9,10,k1,mt)*
+ fpropt(7,8,k1-p1-p2,mt)*
+ fpropt(9,10,k1,mt)*
  vrtx(Tth,-4,-p4,2,p4+q,-6,-q)*
  vrtx(Uug,-1,p1,-3,p2,3,-p1-p2)*
  vrtx(Ttg,1,-p4-q,-2,-p3,5,p1+p2)*
@@ -201,7 +201,7 @@ Local loop1diagram14=
 Local loop1diagram15=
 
  -(1/2)*
- fprop(1,2,-p4-q,mt)*
+ fpropt(1,2,-p4-q,mt)*
  glprop(3,4,-p1-p2,0)*
  glprop(5,6,p1+p2,0)*
  glprop(7,8,k1-p1-p2,0)*
@@ -215,7 +215,7 @@ Local loop1diagram15=
 Local loop1diagram16=
 
  +(1)*
- fprop(1,2,-p4-q,mt)*
+ fpropt(1,2,-p4-q,mt)*
  glprop(3,4,-p1-p2,0)*
  glprop(5,6,p1+p2,0)*
  ghprop(7,8,k1-p1-p2,0)*
@@ -231,9 +231,9 @@ Local loop1diagram17=
  -(1)*
  glprop(1,2,-p1-p2,0)*
  glprop(3,4,-k1,0)*
- fprop(5,6,k1+p3,mt)*
- fprop(7,8,k1-p4,mt)*
- fprop(9,10,k1+p3+q,mt)*
+ fpropt(5,6,k1+p3,mt)*
+ fpropt(7,8,k1-p4,mt)*
+ fpropt(9,10,k1+p3+q,mt)*
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
  vrtx(Ttg,5,k1+p3,-2,-p3,3,-k1)*
  vrtx(Ttg,-4,-p4,8,-k1+p4,4,k1)*
@@ -245,9 +245,9 @@ Local loop1diagram18=
  -(1)*
  glprop(1,2,-p1-p2,0)*
  glprop(3,4,-k1,0)*
- fprop(5,6,-k1-p4,mt)*
- fprop(7,8,-k1+p3,mt)*
- fprop(9,10,-k1-p4-q,mt)*
+ fpropt(5,6,-k1-p4,mt)*
+ fpropt(7,8,-k1+p3,mt)*
+ fpropt(9,10,-k1-p4-q,mt)*
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
  vrtx(Ttg,-4,-p4,6,k1+p4,3,-k1)*
  vrtx(Ttg,7,-k1+p3,-2,-p3,4,k1)*
@@ -258,8 +258,8 @@ Local loop1diagram19=
 
  +(1)*
  glprop(1,2,-p1-p2,0)*
- fprop(3,4,k1,mt)*
- fprop(5,6,k1+q,mt)*
+ fpropt(3,4,k1,mt)*
+ fpropt(5,6,k1+q,mt)*
  glprop(7,8,-k1+p3,0)*
  glprop(9,10,k1+p4+q,0)*
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
@@ -271,11 +271,11 @@ Local loop1diagram19=
 Local loop1diagram20=
 
  -(1)*
- fprop(1,2,p3+q,mt)*
- fprop(3,4,k1,0)*
+ fpropt(1,2,p3+q,mt)*
+ fpropu(3,4,k1,0)*
  glprop(5,6,k1-p1,0)*
  glprop(7,8,-k1-p2,0)*
- fprop(9,10,-k1+p1-p4,mt)*
+ fpropt(9,10,-k1+p1-p4,mt)*
  vrtx(Tth,1,p3+q,-2,-p3,-6,-q)*
  vrtx(Uug,-1,p1,4,-k1,5,k1-p1)*
  vrtx(Uug,3,k1,-3,p2,7,-k1-p2)*
@@ -285,11 +285,11 @@ Local loop1diagram20=
 Local loop1diagram21=
 
  -(1)*
- fprop(1,2,p3+q,mt)*
- fprop(3,4,-k1,0)*
+ fpropt(1,2,p3+q,mt)*
+ fpropu(3,4,-k1,0)*
  glprop(5,6,k1-p2,0)*
  glprop(7,8,-k1-p1,0)*
- fprop(9,10,-k1+p2-p4,mt)*
+ fpropt(9,10,-k1+p2-p4,mt)*
  vrtx(Tth,1,p3+q,-2,-p3,-6,-q)*
  vrtx(Uug,3,-k1,-3,p2,5,k1-p2)*
  vrtx(Uug,-1,p1,4,k1,7,-k1-p1)*
@@ -299,11 +299,11 @@ Local loop1diagram21=
 Local loop1diagram22=
 
  -(1)*
- fprop(1,2,-p4-q,mt)*
- fprop(3,4,k1,0)*
+ fpropt(1,2,-p4-q,mt)*
+ fpropu(3,4,k1,0)*
  glprop(5,6,k1-p1,0)*
  glprop(7,8,-k1-p2,0)*
- fprop(9,10,k1-p1+p3,mt)*
+ fpropt(9,10,k1-p1+p3,mt)*
  vrtx(Tth,-4,-p4,2,p4+q,-6,-q)*
  vrtx(Uug,-1,p1,4,-k1,5,k1-p1)*
  vrtx(Uug,3,k1,-3,p2,7,-k1-p2)*
@@ -313,11 +313,11 @@ Local loop1diagram22=
 Local loop1diagram23=
 
  -(1)*
- fprop(1,2,-p4-q,mt)*
- fprop(3,4,-k1,0)*
+ fpropt(1,2,-p4-q,mt)*
+ fpropu(3,4,-k1,0)*
  glprop(5,6,k1-p2,0)*
  glprop(7,8,-k1-p1,0)*
- fprop(9,10,k1-p2+p3,mt)*
+ fpropt(9,10,k1-p2+p3,mt)*
  vrtx(Tth,-4,-p4,2,p4+q,-6,-q)*
  vrtx(Uug,3,-k1,-3,p2,5,k1-p2)*
  vrtx(Uug,-1,p1,4,k1,7,-k1-p1)*
@@ -328,10 +328,10 @@ Local loop1diagram24=
 
  -(1)*
  glprop(1,2,-p1-p2,0)*
- fprop(3,4,-p4-q,mt)*
- fprop(5,6,k1,mt)*
+ fpropt(3,4,-p4-q,mt)*
+ fpropt(5,6,k1,mt)*
  glprop(7,8,k1+p4,0)*
- fprop(9,10,k1-q,mt)*
+ fpropt(9,10,k1-q,mt)*
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
  vrtx(Ttg,3,-p4-q,-2,-p3,2,p1+p2)*
  vrtx(Ttg,-4,-p4,6,-k1,7,k1+p4)*
@@ -342,10 +342,10 @@ Local loop1diagram25=
 
  -(1)*
  glprop(1,2,-p1-p2,0)*
- fprop(3,4,p3+q,mt)*
- fprop(5,6,-k1,mt)*
+ fpropt(3,4,p3+q,mt)*
+ fpropt(5,6,-k1,mt)*
  glprop(7,8,k1+p3,0)*
- fprop(9,10,-k1+q,mt)*
+ fpropt(9,10,-k1+q,mt)*
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
  vrtx(Ttg,-4,-p4,4,-p3-q,2,p1+p2)*
  vrtx(Ttg,5,-k1,-2,-p3,7,k1+p3)*
@@ -355,9 +355,9 @@ Local loop1diagram25=
 Local loop1diagram26=
 
  +(1)*
- fprop(1,2,p3+q,mt)*
+ fpropt(1,2,p3+q,mt)*
  glprop(3,4,p1+p2,0)*
- fprop(5,6,k1,0)*
+ fpropu(5,6,k1,0)*
  glprop(7,8,k1-p1,0)*
  glprop(9,10,-k1-p2,0)*
  vrtx(Tth,1,p3+q,-2,-p3,-6,-q)*
@@ -369,11 +369,11 @@ Local loop1diagram26=
 Local loop1diagram27=
 
  -(1)*
- fprop(1,2,p3+q,mt)*
+ fpropt(1,2,p3+q,mt)*
  glprop(3,4,p1+p2,0)*
  glprop(5,6,-k1,0)*
- fprop(7,8,-k1+p1,0)*
- fprop(9,10,-k1-p2,0)*
+ fpropu(7,8,-k1+p1,0)*
+ fpropu(9,10,-k1-p2,0)*
  vrtx(Tth,1,p3+q,-2,-p3,-6,-q)*
  vrtx(Ttg,-4,-p4,2,-p3-q,3,p1+p2)*
  vrtx(Uug,-1,p1,8,k1-p1,5,-k1)*
@@ -383,9 +383,9 @@ Local loop1diagram27=
 Local loop1diagram28=
 
  +(1)*
- fprop(1,2,-p4-q,mt)*
+ fpropt(1,2,-p4-q,mt)*
  glprop(3,4,p1+p2,0)*
- fprop(5,6,k1,0)*
+ fpropu(5,6,k1,0)*
  glprop(7,8,k1-p1,0)*
  glprop(9,10,-k1-p2,0)*
  vrtx(Tth,-4,-p4,2,p4+q,-6,-q)*
@@ -397,11 +397,11 @@ Local loop1diagram28=
 Local loop1diagram29=
 
  -(1)*
- fprop(1,2,-p4-q,mt)*
+ fpropt(1,2,-p4-q,mt)*
  glprop(3,4,p1+p2,0)*
  glprop(5,6,-k1,0)*
- fprop(7,8,-k1+p1,0)*
- fprop(9,10,-k1-p2,0)*
+ fpropu(7,8,-k1+p1,0)*
+ fpropu(9,10,-k1-p2,0)*
  vrtx(Tth,-4,-p4,2,p4+q,-6,-q)*
  vrtx(Ttg,1,-p4-q,-2,-p3,3,p1+p2)*
  vrtx(Uug,-1,p1,8,k1-p1,5,-k1)*
@@ -411,11 +411,11 @@ Local loop1diagram29=
 Local loop1diagram30=
 
  -(1)*
- fprop(1,2,k1,0)*
+ fpropu(1,2,k1,0)*
  glprop(3,4,k1-p1,0)*
  glprop(5,6,-k1-p2,0)*
- fprop(7,8,k1-p1+p3,mt)*
- fprop(9,10,k1+p2-p4,mt)*
+ fpropt(7,8,k1-p1+p3,mt)*
+ fpropt(9,10,k1+p2-p4,mt)*
  vrtx(Uug,-1,p1,2,-k1,3,k1-p1)*
  vrtx(Uug,1,k1,-3,p2,5,-k1-p2)*
  vrtx(Ttg,7,k1-p1+p3,-2,-p3,4,-k1+p1)*
@@ -425,11 +425,11 @@ Local loop1diagram30=
 Local loop1diagram31=
 
  -(1)*
- fprop(1,2,k1,0)*
+ fpropu(1,2,k1,0)*
  glprop(3,4,k1-p1,0)*
  glprop(5,6,-k1-p2,0)*
- fprop(7,8,-k1+p1-p4,mt)*
- fprop(9,10,-k1-p2+p3,mt)*
+ fpropt(7,8,-k1+p1-p4,mt)*
+ fpropt(9,10,-k1-p2+p3,mt)*
  vrtx(Uug,-1,p1,2,-k1,3,k1-p1)*
  vrtx(Uug,1,k1,-3,p2,5,-k1-p2)*
  vrtx(Ttg,-4,-p4,8,k1-p1+p4,4,-k1+p1)*

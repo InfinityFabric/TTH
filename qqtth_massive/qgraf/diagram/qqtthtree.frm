@@ -6,7 +6,7 @@ Local loop0diagram1=
 
  -(1)*
  glprop(1,2,-p1-p2,0)*
- fprop(3,4,p3+q,mt)*
+ fpropt(3,4,p3+q,mt)*
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
  vrtx(Tth,3,p3+q,-2,-p3,-6,-q)*
  vrtx(Ttg,-4,-p4,4,-p3-q,2,p1+p2)
@@ -15,7 +15,7 @@ Local loop0diagram2=
 
  -(1)*
  glprop(1,2,-p1-p2,0)*
- fprop(3,4,-p4-q,mt)*
+ fpropt(3,4,-p4-q,mt)*
  vrtx(Uug,-1,p1,-3,p2,1,-p1-p2)*
  vrtx(Tth,-4,-p4,4,p4+q,-6,-q)*
  vrtx(Ttg,3,-p4-q,-2,-p3,2,p1+p2)
