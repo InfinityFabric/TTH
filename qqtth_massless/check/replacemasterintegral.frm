@@ -41,7 +41,7 @@ endargument;
 id cross1x12=1;
 id cross1x12x34=1;
 id cross1x12x345=1;
-id corss1x12x354=1;
+id cross1x12x354=1;
 id cross1x12x45=1;
 
 .sort
