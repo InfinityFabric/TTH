@@ -34,7 +34,17 @@ elseif (match(cross1x12x45));
 endif;
 
 id D=4-2*Eps;
+argument;
 id Mu^2=Mu2;
+endargument;
+
+id cross1x12=1;
+id cross1x12x34=1;
+id cross1x12x345=1;
+id corss1x12x354=1;
+id cross1x12x45=1;
+
+.sort
 Format mathematica;
 #write <../../../data_save/qqtth_massless/NLO/amp.m> "(%E)",amp
 
