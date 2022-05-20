@@ -12,10 +12,10 @@
     .sort
 #enddo
 
-#do i=1,31
+#do i=1,720
     #do j=1,2
         
-        #call squareamplitude(loop0diagram`j',loop1diagram`i',Mat10o`i'o`j')
+        #call squareamplitude(loop0diagram`j',loop2diagram`i',Mat10o`i'o`j')
 	.sort
 
     #enddo

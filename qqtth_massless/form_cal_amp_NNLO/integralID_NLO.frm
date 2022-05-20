@@ -21,7 +21,7 @@ Set scalarset:sc1,sc2,sc3,sc4,sc5;
 
 Off statistics;
 
-Load ../../../data_save/qqtth_massless/NLO/am_after_momentumshift.sav;
+Load ../../../data_save/qqtth_massless/NLO/am_after_momentumshift20.sav;
 
 .sort
 
@@ -35,6 +35,7 @@ Load ../../../data_save/qqtth_massless/NLO/am_after_momentumshift.sav;
     #enddo
 #enddo
 
+Delete storage;
 #call crossing
 #call scalarproduct
 #call integralID
@@ -44,7 +45,7 @@ format mathematica;
 Print;
 .store
 
-save ../../../data_save/qqtth_massless/NLO/amp_ID.sav;
+save ../../../data_save/qqtth_massless/NLO/amp_ID20.sav;
 
 .sort
 .end

@@ -1,0 +1,55 @@
+Kira found this executable to Fermat: 
+/usr/bin/fer64
+
+One variable is set to 1: {}
+The input directory is set to:
+./results
+
+*****Integral ordering*************************************
+Kira will use the integral ordering: 1.
+symbol_to_replace_by_one: x in kinematics.yaml is not set. 
+Mass reconstruction is disabled.
+################################################
+kira2form: Reconstruct results for pentagon1
+################################################
+
+Algebraic reconstruction is switched off.
+This requested integral is a master integral: pentagon1[0,0,1,0,1] # 20
+This requested integral is a master integral: pentagon1[0,1,0,0,1] # 18
+This requested integral is a master integral: pentagon1[0,1,0,1,0] # 10
+This requested integral is a master integral: pentagon1[0,1,1,1,1] # 30
+This requested integral is a master integral: pentagon1[1,0,0,1,0] # 9
+This requested integral is a master integral: pentagon1[1,0,1,0,0] # 5
+This requested integral is a master integral: pentagon1[1,0,1,1,1] # 29
+This requested integral is a master integral: pentagon1[1,1,0,1,1] # 27
+This requested integral is a master integral: pentagon1[1,1,1,0,1] # 23
+This requested integral is a master integral: pentagon1[1,1,1,1,0] # 15
+This requested integral is a master integral: pentagon1[1,1,1,1,1] # 31
+unreduced integrals: 0.
+
+closeCalc: 221928
+The input directory is set to:
+./results
+symbol_to_replace_by_one: x in kinematics.yaml is not set. 
+Mass reconstruction is disabled.
+################################################
+kira2math: Reconstruct results for pentagon1
+################################################
+
+Algebraic reconstruction is switched off.
+This requested integral is a master integral: pentagon1[0,0,1,0,1] # 20
+This requested integral is a master integral: pentagon1[0,1,0,0,1] # 18
+This requested integral is a master integral: pentagon1[0,1,0,1,0] # 10
+This requested integral is a master integral: pentagon1[0,1,1,1,1] # 30
+This requested integral is a master integral: pentagon1[1,0,0,1,0] # 9
+This requested integral is a master integral: pentagon1[1,0,1,0,0] # 5
+This requested integral is a master integral: pentagon1[1,0,1,1,1] # 29
+This requested integral is a master integral: pentagon1[1,1,0,1,1] # 27
+This requested integral is a master integral: pentagon1[1,1,1,0,1] # 23
+This requested integral is a master integral: pentagon1[1,1,1,1,0] # 15
+This requested integral is a master integral: pentagon1[1,1,1,1,1] # 31
+unreduced integrals: 0.
+
+closeCalc: 222226
+Total time:
+( 2.76834 s )

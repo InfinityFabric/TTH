@@ -2,9 +2,7 @@
 
 * integral family 1
 
-if (match(Sector(pentagon1,?a)));
-
-id q=p1+p2-p3-p4;
+if (match(Sector(pentagonbox1,?a)));
 
 id p1.p1=0;
 id p2.p2=0;
@@ -28,7 +26,7 @@ endif;
 
 * integral family 2
 
-if (match(Sector(pentagon2,?a)));
+if (match(Sector(hexagonbox1,?a)));
 
 id q=p1+p2-p3-p4;
 

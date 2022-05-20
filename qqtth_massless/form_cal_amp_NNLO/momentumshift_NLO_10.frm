@@ -1,5 +1,5 @@
 #-
-#include ./procedure/momentumshift/momentumshift_10.h
+#include ./procedure/momentumshift/momentumshift_20.h
 
 Off statistics;
 
@@ -17,16 +17,41 @@ Symbol gs,Y;
 * local declaration
 
 CFunction DiaMatch,Sector,Shift;
-CFunction pentagon1,pentagon1x12x34,pentagon1x12x345,pentagon1x12x354,pentagon1x12,pentagon1x12x45;
+CFunction pentagonbox1,
+pentagonbox1x12,
+pentagonbox1x1234,
+pentagonbox1x12x34,
+pentagonbox1x12x345,
+pentagonbox1x12x354,
+pentagonbox1x12x45;
+CFunction hexagonbox1,
+hexagonbox1x12,
+hexagonbox1x12345,
+hexagonbox1x1235,
+hexagonbox1x12354,
+hexagonbox1x12435,
+hexagonbox1x1245,
+hexagonbox1x124x35,
+hexagonbox1x125,
+hexagonbox1x125x34,
+hexagonbox1x12x34,
+hexagonbox1x12x354,
+hexagonbox1x132,
+hexagonbox1x1342,
+hexagonbox1x13425,
+hexagonbox1x134x25,
+hexagonbox1x13x24,
+hexagonbox1x13x25,
+hexagonbox1x142;
 Symbol [];
 
-Load ../../../data_save/qqtth_massless/NLO/Mat.sav;
+Load ../../../data_save/qqtth_massless/NLO/Mat20.sav;
 
 #call momentumshift
 
 Print;
 .store
 
-save ../../../data_save/qqtth_massless/NLO/am_after_momentumshift.sav;
+save ../../../data_save/qqtth_massless/NLO/am_after_momentumshift20.sav;
 
 .end

@@ -47,7 +47,7 @@ Off statistics;
 
 #include ../qgraf/diagram/qqtthtree.frm
 
-#include ../qgraf/diagram/qqtthoneloop.frm
+#include ../qgraf/diagram/qqtthtwoloop.frm
 
 Multiply left U(-1,p1,0,up)*VB(-3,p2,0,up)*UB(-2,p3,0,top)*V(-4,p4,0,top);
 .sort
@@ -63,9 +63,8 @@ Multiply left U(-1,p1,0,up)*VB(-3,p2,0,up)*UB(-2,p3,0,top)*V(-4,p4,0,top);
 #call calamponebyone
 
 Bracket basis1,basis2,Basis1,Basis2;
-Print +s;
 .store
 
-save ../../../data_save/qqtth_massless/NLO/Mat.sav;
+save ../../../data_save/qqtth_massless/NNLO/Mat20.sav;
 
 .end

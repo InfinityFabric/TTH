@@ -2,7 +2,7 @@
 
 .sort
 
-#do i=1,31
+#do i=1,720
     #do j=1,2
        
         Skip;
@@ -18,9 +18,9 @@
     #enddo
 #enddo
 
-#include ../reduze_NLO/myresults/qqtthoneloop.match.info.inc
+#include ../reduze_NNLO/myresults/qqtthtwoloop.match.info.inc
 
-id Shift(p1?,p2?,[])=replace_(p1,p2);
+id Shift(p1?,p2?,[],p3?,p4?,[])=replace_(p1,p2,p3,p4);
 id prop(?a)=1;
 
 #endprocedure

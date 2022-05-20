@@ -39,6 +39,6 @@ Format mathematica;
 Print matsum;
 
 .store
-Save ../../../data_save/qqtth_massless/NLO/matsum.sav
+Save ../../../data_save/qqtth_massless/NLO/matsum.sav;
 
 .end
