@@ -35,12 +35,13 @@ Load ../../../data_save/qqtth_massless/NLO/am_after_momentumshift.sav;
     #enddo
 #enddo
 
+Delete storage;
 #call crossing
 #call scalarproduct
 #call integralID
 
 Bracket pentagon1,pentagon2;
-format mathematica;
+
 Print;
 .store
 

@@ -1,55 +1,4681 @@
+10 Fermat/Blackbox instances will be run in parallel.
 Kira found this executable to Fermat: 
 /usr/bin/fer64
 
 One variable is set to 1: {}
-The input directory is set to:
+The directories for the temporary files, result files and the sector mapping files are: 
+./tmp
 ./results
+./sectormappings
+Kira prepares topology: hexagonbox1 and top level sector: 
+2047 
+Following reductions will be performed for the topology: hexagonbox1
+Sector: 2047 rmax: 11 smax: 2 
+
+***********************************************************
+Find IBP LI and symmetry relations for the topology: hexagonbox1
+***********************************************************
+
+*****Generate IBP identities*******************************
+There are 12 IBP identities
+( 0.015529 s )
+
+*****Generate LI identities********************************
+There are 6 LI identities
+( 0.068564 s )
+
+*****Search trivial sectors********************************
+non trivial sector 84n trivial sector 84 33
+
+non trivial sector 86 6 4
+
+non trivial sector 85 44
+non trivial sector 88n trivial sector 88 3
+non trivial sector non trivial sector 90 0 4
+
+non trivial sector 91n trivial sector 91 55
+non trivial sector 94 4 5
+
+non trivial sector 98 3
+non trivial sector non trivial sector 89 9 4
+
+non trivial sector 100 00 3
+
+non trivial sector non trivial sector 92 44
+
+non trivial sector non trivial sector 87 55
+
+non trivial sector 105 05 4
+
+non trivial sector 95 6
+
+non trivial sector 99n trivial sector 99  4
+non trivial sector non trivial sector 93 55
+
+non trivial sector non trivial sector 102 4
+
+non trivial sector 107 trivial sector 107 5
+
+non trivial sector 106 trivial sector 106 4
+
+non trivial sector 110 10 5
+
+non trivial sector 101 trivial sector 101  4
+
+non trivial sector 103 trivial sector 103 55
+
+non trivial sector 108 08 4
+
+non trivial sector 109 trivial sector 109 5
+non trivial sector 114 trivial sector 114 44
+
+non trivial sector 111 trivial sector 111 6
+
+non trivial sector 117 trivial sector 117 55
+
+non trivial sector 118 trivial sector 118 5
+
+non trivial sector 119 trivial sector 119  6
+
+non trivial sector 120 44
+non trivial sector 122 trivial sector 122 55
+
+non trivial sector non trivial sector 116 44
+non trivial sector 123 trivial sector 123 6
+
+non trivial sector 121 trivial sector 121 55
+non trivial sector non trivial sector 115 55
+
+non trivial sector 127 trivial sector 127 77
+
+non trivial sector 126 trivial sector 126 6
+non trivial sector non trivial sector 125 6
+
+non trivial sector 124 trivial sector 124 55
+
+non trivial sector 150 trivial sector 150 44
+non trivial sector 147 trivial sector 147 44
+non trivial sector non trivial sector 146 33
+
+non trivial sector 154 trivial sector 154 4
+
+non trivial sector 153 trivial sector 153 4
+non trivial sector 151 trivial sector 151  5
+non trivial sector 149 trivial sector 149 44
+non trivial sector non trivial sector 148 3
+
+non trivial sector 155 55
+non trivial sector 156 trivial sector 156 44
+non trivial sector 158 trivial sector 158 5
+
+non trivial sector non trivial sector 162162 33
+non trivial sector 165 trivial sector 165 4
+non trivial sector 159 trivial sector 159 6
+
+non trivial sector 157 trivial sector 157 5
+
+non trivial sector non trivial sector 171 55
+non trivial sector 163 trivial sector 163 4
+
+non trivial sector 161 trivial sector 161 3
+
+non trivial sector 170 trivial sector 170 44
+non trivial sector 169 trivial sector 169 4
+non trivial sector non trivial sector 166  4
+non trivial sector non trivial sector 167 67 5
+
+non trivial sector 173 trivial sector 173 55
+non trivial sector 178 trivial sector 178 44
+non trivial sector 180 80 4
+
+non trivial sector non trivial sector 174 55
+
+non trivial sector 183 trivial sector 183 6
+
+non trivial sector 175 trivial sector 175 66
+non trivial sector 179 trivial sector 179 55
+non trivial sector non trivial sector 188 5
+
+non trivial sector non trivial sector 177  4
+non trivial sector 181 trivial sector 181 55
+
+non trivial sector 186 trivial sector 186 55
+non trivial sector 182 trivial sector 182 55
+non trivial sector 189 trivial sector 189 6
+
+non trivial sector 190 trivial sector 190 66
+
+non trivial sector non trivial sector 187 66
+non trivial sector 185 trivial sector 185 5
+
+non trivial sector n91 trivial sector 191 7
+
+non trivial sector 210 trivial sector 210 44
+non trivial sector 213 trivial sector 213 55
+non trivial sector 212 trivial sector 212 4
+
+non trivial sector 211 trivial sector 211 55
+non trivial sector 214 trivial sector 214 55
+non trivial sector 216 trivial sector 216 44
+non trivial sector 217 trivial sector 217 5
+
+non trivial sector 215 trivial sector 215 6
+
+non trivial sector 218 trivial sector 218 5
+
+non trivial sector 222 22 6
+
+non trivial sector 221 trivial sector 221 6
+
+non trivial sector non trivial sector 220 5
+
+non trivial sector 223 trivial sector 223 77
+non trivial sector 228 trivial sector 228 4
+
+non trivial sector 219 trivial sector 219 66
+non trivial sector 226 trivial sector 226 4
+
+non trivial sector non trivial sector 229 55
+non trivial sector 230 trivial sector 230 5
+non trivial sector 238 trivial sector 238 66
+non trivial sector 231 trivial sector 231 66
+
+non trivial sector 227 27 5
+
+non trivial sector 225 trivial sector 225 44
+non trivial sector non trivial sector 233 5
+
+non trivial sector 237 trivial sector 237 6
+
+non trivial sector 239 trivial sector 239 7
+non trivial sector 236 trivial sector 236 5
+
+non trivial sector 235 trivial sector 235 66
+non trivial sector 246 trivial sector 246 6
+
+non trivial sector 234 trivial sector 234 55
+
+non trivial sector 242 trivial sector 242 55
+non trivial sector 243 trivial sector 243 66
+
+non trivial sector 248 trivial sector 248 5
+
+non trivial sector 241 trivial sector 241 5
+
+non trivial sector 244 trivial sector 244 55
+
+non trivial sector 249 trivial sector 249 66
+non trivial sector 250 trivial sector 250 66
+non trivial sector 253 trivial sector 253 7
+
+non trivial sector 251 trivial sector 251  7
+
+non trivial sector 254 trivial sector 254 7
+
+non trivial sector 247 47 7
+
+non trivial sector 245 trivial sector 245 66
+non trivial sector 255 trivial sector 255 88
+
+non trivial sector non trivial sector 252 66
+
+non trivial sector 293 trivial sector 293 44
+non trivial sector 295 trivial sector 295 5
+
+non trivial sector 298 trivial sector 298 4
+
+non trivial sector 303 trivial sector 303 66
+non trivial sector 297 trivial sector 297 44
+
+non trivial sector 301 trivial sector 301 5
+
+non trivial sector non trivial sector 309309 55
+non trivial sector non trivial sector 299 99 5
+
+non trivial sector 302 trivial sector 302 5
+
+non trivial sector 313 trivial sector 313 5
+
+non trivial sector non trivial sector 311 11 6
+
+non trivial sector 318 trivial sector 318 6
+
+non trivial sector 315 trivial sector 315 6
+
+non trivial sector 317 17 6
+non trivial sector 319 trivial sector 319 7
+
+non trivial sector 327 trivial sector 327 55
+
+non trivial sector non trivial sector 325 4
+non trivial sector non trivial sector 314 14 5
+
+non trivial sector 328 trivial sector 328 3
+
+non trivial sector non trivial sector 331 5
+
+non trivial sector non trivial sector 333 55
+non trivial sector 329 trivial sector 329 44
+
+non trivial sector 330 trivial sector 330 4
+
+non trivial sector 332 trivial sector 332 4
+
+non trivial sector 334 trivial sector 334 55
+
+non trivial sector 343 trivial sector 343 66
+non trivial sector 335 trivial sector 335  6
+non trivial sector 341 trivial sector 341 5
+
+non trivial sector 344 4
+non trivial sector non trivial sector 340 4
+non trivial sector 346 trivial sector 346 55
+non trivial sector 342 trivial sector 342 5
+
+non trivial sector non trivial sector 349 49 6
+
+non trivial sector 348 trivial sector 348 5
+
+non trivial sector non trivial sector 345 55
+non trivial sector 347 trivial sector 347 66
+non trivial sector non trivial sector 351 77
+
+non trivial sector 350 trivial sector 350 6
+
+non trivial sector 360 trivial sector 360 44
+non trivial sector 355 trivial sector 355 5
+
+non trivial sector 358 trivial sector 358 5
+
+non trivial sector 354 trivial sector 354 44
+
+non trivial sector 359 trivial sector 359 6
+
+non trivial sector 356 44
+non trivial sector 357 trivial sector 357 5
+
+non trivial sector 363 trivial sector 363 6
+
+non trivial sector 361 trivial sector 361 5
+non trivial sector 362 62 5
+
+non trivial sector 365 trivial sector 365 66
+
+non trivial sector 353 trivial sector 353 44
+
+non trivial sector 364 trivial sector 364  5
+
+non trivial sector 366  6
+
+non trivial sector 370 trivial sector 370 5
+
+non trivial sector 369 trivial sector 369 5
+
+non trivial sector 373 trivial sector 373 66
+non trivial sector 371 trivial sector 371 66
+
+non trivial sector 372 trivial sector 372 5
+non trivial sector 374 trivial sector 374  6
+non trivial sector non trivial sector 367 7
+
+non trivial sector non trivial sector 376 5
+
+non trivial sector 377 trivial sector 377 6
+
+non trivial sector 379 trivial sector 379 7
+
+non trivial sector 385 trivial sector 385 33
+
+non trivial sector 378 78 6
+non trivial sector 380380 6
+
+non trivial sector 382 trivial sector 382 7
+
+non trivial sector 388 trivial sector 388 3
+non trivial sector 391 trivial sector 391 55
+non trivial sector 390 trivial sector 390 4
+
+non trivial sector non trivial sector 394 4
+
+non trivial sector non trivial sector 387 4
+
+non trivial sector non trivial sector 383  8
+non trivial sector 393 trivial sector 393 4
+
+non trivial sector non trivial sector 375 75 7
+
+non trivial sector 381 trivial sector 381 77
+non trivial sector 397 trivial sector 397  5
+non trivial sector 392 trivial sector 392 3
+
+non trivial sector no8 trivial sector 398 5
+
+non trivial sector 396 trivial sector 396 4
+
+non trivial sector 399 trivial sector 399 66
+
+non trivial sector 401 trivial sector 401 4
+
+non trivial sector 403 trivial sector 403 5
+
+non trivial sector 404 44
+non trivial sector 395 trivial sector 395 55
+
+non trivial sector non trivial sector 408 44
+non trivial sector 389 trivial sector 389 4
+
+non trivial sector 409 trivial sector 409 5
+
+non trivial sector 412 trivial sector 412 55
+non trivial sector 405 trivial sector 405 5
+
+non trivial sector non trivial sector 410 55
+
+non trivial sector 406 trivial sector 406 55
+non trivial sector 411 trivial sector 411 6
+
+non trivial sector 414 trivial sector 414 6
+
+non trivial sector 413 trivial sector 413 6
+
+non trivial sector 407 trivial sector 407 66
+
+non trivial sector 423 trivial sector 423 66
+
+non trivial sector non trivial sector 402 02 4
+
+non trivial sector 425 25 5
+non trivial sector 415 trivial sector 415 7
+
+non trivial sector non trivial sector 417 17 4
+
+non trivial sector 419 trivial sector 419 55
+
+non trivial sector 424 trivial sector 424 44
+non trivial sector non trivial sector 421  5
+
+non trivial sector 422 trivial sector 422 55
+non trivial sector 428 trivial sector 428 5
+
+non trivial sector 420 trivial sector 420 44
+non trivial sector non trivial sector 418 44
+non trivial sector 427 trivial sector 427 6
+
+non trivial sector 426 trivial sector 426 5
+
+non trivial sector 430 trivial sector 430 6
+
+non trivial sector 435 trivial sector 435 6
+non trivial sector 441 trivial sector 441 66
+non trivial sector 433 trivial sector 433 5
+
+non trivial sector 438 trivial sector 438 66
+non trivial sector 436 trivial sector 436 55
+non trivial sector 439 trivial sector 439 77
+non trivial sector 440 trivial sector 440 55
+
+non trivial sector 434 trivial sector 434  5
+
+non trivial sector non trivial sector 431 77
+non trivial sector 429 trivial sector 429 6
+
+non trivial sector 444 44 6
+
+non trivial sector 449 trivial sector 449 4
+
+non trivial sector 437 trivial sector 437 66
+non trivial sector 443 trivial sector 443 77
+
+non trivial sector non trivial sector 445 7
+
+non trivial sector 446 trivial sector 446 77
+non trivial sector 442 trivial sector 442 6
+
+non trivial sector non trivial sector 447 88
+
+non trivial sector 452 trivial sector 452 44
+non trivial sector 458 trivial sector 458 5
+
+non trivial sector 455 trivial sector 455 66
+non trivial sector 451 trivial sector 451 5
+
+non trivial sector 453 trivial sector 453 5
+
+non trivial sector 457 trivial sector 457 5
+
+non trivial sector 459 trivial sector 459 66
+
+non trivial sector 465 trivial sector 465 5
+
+non trivial sector 462 trivial sector 462 66
+
+non trivial sector 456 trivial sector 456 4
+
+non trivial sector 454 trivial sector 454  5
+
+non trivial sector 468 trivial sector 468 55
+non trivial sector 463 trivial sector 463 77
+
+non trivial sector 460 trivial sector 460 55
+
+non trivial sector 470 trivial sector 470 66
+non trivial sector 472 trivial sector 472 55
+
+non trivial sector 469 trivial sector 469 6
+
+non trivial sector 471 trivial sector 471 7
+
+non trivial sector 466 trivial sector 466 5
+
+non trivial sector 461 trivial sector 461 6
+
+non trivial sector 467 trivial sector 467 6
+
+non trivial sector non trivial sector 477 77 7
+
+non trivial sector 481 5
+
+non trivial sector 473 trivial sector 473 6
+
+non trivial sector 475 75 7
+
+non trivial sector n78 trivial sector 478 7
+
+non trivial sector 476 trivial sector 476 66
+
+non trivial sector non trivial sector 474  6
+non trivial sector 485 85 6
+
+non trivial sector 479 trivial sector 479 88
+nnon trivial sector 488 88 5
+
+non trivial sector 483 trivial sector 483 66
+non trivial sector 486 66
+
+non trivial sector 484 trivial sector 484 5
+
+non trivial sector 482 82 5
+
+non trivial sector 490 trivial sector 490 6
+
+non trivial sector 492 trivial sector 492 6
+
+non trivial sector 487 trivial sector 487 77
+non trivial sector 489 trivial sector 489 6
+
+non trivial sector 495 trivial sector 495 88
+
+non trivial sector 498 trivial sector 498  6
+
+non trivial sector 493 trivial sector 493 7
+
+non trivial sector 491 trivial sector 491 7
+non trivial sector 497 trivial sector 497 66
+
+non trivial sector 494 trivial sector 494 77
+non trivial sector non trivial sector 501 7
+
+non trivial sector 505 trivial sector 505 77
+
+non trivial sector 502 trivial sector 502 7
+
+non trivial sector 500 trivial sector 500 66
+
+non trivial sector non trivial sector 499  7
+
+non trivial sector 508 77
+
+non trivial sector non trivial sector 506 7
+
+non trivial sector 509 trivial sector 509 88
+
+non trivial sector 503 trivial sector 503 88
+non trivial sector 510 trivial sector 510 88
+
+non trivial sector 504 trivial sector 504 6
+
+non trivial sector non trivial sector 507  8
+
+non trivial sector 511 trivial sector 511 99
+non trivial sector 533 trivial sector 533 4
+
+non trivial sector 539 trivial sector 539 5
+
+non trivial sector 535 trivial sector 535 55
+non trivial sector non trivial sector 541 5
+
+non trivial sector 538 trivial sector 538 4
+
+non trivial sector non trivial sector 537 37 4
+
+non trivial sector 542 trivial sector 542 5
+
+non trivial sector 543 trivial sector 543 6
+
+non trivial sector 553 trivial sector 553 4
+
+non trivial sector 551 trivial sector 551 55
+non trivial sector 554 trivial sector 554 44
+
+non trivial sector 558 58 5
+
+non trivial sector 555 trivial sector 555 5
+
+non trivial sector 549 trivial sector 549 4
+non trivial sector 557 trivial sector 557 55
+non trivial sector 559 trivial sector 559 66
+
+non trivial sector 565 trivial sector 565 5
+
+non trivial sector 569 trivial sector 569 5
+non trivial sector 570 trivial sector 570 5
+
+non trivial sector 567 trivial sector 567 6
+
+non trivial sector 577 trivial sector 577 3
+
+non trivial sector 579 trivial sector 579 4
+
+non trivial sector 571 trivial sector 571 6
+
+non trivial sector 574 trivial sector 574 66
+non trivial sector 573 trivial sector 573 66
+
+non trivial sector 583 trivial sector 583 55
+non trivial sector 585 trivial sector 585  4
+
+non trivial sector 587 trivial sector 587 5
+
+non trivial sector 590 trivial sector 590 5
+non trivial sector 589 trivial sector 589 55
+non trivial sector non trivial sector 575 7
+
+non trivial sector 586 trivial sector 586 44
+
+non trivial sector 581 trivial sector 581 4
+
+non trivial sector 593 trivial sector 593  4
+
+non trivial sector 594 trivial sector 594 44
+non trivial sector 597 trivial sector 597 55
+non trivial sector 599 trivial sector 599 6
+
+non trivial sector 591 trivial sector 591 6
+
+non trivial sector non trivial sector 600 4
+
+non trivial sector 596 44
+non trivial sector non trivial sector 595 55
+non trivial sector 598 trivial sector 598 5
+
+non trivial sector non trivial sector 601 01 5
+non trivial sector 604 trivial sector 604 5
+
+non trivial sector non trivial sector 602 5
+
+non trivial sector 605 trivial sector 605 66
+non trivial sector 606 trivial sector 606 66
+
+non trivial sector 609 trivial sector 609 44
+
+non trivial sector 611 trivial sector 611 55
+non trivial sector 607 trivial sector 607 7
+non trivial sector non trivial sector 613 13 5
+non trivial sector 617 trivial sector 617 5
+
+non trivial sector non trivial sector 610 4
+
+non trivial sector 615 trivial sector 615 6
+
+non trivial sector 616 trivial sector 616 44
+
+non trivial sector 612 trivial sector 612 4
+
+non trivial sector 603 trivial sector 603 66
+
+non trivial sector 620 trivial sector 620 55
+non trivial sector 622 trivial sector 622 66
+
+non trivial sector 614 trivial sector 614 55
+non trivial sector 619 trivial sector 619 66
+non trivial sector 618 trivial sector 618 55
+non trivial sector 628 trivial sector 628 5
+
+non trivial sector 625 trivial sector 625 5
+
+non trivial sector 623 23 7
+
+non trivial sector 630 trivial sector 630 66
+non trivial sector 621 trivial sector 621 6
+
+non trivial sector 629 trivial sector 629 66
+non trivial sector 627 27 6
+non trivial sector 626 trivial sector 626 5
+
+non trivial sector 631 31 7
+
+non trivial sector 632 trivial sector 632 55
+
+non trivial sector 633 trivial sector 633 66
+non trivial sector non trivial sector 635 35 7
+
+non trivial sector 641 trivial sector 641 33
+
+non trivial sector 636 trivial sector 636 6
+
+non trivial sector 634 trivial sector 634 6
+
+non trivial sector 637 trivial sector 637 7
+non trivial sector non trivial sector 638 77
+
+non trivial sector non trivial sector 642 3
+
+non trivial sector 643 43 4
+
+non trivial sector 648 trivial sector 648 3
+non trivial sector non trivial sector 639 39 8
+
+non trivial sector non trivial sector 645  4
+non trivial sector 646 trivial sector 646  4
+
+non trivial sector 653 trivial sector 653 5
+
+non trivial sector 650 trivial sector 650 4
+non trivial sector non trivial sector 651 51 5
+non trivial sector 647 trivial sector 647 55
+non trivial sector 649 trivial sector 649 4
+
+non trivial sector 655 trivial sector 655 66
+
+non trivial sector 658 trivial sector 658 44
+
+non trivial sector 659 59 5
+non trivial sector non trivial sector 652 52 4
+
+non trivial sector non trivial sector 657 44
+non trivial sector 654 trivial sector 654 5
+
+non trivial sector 668 trivial sector 668 55
+non trivial sector 660 trivial sector 660 4
+
+non trivial sector non trivial sector 663 63 6
+
+non trivial sector 661 trivial sector 661 5
+
+non trivial sector 666 trivial sector 666 5
+
+non trivial sector 667 trivial sector 667 66
+non trivial sector 669 69 6
+
+non trivial sector 662 trivial sector 662 5
+
+non trivial sector non trivial sector 665 55
+
+non trivial sector 664 trivial sector 664 4
+
+non trivial sector 673 trivial sector 673 44
+non trivial sector 670 trivial sector 670 66
+non trivial sector 678 trivial sector 678 5
+
+non trivial sector 671 trivial sector 671 77
+
+non trivial sector 679 66
+non trivial sector non trivial sector 677 55
+non trivial sector 682 trivial sector 682 5
+non trivial sector 681 trivial sector 681 5
+non trivial sector non trivial sector 675 75 5
+
+non trivial sector 674 trivial sector 674  4
+
+non trivial sector 680 trivial sector 680 44
+non trivial sector 676 trivial sector 676 4
+
+non trivial sector 686 trivial sector 686 6
+non trivial sector non trivial sector 684  5
+non trivial sector 683 trivial sector 683 6
+
+non trivial sector 685 trivial sector 685 6
+
+non trivial sector 693 trivial sector 693 6
+non trivial sector 689 trivial sector 689 55
+non trivial sector 692 trivial sector 692 55
+
+non trivial sector non trivial sector 690 5
+
+non trivial sector non trivial sector 691 66
+
+non trivial sector 687 77
+non trivial sector 696 trivial sector 696  5
+non trivial sector non trivial sector 695695 77
+
+non trivial sector 694 trivial sector 694 66
+non trivial sector 702 trivial sector 702  7
+non trivial sector n00 trivial sector 700 66
+non trivial sector 698 trivial sector 698 66
+
+non trivial sector 699 trivial sector 699 77
+
+non trivial sector 706 trivial sector 706 4
+
+non trivial sector 705 trivial sector 705 4
+
+non trivial sector 709 55
+
+non trivial sector 697 trivial sector 697 66
+non trivial sector 710 trivial sector 710 5
+
+non trivial sector 701 trivial sector 701 77
+
+non trivial sector 713 5
+
+non trivial sector non trivial sector 707 5
+
+non trivial sector 714 14 5
+non trivial sector 716 trivial sector 716 5
+
+non trivial sector 712 trivial sector 712 4
+
+non trivial sector 703 trivial sector 703 88
+non trivial sector 717 trivial sector 717 66
+non trivial sector 711 trivial sector 711 66
+non trivial sector no2 trivial sector 722 55
+
+non trivial sector 721 trivial sector 721 5
+
+non trivial sector 718 trivial sector 718 6
+
+non trivial sector non trivial sector 723 23 6
+
+non trivial sector 726 trivial sector 726 66
+non trivial sector 719 trivial sector 719 7
+
+non trivial sector non trivial sector 725 66
+
+non trivial sector 729 66
+non trivial sector 724 trivial sector 724 5
+
+non trivial sector 715 trivial sector 715 6
+
+non trivial sector 730 trivial sector 730 66
+
+non trivial sector 727 trivial sector 727 77
+non trivial sector 728 trivial sector 728 5
+
+non trivial sector non trivial sector 731 31 7
+
+non trivial sector 739 39 6
+
+non trivial sector 733 trivial sector 733 7
+
+non trivial sector 737 trivial sector 737 55
+non trivial sector 734 trivial sector 734 7
+
+non trivial sector 735 trivial sector 735 8
+
+non trivial sector 738 trivial sector 738 5
+non trivial sector 732 trivial sector 732 66
+non trivial sector non trivial sector 745 66
+non trivial sector 740 trivial sector 740 5
+
+non trivial sector 746 trivial sector 746 6
+
+non trivial sector 741 trivial sector 741 66
+non trivial sector 742 trivial sector 742 6
+
+non trivial sector 744 trivial sector 744 5
+
+non trivial sector 747 trivial sector 747 7
+
+non trivial sector non trivial sector 750 50 7
+
+non trivial sector 748 trivial sector 748 6
+
+non trivial sector non trivial sector 749 49 7
+
+non trivial sector 743 trivial sector 743 7
+
+non trivial sector 754 trivial sector 754 6
+
+non trivial sector 751 trivial sector 751 8
+
+non trivial sector non trivial sector 755 55 7
+
+non trivial sector 759 trivial sector 759  8
+
+non trivial sector 753 trivial sector 753 6
+
+non trivial sector 758 trivial sector 758 77
+non trivial sector 757 trivial sector 757 77
+non trivial sector 756 trivial sector 756 6
+
+non trivial sector non trivial sector 760 60 6
+
+non trivial sector 764 trivial sector 764 77
+non trivial sector 765 trivial sector 765 8
+
+non trivial sector 766 trivial sector 766 8
+
+non trivial sector 763 trivial sector 763 8
+
+non trivial sector non trivial sector 762 7
+
+non trivial sector 761 trivial sector 761  7
+
+non trivial sector 767 trivial sector 767 99
+non trivial sector 789 trivial sector 789 5
+
+non trivial sector 791 trivial sector 791 66
+non trivial sector 793 trivial sector 793 5
+
+non trivial sector non trivial sector 794 55
+non trivial sector 799 trivial sector 799 77
+non trivial sector 807 trivial sector 807 6
+
+non trivial sector 795 trivial sector 795 66
+
+non trivial sector 797 trivial sector 797 66
+non trivial sector 805 trivial sector 805 55
+non trivial sector 798 trivial sector 798 6
+
+non trivial sector 814 trivial sector 814 6
+
+non trivial sector 809 trivial sector 809 5
+
+non trivial sector 811 trivial sector 811 6
+
+non trivial sector 810 trivial sector 810 5
+
+non trivial sector 813 trivial sector 813 66
+
+non trivial sector 821 trivial sector 821 6
+
+non trivial sector 815 trivial sector 815 7
+
+non trivial sector 825 trivial sector 825 6
+
+non trivial sector 823 trivial sector 823 7
+
+non trivial sector 833 trivial sector 833 4
+
+non trivial sector 826 trivial sector 826 66
+non trivial sector 837 trivial sector 837 5
+
+non trivial sector non trivial sector 830 30 7
+
+non trivial sector 835 trivial sector 835 55
+non trivial sector 831 trivial sector 831 88
+non trivial sector 827 trivial sector 827 77
+
+non trivial sector non trivial sector 829 77
+
+non trivial sector non trivial sector 839 6
+
+non trivial sector 843 6
+non trivial sector 841 trivial sector 841 55
+
+non trivial sector 842 42 5
+
+non trivial sector 840 trivial sector 840 4
+
+non trivial sector non trivial sector 847 47 7
+
+non trivial sector non trivial sector 844 5
+
+non trivial sector 852 trivial sector 852 5
+
+non trivial sector 845 trivial sector 845 66
+
+non trivial sector non trivial sector 851 66
+
+non trivial sector 849 trivial sector 849 5
+
+non trivial sector 853 trivial sector 853 6
+
+non trivial sector 856 trivial sector 856 5
+non trivial sector 855 trivial sector 855 7
+
+non trivial sector 850 trivial sector 850 55
+non trivial sector 859 trivial sector 859 77
+non trivial sector non trivial sector 846846 66
+
+non trivial sector 857 trivial sector 857 6
+
+non trivial sector 865 trivial sector 865 5
+non trivial sector non trivial sector 860 6
+
+non trivial sector 854 trivial sector 854 6
+
+non trivial sector 858 trivial sector 858 66
+non trivial sector non trivial sector 861 61 7
+
+non trivial sector 866 trivial sector 866 55
+non trivial sector non trivial sector 867 6
+
+non trivial sector 863 trivial sector 863 8
+
+non trivial sector 872 trivial sector 872 5
+
+non trivial sector 868 trivial sector 868 5
+non trivial sector 862 trivial sector 862 77
+
+non trivial sector 871 trivial sector 871 7
+
+non trivial sector non trivial sector 870 66
+non trivial sector 875 trivial sector 875 77
+nnon trivial sector 869  6
+
+non trivial sector non trivial sector 873 73 6
+
+non trivial sector 877 trivial sector 877 7
+non trivial sector 881 trivial sector 881 6
+
+non trivial sector 882 66
+non trivial sector 874 trivial sector 874 6
+
+non trivial sector 876 trivial sector 876 6
+
+non trivial sector 878 trivial sector 878 77
+non trivial sector non trivial sector 879 88
+non trivial sector non trivial sector 883 83 7
+
+non trivial sector 884 trivial sector 884 6
+
+non trivial sector 892 trivial sector 892 77
+
+non trivial sector 886 86 7
+
+non trivial sector 887 trivial sector 887 8
+
+non trivial sector non trivial sector 888 66
+
+non trivial sector non trivial sector 889 77
+non trivial sector 898 trivial sector 898 44
+
+non trivial sector non trivial sector 895  9
+non trivial sector 890 trivial sector 890  7
+
+non trivial sector 897 97 4
+non trivial sector 885 trivial sector 885 77
+
+non trivial sector 894 trivial sector 894 88
+non trivial sector 891 91 8
+non trivial sector non trivial sector 893 8
+
+non trivial sector non trivial sector 904 04 4
+
+non trivial sector 905 trivial sector 905 55
+
+non trivial sector non trivial sector 907 6
+
+non trivial sector 903 trivial sector 903 6
+non trivial sector non trivial sector 901 55
+
+non trivial sector 902 trivial sector 902 5
+
+non trivial sector 900 00 4
+
+non trivial sector 911 trivial sector 911 7
+non trivial sector 909 trivial sector 909 66
+
+non trivial sector non trivial sector 906 06 5
+
+non trivial sector non trivial sector 908 5
+non trivial sector non trivial sector 899 99 5
+
+non trivial sector 910 trivial sector 910 6
+
+non trivial sector 918 trivial sector 918 6
+non trivial sector non trivial sector 913 55
+non trivial sector 915 trivial sector 915 6
+non trivial sector 919 trivial sector 919 77
+
+non trivial sector 921 trivial sector 921 66
+non trivial sector 920 trivial sector 920 5
+
+non trivial sector 914 trivial sector 914 55
+non trivial sector 926 trivial sector 926 77
+
+non trivial sector 927 trivial sector 927 88
+non trivial sector 925 trivial sector 925 7
+
+non trivial sector 916 trivial sector 916 55
+non trivial sector non trivial sector 917 17 6
+
+non trivial sector 922 trivial sector 922 66
+non trivial sector non trivial sector 923 77
+
+non trivial sector 930 55
+
+non trivial sector 932 55
+
+non trivial sector 935 trivial sector 935 77
+nnon trivial sector 929 55
+
+non trivial sector non trivial sector 931 66
+non trivial sector 924 trivial sector 924 66
+
+non trivial sector non trivial sector 936 55
+
+non trivial sector non trivial sector 937 66
+
+non trivial sector non trivial sector 934 66
+
+non trivial sector 933 trivial sector 933 66
+non trivial sector 939 trivial sector 939 7
+
+non trivial sector 940 trivial sector 940 66
+
+non trivial sector 941 trivial sector 941 77
+non trivial sector 942 trivial sector 942 7
+
+non trivial sector 938 66
+
+non trivial sector 943 trivial sector 943 88
+non trivial sector 945 trivial sector 945 6
+
+non trivial sector 947 trivial sector 947 77
+non trivial sector non trivial sector 948 48 6
+
+non trivial sector 946 trivial sector 946 6
+
+non trivial sector non trivial sector 955 8
+non trivial sector 953 trivial sector 953 77
+non trivial sector 952 trivial sector 952 66
+non trivial sector 949 trivial sector 949 77
+
+non trivial sector 950 trivial sector 950 7
+
+non trivial sector 954 trivial sector 954 7
+
+non trivial sector 958 trivial sector 958 88
+non trivial sector 951 51 88
+
+non trivial sector 959 trivial sector 959 9
+non trivial sector 962 trivial sector 962 5
+
+non trivial sector 964 trivial sector 964 5
+
+non trivial sector 957 57 8
+
+non trivial sector 961 trivial sector 961 55
+
+non trivial sector 956 trivial sector 956 77
+non trivial sector 963 trivial sector 963 66
+non trivial sector 965 trivial sector 965 6
+non trivial sector 966 trivial sector 966 66
+non trivial sector 967 trivial sector 967 7
+non trivial sector non trivial sector 971971 7
+
+non trivial sector 972 trivial sector 972 6
+
+non trivial sector 968 trivial sector 968 5
+non trivial sector 969 trivial sector 969 6
+
+non trivial sector 975 trivial sector 975 8
+
+non trivial sector non trivial sector 973 7
+
+non trivial sector 970 trivial sector 970  6
+
+non trivial sector 981 trivial sector 981 7
+
+non trivial sector 980 trivial sector 980 66
+
+non trivial sector 977 trivial sector 977 6
+
+non trivial sector 982 trivial sector 982 77
+
+non trivial sector 979 trivial sector 979 7
+
+non trivial sector 974 trivial sector 974 7
+
+non trivial sector 978 trivial sector 978 66
+
+non trivial sector 983 trivial sector 983 88
+
+non trivial sector 984 trivial sector 984 6
+
+non trivial sector 987 trivial sector 987 88
+
+non trivial sector non trivial sector 990 88
+non trivial sector 985 trivial sector 985 77
+non trivial sector 994 trivial sector 994 66
+
+non trivial sector 991 trivial sector 991 9
+
+non trivial sector 988 trivial sector 988 7
+
+non trivial sector 998 trivial sector 998 7
+
+non trivial sector 986 trivial sector 986 77
+
+non trivial sector 1000trivial sector 1000 6
+
+non trivial sector 999 trivial sector 999  8
+
+non trivial sector 989 89 8
+non trivial sector non trivial sector 995 7
+nnon trivial sector 993  6
+
+non trivial sector non trivial sector 997 7
+
+non trivial sector 1002trivial sector 1002 7
+
+non trivial sector 1006trivial sector 1006 88
+non trivial sector 996 trivial sector 996 6
+
+non trivial sector 1001trivial sector 1001 77
+
+non trivial sector 1003trivial sector 1003 88
+non trivial sector 1004trivial sector 1004 77
+non trivial sector 1005trivial sector 1005 8
+
+non trivial sector non trivial sector 1011 8
+non trivial sector 1009trivial sector 1009 77
+
+non trivial sector 1007trivial sector 1007 9
+
+non trivial sector 1014trivial sector 1014 8
+
+non trivial sector 1010trivial sector 1010 77
+non trivial sector 1015trivial sector 1015 9
+
+non trivial sector 1013trivial sector 1013 88
+
+non trivial sector 1020trivial sector 1020 8
+
+non trivial sector 1022trivial sector 1022 9
+
+non trivial sector 1012trivial sector 1012 7
+
+non trivial sector non trivial sector 1018 8
+
+non trivial sector 1016trivial sector 1016 7
+
+non trivial sector non trivial sector 1019  9
+
+non trivial sector 1017trivial sector 1017 8
+non trivial sector 1021trivial sector 1021 9
+
+non trivial sector 1023trivial sector 1023 10
+0
+non trivial sector 1045trivial sector 1045 4
+
+non trivial sector 1049trivial sector 1049 4
+
+non trivial sector n047trivial sector 1047 55
+
+non trivial sector 1051trivial sector 1051 55
+
+non trivial sector 1054trivial sector 1054 5
+
+non trivial sector 1055trivial sector 1055 6
+
+non trivial sector 1053trivial sector 1053 5
+
+non trivial sector 1050trivial sector 1050 44
+non trivial sector 1077trivial sector 1077 55
+non trivial sector 1081trivial sector 1081 55
+non trivial sector 1082trivial sector 1082 5
+
+non trivial sector 1083trivial sector 1083 6
+non trivial sector 1087trivial sector 1087 77
+non trivial sector non trivial sector 1090 3
+
+non trivial sector 1086trivial sector 1086 66
+non trivial sector 1089trivial sector 1089 3
+
+non trivial sector non trivial sector 1079 079 6
+
+non trivial sector 1085trivial sector 1085 6
+
+non trivial sector non trivial sector 1097 44
+
+non trivial sector non trivial sector 1091 44
+non trivial sector no94trivial sector 1094 4
+
+non trivial sector 1093trivial sector 1093 4
+
+non trivial sector 1095trivial sector 1095 5
+
+non trivial sector 1098trivial sector 1098 4
+
+non trivial sector 1099trivial sector 1099 55
+non trivial sector 1102trivial sector 1102 5
+non trivial sector 1101trivial sector 1101 5
+non trivial sector non trivial sector 1110 5
+
+non trivial sector non trivial sector 1108 44
+non trivial sector 1105trivial sector 1105  4
+
+non trivial sector 1106trivial sector 1106 44
+non trivial sector non trivial sector 1109 5
+
+non trivial sector 1112trivial sector 1112 4
+
+non trivial sector no14trivial sector 1114 5
+non trivial sector 1113trivial sector 1113 55
+non trivial sector 1103trivial sector 1103 66
+non trivial sector 1116trivial sector 1116 5
+
+non trivial sector 1107trivial sector 1107 55
+non trivial sector 1121trivial sector 1121 44
+non trivial sector 1118trivial sector 1118 66
+non trivial sector 1122trivial sector 1122 4
+
+non trivial sector non trivial sector 1111 66
+
+non trivial sector 1125 125 5
+
+non trivial sector 1124trivial sector 1124 4
+
+non trivial sector non trivial sector 1119 7
+
+non trivial sector 1126trivial sector 1126 5
+
+non trivial sector 1123trivial sector 1123 5
+
+non trivial sector 1117trivial sector 1117 6
+
+non trivial sector 1115trivial sector 1115 6
+
+non trivial sector 1129trivial sector 1129 55
+non trivial sector 1131trivial sector 1131 6
+
+non trivial sector 1133trivial sector 1133 66
+non trivial sector 1135trivial sector 1135 7
+
+non trivial sector non trivial sector 1127  6
+
+non trivial sector 1132 132 5
+non trivial sector 1134trivial sector 1134  6
+
+non trivial sector 1130trivial sector 1130 5
+
+non trivial sector 1139trivial sector 1139 66
+
+non trivial sector 1138trivial sector 1138 55
+non trivial sector non trivial sector 1145 6
+
+non trivial sector non4trivial sector 1144  5
+
+non trivial sector 1146 66
+
+non trivial sector 1142trivial sector 1142 6
+non trivial sector non trivial sector 1137  5
+
+non trivial sector 1143trivial sector 1143 7
+
+non trivial sector 1141trivial sector 1141 66
+non trivial sector 1140 55
+non trivial sector non trivial sector 1155  4
+
+non trivial sector 1151trivial sector 1151 8
+non trivial sector 1150trivial sector 1150 7
+
+non trivial sector 1147trivial sector 1147 77
+non trivial sector 1148trivial sector 1148 6
+
+non trivial sector 1154trivial sector 1154 3
+
+non trivial sector non trivial sector 1153 3
+
+non trivial sector 1158trivial sector 1158 44
+non trivial sector 1149trivial sector 1149 7
+
+non trivial sector 1156trivial sector 1156 3
+
+non trivial sector 1164trivial sector 1164 4
+
+non trivial sector 1157trivial sector 1157 44
+non trivial sector 1162trivial sector 1162 4
+
+non trivial sector 1159trivial sector 1159 5
+
+non trivial sector non trivial sector 1167 167 6
+
+non trivial sector 1166trivial sector 1166 5
+
+non trivial sector 1172trivial sector 1172 44
+non trivial sector 1163 55
+non trivial sector 1161trivial sector 1161 4
+
+non trivial sector 1165trivial sector 1165 5
+
+non trivial sector 1169trivial sector 1169 44
+
+non trivial sector 1176 4
+
+non trivial sector non trivial sector 1171 55
+non trivial sector 1177trivial sector 1177 5
+
+non trivial sector 1173trivial sector 1173 5
+
+non trivial sector 1175trivial sector 1175 66
+non trivial sector 1170 170 4
+
+non trivial sector 1174trivial sector 1174 5
+
+non trivial sector 1182trivial sector 1182 66
+non trivial sector 1181trivial sector 1181 6
+
+non trivial sector 1185trivial sector 1185 44
+non trivial sector 1190trivial sector 1190 5
+
+non trivial sector 1178trivial sector 1178 5
+
+non trivial sector 1180trivial sector 1180 55
+
+non trivial sector 1183trivial sector 1183 7
+
+non trivial sector 1189trivial sector 1189 5
+
+non trivial sector 1179trivial sector 1179 66
+non trivial sector 1193trivial sector 1193 55
+non trivial sector 1188trivial sector 1188 4
+
+non trivial sector non trivial sector 1191 66
+non trivial sector 1186trivial sector 1186 44
+non trivial sector 1187trivial sector 1187 55
+non trivial sector 1196trivial sector 1196 5
+
+non trivial sector 1201trivial sector 1201 55
+non trivial sector 1202trivial sector 1202 55
+non trivial sector 1199trivial sector 1199 7
+
+non trivial sector 1194trivial sector 1194 55
+non trivial sector 1205trivial sector 1205 66
+non trivial sector 1198trivial sector 1198 66
+
+non trivial sector 1195trivial sector 1195 6
+
+non trivial sector 1197trivial sector 1197 66
+
+non trivial sector 1208trivial sector 1208 55
+
+non trivial sector non trivial sector 1206 206 6
+
+non trivial sector non trivial sector 1210 6
+
+non trivial sector 1211trivial sector 1211 7
+
+non trivial sector 1204 55
+non trivial sector 1207trivial sector 1207 77
+non trivial sector 1212trivial sector 1212 6
+
+non trivial sector no09trivial sector 1209 66
+non trivial sector non trivial sector 1218 44
+non trivial sector 1220trivial sector 1220 44
+non trivial sector 1215trivial sector 1215 88
+non trivial sector non trivial sector 1214 7
+
+non trivial sector 1217trivial sector 1217 4
+non trivial sector non trivial sector 1203 203 6
+
+non trivial sector 1213trivial sector 1213 7
+
+non trivial sector non trivial sector 1223 223 6
+
+non trivial sector 1225trivial sector 1225 55
+
+non trivial sector 1222 222 5
+
+non trivial sector 1221trivial sector 1221 5
+
+non trivial sector 1219trivial sector 1219 55
+
+non trivial sector non trivial sector 1227 227 6
+
+non trivial sector 1228trivial sector 1228 55
+non trivial sector 1231trivial sector 1231 77
+non trivial sector 1233trivial sector 1233 55
+non trivial sector 1230trivial sector 1230 6
+
+non trivial sector 1236trivial sector 1236 55
+non trivial sector 1237trivial sector 1237 66
+
+non trivial sector non trivial sector 1229 6
+
+non trivial sector 1226trivial sector 1226 5
+
+non trivial sector 1234trivial sector 1234 55
+non trivial sector 1241trivial sector 1241 6
+
+non trivial sector 1240 240 5
+
+non trivial sector non trivial sector 1238 6
+
+non trivial sector 1243trivial sector 1243 77
+non trivial sector non5trivial sector 1235 6
+
+non trivial sector 1242trivial sector 1242 66
+non trivial sector 1250 250 5
+
+non trivial sector non trivial sector 1239 7
+
+non trivial sector 1244trivial sector 1244 6
+
+non trivial sector 1245trivial sector 1245 7
+
+non trivial sector 1251trivial sector 1251 6
+non trivial sector 1249trivial sector 1249 55
+non trivial sector non trivial sector 1246 7
+
+non trivial sector no53trivial sector 1253 6
+
+non trivial sector 1258 258 6
+non trivial sector non trivial sector 1254 6
+
+non trivial sector 1252trivial sector 1252 55
+non trivial sector 1247trivial sector 1247 8
+
+non trivial sector 1260trivial sector 1260 66
+non trivial sector 1261trivial sector 1261 7
+
+non trivial sector 1259trivial sector 1259 7
+
+non trivial sector 1255trivial sector 1255 7
+
+non trivial sector 1262 262 77
+non trivial sector non trivial sector 1257 66
+non trivial sector 1263trivial sector 1263 8
+
+non trivial sector 1268trivial sector 1268 66
+
+non trivial sector 1265trivial sector 1265 66
+
+non trivial sector 1267trivial sector 1267 7
+
+non trivial sector non trivial sector 1269 269 7
+
+non trivial sector 1270trivial sector 1270 7
+
+non trivial sector 1273trivial sector 1273 77
+non trivial sector 1274 274 7
+
+non trivial sector 1266trivial sector 1266 66
+
+non trivial sector 1277trivial sector 1277 88
+non trivial sector non trivial sector 1271 8
+non trivial sector non trivial sector 1276 77
+non trivial sector 1278trivial sector 1278 8
+non trivial sector 1272trivial sector 1272 6
+
+non trivial sector 1275trivial sector 1275 88
+
+non trivial sector 1279trivial sector 1279 99
+non trivial sector 1287trivial sector 1287 55
+non trivial sector 1293trivial sector 1293 5
+non trivial sector non trivial sector 1289  4
+
+non trivial sector non trivial sector 1285  4
+non trivial sector 1290trivial sector 1290 44
+
+non trivial sector 1294trivial sector 1294  5
+non trivial sector non trivial sector 1291 291 5
+
+non trivial sector 1295trivial sector 1295 6
+
+non trivial sector non trivial sector 1303 6
+
+non trivial sector 1301trivial sector 1301 55
+non trivial sector 1305trivial sector 1305 5
+
+non trivial sector 1307trivial sector 1307 6
+
+non trivial sector 1309trivial sector 1309 6
+non trivial sector 1306trivial sector 1306 5
+
+non trivial sector 1310trivial sector 1310 66
+non trivial sector 1311trivial sector 1311 77
+
+non trivial sector 1319trivial sector 1319 66
+non trivial sector 1322trivial sector 1322 55
+non trivial sector 1326trivial sector 1326 6
+
+non trivial sector 1317trivial sector 1317 5
+
+non trivial sector 1321trivial sector 1321 55
+
+non trivial sector 1327trivial sector 1327 7
+
+non trivial sector 1325trivial sector 1325 66
+non trivial sector 1323trivial sector 1323 66
+
+non trivial sector 1333trivial sector 1333 66
+
+non trivial sector non trivial sector 1337 66
+
+non trivial sector 1341 341trivial sector  7
+
+non trivial sector 1335trivial sector 1335 77
+
+non trivial sector 1338trivial sector 1338 66
+
+non trivial sector 1342trivial sector 1342 7
+
+non trivial sector non trivial sector 1345 4
+
+non trivial sector 1348trivial sector 1348 4
+non trivial sector non trivial sector 1339 339 7
+
+non trivial sector 1353trivial sector 1353 55
+non trivial sector 1343trivial sector 1343 88
+
+non trivial sector 1352trivial sector 1352 4
+
+non trivial sector 1349trivial sector 1349 55
+non trivial sector non trivial sector 1357 6
+
+non trivial sector non trivial sector 1355  6
+non trivial sector 1347trivial sector 1347 5
+
+non trivial sector 1354trivial sector 1354 55
+non trivial sector 1350 350 5
+
+non trivial sector 1351trivial sector 1351 6
+
+non trivial sector 1346trivial sector 1346 44
+
+non trivial sector non trivial sector 1356 356 5
+
+non trivial sector 1364trivial sector 1364 5
+
+non trivial sector 1361trivial sector 1361 5
+
+non trivial sector 1358trivial sector 1358 6
+
+non trivial sector 1368 368 5
+
+non trivial sector non trivial sector 1363 66
+non trivial sector 1362trivial sector 1362 55
+non trivial sector 1359trivial sector 1359 77
+
+non trivial sector 1367trivial sector 1367 77
+non trivial sector 1366trivial sector 1366 66
+
+non trivial sector 1369trivial sector 1369  6
+
+non trivial sector 1365trivial sector 1365 66
+non trivial sector non trivial sector 1371 7
+
+non trivial sector 1373trivial sector 1373 7
+
+non trivial sector 1374trivial sector 1374 7
+
+non trivial sector 1377trivial sector 1377 5
+
+non trivial sector 1370trivial sector 1370 6
+
+non trivial sector 1372trivial sector 1372  6
+non trivial sector 1378trivial sector 1378 5
+
+non trivial sector 1379trivial sector 1379 6
+
+non trivial sector 1382trivial sector 1382 6
+
+non trivial sector 1380trivial sector 1380  5
+non trivial sector non trivial sector 1375 8
+
+non trivial sector 1383trivial sector 1383 77
+non trivial sector no85trivial sector 1385 6
+
+non trivial sector 1381trivial sector 1381 6
+
+non trivial sector 1387trivial sector 1387 77
+
+non trivial sector 1388trivial sector 1388 66
+
+non trivial sector non trivial sector 1386 6
+
+non trivial sector non trivial sector 1384 55
+non trivial sector non trivial sector 13891389 7
+
+non trivial sector 1393 6
+non trivial sector non trivial sector 1390 7
+
+non trivial sector 1396trivial sector 1396 66
+non trivial sector 1398trivial sector 1398 77
+
+non trivial sector 1391 391 8
+
+non trivial sector 1394trivial sector 1394 6
+
+non trivial sector non trivial sector 13951395 77
+non trivial sector 1397 77
+
+non trivial sector 1404trivial sector 1404 77
+non trivial sector 1402trivial sector 1402 7
+
+non trivial sector non trivial sector 1401 7
+non trivial sector non trivial sector 1400 400 6
+
+non trivial sector 1407trivial sector 1407 9
+
+non trivial sector 1405trivial sector 1405 88
+
+non trivial sector non trivial sector 1399 8
+
+non trivial sector 1411trivial sector 1411 5
+non trivial sector 1409trivial sector 1409 44
+non trivial sector 1403trivial sector 1403 88
+non trivial sector 1406trivial sector 1406 88
+
+non trivial sector 1410trivial sector 1410 44
+non trivial sector 1412trivial sector 1412 4
+
+non trivial sector 1414trivial sector 1414 5
+
+non trivial sector 1416trivial sector 1416 44
+
+non trivial sector 1419trivial sector 1419 6
+
+non trivial sector non trivial sector 1415  6
+non trivial sector 1413trivial sector 1413 5
+
+non trivial sector 1420trivial sector 1420 5
+
+non trivial sector 1417trivial sector 1417  5
+
+non trivial sector 1418trivial sector 1418 5
+non trivial sector 1421trivial sector 1421 6
+
+non trivial sector 1423trivial sector 1423 77
+non trivial sector 1432trivial sector 1432 5
+non trivial sector 1429trivial sector 1429 66
+non trivial sector 1425trivial sector 1425 5
+
+non trivial sector 1422trivial sector 1422 66
+non trivial sector 1426trivial sector 1426 5
+
+non trivial sector 1431trivial sector 1431 77
+
+non trivial sector 1430trivial sector 1430 66
+non trivial sector 1433trivial sector 1433 6
+
+non trivial sector non trivial sector 1439 8
+
+non trivial sector 1427trivial sector 1427 6
+
+non trivial sector non trivial sector 1428  5
+
+non trivial sector 1442 442 5
+
+non trivial sector non trivial sector 14371437 7
+
+non trivial sector 1435trivial sector 1435 7
+non trivial sector 1441trivial sector 1441 55
+
+non trivial sector 1434trivial sector 1434 6
+
+non trivial sector 1438trivial sector 1438 77
+non trivial sector non trivial sector 14431443 6
+
+non trivial sector non trivial sector 1449 6
+non trivial sector 1436trivial sector 1436 6
+
+non trivial sector non trivial sector 1446 6
+
+non trivial sector 1444trivial sector 1444  5
+
+non trivial sector 1445trivial sector 1445 6
+non trivial sector non trivial sector 1448 448 5
+
+non trivial sector 1451trivial sector 1451 7
+
+non trivial sector non trivial sector 1450  6
+
+non trivial sector 1454trivial sector 1454 77
+non trivial sector 1447trivial sector 1447 7
+
+non trivial sector 1457trivial sector 1457 66
+
+non trivial sector 1453trivial sector 1453 77
+
+non trivial sector 1452trivial sector 1452 66
+
+non trivial sector 1458trivial sector 1458 66
+
+non trivial sector 1455trivial sector 1455 8
+
+non trivial sector non trivial sector 1464 6
+non trivial sector 1460trivial sector 1460 66
+non trivial sector 1461trivial sector 1461 77
+
+non trivial sector non trivial sector 1462 462 7
+non trivial sector 1466trivial sector 1466 77
+
+non trivial sector 1463trivial sector 1463 88
+non trivial sector non trivial sector 1465 465 7
+
+non trivial sector non trivial sector 1468 468 7
+
+non trivial sector 1459trivial sector 1459 7
+
+non trivial sector 1467trivial sector 1467 88
+
+non trivial sector 1469trivial sector 1469 88
+non trivial sector 1474trivial sector 1474 5
+non trivial sector 1473trivial sector 1473 55
+non trivial sector 1471trivial sector 1471 9
+
+non trivial sector non trivial sector 1470 8
+
+non trivial sector non trivial sector 1475 66
+
+non trivial sector 1480trivial sector 1480 55
+non trivial sector 1479trivial sector 1479 7
+
+non trivial sector 1477trivial sector 1477 66
+non trivial sector 1482trivial sector 1482 6
+
+non trivial sector 1481trivial sector 1481 66
+
+non trivial sector non trivial sector 1476 5
+
+non trivial sector 1478trivial sector 1478 6
+
+non trivial sector 1483trivial sector 1483 7
+
+non trivial sector 1485trivial sector 1485 77
+non trivial sector non trivial sector 1484 66
+
+non trivial sector 1489trivial sector 1489 66
+
+non trivial sector 1487trivial sector 1487 8
+
+non trivial sector non trivial sector 1486  7
+non trivial sector 1495trivial sector 1495 8
+
+non trivial sector 1494 494 7
+
+non trivial sector 1491trivial sector 1491  7
+non trivial sector 1490trivial sector 1490 6
+
+non trivial sector 1492trivial sector 1492 6
+
+non trivial sector 1496trivial sector 1496 6
+non trivial sector 1493trivial sector 1493 77
+non trivial sector non trivial sector 1501 8
+
+non trivial sector 1500trivial sector 1500 77
+non trivial sector non trivial sector 14991499 88
+
+non trivial sector 1497trivial sector 1497 7
+
+non trivial sector 1498trivial sector 1498 77
+
+non trivial sector 1503trivial sector 1503 99
+non trivial sector 1507trivial sector 1507 7
+
+non trivial sector 1502trivial sector 1502 88
+
+non trivial sector 1509trivial sector 1509 7
+non trivial sector 1511trivial sector 1511 88
+non trivial sector 1516trivial sector 1516 77
+non trivial sector 1513trivial sector 1513 7
+
+non trivial sector 1508trivial sector 1508 6
+
+non trivial sector non trivial sector 1506 506 6
+
+non trivial sector 1518trivial sector 1518 8
+
+non trivial sector 1505trivial sector 1505 6
+non trivial sector non trivial sector 1514 514 7
+non trivial sector 1515trivial sector 1515 8
+
+non trivial sector non trivial sector 1512  6
+non trivial sector non trivial sector 1510 77
+non trivial sector 1522trivial sector 1522 7
+
+non trivial sector 1517trivial sector 1517 8
+
+non trivial sector 1519trivial sector 1519 9
+non trivial sector 1521trivial sector 1521 77
+non trivial sector 1523trivial sector 1523 88
+
+non trivial sector 1525trivial sector 1525 8
+
+non trivial sector 1527trivial sector 1527 9
+
+non trivial sector 1529trivial sector 1529 8
+
+non trivial sector non trivial sector 1533 9
+non trivial sector non trivial sector 1528  7
+
+non trivial sector 1526trivial sector 1526 8
+
+non trivial sector non trivial sector 1532  8
+non trivial sector 1524trivial sector 1524 7
+
+non trivial sector 1530trivial sector 1530 88
+
+non trivial sector non trivial sector 1531 9
+
+non trivial sector non trivial sector 1535 10
+0
+non trivial sector 1534trivial sector 1534 99
+non trivial sector 1557trivial sector 1557 5
+
+non trivial sector 1559trivial sector 1559 6
+
+non trivial sector 1562trivial sector 1562 5
+
+non trivial sector 1561trivial sector 1561 5
+
+non trivial sector 1563trivial sector 1563 6
+
+non trivial sector 1565trivial sector 1565 6
+
+non trivial sector 1567trivial sector 1567 7
+non trivial sector 1566trivial sector 1566 66
+non trivial sector 1573trivial sector 1573 5
+
+non trivial sector non trivial sector 1577 5
+
+non trivial sector 1575trivial sector 1575 6
+
+non trivial sector non trivial sector 1579 66
+non trivial sector 1578trivial sector 1578 5
+non trivial sector non trivial sector 1583 583 7
+
+non trivial sector 1581trivial sector 1581 6
+
+non trivial sector 1589trivial sector 1589 66
+non trivial sector 1591trivial sector 1591 77
+
+non trivial sector 1594trivial sector 1594 6
+
+non trivial sector non trivial sector 1593 66
+non trivial sector 1582trivial sector 1582 6
+
+non trivial sector 1601trivial sector 1601 44
+non trivial sector 1598trivial sector 1598  7
+
+non trivial sector 1606trivial sector 1606 5
+
+non trivial sector 1597trivial sector 1597 77
+non trivial sector 1602trivial sector 1602 4
+
+non trivial sector non trivial sector 1595 7
+
+non trivial sector 1599trivial sector 1599 88
+non trivial sector 1610trivial sector 1610 55
+
+non trivial sector 1607trivial sector 1607 6
+
+non trivial sector 1603trivial sector 1603 55
+non trivial sector 1605 605 5
+non trivial sector 1614trivial sector 1614 66
+non trivial sector non trivial sector 1609 5
+non trivial sector 1617trivial sector 1617 5
+
+non trivial sector 1613 613 6
+
+non trivial sector 1611trivial sector 1611 6
+
+non trivial sector 1615trivial sector 1615 77
+
+non trivial sector 1620 620 5
+
+non trivial sector 1618trivial sector 1618 5
+
+non trivial sector 1619trivial sector 1619 6
+
+non trivial sector 1622 6
+non trivial sector 1621trivial sector 1621 6
+
+non trivial sector 1623trivial sector 1623 77
+non trivial sector 1628trivial sector 1628 6
+
+non trivial sector 1625trivial sector 1625 66
+non trivial sector 1627 77
+
+non trivial sector 1630trivial sector 1630 77
+
+non trivial sector 1631trivial sector 1631 88
+non trivial sector 1626trivial sector 1626 66
+non trivial sector 1624trivial sector 1624 5
+
+non trivial sector 1635trivial sector 1635 66
+non trivial sector 1637trivial sector 1637 6
+
+non trivial sector 1634trivial sector 1634 5
+
+non trivial sector 1633trivial sector 1633 55
+non trivial sector non trivial sector 1636  5
+non trivial sector 1629trivial sector 1629 7
+
+non trivial sector 1640trivial sector 1640 55
+non trivial sector 1641trivial sector 1641 66
+non trivial sector 1638trivial sector 1638 66
+
+non trivial sector 1639trivial sector 1639 7
+
+non trivial sector non trivial sector 1643 77
+
+non trivial sector 1645trivial sector 1645 77
+
+non trivial sector 1650trivial sector 1650  6
+
+non trivial sector 1651trivial sector 1651 7
+
+non trivial sector 1646trivial sector 1646 77
+
+non trivial sector 1649 6
+
+non trivial sector 1642trivial sector 1642 6
+
+non trivial sector 1644trivial sector 1644 6
+
+non trivial sector 1652trivial sector 1652 6
+
+non trivial sector 1653trivial sector 1653 77
+
+non trivial sector 1647trivial sector 1647 8
+
+non trivial sector 1655trivial sector 1655 88
+non trivial sector 1660 660 7
+
+non trivial sector 1657trivial sector 1657 7
+
+non trivial sector 1659trivial sector 1659 88
+non trivial sector 1665trivial sector 1665 44
+non trivial sector 1658trivial sector 1658 77
+
+non trivial sector non trivial sector 1661 8
+
+non trivial sector 1663trivial sector 1663 99
+non trivial sector 1670trivial sector 1670 55
+non trivial sector 1654trivial sector 1654 77
+
+non trivial sector 1668 44
+non trivial sector 1669trivial sector 1669 5
+non trivial sector 1662trivial sector 1662 88
+non trivial sector non trivial sector 1656 6
+
+non trivial sector 1675trivial sector 1675 6
+non trivial sector 1667trivial sector 1667 55
+non trivial sector 1671trivial sector 1671 6
+
+non trivial sector non4trivial sector 1674  5
+non trivial sector 1678trivial sector 1678 6
+non trivial sector 1666trivial sector 1666 4
+non trivial sector 1672trivial sector 1672 4
+
+non trivial sector 1673trivial sector 1673 5
+
+non trivial sector 1676trivial sector 1676 55
+
+non trivial sector 1677trivial sector 1677 66
+non trivial sector non trivial sector 1681 55
+non trivial sector 1688trivial sector 1688 55
+non trivial sector 1684trivial sector 1684 55
+non trivial sector 1685trivial sector 1685 6
+
+non trivial sector 1679trivial sector 1679 77
+
+non trivial sector 1683trivial sector 1683 6
+
+non trivial sector 1682trivial sector 1682 5
+
+non trivial sector 1687trivial sector 1687 77
+
+non trivial sector 1686trivial sector 1686 66
+non trivial sector 1690trivial sector 1690 6
+
+non trivial sector 1689trivial sector 1689 6
+
+non trivial sector 1694 7
+
+non trivial sector non trivial sector 1693 7
+
+non trivial sector 1691trivial sector 1691 7
+
+non trivial sector 1697trivial sector 1697 5
+
+non trivial sector non trivial sector 1695 88
+
+non trivial sector no92trivial sector 1692 6
+
+non trivial sector 1698 55
+
+non trivial sector 1702trivial sector 1702 66
+non trivial sector non trivial sector 1706 6
+
+non trivial sector 1701trivial sector 1701 6
+non trivial sector 1699trivial sector 1699  6
+
+non trivial sector non trivial sector 1708 708 6
+
+non trivial sector 1704trivial sector 1704 55
+non trivial sector 1710 710 7
+
+non trivial sector 1709trivial sector 1709 7
+
+non trivial sector 1711trivial sector 1711 8
+non trivial sector 1700trivial sector 1700 5
+non trivial sector 1707 707 7
+
+non trivial sector 1705trivial sector 1705 66
+
+non trivial sector non trivial sector 1703 703 77
+
+non trivial sector 1716trivial sector 1716 66
+non trivial sector 1713trivial sector 1713 66
+
+non trivial sector 1714 714 6
+
+non trivial sector non trivial sector 1720 66
+non trivial sector 1718trivial sector 1718 7
+
+non trivial sector 1722trivial sector 1722 7
+
+non trivial sector 1719 88
+non trivial sector 1723trivial sector 1723 8
+
+non trivial sector 1715trivial sector 1715  7
+
+non trivial sector 1717trivial sector 1717 7
+
+non trivial sector 1724trivial sector 1724 7
+
+non trivial sector 1721trivial sector 1721 77
+non trivial sector 1731trivial sector 1731 6
+
+non trivial sector 1729trivial sector 1729 55
+
+non trivial sector 1725trivial sector 1725 8
+
+non trivial sector 1733trivial sector 1733 6
+
+non trivial sector 1736 55
+
+non trivial sector 1726trivial sector 1726 8
+
+non trivial sector 1732trivial sector 1732 55
+
+non trivial sector non trivial sector 1727 727 9
+
+non trivial sector 1738trivial sector 1738 6
+
+non trivial sector 1734trivial sector 1734 6
+non trivial sector 1737trivial sector 1737 6
+
+non trivial sector 1740trivial sector 1740 6
+
+non trivial sector non trivial sector 1735 77
+
+non trivial sector 1730trivial sector 1730 55
+non trivial sector 1741trivial sector 1741 7
+
+non trivial sector 1742trivial sector 1742 7
+
+non trivial sector 1746trivial sector 1746 6
+
+non trivial sector non trivial sector 1739 77
+non trivial sector 1748trivial sector 1748 66
+
+non trivial sector 1745 745 6
+
+non trivial sector 1750trivial sector 1750 7
+
+non trivial sector non trivial sector 1752 752 6
+
+non trivial sector 1747trivial sector 1747 7
+
+non trivial sector 1749trivial sector 1749 77
+
+non trivial sector 1743trivial sector 1743  8
+
+non trivial sector 1758trivial sector 1758 8
+
+non trivial sector 1753trivial sector 1753 7
+
+non trivial sector 1754trivial sector 1754  7
+
+non trivial sector 1762trivial sector 1762 66
+non trivial sector 1751trivial sector 1751 8
+
+non trivial sector 1755trivial sector 1755 8
+
+non trivial sector 1761trivial sector 1761 66
+non trivial sector 1756trivial sector 1756 77
+
+non trivial sector 1759trivial sector 1759 9
+
+non trivial sector 1757trivial sector 1757 8
+
+non trivial sector 1769trivial sector 1769 7
+
+non trivial sector 1766trivial sector 1766 7
+
+non trivial sector 1763trivial sector 1763 7
+
+non trivial sector 1768trivial sector 1768 66
+
+non trivial sector 1765trivial sector 1765 77
+
+non trivial sector 1773trivial sector 1773 8
+non trivial sector 1775 99
+non trivial sector 1771trivial sector 1771  8
+
+non trivial sector 1774trivial sector 1774 88
+
+non trivial sector 1767trivial sector 1767 8
+
+non trivial sector non trivial sector 1764  6
+non trivial sector 1772trivial sector 1772 77
+non trivial sector 1778trivial sector 1778 77
+
+non trivial sector non trivial sector 1770 770 7
+
+non trivial sector 1780trivial sector 1780 7
+
+non trivial sector 1782trivial sector 1782 88
+non trivial sector 1784trivial sector 1784 77
+non trivial sector non trivial sector 1781 8
+
+non trivial sector 1779trivial sector 1779 88
+non trivial sector 1787trivial sector 1787 9
+
+non trivial sector 1788trivial sector 1788 88
+
+non trivial sector non trivial sector 17891789 9
+
+non trivial sector 1785trivial sector 1785 8
+
+non trivial sector 1786 88
+non trivial sector non trivial sector 1783  9
+
+non trivial sector 1799trivial sector 1799 6
+
+non trivial sector 1797trivial sector 1797 5
+
+non trivial sector 1791trivial sector 1791 10
+non trivial sector 1777trivial sector 1777 7
+
+non trivial sector 1801trivial sector 1801 5
+
+non trivial sector 1803trivial sector 1803 6
+
+non trivial sector non trivial sector 1790 99
+
+non trivial sector 1807trivial sector 1807 7
+
+non trivial sector 1806trivial sector 1806 6
+
+non trivial sector 1802trivial sector 1802 55
+non trivial sector 1805trivial sector 1805 66
+non trivial sector 1815trivial sector 1815 77
+
+non trivial sector 1813trivial sector 1813 66
+
+non trivial sector 1818trivial sector 1818 66
+non trivial sector 1817trivial sector 1817 6
+
+non trivial sector 1821trivial sector 1821 77
+
+non trivial sector 1822trivial sector 1822 7
+
+non trivial sector 1823trivial sector 1823 88
+non trivial sector 1829trivial sector 1829  6
+
+non trivial sector non9trivial sector 1819 77
+non trivial sector 1831trivial sector 1831 77
+non trivial sector 1834trivial sector 1834 6
+
+non trivial sector 1835trivial sector 1835  7
+non trivial sector 1833trivial sector 1833 6
+
+non trivial sector 1838trivial sector 1838 77
+
+non trivial sector 1837trivial sector 1837 77
+non trivial sector 1839trivial sector 1839 8
+
+non trivial sector 1845trivial sector 1845 77
+non trivial sector 1849trivial sector 1849 7
+
+non trivial sector 1850trivial sector 1850 77
+non trivial sector non trivial sector 1847 8
+
+non trivial sector 1857trivial sector 1857 5
+
+non trivial sector non trivial sector 1853 853 8
+
+non trivial sector 1860trivial sector 1860 5
+
+non trivial sector 1851trivial sector 1851 88
+
+non trivial sector 1854trivial sector 1854 8
+
+non trivial sector 1858trivial sector 1858 5
+
+non trivial sector 1862trivial sector 1862 6
+
+non trivial sector 1855trivial sector 1855 9
+
+non trivial sector 1861trivial sector 1861 6
+non trivial sector 1864trivial sector 1864 55
+
+non trivial sector non trivial sector 1865 865 6
+
+non trivial sector 1866trivial sector 1866 66
+
+non trivial sector 1868trivial sector 1868 66
+non trivial sector 1873trivial sector 1873 66
+non trivial sector 1863trivial sector 1863 7
+
+non trivial sector 1870trivial sector 1870 77
+
+non trivial sector 1869 77
+non trivial sector 1871 8
+non trivial sector non trivial sector 1874  6
+non trivial sector 1867trivial sector 1867 77
+
+non trivial sector 18591859 6
+
+non trivial sector 1875trivial sector 1875 77
+non trivial sector non trivial sector 1877 877 7
+
+non trivial sector 1880 6
+
+non trivial sector 1882trivial sector 1882 7
+
+non trivial sector 1879trivial sector 1879  8
+non trivial sector non trivial sector 1881 77
+
+non trivial sector 1876trivial sector 1876 6
+
+non trivial sector 1884trivial sector 1884 7
+non trivial sector 1878trivial sector 1878 77
+non trivial sector 1883trivial sector 1883 88
+non trivial sector 1885trivial sector 1885 8
+
+non trivial sector 1886trivial sector 1886 8
+
+non trivial sector 1887trivial sector 1887 9
+
+non trivial sector 1891trivial sector 1891 77
+non trivial sector 1890trivial sector 1890 66
+
+non trivial sector 1889trivial sector 1889 6
+
+non trivial sector 1894 77
+non trivial sector 1899  8
+non trivial sector 1897 7
+
+non trivial sector 1900trivial sector 1900 7
+non trivial sector 1892trivial sector 1892 6
+
+non trivial sector 1896 66
+non trivial sector 1902trivial sector 1902 8
+
+non trivial sector 1895trivial sector 1895 8
+
+non trivial sector 1901trivial sector 1901 88
+
+non trivial sector 1906 906 7
+
+non trivial sector 1898trivial sector 1898 7
+
+non trivial sector 1893trivial sector 1893 7
+
+non trivial sector 1907trivial sector 1907 8
+
+non trivial sector 1908trivial sector 1908 77
+non trivial sector 1903trivial sector 1903 9
+
+non trivial sector 1905trivial sector 1905 7
+
+non trivial sector 1909trivial sector 1909 88
+
+non trivial sector non trivial sector 1911  9
+non trivial sector 1912trivial sector 1912 7
+non trivial sector 1914trivial sector 1914 8
+
+non trivial sector non trivial sector 1913 913 8
+
+non trivial sector 1922trivial sector 1922 55
+non trivial sector 1917trivial sector 1917 9
+
+non trivial sector 1910trivial sector 1910 8
+
+non trivial sector 1915trivial sector 1915 9
+
+non trivial sector 1916trivial sector 1916 88
+non trivial sector 1925  6
+
+non trivial sector 1923trivial sector 1923 6
+
+non trivial sector 1921trivial sector 1921 55
+non trivial sector 1924trivial sector 1924 55
+
+non trivial sector 1918trivial sector 1918 9
+
+non trivial sector non trivial sector 1927 7
+
+non trivial sector 1919trivial sector 1919 110
+non trivial sector 1932trivial sector 1932 6
+
+non trivial sector 1931trivial sector 1931 77
+non trivial sector 1930 930 6
+
+non trivial sector 1926trivial sector 1926 66
+
+non trivial sector 1933trivial sector 1933 7
+non trivial sector non trivial sector 1929 6
+
+non trivial sector 1935trivial sector 1935 8
+
+non trivial sector 1938trivial sector 1938  6
+non trivial sector 1934trivial sector 1934 7
+non trivial sector 1928trivial sector 1928 5
+
+non trivial sector 1937trivial sector 1937 66
+
+non trivial sector 1939trivial sector 1939 7
+
+non trivial sector 1941trivial sector 1941 77
+
+non trivial sector 1944trivial sector 1944 6
+
+non trivial sector 1940trivial sector 1940 6
+
+non trivial sector 1946 946 7
+
+non trivial sector non trivial sector 1943 8
+
+non trivial sector 1942trivial sector 1942 77
+
+non trivial sector 1945trivial sector 1945 77
+non trivial sector 1950trivial sector 1950 8
+non trivial sector 1949trivial sector 1949 88
+
+non trivial sector 1948trivial sector 1948  77
+non trivial sector non7trivial sector 1947 88
+non trivial sector 1953trivial sector 1953 66
+
+non trivial sector 1960trivial sector 1960 6
+
+non trivial sector 1955 955 7
+
+non trivial sector non trivial sector 1954  6
+
+non trivial sector 1951trivial sector 1951 99
+
+non trivial sector 1957 77
+
+non trivial sector 1959trivial sector 1959 8
+
+non trivial sector 1956trivial sector 1956 66
+non trivial sector 1963trivial sector 1963 88
+non trivial sector non trivial sector 1958 7
+
+non trivial sector 1962trivial sector 1962 7
+
+non trivial sector 1961trivial sector 1961 7
+
+non trivial sector 1964trivial sector 1964 7
+
+non trivial sector non trivial sector 1965 88
+
+non trivial sector 1966trivial sector 1966 8
+
+non trivial sector 1967trivial sector 1967 9
+
+non trivial sector 1974trivial sector 1974 88
+non trivial sector non trivial sector 1976 77
+
+non trivial sector 1977trivial sector 1977 88
+non trivial sector 1969trivial sector 1969 7
+
+non trivial sector 1971trivial sector 1971 88
+non trivial sector 1975trivial sector 1975 9
+
+non trivial sector 1970trivial sector 1970 7
+
+non trivial sector 1972trivial sector 1972 7
+non trivial sector 1978trivial sector 1978 8
+non trivial sector non trivial sector 1973 88
+
+non trivial sector 1980trivial sector 1980 8
+
+non trivial sector 1986trivial sector 1986 66
+
+non trivial sector non trivial sector 1979 99
+non trivial sector 1981trivial sector 1981 99
+non trivial sector 1982trivial sector 1982 9
+
+non trivial sector 1987trivial sector 1987 7
+non trivial sector 1983trivial sector 1983 110
+
+non trivial sector 1989trivial sector 1989 77
+non trivial sector 1985trivial sector 1985 66
+
+non trivial sector 1991trivial sector 1991 88
+
+non trivial sector 1992trivial sector 1992 6
+
+non trivial sector 1990trivial sector 1990 7
+
+non trivial sector 1993trivial sector 1993 7
+
+non trivial sector 1995trivial sector 1995 8
+
+non trivial sector 1994trivial sector 1994 7
+
+non trivial sector 1998 998 8
+
+non trivial sector non trivial sector 1997 88
+non trivial sector 1999trivial sector 1999 9
+
+non trivial sector 2002 002trivial sector  7
+
+non trivial sector 1988trivial sector 1988  6
+
+non trivial sector 2003trivial sector 2003 8
+
+non trivial sector 1996trivial sector 1996 7
+
+non trivial sector 2008trivial sector 2008 7
+
+non trivial sector 2001trivial sector 2001 77
+non trivial sector 2004trivial sector 2004 7
+
+non trivial sector 2007trivial sector 2007 99
+non trivial sector 2005trivial sector 2005 8
+non trivial sector 2011 011 9
+
+non trivial sector 2012trivial sector 2012 8
+
+non trivial sector 2009trivial sector 2009 88
+non trivial sector 2010trivial sector 2010 8
+
+non trivial sector 2006trivial sector 2006 8
+
+non trivial sector 2013trivial sector 2013 9
+
+non trivial sector 2014trivial sector 2014 99
+
+non trivial sector 2021trivial sector 2021 88
+non trivial sector 2018 7
+
+non trivial sector non trivial sector 2017 7
+
+non trivial sector 2015trivial sector 2015 110
+non trivial sector 2019trivial sector 2019 8
+
+non trivial sector 2026trivial sector 2026 8
+
+non trivial sector 2025trivial sector 2025 88
+
+non trivial sector 2022trivial sector 2022 88
+
+non trivial sector 2020 7
+
+non trivial sector 2028 028 8
+
+non trivial sector 2024trivial sector 2024 77
+non trivial sector 2023trivial sector 2023 99
+non trivial sector 2031trivial sector 2031 10
+0
+non trivial sector 2027trivial sector 2027 9
+
+non trivial sector 2033trivial sector 2033 8
+
+non trivial sector 2038trivial sector 2038 99
+
+non trivial sector 2036trivial sector 2036 88
+non trivial sector 2030trivial sector 2030 99
+
+non trivial sector 2034trivial sector 2034 88
+
+non trivial sector 2035trivial sector 2035 99
+non trivial sector 2029trivial sector 2029 9
+
+non trivial sector 2037 037 9
+
+non trivial sector 2039 10
+non trivial sector 2040 88
+
+non trivial sector 2041trivial sector 2041 99
+non trivial sector 2042trivial sector 2042 9
+non trivial sector 2044 9
+non trivial sector 2047trivial sector 2047 11
+
+non trivial sector 2045 10
+non trivial sector 2043 10
+non trivial sector 2046 10
+
+Non trivial sectors in total: 1518
+Trivial sectors in total: 530
+( 0.1 s )
+
+Search symmetry relations: 
+
+( 1.5 s )
+***********************************************************
+Prepare Symmetries for the topology: hexagonbox1
+***********************************************************
+Build symmetries for hexagonbox1 x hexagonbox1 
+Kira maps this sector 84 to this sector 84
+with external Symmetry 0
+Kira maps this sector 84 to this sector 84
+with external Symmetry 0
+Kira maps this sector 84 to this sector 84
+with external Symmetry 0
+Kira maps this sector 84 to this sector 84
+with external Symmetry 0
+Kira maps this sector 84 to this sector 84
+with external Symmetry 0
+Kira maps this sector 577 to this sector 84
+with external Symmetry 0
+Kira maps this sector 577 to this sector 84
+with external Symmetry 0
+Kira maps this sector 577 to this sector 84
+with external Symmetry 0
+Kira maps this sector 577 to this sector 84
+with external Symmetry 0
+Kira maps this sector 577 to this sector 84
+with external Symmetry 0
+Kira maps this sector 577 to this sector 84
+with external Symmetry 0
+Kira maps this sector 88 to this sector 88
+with external Symmetry 0
+Kira maps this sector 88 to this sector 88
+with external Symmetry 0
+Kira maps this sector 88 to this sector 88
+with external Symmetry 0
+Kira maps this sector 88 to this sector 88
+with external Symmetry 0
+Kira maps this sector 88 to this sector 88
+with external Symmetry 0
+Kira maps this sector 161 to this sector 88
+with external Symmetry 0
+Kira maps this sector 161 to this sector 88
+with external Symmetry 0
+Kira maps this sector 161 to this sector 88
+with external Symmetry 0
+Kira maps this sector 161 to this sector 88
+with external Symmetry 0
+Kira maps this sector 161 to this sector 88
+with external Symmetry 0
+Kira maps this sector 161 to this sector 88
+with external Symmetry 0
+Kira maps this sector 1089 to this sector 88
+with external Symmetry 0
+Kira maps this sector 1089 to this sector 88
+with external Symmetry 0
+Kira maps this sector 1089 to this sector 88
+with external Symmetry 0
+Kira maps this sector 1089 to this sector 88
+with external Symmetry 0
+Kira maps this sector 1089 to this sector 88
+with external Symmetry 0
+Kira maps this sector 1089 to this sector 88
+with external Symmetry 0
+Kira maps this sector 98 to this sector 98
+with external Symmetry 0
+Kira maps this sector 98 to this sector 98
+with external Symmetry 0
+Kira maps this sector 98 to this sector 98
+with external Symmetry 0
+Kira maps this sector 98 to this sector 98
+with external Symmetry 0
+Kira maps this sector 98 to this sector 98
+with external Symmetry 0
+Kira maps this sector 392 to this sector 98
+with external Symmetry 0
+Kira maps this sector 392 to this sector 98
+with external Symmetry 0
+Kira maps this sector 392 to this sector 98
+with external Symmetry 0
+Kira maps this sector 392 to this sector 98
+with external Symmetry 0
+Kira maps this sector 392 to this sector 98
+with external Symmetry 0
+Kira maps this sector 392 to this sector 98
+with external Symmetry 0
+Kira maps this sector 100 to this sector 100
+with external Symmetry 0
+Kira maps this sector 100 to this sector 100
+with external Symmetry 0
+Kira maps this sector 100 to this sector 100
+with external Symmetry 0
+Kira maps this sector 100 to this sector 100
+with external Symmetry 0
+Kira maps this sector 100 to this sector 100
+with external Symmetry 0
+Kira maps this sector 648 to this sector 100
+with external Symmetry 0
+Kira maps this sector 648 to this sector 100
+with external Symmetry 0
+Kira maps this sector 648 to this sector 100
+with external Symmetry 0
+Kira maps this sector 648 to this sector 100
+with external Symmetry 0
+Kira maps this sector 648 to this sector 100
+with external Symmetry 0
+Kira maps this sector 648 to this sector 100
+with external Symmetry 0
+Kira maps this sector 146 to this sector 146
+with external Symmetry 0
+Kira maps this sector 146 to this sector 146
+with external Symmetry 0
+Kira maps this sector 146 to this sector 146
+with external Symmetry 0
+Kira maps this sector 146 to this sector 146
+with external Symmetry 0
+Kira maps this sector 146 to this sector 146
+with external Symmetry 0
+Kira maps this sector 148 to this sector 148
+with external Symmetry 0
+Kira maps this sector 148 to this sector 148
+with external Symmetry 0
+Kira maps this sector 148 to this sector 148
+with external Symmetry 0
+Kira maps this sector 148 to this sector 148
+with external Symmetry 0
+Kira maps this sector 148 to this sector 148
+with external Symmetry 0
+Kira maps this sector 162 to this sector 162
+with external Symmetry 0
+Kira maps this sector 162 to this sector 162
+with external Symmetry 0
+Kira maps this sector 162 to this sector 162
+with external Symmetry 0
+Kira maps this sector 162 to this sector 162
+with external Symmetry 0
+Kira maps this sector 162 to this sector 162
+with external Symmetry 0
+Kira maps this sector 328 to this sector 162
+with external Symmetry 0
+Kira maps this sector 328 to this sector 162
+with external Symmetry 0
+Kira maps this sector 328 to this sector 162
+with external Symmetry 0
+Kira maps this sector 328 to this sector 162
+with external Symmetry 0
+Kira maps this sector 328 to this sector 162
+with external Symmetry 0
+Kira maps this sector 328 to this sector 162
+with external Symmetry 0
+Kira maps this sector 1090 to this sector 162
+with external Symmetry 0
+Kira maps this sector 1090 to this sector 162
+with external Symmetry 0
+Kira maps this sector 1090 to this sector 162
+with external Symmetry 0
+Kira maps this sector 1090 to this sector 162
+with external Symmetry 0
+Kira maps this sector 1090 to this sector 162
+with external Symmetry 0
+Kira maps this sector 1090 to this sector 162
+with external Symmetry 0
+Kira maps this sector 385 to this sector 385
+with external Symmetry 0
+Kira maps this sector 385 to this sector 385
+with external Symmetry 0
+Kira maps this sector 385 to this sector 385
+with external Symmetry 0
+Kira maps this sector 385 to this sector 385
+with external Symmetry 0
+Kira maps this sector 385 to this sector 385
+with external Symmetry 0
+Kira maps this sector 388 to this sector 388
+with external Symmetry 0
+Kira maps this sector 388 to this sector 388
+with external Symmetry 0
+Kira maps this sector 388 to this sector 388
+with external Symmetry 0
+Kira maps this sector 388 to this sector 388
+with external Symmetry 0
+Kira maps this sector 388 to this sector 388
+with external Symmetry 0
+Kira maps this sector 641 to this sector 641
+with external Symmetry 0
+Kira maps this sector 641 to this sector 641
+with external Symmetry 0
+Kira maps this sector 641 to this sector 641
+with external Symmetry 0
+Kira maps this sector 641 to this sector 641
+with external Symmetry 0
+Kira maps this sector 641 to this sector 641
+with external Symmetry 0
+Kira maps this sector 642 to this sector 642
+with external Symmetry 0
+Kira maps this sector 642 to this sector 642
+with external Symmetry 0
+Kira maps this sector 642 to this sector 642
+with external Symmetry 0
+Kira maps this sector 642 to this sector 642
+with external Symmetry 0
+Kira maps this sector 642 to this sector 642
+with external Symmetry 0
+Kira maps this sector 1153 to this sector 1153
+with external Symmetry 0
+Kira maps this sector 1153 to this sector 1153
+with external Symmetry 0
+Kira maps this sector 1153 to this sector 1153
+with external Symmetry 0
+Kira maps this sector 1153 to this sector 1153
+with external Symmetry 0
+Kira maps this sector 1153 to this sector 1153
+with external Symmetry 0
+Kira maps this sector 1154 to this sector 1154
+with external Symmetry 0
+Kira maps this sector 1154 to this sector 1154
+with external Symmetry 0
+Kira maps this sector 1154 to this sector 1154
+with external Symmetry 0
+Kira maps this sector 1154 to this sector 1154
+with external Symmetry 0
+Kira maps this sector 1154 to this sector 1154
+with external Symmetry 0
+Kira maps this sector 1156 to this sector 1156
+with external Symmetry 0
+Kira maps this sector 1156 to this sector 1156
+with external Symmetry 0
+Kira maps this sector 1156 to this sector 1156
+with external Symmetry 0
+Kira maps this sector 1156 to this sector 1156
+with external Symmetry 0
+Kira maps this sector 1156 to this sector 1156
+with external Symmetry 0
+Kira maps this sector 85 to this sector 85
+with external Symmetry 0
+Kira maps this sector 581 to this sector 85
+with external Symmetry 0
+Kira maps this sector 581 to this sector 85
+with external Symmetry 0
+Kira maps this sector 593 to this sector 85
+with external Symmetry 0
+Kira maps this sector 593 to this sector 85
+with external Symmetry 0
+Kira maps this sector 596 to this sector 85
+with external Symmetry 0
+Kira maps this sector 596 to this sector 85
+with external Symmetry 0
+Kira maps this sector 86 to this sector 86
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 340 to this sector 86
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 340 to this sector 86
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 579 to this sector 86
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 579 to this sector 86
+with external Symmetry 0
+Kira maps this sector 833 to this sector 86
+with external Symmetry 0
+Kira maps this sector 833 to this sector 86
+with external Symmetry 0
+Kira maps this sector 89 to this sector 89
+with external Symmetry 0
+Kira maps this sector 169 to this sector 89
+with external Symmetry 0
+Kira maps this sector 169 to this sector 89
+with external Symmetry 0
+Kira maps this sector 1097 to this sector 89
+with external Symmetry 0
+Kira maps this sector 1097 to this sector 89
+with external Symmetry 0
+Kira maps this sector 1105 to this sector 89
+with external Symmetry 0
+Kira maps this sector 1105 to this sector 89
+with external Symmetry 0
+Kira maps this sector 1112 to this sector 89
+with external Symmetry 0
+Kira maps this sector 1112 to this sector 89
+with external Symmetry 0
+Kira maps this sector 90 to this sector 90
+with external Symmetry 0
+Kira maps this sector 1345 to this sector 90
+with external Symmetry 0
+Kira maps this sector 1345 to this sector 90
+with external Symmetry 0
+Kira maps this sector 92 to this sector 92
+with external Symmetry 0
+Kira maps this sector 1601 to this sector 92
+with external Symmetry 0
+Kira maps this sector 1601 to this sector 92
+with external Symmetry 0
+Kira maps this sector 99 to this sector 99
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 114 to this sector 99
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 114 to this sector 99
+with external Symmetry 0
+Kira maps this sector 408 to this sector 99
+with external Symmetry 0
+Kira maps this sector 408 to this sector 99
+with external Symmetry 0
+Kira maps this sector 101 to this sector 101
+with external Symmetry 0
+Kira maps this sector 664 to this sector 101
+with external Symmetry 0
+Kira maps this sector 664 to this sector 101
+with external Symmetry 0
+Kira maps this sector 102 to this sector 102
+with external Symmetry 0
+Kira maps this sector 904 to this sector 102
+with external Symmetry 0
+Kira maps this sector 904 to this sector 102
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 105 to this sector 105
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 105 to this sector 105
+with external Symmetry 0
+Kira maps this sector 105 to this sector 105
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 153 to this sector 105
+with external Symmetry 0
+Kira maps this sector 153 to this sector 105
+with external Symmetry 0
+Kira maps this sector 153 to this sector 105
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 153 to this sector 105
+with external Symmetry 0
+Kira maps this sector 1176 to this sector 105
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1176 to this sector 105
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1176 to this sector 105
+with external Symmetry 0
+Kira maps this sector 1176 to this sector 105
+with external Symmetry 0
+Kira maps this sector 106 to this sector 106
+with external Symmetry 0
+Kira maps this sector 394 to this sector 106
+with external Symmetry 0
+Kira maps this sector 394 to this sector 106
+with external Symmetry 0
+Kira maps this sector 1416 to this sector 106
+with external Symmetry 0
+Kira maps this sector 1416 to this sector 106
+with external Symmetry 0
+Kira maps this sector 108 to this sector 108
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 228 to this sector 108
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 228 to this sector 108
+with external Symmetry 0
+Kira maps this sector 652 to this sector 108
+with external Symmetry 0
+Kira maps this sector 652 to this sector 108
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 712 to this sector 108
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 712 to this sector 108
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1124 to this sector 108
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1124 to this sector 108
+with external Symmetry 0
+Kira maps this sector 1672 to this sector 108
+with external Symmetry 0
+Kira maps this sector 1672 to this sector 108
+with external Symmetry 0
+Kira maps this sector 116 to this sector 116
+with external Symmetry 0
+Kira maps this sector 120 to this sector 120
+with external Symmetry 0
+Kira maps this sector 177 to this sector 120
+with external Symmetry 0
+Kira maps this sector 177 to this sector 120
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 216 to this sector 120
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 216 to this sector 120
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 225 to this sector 120
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 225 to this sector 120
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1121 to this sector 120
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1121 to this sector 120
+with external Symmetry 0
+Kira maps this sector 147 to this sector 147
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 210 to this sector 147
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 210 to this sector 147
+with external Symmetry 0
+Kira maps this sector 402 to this sector 147
+with external Symmetry 0
+Kira maps this sector 402 to this sector 147
+with external Symmetry 0
+Kira maps this sector 149 to this sector 149
+with external Symmetry 0
+Kira maps this sector 660 to this sector 149
+with external Symmetry 0
+Kira maps this sector 660 to this sector 149
+with external Symmetry 0
+Kira maps this sector 150 to this sector 150
+with external Symmetry 0
+Kira maps this sector 154 to this sector 154
+with external Symmetry 0
+Kira maps this sector 156 to this sector 156
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 180 to this sector 156
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 180 to this sector 156
+with external Symmetry 0
+Kira maps this sector 163 to this sector 163
+with external Symmetry 0
+Kira maps this sector 344 to this sector 163
+with external Symmetry 0
+Kira maps this sector 344 to this sector 163
+with external Symmetry 0
+Kira maps this sector 1091 to this sector 163
+with external Symmetry 0
+Kira maps this sector 1091 to this sector 163
+with external Symmetry 0
+Kira maps this sector 165 to this sector 165
+with external Symmetry 0
+Kira maps this sector 600 to this sector 165
+with external Symmetry 0
+Kira maps this sector 600 to this sector 165
+with external Symmetry 0
+Kira maps this sector 1093 to this sector 165
+with external Symmetry 0
+Kira maps this sector 1093 to this sector 165
+with external Symmetry 0
+Kira maps this sector 166 to this sector 166
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 332 to this sector 166
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 332 to this sector 166
+with external Symmetry 0
+Kira maps this sector 840 to this sector 166
+with external Symmetry 0
+Kira maps this sector 840 to this sector 166
+with external Symmetry 0
+Kira maps this sector 1094 to this sector 166
+with external Symmetry 0
+Kira maps this sector 1094 to this sector 166
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1602 to this sector 166
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1602 to this sector 166
+with external Symmetry 0
+Kira maps this sector 170 to this sector 170
+with external Symmetry 0
+Kira maps this sector 330 to this sector 170
+with external Symmetry 0
+Kira maps this sector 330 to this sector 170
+with external Symmetry 0
+Kira maps this sector 1098 to this sector 170
+with external Symmetry 0
+Kira maps this sector 1098 to this sector 170
+with external Symmetry 0
+Kira maps this sector 1346 to this sector 170
+with external Symmetry 0
+Kira maps this sector 1346 to this sector 170
+with external Symmetry 0
+Kira maps this sector 1352 to this sector 170
+with external Symmetry 0
+Kira maps this sector 1352 to this sector 170
+with external Symmetry 0
+Kira maps this sector 178 to this sector 178
+with external Symmetry 0
+Kira maps this sector 212 to this sector 212
+with external Symmetry 0
+Kira maps this sector 226 to this sector 226
+with external Symmetry 0
+Kira maps this sector 456 to this sector 226
+with external Symmetry 0
+Kira maps this sector 456 to this sector 226
+with external Symmetry 0
+Kira maps this sector 1122 to this sector 226
+with external Symmetry 0
+Kira maps this sector 1122 to this sector 226
+with external Symmetry 0
+Kira maps this sector 293 to this sector 293
+with external Symmetry 0
+Kira maps this sector 293 to this sector 293
+with external Symmetry 0
+Kira maps this sector 293 to this sector 293
+with external Symmetry 0
+Kira maps this sector 297 to this sector 297
+with external Symmetry 0
+Kira maps this sector 297 to this sector 297
+with external Symmetry 0
+Kira maps this sector 297 to this sector 297
+with external Symmetry 0
+Kira maps this sector 298 to this sector 298
+with external Symmetry 0
+Kira maps this sector 298 to this sector 298
+with external Symmetry 0
+Kira maps this sector 298 to this sector 298
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 325 to this sector 325
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 325 to this sector 325
+with external Symmetry 0
+Kira maps this sector 325 to this sector 325
+with external Symmetry 0
+Kira maps this sector 594 to this sector 325
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 594 to this sector 325
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 594 to this sector 325
+with external Symmetry 0
+Kira maps this sector 594 to this sector 325
+with external Symmetry 0
+Kira maps this sector 329 to this sector 329
+with external Symmetry 0
+Kira maps this sector 1106 to this sector 329
+with external Symmetry 0
+Kira maps this sector 1106 to this sector 329
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 353 to this sector 353
+with external Symmetry 0
+Kira maps this sector 353 to this sector 353
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 353 to this sector 353
+with external Symmetry 0
+Kira maps this sector 354 to this sector 354
+with external Symmetry 0
+Kira maps this sector 424 to this sector 354
+with external Symmetry 0
+Kira maps this sector 424 to this sector 354
+with external Symmetry 0
+Kira maps this sector 356 to this sector 356
+with external Symmetry 0
+Kira maps this sector 360 to this sector 360
+with external Symmetry 0
+Kira maps this sector 418 to this sector 360
+with external Symmetry 0
+Kira maps this sector 418 to this sector 360
+with external Symmetry 0
+Kira maps this sector 387 to this sector 387
+with external Symmetry 0
+Kira maps this sector 401 to this sector 387
+with external Symmetry 0
+Kira maps this sector 401 to this sector 387
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 449 to this sector 387
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 449 to this sector 387
+with external Symmetry 0
+Kira maps this sector 389 to this sector 389
+with external Symmetry 0
+Kira maps this sector 390 to this sector 390
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 452 to this sector 390
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 452 to this sector 390
+with external Symmetry 0
+Kira maps this sector 900 to this sector 390
+with external Symmetry 0
+Kira maps this sector 900 to this sector 390
+with external Symmetry 0
+Kira maps this sector 393 to this sector 393
+with external Symmetry 0
+Kira maps this sector 396 to this sector 396
+with external Symmetry 0
+Kira maps this sector 404 to this sector 404
+with external Symmetry 0
+Kira maps this sector 417 to this sector 417
+with external Symmetry 0
+Kira maps this sector 420 to this sector 420
+with external Symmetry 0
+Kira maps this sector 533 to this sector 533
+with external Symmetry 0
+Kira maps this sector 533 to this sector 533
+with external Symmetry 0
+Kira maps this sector 533 to this sector 533
+with external Symmetry 0
+Kira maps this sector 533 to this sector 533
+with external Symmetry 0
+Kira maps this sector 533 to this sector 533
+with external Symmetry 0
+Kira maps this sector 533 to this sector 533
+with external Symmetry 0
+Kira maps this sector 533 to this sector 533
+with external Symmetry 0
+Kira maps this sector 537 to this sector 537
+with external Symmetry 0
+Kira maps this sector 537 to this sector 537
+with external Symmetry 0
+Kira maps this sector 537 to this sector 537
+with external Symmetry 0
+Kira maps this sector 1045 to this sector 537
+with external Symmetry 0
+Kira maps this sector 1045 to this sector 537
+with external Symmetry 0
+Kira maps this sector 1045 to this sector 537
+with external Symmetry 0
+Kira maps this sector 1045 to this sector 537
+with external Symmetry 0
+Kira maps this sector 538 to this sector 538
+with external Symmetry 0
+Kira maps this sector 538 to this sector 538
+with external Symmetry 0
+Kira maps this sector 538 to this sector 538
+with external Symmetry 0
+Kira maps this sector 1285 to this sector 538
+with external Symmetry 0
+Kira maps this sector 1285 to this sector 538
+with external Symmetry 0
+Kira maps this sector 1285 to this sector 538
+with external Symmetry 0
+Kira maps this sector 1285 to this sector 538
+with external Symmetry 0
+Kira maps this sector 549 to this sector 549
+with external Symmetry 0
+Kira maps this sector 549 to this sector 549
+with external Symmetry 0
+Kira maps this sector 549 to this sector 549
+with external Symmetry 0
+Kira maps this sector 553 to this sector 553
+with external Symmetry 0
+Kira maps this sector 553 to this sector 553
+with external Symmetry 0
+Kira maps this sector 553 to this sector 553
+with external Symmetry 0
+Kira maps this sector 554 to this sector 554
+with external Symmetry 0
+Kira maps this sector 554 to this sector 554
+with external Symmetry 0
+Kira maps this sector 554 to this sector 554
+with external Symmetry 0
+Kira maps this sector 585 to this sector 585
+with external Symmetry 0
+Kira maps this sector 1108 to this sector 585
+with external Symmetry 0
+Kira maps this sector 1108 to this sector 585
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 586 to this sector 586
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 586 to this sector 586
+with external Symmetry 0
+Kira maps this sector 586 to this sector 586
+with external Symmetry 0
+Kira maps this sector 1348 to this sector 586
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1348 to this sector 586
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1348 to this sector 586
+with external Symmetry 0
+Kira maps this sector 1348 to this sector 586
+with external Symmetry 0
+Kira maps this sector 609 to this sector 609
+with external Symmetry 0
+Kira maps this sector 610 to this sector 610
+with external Symmetry 0
+Kira maps this sector 612 to this sector 612
+with external Symmetry 0
+Kira maps this sector 680 to this sector 612
+with external Symmetry 0
+Kira maps this sector 680 to this sector 612
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 616 to this sector 616
+with external Symmetry 0
+Kira maps this sector 616 to this sector 616
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 616 to this sector 616
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 676 to this sector 616
+with external Symmetry 0
+Kira maps this sector 676 to this sector 616
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 676 to this sector 616
+with external Symmetry 0
+Kira maps this sector 676 to this sector 616
+with external Symmetry 0
+Kira maps this sector 643 to this sector 643
+with external Symmetry 0
+Kira maps this sector 645 to this sector 645
+with external Symmetry 0
+Kira maps this sector 657 to this sector 645
+with external Symmetry 0
+Kira maps this sector 657 to this sector 645
+with external Symmetry 0
+Kira maps this sector 646 to this sector 646
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 706 to this sector 646
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 706 to this sector 646
+with external Symmetry 0
+Kira maps this sector 898 to this sector 646
+with external Symmetry 0
+Kira maps this sector 898 to this sector 646
+with external Symmetry 0
+Kira maps this sector 649 to this sector 649
+with external Symmetry 0
+Kira maps this sector 650 to this sector 650
+with external Symmetry 0
+Kira maps this sector 658 to this sector 658
+with external Symmetry 0
+Kira maps this sector 673 to this sector 673
+with external Symmetry 0
+Kira maps this sector 674 to this sector 674
+with external Symmetry 0
+Kira maps this sector 705 to this sector 705
+with external Symmetry 0
+Kira maps this sector 897 to this sector 897
+with external Symmetry 0
+Kira maps this sector 1049 to this sector 1049
+with external Symmetry 0
+Kira maps this sector 1049 to this sector 1049
+with external Symmetry 0
+Kira maps this sector 1049 to this sector 1049
+with external Symmetry 0
+Kira maps this sector 1049 to this sector 1049
+with external Symmetry 0
+Kira maps this sector 1049 to this sector 1049
+with external Symmetry 0
+Kira maps this sector 1049 to this sector 1049
+with external Symmetry 0
+Kira maps this sector 1049 to this sector 1049
+with external Symmetry 0
+Kira maps this sector 1050 to this sector 1050
+with external Symmetry 0
+Kira maps this sector 1050 to this sector 1050
+with external Symmetry 0
+Kira maps this sector 1050 to this sector 1050
+with external Symmetry 0
+Kira maps this sector 1289 to this sector 1050
+with external Symmetry 0
+Kira maps this sector 1289 to this sector 1050
+with external Symmetry 0
+Kira maps this sector 1289 to this sector 1050
+with external Symmetry 0
+Kira maps this sector 1289 to this sector 1050
+with external Symmetry 0
+Kira maps this sector 1155 to this sector 1155
+with external Symmetry 0
+Kira maps this sector 1157 to this sector 1157
+with external Symmetry 0
+Kira maps this sector 1158 to this sector 1158
+with external Symmetry 0
+Kira maps this sector 1161 to this sector 1161
+with external Symmetry 0
+Kira maps this sector 1169 to this sector 1161
+with external Symmetry 0
+Kira maps this sector 1169 to this sector 1161
+with external Symmetry 0
+Kira maps this sector 1162 to this sector 1162
+with external Symmetry 0
+Kira maps this sector 1410 to this sector 1162
+with external Symmetry 0
+Kira maps this sector 1410 to this sector 1162
+with external Symmetry 0
+Kira maps this sector 1164 to this sector 1164
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1188 to this sector 1164
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1188 to this sector 1164
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1220 to this sector 1164
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1220 to this sector 1164
+with external Symmetry 0
+Kira maps this sector 1668 to this sector 1164
+with external Symmetry 0
+Kira maps this sector 1668 to this sector 1164
+with external Symmetry 0
+Kira maps this sector 1170 to this sector 1170
+with external Symmetry 0
+Kira maps this sector 1172 to this sector 1172
+with external Symmetry 0
+Kira maps this sector 1185 to this sector 1185
+with external Symmetry 0
+Kira maps this sector 1217 to this sector 1185
+with external Symmetry 0
+Kira maps this sector 1217 to this sector 1185
+with external Symmetry 0
+Kira maps this sector 1186 to this sector 1186
+with external Symmetry 0
+Kira maps this sector 1218 to this sector 1186
+with external Symmetry 0
+Kira maps this sector 1218 to this sector 1186
+with external Symmetry 0
+Kira maps this sector 1290 to this sector 1290
+with external Symmetry 0
+Kira maps this sector 1290 to this sector 1290
+with external Symmetry 0
+Kira maps this sector 1290 to this sector 1290
+with external Symmetry 0
+Kira maps this sector 1290 to this sector 1290
+with external Symmetry 0
+Kira maps this sector 1290 to this sector 1290
+with external Symmetry 0
+Kira maps this sector 1290 to this sector 1290
+with external Symmetry 0
+Kira maps this sector 1290 to this sector 1290
+with external Symmetry 0
+Kira maps this sector 1409 to this sector 1409
+with external Symmetry 0
+Kira maps this sector 1412 to this sector 1412
+with external Symmetry 0
+Kira maps this sector 1665 to this sector 1665
+with external Symmetry 0
+Kira maps this sector 1666 to this sector 1666
+with external Symmetry 0
+Kira maps this sector 87 to this sector 87
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 583 to this sector 87
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 583 to this sector 87
+with external Symmetry 0
+Kira maps this sector 849 to this sector 87
+with external Symmetry 0
+Kira maps this sector 849 to this sector 87
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 852 to this sector 87
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 852 to this sector 87
+with external Symmetry 0
+Kira maps this sector 91 to this sector 91
+with external Symmetry 0
+Kira maps this sector 1361 to this sector 91
+with external Symmetry 0
+Kira maps this sector 1361 to this sector 91
+with external Symmetry 0
+Kira maps this sector 93 to this sector 93
+with external Symmetry 0
+Kira maps this sector 1617 to this sector 93
+with external Symmetry 0
+Kira maps this sector 1617 to this sector 93
+with external Symmetry 0
+Kira maps this sector 94 to this sector 94
+with external Symmetry 0
+Kira maps this sector 1857 to this sector 94
+with external Symmetry 0
+Kira maps this sector 1857 to this sector 94
+with external Symmetry 0
+Kira maps this sector 103 to this sector 103
+with external Symmetry 0
+Kira maps this sector 920 to this sector 103
+with external Symmetry 0
+Kira maps this sector 920 to this sector 103
+with external Symmetry 0
+Kira maps this sector 107 to this sector 107
+with external Symmetry 0
+Kira maps this sector 1432 to this sector 107
+with external Symmetry 0
+Kira maps this sector 1432 to this sector 107
+with external Symmetry 0
+Kira maps this sector 109 to this sector 109
+with external Symmetry 0
+Kira maps this sector 1688 to this sector 109
+with external Symmetry 0
+Kira maps this sector 1688 to this sector 109
+with external Symmetry 0
+Kira maps this sector 110 to this sector 110
+with external Symmetry 0
+Kira maps this sector 1928 to this sector 110
+with external Symmetry 0
+Kira maps this sector 1928 to this sector 110
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 115 to this sector 115
+with external Symmetry 0
+Kira maps this sector 185 to this sector 121
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 217 to this sector 121
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 233 to this sector 121
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1129 to this sector 121
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1240 to this sector 121
+with external Symmetry 0
+Kira maps this sector 151 to this sector 151
+with external Symmetry 0
+Kira maps this sector 155 to this sector 155
+with external Symmetry 0
+Kira maps this sector 157 to this sector 157
+with external Symmetry 0
+Kira maps this sector 158 to this sector 158
+with external Symmetry 0
+Kira maps this sector 167 to this sector 167
+with external Symmetry 0
+Kira maps this sector 856 to this sector 167
+with external Symmetry 0
+Kira maps this sector 856 to this sector 167
+with external Symmetry 0
+Kira maps this sector 1095 to this sector 167
+with external Symmetry 0
+Kira maps this sector 1095 to this sector 167
+with external Symmetry 0
+Kira maps this sector 171 to this sector 171
+with external Symmetry 0
+Kira maps this sector 1099 to this sector 171
+with external Symmetry 0
+Kira maps this sector 1099 to this sector 171
+with external Symmetry 0
+Kira maps this sector 1368 to this sector 171
+with external Symmetry 0
+Kira maps this sector 1368 to this sector 171
+with external Symmetry 0
+Kira maps this sector 173 to this sector 173
+with external Symmetry 0
+Kira maps this sector 1101 to this sector 173
+with external Symmetry 0
+Kira maps this sector 1101 to this sector 173
+with external Symmetry 0
+Kira maps this sector 1624 to this sector 173
+with external Symmetry 0
+Kira maps this sector 1624 to this sector 173
+with external Symmetry 0
+Kira maps this sector 174 to this sector 174
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 334 to this sector 174
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 334 to this sector 174
+with external Symmetry 0
+Kira maps this sector 1102 to this sector 174
+with external Symmetry 0
+Kira maps this sector 1102 to this sector 174
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1858 to this sector 174
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1858 to this sector 174
+with external Symmetry 0
+Kira maps this sector 1864 to this sector 174
+with external Symmetry 0
+Kira maps this sector 1864 to this sector 174
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 188 to this sector 188
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 211 to this sector 211
+with external Symmetry 0
+Kira maps this sector 466 to this sector 211
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 466 to this sector 211
+with external Symmetry 0
+Kira maps this sector 724 to this sector 213
+with external Symmetry 0
+Kira maps this sector 472 to this sector 227
+with external Symmetry 0
+Kira maps this sector 1123 to this sector 227
+with external Symmetry 0
+Kira maps this sector 728 to this sector 229
+with external Symmetry 0
+Kira maps this sector 1125 to this sector 229
+with external Symmetry 0
+Kira maps this sector 968 to this sector 230
+with external Symmetry 0
+Kira maps this sector 1126 to this sector 230
+with external Symmetry 0
+Kira maps this sector 458 to this sector 234
+with external Symmetry 0
+Kira maps this sector 1130 to this sector 234
+with external Symmetry 0
+Kira maps this sector 1480 to this sector 234
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 236 to this sector 236
+with external Symmetry 0
+Kira maps this sector 716 to this sector 236
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 716 to this sector 236
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1132 to this sector 236
+with external Symmetry 0
+Kira maps this sector 1132 to this sector 236
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1736 to this sector 236
+with external Symmetry 0
+Kira maps this sector 1736 to this sector 236
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 241 to this sector 241
+with external Symmetry 0
+Kira maps this sector 248 to this sector 241
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 248 to this sector 241
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 295 to this sector 295
+with external Symmetry 0
+Kira maps this sector 295 to this sector 295
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 295 to this sector 295
+with external Symmetry 0
+Kira maps this sector 299 to this sector 299
+with external Symmetry 0
+Kira maps this sector 301 to this sector 301
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 302 to this sector 302
+with external Symmetry 0
+Kira maps this sector 302 to this sector 302
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 302 to this sector 302
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 309 to this sector 309
+with external Symmetry 0
+Kira maps this sector 309 to this sector 309
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 309 to this sector 309
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 313 to this sector 313
+with external Symmetry 0
+Kira maps this sector 313 to this sector 313
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 313 to this sector 313
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 314 to this sector 314
+with external Symmetry 0
+Kira maps this sector 314 to this sector 314
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 314 to this sector 314
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 327 to this sector 327
+with external Symmetry 0
+Kira maps this sector 327 to this sector 327
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 327 to this sector 327
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 850 to this sector 327
+with external Symmetry 0
+Kira maps this sector 850 to this sector 327
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 850 to this sector 327
+with external Symmetry 0
+Kira maps this sector 850 to this sector 327
+with external Symmetry 0
+Kira maps this sector 331 to this sector 331
+with external Symmetry 0
+Kira maps this sector 1362 to this sector 331
+with external Symmetry 0
+Kira maps this sector 1362 to this sector 331
+with external Symmetry 0
+Kira maps this sector 333 to this sector 333
+with external Symmetry 0
+Kira maps this sector 1618 to this sector 333
+with external Symmetry 0
+Kira maps this sector 1618 to this sector 333
+with external Symmetry 0
+Kira maps this sector 595 to this sector 341
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 598 to this sector 341
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 837 to this sector 341
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 342 to this sector 342
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 835 to this sector 342
+with external Symmetry 0
+Kira maps this sector 835 to this sector 342
+with external Symmetry 0
+Kira maps this sector 1107 to this sector 345
+with external Symmetry 0
+Kira maps this sector 1347 to this sector 346
+with external Symmetry 0
+Kira maps this sector 1603 to this sector 348
+with external Symmetry 0
+Kira maps this sector 426 to this sector 362
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 369 to this sector 369
+with external Symmetry 0
+Kira maps this sector 369 to this sector 369
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 369 to this sector 369
+with external Symmetry 0
+Kira maps this sector 370 to this sector 370
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 440 to this sector 370
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 440 to this sector 370
+with external Symmetry 0
+Kira maps this sector 372 to this sector 372
+with external Symmetry 0
+Kira maps this sector 376 to this sector 376
+with external Symmetry 0
+Kira maps this sector 391 to this sector 391
+with external Symmetry 0
+Kira maps this sector 395 to this sector 395
+with external Symmetry 0
+Kira maps this sector 397 to this sector 397
+with external Symmetry 0
+Kira maps this sector 398 to this sector 398
+with external Symmetry 0
+Kira maps this sector 403 to this sector 403
+with external Symmetry 0
+Kira maps this sector 433 to this sector 433
+with external Symmetry 0
+Kira maps this sector 434 to this sector 434
+with external Symmetry 0
+Kira maps this sector 436 to this sector 436
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 451 to this sector 451
+with external Symmetry 0
+Kira maps this sector 465 to this sector 451
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 465 to this sector 451
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 454 to this sector 454
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 964 to this sector 454
+with external Symmetry 0
+Kira maps this sector 964 to this sector 454
+with external Symmetry 0
+Kira maps this sector 488 to this sector 482
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 535 to this sector 535
+with external Symmetry 0
+Kira maps this sector 535 to this sector 535
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 535 to this sector 535
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 789 to this sector 535
+with external Symmetry 0
+Kira maps this sector 789 to this sector 535
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 789 to this sector 535
+with external Symmetry 0
+Kira maps this sector 789 to this sector 535
+with external Symmetry 0
+Kira maps this sector 539 to this sector 539
+with external Symmetry 0
+Kira maps this sector 1301 to this sector 539
+with external Symmetry 0
+Kira maps this sector 1301 to this sector 539
+with external Symmetry 0
+Kira maps this sector 541 to this sector 541
+with external Symmetry 0
+Kira maps this sector 1557 to this sector 541
+with external Symmetry 0
+Kira maps this sector 1557 to this sector 541
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 542 to this sector 542
+with external Symmetry 0
+Kira maps this sector 542 to this sector 542
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 542 to this sector 542
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1797 to this sector 542
+with external Symmetry 0
+Kira maps this sector 1797 to this sector 542
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1797 to this sector 542
+with external Symmetry 0
+Kira maps this sector 1797 to this sector 542
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 551 to this sector 551
+with external Symmetry 0
+Kira maps this sector 551 to this sector 551
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 551 to this sector 551
+with external Symmetry 0
+Kira maps this sector 555 to this sector 555
+with external Symmetry 0
+Kira maps this sector 557 to this sector 557
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 558 to this sector 558
+with external Symmetry 0
+Kira maps this sector 558 to this sector 558
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 558 to this sector 558
+with external Symmetry 0
+Kira maps this sector 565 to this sector 565
+with external Symmetry 0
+Kira maps this sector 569 to this sector 569
+with external Symmetry 0
+Kira maps this sector 570 to this sector 570
+with external Symmetry 0
+Kira maps this sector 587 to this sector 587
+with external Symmetry 0
+Kira maps this sector 1364 to this sector 587
+with external Symmetry 0
+Kira maps this sector 1364 to this sector 587
+with external Symmetry 0
+Kira maps this sector 589 to this sector 589
+with external Symmetry 0
+Kira maps this sector 1620 to this sector 589
+with external Symmetry 0
+Kira maps this sector 1620 to this sector 589
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 590 to this sector 590
+with external Symmetry 0
+Kira maps this sector 590 to this sector 590
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 590 to this sector 590
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1860 to this sector 590
+with external Symmetry 0
+Kira maps this sector 1860 to this sector 590
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1860 to this sector 590
+with external Symmetry 0
+Kira maps this sector 1860 to this sector 590
+with external Symmetry 0
+Kira maps this sector 597 to this sector 597
+with external Symmetry 0
+Kira maps this sector 597 to this sector 597
+with external Symmetry 0
+Kira maps this sector 597 to this sector 597
+with external Symmetry 0
+Kira maps this sector 1109 to this sector 601
+with external Symmetry 0
+Kira maps this sector 1349 to this sector 602
+with external Symmetry 0
+Kira maps this sector 1605 to this sector 604
+with external Symmetry 0
+Kira maps this sector 684 to this sector 620
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 740 to this sector 620
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 744 to this sector 620
+with external Symmetry 0
+Kira maps this sector 625 to this sector 625
+with external Symmetry 0
+Kira maps this sector 626 to this sector 626
+with external Symmetry 0
+Kira maps this sector 628 to this sector 628
+with external Symmetry 0
+Kira maps this sector 632 to this sector 632
+with external Symmetry 0
+Kira maps this sector 647 to this sector 647
+with external Symmetry 0
+Kira maps this sector 651 to this sector 651
+with external Symmetry 0
+Kira maps this sector 653 to this sector 653
+with external Symmetry 0
+Kira maps this sector 654 to this sector 654
+with external Symmetry 0
+Kira maps this sector 661 to this sector 661
+with external Symmetry 0
+Kira maps this sector 689 to this sector 689
+with external Symmetry 0
+Kira maps this sector 690 to this sector 690
+with external Symmetry 0
+Kira maps this sector 692 to this sector 692
+with external Symmetry 0
+Kira maps this sector 696 to this sector 696
+with external Symmetry 0
+Kira maps this sector 721 to this sector 709
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 710 to this sector 710
+with external Symmetry 0
+Kira maps this sector 962 to this sector 710
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 962 to this sector 710
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 793 to this sector 793
+with external Symmetry 0
+Kira maps this sector 793 to this sector 793
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 793 to this sector 793
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1047 to this sector 793
+with external Symmetry 0
+Kira maps this sector 1047 to this sector 793
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1047 to this sector 793
+with external Symmetry 0
+Kira maps this sector 1047 to this sector 793
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 794 to this sector 794
+with external Symmetry 0
+Kira maps this sector 794 to this sector 794
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 794 to this sector 794
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1287 to this sector 794
+with external Symmetry 0
+Kira maps this sector 1287 to this sector 794
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1287 to this sector 794
+with external Symmetry 0
+Kira maps this sector 1287 to this sector 794
+with external Symmetry 0
+Kira maps this sector 805 to this sector 805
+with external Symmetry 0
+Kira maps this sector 809 to this sector 809
+with external Symmetry 0
+Kira maps this sector 810 to this sector 810
+with external Symmetry 0
+Kira maps this sector 1110 to this sector 841
+with external Symmetry 0
+Kira maps this sector 1350 to this sector 842
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1356 to this sector 842
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1610 to this sector 842
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 844 to this sector 844
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1606 to this sector 844
+with external Symmetry 0
+Kira maps this sector 1606 to this sector 844
+with external Symmetry 0
+Kira maps this sector 865 to this sector 865
+with external Symmetry 0
+Kira maps this sector 866 to this sector 866
+with external Symmetry 0
+Kira maps this sector 868 to this sector 868
+with external Symmetry 0
+Kira maps this sector 872 to this sector 872
+with external Symmetry 0
+Kira maps this sector 902 to this sector 902
+with external Symmetry 0
+Kira maps this sector 913 to this sector 913
+with external Symmetry 0
+Kira maps this sector 914 to this sector 914
+with external Symmetry 0
+Kira maps this sector 916 to this sector 916
+with external Symmetry 0
+Kira maps this sector 929 to this sector 929
+with external Symmetry 0
+Kira maps this sector 930 to this sector 930
+with external Symmetry 0
+Kira maps this sector 932 to this sector 932
+with external Symmetry 0
+Kira maps this sector 936 to this sector 936
+with external Symmetry 0
+Kira maps this sector 1051 to this sector 1051
+with external Symmetry 0
+Kira maps this sector 1305 to this sector 1051
+with external Symmetry 0
+Kira maps this sector 1305 to this sector 1051
+with external Symmetry 0
+Kira maps this sector 1053 to this sector 1053
+with external Symmetry 0
+Kira maps this sector 1561 to this sector 1053
+with external Symmetry 0
+Kira maps this sector 1561 to this sector 1053
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1054 to this sector 1054
+with external Symmetry 0
+Kira maps this sector 1054 to this sector 1054
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1054 to this sector 1054
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1801 to this sector 1054
+with external Symmetry 0
+Kira maps this sector 1801 to this sector 1054
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1801 to this sector 1054
+with external Symmetry 0
+Kira maps this sector 1801 to this sector 1054
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1077 to this sector 1077
+with external Symmetry 0
+Kira maps this sector 1077 to this sector 1077
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1077 to this sector 1077
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1081 to this sector 1081
+with external Symmetry 0
+Kira maps this sector 1081 to this sector 1081
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1081 to this sector 1081
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1082 to this sector 1082
+with external Symmetry 0
+Kira maps this sector 1082 to this sector 1082
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1082 to this sector 1082
+with external Symmetry 0
+Kira maps this sector 1113 to this sector 1113
+with external Symmetry 0
+Kira maps this sector 1113 to this sector 1113
+with external Symmetry 0
+Kira maps this sector 1113 to this sector 1113
+with external Symmetry 0
+Kira maps this sector 1353 to this sector 1114
+with external Symmetry 0
+Kira maps this sector 1609 to this sector 1116
+with external Symmetry 0
+Kira maps this sector 1137 to this sector 1137
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1144 to this sector 1137
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1144 to this sector 1137
+with external Symmetry 0
+Kira maps this sector 1138 to this sector 1138
+with external Symmetry 0
+Kira maps this sector 1140 to this sector 1140
+with external Symmetry 0
+Kira maps this sector 1159 to this sector 1159
+with external Symmetry 0
+Kira maps this sector 1163 to this sector 1163
+with external Symmetry 0
+Kira maps this sector 1165 to this sector 1165
+with external Symmetry 0
+Kira maps this sector 1166 to this sector 1166
+with external Symmetry 0
+Kira maps this sector 1177 to this sector 1177
+with external Symmetry 0
+Kira maps this sector 1219 to this sector 1187
+with external Symmetry 0
+Kira maps this sector 1221 to this sector 1189
+with external Symmetry 0
+Kira maps this sector 1222 to this sector 1190
+with external Symmetry 0
+Kira maps this sector 1225 to this sector 1193
+with external Symmetry 0
+Kira maps this sector 1233 to this sector 1193
+with external Symmetry 0
+Kira maps this sector 1226 to this sector 1194
+with external Symmetry 0
+Kira maps this sector 1474 to this sector 1194
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1196 to this sector 1196
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1228 to this sector 1196
+with external Symmetry 0
+Kira maps this sector 1228 to this sector 1196
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1732 to this sector 1196
+with external Symmetry 0
+Kira maps this sector 1732 to this sector 1196
+with external Symmetry 0
+Kira maps this sector 1201 to this sector 1201
+with external Symmetry 0
+Kira maps this sector 1202 to this sector 1202
+with external Symmetry 0
+Kira maps this sector 1204 to this sector 1204
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1208 to this sector 1208
+with external Symmetry 0
+Kira maps this sector 1208 to this sector 1208
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1208 to this sector 1208
+with external Symmetry 0
+Kira maps this sector 1249 to this sector 1249
+with external Symmetry 0
+Kira maps this sector 1250 to this sector 1250
+with external Symmetry 0
+Kira maps this sector 1252 to this sector 1252
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1676 to this sector 1252
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1676 to this sector 1252
+with external Symmetry 0
+Kira maps this sector 1291 to this sector 1291
+with external Symmetry 0
+Kira maps this sector 1306 to this sector 1291
+with external Symmetry 0
+Kira maps this sector 1306 to this sector 1291
+with external Symmetry 0
+Kira maps this sector 1293 to this sector 1293
+with external Symmetry 0
+Kira maps this sector 1562 to this sector 1293
+with external Symmetry 0
+Kira maps this sector 1562 to this sector 1293
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1294 to this sector 1294
+with external Symmetry 0
+Kira maps this sector 1294 to this sector 1294
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1294 to this sector 1294
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1802 to this sector 1294
+with external Symmetry 0
+Kira maps this sector 1802 to this sector 1294
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1802 to this sector 1294
+with external Symmetry 0
+Kira maps this sector 1802 to this sector 1294
+with external Symmetry 0
+Kira maps this sector 1317 to this sector 1317
+with external Symmetry 0
+Kira maps this sector 1321 to this sector 1321
+with external Symmetry 0
+Kira maps this sector 1322 to this sector 1322
+with external Symmetry 0
+Kira maps this sector 1354 to this sector 1354
+with external Symmetry 0
+Kira maps this sector 1354 to this sector 1354
+with external Symmetry 0
+Kira maps this sector 1354 to this sector 1354
+with external Symmetry 0
+Kira maps this sector 1377 to this sector 1377
+with external Symmetry 0
+Kira maps this sector 1378 to this sector 1378
+with external Symmetry 0
+Kira maps this sector 1380 to this sector 1380
+with external Symmetry 0
+Kira maps this sector 1384 to this sector 1384
+with external Symmetry 0
+Kira maps this sector 1418 to this sector 1418
+with external Symmetry 0
+Kira maps this sector 1425 to this sector 1425
+with external Symmetry 0
+Kira maps this sector 1426 to this sector 1426
+with external Symmetry 0
+Kira maps this sector 1428 to this sector 1428
+with external Symmetry 0
+Kira maps this sector 1441 to this sector 1441
+with external Symmetry 0
+Kira maps this sector 1442 to this sector 1442
+with external Symmetry 0
+Kira maps this sector 1444 to this sector 1444
+with external Symmetry 0
+Kira maps this sector 1448 to this sector 1448
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1573 to this sector 1573
+with external Symmetry 0
+Kira maps this sector 1573 to this sector 1573
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1573 to this sector 1573
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1577 to this sector 1577
+with external Symmetry 0
+Kira maps this sector 1577 to this sector 1577
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1577 to this sector 1577
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1578 to this sector 1578
+with external Symmetry 0
+Kira maps this sector 1578 to this sector 1578
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1578 to this sector 1578
+with external Symmetry 0
+Kira maps this sector 1633 to this sector 1633
+with external Symmetry 0
+Kira maps this sector 1634 to this sector 1634
+with external Symmetry 0
+Kira maps this sector 1636 to this sector 1636
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1704 to this sector 1636
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1704 to this sector 1636
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1640 to this sector 1640
+with external Symmetry 0
+Kira maps this sector 1640 to this sector 1640
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1640 to this sector 1640
+with external Symmetry 0
+Kira maps this sector 1681 to this sector 1681
+with external Symmetry 0
+Kira maps this sector 1682 to this sector 1682
+with external Symmetry 0
+Kira maps this sector 1684 to this sector 1684
+with external Symmetry 0
+Kira maps this sector 1697 to this sector 1697
+with external Symmetry 0
+Kira maps this sector 1698 to this sector 1698
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1700 to this sector 1700
+with external Symmetry 0
+Kira maps this sector 1700 to this sector 1700
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1700 to this sector 1700
+with external Symmetry 0
+Kira maps this sector 1921 to this sector 1921
+with external Symmetry 0
+Kira maps this sector 1922 to this sector 1922
+with external Symmetry 0
+Kira maps this sector 1924 to this sector 1924
+with external Symmetry 0
+Kira maps this sector 95 to this sector 95
+with external Symmetry 0
+Kira maps this sector 1873 to this sector 95
+with external Symmetry 0
+Kira maps this sector 1873 to this sector 95
+with external Symmetry 0
+Kira maps this sector 111 to this sector 111
+with external Symmetry 0
+Kira maps this sector 1944 to this sector 111
+with external Symmetry 0
+Kira maps this sector 1944 to this sector 111
+with external Symmetry 0
+Kira maps this sector 159 to this sector 159
+with external Symmetry 0
+Kira maps this sector 175 to this sector 175
+with external Symmetry 0
+Kira maps this sector 1103 to this sector 175
+with external Symmetry 0
+Kira maps this sector 1103 to this sector 175
+with external Symmetry 0
+Kira maps this sector 1880 to this sector 175
+with external Symmetry 0
+Kira maps this sector 1880 to this sector 175
+with external Symmetry 0
+Kira maps this sector 984 to this sector 231
+with external Symmetry 0
+Kira maps this sector 1127 to this sector 231
+with external Symmetry 0
+Kira maps this sector 1131 to this sector 235
+with external Symmetry 0
+Kira maps this sector 1496 to this sector 235
+with external Symmetry 0
+Kira maps this sector 1133 to this sector 237
+with external Symmetry 0
+Kira maps this sector 1752 to this sector 237
+with external Symmetry 0
+Kira maps this sector 1134 to this sector 238
+with external Symmetry 0
+Kira maps this sector 1992 to this sector 238
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 249 to this sector 249
+with external Symmetry 0
+Kira maps this sector 249 to this sector 249
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 249 to this sector 249
+with external Symmetry 0
+Kira maps this sector 303 to this sector 303
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 311 to this sector 311
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 311 to this sector 311
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 311 to this sector 311
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 315 to this sector 315
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 317 to this sector 317
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 318 to this sector 318
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 318 to this sector 318
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 318 to this sector 318
+with external Symmetry 0
+Kira maps this sector 335 to this sector 335
+with external Symmetry 0
+Kira maps this sector 1874 to this sector 335
+with external Symmetry 0
+Kira maps this sector 1874 to this sector 335
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 839 to this sector 343
+with external Symmetry 0
+Kira maps this sector 851 to this sector 343
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 854 to this sector 343
+with external Symmetry 0
+Kira maps this sector 1363 to this sector 347
+with external Symmetry 0
+Kira maps this sector 1619 to this sector 349
+with external Symmetry 0
+Kira maps this sector 1859 to this sector 350
+with external Symmetry 0
+Kira maps this sector 399 to this sector 399
+with external Symmetry 0
+Kira maps this sector 467 to this sector 467
+with external Symmetry 0
+Kira maps this sector 490 to this sector 490
+with external Symmetry 0
+Kira maps this sector 543 to this sector 543
+with external Symmetry 0
+Kira maps this sector 1813 to this sector 543
+with external Symmetry 0
+Kira maps this sector 1813 to this sector 543
+with external Symmetry 0
+Kira maps this sector 559 to this sector 559
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 567 to this sector 567
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 574 to this sector 574
+with external Symmetry 0
+Kira maps this sector 591 to this sector 591
+with external Symmetry 0
+Kira maps this sector 1876 to this sector 591
+with external Symmetry 0
+Kira maps this sector 1876 to this sector 591
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 599 to this sector 599
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 853 to this sector 599
+with external Symmetry 0
+Kira maps this sector 853 to this sector 599
+with external Symmetry 0
+Kira maps this sector 1365 to this sector 603
+with external Symmetry 0
+Kira maps this sector 1621 to this sector 605
+with external Symmetry 0
+Kira maps this sector 1861 to this sector 606
+with external Symmetry 0
+Kira maps this sector 655 to this sector 655
+with external Symmetry 0
+Kira maps this sector 725 to this sector 725
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 748 to this sector 748
+with external Symmetry 0
+Kira maps this sector 748 to this sector 748
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 748 to this sector 748
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 791 to this sector 791
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 791 to this sector 791
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 791 to this sector 791
+with external Symmetry 0
+Kira maps this sector 791 to this sector 791
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 791 to this sector 791
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 791 to this sector 791
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 791 to this sector 791
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 795 to this sector 795
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1303 to this sector 795
+with external Symmetry 0
+Kira maps this sector 1303 to this sector 795
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 797 to this sector 797
+with external Symmetry 0
+Kira maps this sector 1559 to this sector 797
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1559 to this sector 797
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 798 to this sector 798
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 798 to this sector 798
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 798 to this sector 798
+with external Symmetry 0
+Kira maps this sector 1799 to this sector 798
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1799 to this sector 798
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1799 to this sector 798
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1799 to this sector 798
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 807 to this sector 807
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 814 to this sector 814
+with external Symmetry 0
+Kira maps this sector 821 to this sector 821
+with external Symmetry 0
+Kira maps this sector 825 to this sector 825
+with external Symmetry 0
+Kira maps this sector 826 to this sector 826
+with external Symmetry 0
+Kira maps this sector 1366 to this sector 843
+with external Symmetry 0
+Kira maps this sector 1622 to this sector 845
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1614 to this sector 846
+with external Symmetry 0
+Kira maps this sector 1862 to this sector 846
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1868 to this sector 846
+with external Symmetry 0
+Kira maps this sector 1111 to this sector 857
+with external Symmetry 0
+Kira maps this sector 1351 to this sector 858
+with external Symmetry 0
+Kira maps this sector 1607 to this sector 860
+with external Symmetry 0
+Kira maps this sector 881 to this sector 881
+with external Symmetry 0
+Kira maps this sector 882 to this sector 882
+with external Symmetry 0
+Kira maps this sector 884 to this sector 884
+with external Symmetry 0
+Kira maps this sector 888 to this sector 888
+with external Symmetry 0
+Kira maps this sector 945 to this sector 945
+with external Symmetry 0
+Kira maps this sector 946 to this sector 946
+with external Symmetry 0
+Kira maps this sector 948 to this sector 948
+with external Symmetry 0
+Kira maps this sector 952 to this sector 952
+with external Symmetry 0
+Kira maps this sector 966 to this sector 966
+with external Symmetry 0
+Kira maps this sector 1055 to this sector 1055
+with external Symmetry 0
+Kira maps this sector 1817 to this sector 1055
+with external Symmetry 0
+Kira maps this sector 1817 to this sector 1055
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1079 to this sector 1079
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1079 to this sector 1079
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1079 to this sector 1079
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1083 to this sector 1083
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1085 to this sector 1085
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1086 to this sector 1086
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1086 to this sector 1086
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1086 to this sector 1086
+with external Symmetry 0
+Kira maps this sector 1369 to this sector 1115
+with external Symmetry 0
+Kira maps this sector 1625 to this sector 1117
+with external Symmetry 0
+Kira maps this sector 1865 to this sector 1118
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1145 to this sector 1145
+with external Symmetry 0
+Kira maps this sector 1167 to this sector 1167
+with external Symmetry 0
+Kira maps this sector 1223 to this sector 1191
+with external Symmetry 0
+Kira maps this sector 1227 to this sector 1195
+with external Symmetry 0
+Kira maps this sector 1229 to this sector 1197
+with external Symmetry 0
+Kira maps this sector 1230 to this sector 1198
+with external Symmetry 0
+Kira maps this sector 1241 to this sector 1241
+with external Symmetry 0
+Kira maps this sector 1251 to this sector 1251
+with external Symmetry 0
+Kira maps this sector 1253 to this sector 1253
+with external Symmetry 0
+Kira maps this sector 1254 to this sector 1254
+with external Symmetry 0
+Kira maps this sector 1257 to this sector 1257
+with external Symmetry 0
+Kira maps this sector 1258 to this sector 1258
+with external Symmetry 0
+Kira maps this sector 1260 to this sector 1260
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1740 to this sector 1260
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1740 to this sector 1260
+with external Symmetry 0
+Kira maps this sector 1295 to this sector 1295
+with external Symmetry 0
+Kira maps this sector 1818 to this sector 1295
+with external Symmetry 0
+Kira maps this sector 1818 to this sector 1295
+with external Symmetry 0
+Kira maps this sector 1307 to this sector 1307
+with external Symmetry 0
+Kira maps this sector 1563 to this sector 1309
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1310 to this sector 1310
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1803 to this sector 1310
+with external Symmetry 0
+Kira maps this sector 1803 to this sector 1310
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1319 to this sector 1319
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1326 to this sector 1326
+with external Symmetry 0
+Kira maps this sector 1333 to this sector 1333
+with external Symmetry 0
+Kira maps this sector 1337 to this sector 1337
+with external Symmetry 0
+Kira maps this sector 1338 to this sector 1338
+with external Symmetry 0
+Kira maps this sector 1370 to this sector 1355
+with external Symmetry 0
+Kira maps this sector 1626 to this sector 1357
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1358 to this sector 1358
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1866 to this sector 1358
+with external Symmetry 0
+Kira maps this sector 1866 to this sector 1358
+with external Symmetry 0
+Kira maps this sector 1611 to this sector 1372
+with external Symmetry 0
+Kira maps this sector 1393 to this sector 1393
+with external Symmetry 0
+Kira maps this sector 1394 to this sector 1394
+with external Symmetry 0
+Kira maps this sector 1396 to this sector 1396
+with external Symmetry 0
+Kira maps this sector 1400 to this sector 1400
+with external Symmetry 0
+Kira maps this sector 1457 to this sector 1457
+with external Symmetry 0
+Kira maps this sector 1458 to this sector 1458
+with external Symmetry 0
+Kira maps this sector 1460 to this sector 1460
+with external Symmetry 0
+Kira maps this sector 1464 to this sector 1464
+with external Symmetry 0
+Kira maps this sector 1482 to this sector 1482
+with external Symmetry 0
+Kira maps this sector 1565 to this sector 1565
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1566 to this sector 1566
+with external Symmetry 0
+Kira maps this sector 1805 to this sector 1566
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1805 to this sector 1566
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1575 to this sector 1575
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1575 to this sector 1575
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1575 to this sector 1575
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1579 to this sector 1579
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1581 to this sector 1581
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1582 to this sector 1582
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1582 to this sector 1582
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1582 to this sector 1582
+with external Symmetry 0
+Kira maps this sector 1589 to this sector 1589
+with external Symmetry 0
+Kira maps this sector 1593 to this sector 1593
+with external Symmetry 0
+Kira maps this sector 1594 to this sector 1594
+with external Symmetry 0
+Kira maps this sector 1628 to this sector 1613
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1768 to this sector 1644
+with external Symmetry 0
+Kira maps this sector 1649 to this sector 1649
+with external Symmetry 0
+Kira maps this sector 1650 to this sector 1650
+with external Symmetry 0
+Kira maps this sector 1652 to this sector 1652
+with external Symmetry 0
+Kira maps this sector 1656 to this sector 1656
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1764 to this sector 1708
+with external Symmetry 0
+Kira maps this sector 1713 to this sector 1713
+with external Symmetry 0
+Kira maps this sector 1714 to this sector 1714
+with external Symmetry 0
+Kira maps this sector 1716 to this sector 1716
+with external Symmetry 0
+Kira maps this sector 1720 to this sector 1720
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1806 to this sector 1806
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1806 to this sector 1806
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1806 to this sector 1806
+with external Symmetry 0
+Kira maps this sector 1806 to this sector 1806
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1806 to this sector 1806
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1806 to this sector 1806
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1806 to this sector 1806
+with external Symmetry 0
+Kira maps this sector 1829 to this sector 1829
+with external Symmetry 0
+Kira maps this sector 1833 to this sector 1833
+with external Symmetry 0
+Kira maps this sector 1834 to this sector 1834
+with external Symmetry 0
+Kira maps this sector 1889 to this sector 1889
+with external Symmetry 0
+Kira maps this sector 1890 to this sector 1890
+with external Symmetry 0
+Kira maps this sector 1892 to this sector 1892
+with external Symmetry 0
+Kira maps this sector 1896 to this sector 1896
+with external Symmetry 0
+Kira maps this sector 1937 to this sector 1937
+with external Symmetry 0
+Kira maps this sector 1938 to this sector 1938
+with external Symmetry 0
+Kira maps this sector 1940 to this sector 1940
+with external Symmetry 0
+Kira maps this sector 1953 to this sector 1953
+with external Symmetry 0
+Kira maps this sector 1954 to this sector 1954
+with external Symmetry 0
+Kira maps this sector 1956 to this sector 1956
+with external Symmetry 0
+Kira maps this sector 1960 to this sector 1960
+with external Symmetry 0
+Kira maps this sector 1135 to this sector 239
+with external Symmetry 0
+Kira maps this sector 2008 to this sector 239
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 319 to this sector 319
+with external Symmetry 0
+Kira maps this sector 1875 to this sector 351
+with external Symmetry 0
+Kira maps this sector 1877 to this sector 607
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 799 to this sector 799
+with external Symmetry 0
+Kira maps this sector 1815 to this sector 799
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1815 to this sector 799
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 823 to this sector 823
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 830 to this sector 830
+with external Symmetry 0
+Kira maps this sector 1878 to this sector 847
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 855 to this sector 855
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 855 to this sector 855
+with external Symmetry 0
+Kira maps this sector 855 to this sector 855
+with external Symmetry 0
+Kira maps this sector 1367 to this sector 859
+with external Symmetry 0
+Kira maps this sector 1623 to this sector 861
+with external Symmetry 0
+Kira maps this sector 1863 to this sector 862
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1087 to this sector 1087
+with external Symmetry 0
+Kira maps this sector 1881 to this sector 1119
+with external Symmetry 0
+Kira maps this sector 1231 to this sector 1199
+with external Symmetry 0
+Kira maps this sector 1255 to this sector 1255
+with external Symmetry 0
+Kira maps this sector 1259 to this sector 1259
+with external Symmetry 0
+Kira maps this sector 1261 to this sector 1261
+with external Symmetry 0
+Kira maps this sector 1262 to this sector 1262
+with external Symmetry 0
+Kira maps this sector 1819 to this sector 1311
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1335 to this sector 1335
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1342 to this sector 1342
+with external Symmetry 0
+Kira maps this sector 1882 to this sector 1359
+with external Symmetry 0
+Kira maps this sector 1371 to this sector 1371
+with external Symmetry 0
+Kira maps this sector 1627 to this sector 1373
+with external Symmetry 0
+Kira maps this sector 1867 to this sector 1374
+with external Symmetry 0
+Kira maps this sector 1821 to this sector 1567
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1583 to this sector 1583
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1591 to this sector 1591
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1598 to this sector 1598
+with external Symmetry 0
+Kira maps this sector 1884 to this sector 1615
+with external Symmetry 0
+Kira maps this sector 1629 to this sector 1629
+with external Symmetry 0
+Kira maps this sector 1869 to this sector 1630
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1772 to this sector 1772
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1807 to this sector 1807
+with external Symmetry 0
+Kira maps this sector 1822 to this sector 1807
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1822 to this sector 1807
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1831 to this sector 1831
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1838 to this sector 1838
+with external Symmetry 0
+Kira maps this sector 1845 to this sector 1845
+with external Symmetry 0
+Kira maps this sector 1849 to this sector 1849
+with external Symmetry 0
+Kira maps this sector 1850 to this sector 1850
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1870 to this sector 1870
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1870 to this sector 1870
+with external Symmetry 0
+Kira maps this sector 1870 to this sector 1870
+with external Symmetry 0
+Kira maps this sector 1905 to this sector 1905
+with external Symmetry 0
+Kira maps this sector 1906 to this sector 1906
+with external Symmetry 0
+Kira maps this sector 1908 to this sector 1908
+with external Symmetry 0
+Kira maps this sector 1912 to this sector 1912
+with external Symmetry 0
+Kira maps this sector 1969 to this sector 1969
+with external Symmetry 0
+Kira maps this sector 1970 to this sector 1970
+with external Symmetry 0
+Kira maps this sector 1972 to this sector 1972
+with external Symmetry 0
+Kira maps this sector 1976 to this sector 1976
+with external Symmetry 0
+Kira maps this sector 1879 to this sector 863
+with external Symmetry 0
+Kira maps this sector 1263 to this sector 1263
+with external Symmetry 0
+Kira maps this sector 1883 to this sector 1375
+with external Symmetry 0
+Kira maps this sector 1885 to this sector 1631
+with external Symmetry 0
+Kira maps this sector 1823 to this sector 1823
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1847 to this sector 1847
+with external Symmetry 0
+no propagator flow, only for dots: Kira maps this sector 1854 to this sector 1854
+with external Symmetry 0
+Kira maps this sector 1886 to this sector 1871
+with external Symmetry 0
+Kira maps this sector 1887 to this sector 1887
+with external Symmetry 0
+
+Sector relations: 469
+Sector symmetries: 581
+( 0.2 s )
 
 *****Integral ordering*************************************
+VERSION table created successfully
+Kira database version number: 2.1
+WEIGHTBITS table created successfully
+INTEGRALORDERING table created successfully
 Kira will use the integral ordering: 1.
-symbol_to_replace_by_one: x in kinematics.yaml is not set. 
-Mass reconstruction is disabled.
-################################################
-kira2form: Reconstruct results for pentagon1
-################################################
 
+***********************************************************
+Kira starts the reduction of the topology: hexagonbox1
+***********************************************************
+
+***** Select equations recursively ************************
+length of mandatory list: 12655105
 Algebraic reconstruction is switched off.
-This requested integral is a master integral: pentagon1[0,0,1,0,1] # 20
-This requested integral is a master integral: pentagon1[0,1,0,0,1] # 18
-This requested integral is a master integral: pentagon1[0,1,0,1,0] # 10
-This requested integral is a master integral: pentagon1[0,1,1,1,1] # 30
-This requested integral is a master integral: pentagon1[1,0,0,1,0] # 9
-This requested integral is a master integral: pentagon1[1,0,1,0,0] # 5
-This requested integral is a master integral: pentagon1[1,0,1,1,1] # 29
-This requested integral is a master integral: pentagon1[1,1,0,1,1] # 27
-This requested integral is a master integral: pentagon1[1,1,1,0,1] # 23
-This requested integral is a master integral: pentagon1[1,1,1,1,0] # 15
-This requested integral is a master integral: pentagon1[1,1,1,1,1] # 31
-unreduced integrals: 0.
-
-closeCalc: 221928
-The input directory is set to:
-./results
-symbol_to_replace_by_one: x in kinematics.yaml is not set. 
-Mass reconstruction is disabled.
-################################################
-kira2math: Reconstruct results for pentagon1
-################################################
-
-Algebraic reconstruction is switched off.
-This requested integral is a master integral: pentagon1[0,0,1,0,1] # 20
-This requested integral is a master integral: pentagon1[0,1,0,0,1] # 18
-This requested integral is a master integral: pentagon1[0,1,0,1,0] # 10
-This requested integral is a master integral: pentagon1[0,1,1,1,1] # 30
-This requested integral is a master integral: pentagon1[1,0,0,1,0] # 9
-This requested integral is a master integral: pentagon1[1,0,1,0,0] # 5
-This requested integral is a master integral: pentagon1[1,0,1,1,1] # 29
-This requested integral is a master integral: pentagon1[1,1,0,1,1] # 27
-This requested integral is a master integral: pentagon1[1,1,1,0,1] # 23
-This requested integral is a master integral: pentagon1[1,1,1,1,0] # 15
-This requested integral is a master integral: pentagon1[1,1,1,1,1] # 31
-unreduced integrals: 0.
-
-closeCalc: 222226
-Total time:
-( 2.76834 s )

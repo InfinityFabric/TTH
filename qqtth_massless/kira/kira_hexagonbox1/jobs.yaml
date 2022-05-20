@@ -1,7 +1,7 @@
 jobs:
   - reduce_sectors:
       reduce:
-        - {r: 5, s: 2}
+        - {r: 11, s: 2}
         #        - {toplogy: [pentagon1], sector: [31], r: 5, s: 2}
         #        - {toplogy: [pentagon2], sector: [31], r: 5, s: 2}
         #        - {toplogy: [pentagon3], sector: [31], r: 5, s: 2}
