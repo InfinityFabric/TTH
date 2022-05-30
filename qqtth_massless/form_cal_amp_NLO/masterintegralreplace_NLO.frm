@@ -33,6 +33,8 @@ id D=d;
 
 #enddo
 
+id prop(?a)=den(?a);
+
 ***** tansfrom kira d into D *****
 id d=D;
 *****

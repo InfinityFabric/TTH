@@ -8,12 +8,13 @@ Off statistics;
 Symbol D;
 Dimension D;
 Symbol CA,CF,N,M;
-Symbol s12,s13,s14,s23,s24,s34;
+Symbol s12,s23,s34,s45,s51;
 Autodeclare Vector p,q,k;
 Symbol m,mt,mu,mh;
-CFunction prop;
-Symbol gs,Y;
+CFunction prop,den,num;
+Symbol gs,Y,a;
 
+Set kset:k1,k2,-k1,-k2;
 * local declaration
 
 CFunction DiaMatch,Sector,Shift;

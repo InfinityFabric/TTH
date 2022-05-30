@@ -1,11 +1,17 @@
 #procedure integralID
 
-repeat id Sector(pentagon?,i1?,?a,i?!{0,1})=Sector(pentagon,i1,?a,mod_(i,2),integer_(div_(i,2)));
+id Sector(pentagon?,i1?,i2?)=Sector(pentagon,i1,i2,0,0,0,0);
 
-id Sector(pentagon?,i?,i1?)=Sector(pentagon,i,i1,0);
-id Sector(pentagon?,i?,i1?,i2?)=Sector(pentagon,i,i1,i2,0);
-id Sector(pentagon?,i?,i1?,i2?,i3?)=Sector(pentagon,i,i1,i2,i3,0);
-id Sector(pentagon?,i?,i1?,i2?,i3?,i4?)=Sector(pentagon,i,i1,i2,i3,i4,0);
+Transform Sector decode(last,3):base=2;
+
+id Sector(pentagon?,i1?,i2?,i3?,i4?,i5?,i6?,0,0,0,0)=Sector(pentagon,i1,i2,i3,i4,i5,i6);
+
+*repeat id Sector(pentagon?,i1?,?a,i?!{0,1})=Sector(pentagon,i1,?a,mod_(i,2),integer_(div_(i,2)));
+*
+*id Sector(pentagon?,i?,i1?)=Sector(pentagon,i,i1,0);
+*id Sector(pentagon?,i?,i1?,i2?)=Sector(pentagon,i,i1,i2,0);
+*id Sector(pentagon?,i?,i1?,i2?,i3?)=Sector(pentagon,i,i1,i2,i3,0);
+*id Sector(pentagon?,i?,i1?,i2?,i3?,i4?)=Sector(pentagon,i,i1,i2,i3,i4,0);
    
 id Sector(pentagon?,i?,i1?,i2?,i3?,i4?,i5?)=
     Sector(pentagon)*
