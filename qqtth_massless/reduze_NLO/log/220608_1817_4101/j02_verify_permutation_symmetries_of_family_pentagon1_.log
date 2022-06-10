@@ -1,0 +1,15 @@
+
+Date: Wed Jun  8 18:17:41 2022
+
+
+conditional: false
+integralfamily: pentagon1
+abort_on_first_error: true
+dummy_output_file: ./tmp/permutation_symmetries_verified_for_pentagon1
+
+Verifying permutation symmetries of integral family 'pentagon1'
+All permutation symmetries verified
+
+Complete permutation symmetries of integral family 'pentagon1'
+
+Job done (total time: 0 s)

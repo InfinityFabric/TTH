@@ -1,7 +1,7 @@
 * propagators
 
-[quark1,qbar1,-;pfunct='fprop',mass='mu']
-[quark2,qbar2,-;pfunct='fprop',mass='mt']
+[quark1,qbar1,-;pfunct='fpropu',mass='0']
+[quark2,qbar2,-;pfunct='fpropt',mass='mt']
 [gluon,gluon,+;pfunct='glprop',mass='0']
 [ghost,Ghost,-;pfunct='ghprop',mass='0']
 [higgs,higgs,+;pfunct='hprop',mass='mh']

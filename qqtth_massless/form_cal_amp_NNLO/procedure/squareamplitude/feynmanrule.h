@@ -12,10 +12,10 @@ id vrtx(Ghghg,i1?,p1?,i2?,p2?,i3?,p3?)=gs*f(i1,i3,i2)*mom(i3,p2);
 
 * propagators
 
-id fpropu(i1?,i2?,p?,m?)=i_*(g(i1,i2,up,p)+g(i1,i2,up)*m)*fprop(i2,i1)*prop(p.p-m^2);
-id fpropt(i1?,i2?,p?,m?)=i_*(g(i1,i2,top,p)+g(i1,i2,top)*m)*fprop(i2,i1)*prop(p.p-m^2);
-id glprop(i1?,i2?,p?,m?)=-i_*gl(i2,i1)*glprop(i2,i1)*prop(p.p);
-id ghprop(i1?,i2?,p?,m?)=i_*gh(i1,i2)*prop(p.p);
+id fpropu(i1?,i2?,p?,m?)=i_*(g(i1,i2,up,p)+g(i1,i2,up)*m)*fprop(i2,i1)*prop(p,m);
+id fpropt(i1?,i2?,p?,m?)=i_*(g(i1,i2,top,p)+g(i1,i2,top)*m)*fprop(i2,i1)*prop(p,m);
+id glprop(i1?,i2?,p?,m?)=-i_*gl(i2,i1)*glprop(i2,i1)*prop(p,m);
+id ghprop(i1?,i2?,p?,m?)=i_*gh(i1,i2)*prop(p,m);
 
 #do i=1,10
   id once vrtx(gggg,i1?,p1?,i2?,p2?,i3?,p3?,i4?,p4?)=-i_*gs^2*

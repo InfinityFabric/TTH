@@ -14,8 +14,8 @@ CFunction pentagon1x12x34,pentagon2x12;
 CFunction Sector,F;
 Symbol sc,sc1,sc2,sc3,sc4,sc5;
 Symbol mu,mt,mh;
-Symbol cross1x12x34,cross2x12;
-Autodeclare Symbol a,[];
+Symbol cross1x12x34,cross1x12,cross1x12x345,cross1x12x354,cross1x12x45;
+Autodeclare Symbol a,[],Ca,Cf;
 
 Set scalarset:sc1,sc2,sc3,sc4,sc5;
 
@@ -35,16 +35,20 @@ Load ../../../data_save/qqtth_massive/NLO/am_after_momentumshift.sav;
     #enddo
 #enddo
 
+Delete storage;
 #call crossing
 #call scalarproduct
 #call integralID
 
-Bracket pentagon1,pentagon2;
-format mathematica;
-Print;
+*Bracket pentagon1,pentagon2;
+
+*Format mathematica;
+*Print +s ;
+*.sort
+*Format mathematica;
+*#write <test.m> "(%E)",amp10o27o1
 .store
 
 save ../../../data_save/qqtth_massive/NLO/amp_ID.sav;
 
-.sort
 .end

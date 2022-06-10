@@ -1,4 +1,2 @@
-id q1=den(-4 + d
-);
-id q2=den(s51
+id q1=den(s12
 );

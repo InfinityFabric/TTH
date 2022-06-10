@@ -11,9 +11,13 @@ Multiply replace_(<c1,cc1>,...,<c100,cc100>);
 Multiply replace_(<cg1,ccg1>,...,<cg100,ccg100>);
 Multiply replace_(<basis1,Basis1>,...,<basis100,Basis100>);
 
-id g(i1?,i2?,up?quarkset,?a)=g(i2,i1,up,?a);
-id t(i1?,i2?,i3?)=t(i1,i3,i2);
-id gl(i1?,i2?)=gl(i2,i1);
+Transform g reverse(4,last);
+Transform g reverse(1,2);
+Transform t reverse(2,3);
+Transform gl reverse(1,last);
+*id g(i1?,i2?,up?quarkset,?a)=g(i2,i1,up,?a);
+*id t(i1?,i2?,i3?)=t(i1,i3,i2);
+*id gl(i1?,i2?)=gl(i2,i1);
 
 Multiply replace_(UB,U,U,UB,VB,V,V,VB);
 

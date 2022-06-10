@@ -3,11 +3,11 @@
 
  style= 'xty.sty' ;
  
- output= 'diagram/ggtthtree.frm' ;
+ output= 'diagram/tree.frm' ;
 
  style= 'reduze.sty' ;
 
- output= '../reduze/diagram/ggtthtree.yaml';
+ output= '../reduze/diagram/tree.yaml';
 
  model= 'ggtth';
 

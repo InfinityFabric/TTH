@@ -25,7 +25,7 @@ Load ../../../data_save/qqtth_massless/NLO/Mat.sav;
 
 #call momentumshift
 
-Print +s am10o3o1;
+Print +s am10o27o1;
 .store
 
 save ../../../data_save/qqtth_massless/NLO/am_after_momentumshift.sav;

@@ -1,4 +1,16 @@
 #procedure squareamplitude(Amp0,Amp1,Mat)
+
+* put momentum into spin line
+
+id gl(i1?,i2?)=d_(i1,i2);
+
+id g(i1?,i2?,up?quarkset,?a,i3?lset,?b)*mom(i3?lset,p?)=g(i1,i2,up,?a,p,?b);
+id g(i1?,i2?,up?quarkset,?a,i3?leset,?b)*mom(i3?leset,p?)=g(i1,i2,up,?a,p,?b);
+id g(i1?,i2?,up?quarkset,?a,i3?llset,?b)*mom(i3?llset,p?)=g(i1,i2,up,?a,p,?b);
+id g(i1?,i2?,up?quarkset,?a,i3?lleset,?b)*mom(i3?lleset,p?)=g(i1,i2,up,?a,p,?b);
+
+id mom(i1?,p?)=p(i1);
+
 .sort
 
 Global `Mat'=`Amp0'*`Amp1';
@@ -27,6 +39,5 @@ id gl(i1?,i2?)=d_(i1,i2);
 Tracen,`i';
 #enddo
 
-id mom(i1?,p?)=p(i1);
 
 #endprocedure

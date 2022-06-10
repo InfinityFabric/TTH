@@ -29,7 +29,8 @@ id D=d;
 
 #do i=1,1
     
-#include ../multivariateapart/pentagon`i'/kira_rule.inc
+#include ../kira/kira_pentagon`i'/results/pentagon1/kira_myintegrals.inc
+*#include ../multivariateapart/pentagon`i'/kira_rule.inc
 
 #enddo
 
@@ -43,10 +44,10 @@ id d=D;
 *id mt=0;
 
 .sort
-Bracket pentagon1,pentagon2,basis1,basis2,Basis1,Basis2,Nc,Y,gs;
-Print +s;
-*Format mathematica;
-*#write <../myresults.nb> "(%E)",a10o10o1
+*Bracket pentagon1,pentagon2,basis1,basis2,Basis1,Basis2,Nc,Y,gs;
+Print +s a10o27o1;
+Format mathematica;
+#write <myresults.m> "(%E)",a10o19o1
 .store
 
 save ../../../data_save/qqtth_massless/NLO/amp_master.sav;

@@ -2,7 +2,7 @@
 
 cd /home/xty/Desktop/TTH/qqtth_massless/multivariateapart/pentagon1
 
-for ((i=1;i<=121;i++))
+for ((i=1;i<=109;i++))
 do
 	echo "$i"
 	cd /home/xty/Desktop/TTH/qqtth_massless/multivariateapart/pentagon1/headfile"$i"

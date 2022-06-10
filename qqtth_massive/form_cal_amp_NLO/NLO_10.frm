@@ -7,6 +7,7 @@
 #include ./procedure/squareamplitude/calcolorfactor.h
 #include ./procedure/squareamplitude/colorbasis.h
 #include ./procedure/squareamplitude/calamp_NLO_10.h
+#include ./procedure/squareamplitude/findnf.h
 
 Symbol D;
 Dimension D;
@@ -16,11 +17,13 @@ Autodeclare Index i,ie,ii,iie,ig,l,le,ll,lle,a=Nc,ae=Nc,aa=Nc,c=Na,ce=Na,cc=Na,c
 Autodeclare Symbol m,mt,mu,mh;
 Autodeclare Vector p,q,k;
 CFunction UB,U,VB,V;
-CFunction ghprop,glprop,fprop,vrtx,prop;
+CFunction ghprop,glprop,fpropu,fpropt,fprop,vrtx,prop;
 CFunction f,g,t,gl,gh,gv,gg,ch,mom;
 Symbol Uug,Ttg,Tth,gggg,ggg,Ghghg;
-Symbol gs,Y;
+Symbol gs,Y,nf,up,top;
 Autodeclare Symbol basis,Basis;
+
+Set quarkset:up,top;
 
 Set iset:i1,...,i100;
 Set ieset:ie1,...,ie100;
@@ -46,7 +49,7 @@ Off statistics;
 
 #include ../qgraf/diagram/qqtthoneloop.frm
 
-Multiply left U(-1,p1,0)*VB(-3,p2,0)*UB(-2,p3,mt)*V(-4,p4,mt);
+Multiply left U(-1,p1,0,up)*VB(-3,p2,0,up)*UB(-2,p3,0,top)*V(-4,p4,0,top);
 .sort
 
 #call numbertoindex
@@ -59,8 +62,13 @@ Multiply left U(-1,p1,0)*VB(-3,p2,0)*UB(-2,p3,mt)*V(-4,p4,mt);
 
 #call calamponebyone
 
-Bracket basis1,basis2,Basis1,Basis2;
-Print +s;
+*Format mathematica;
+*#write <test.m> "(%E)",Mat10o11o1;
+*id Basis2*basis1=0;
+*id basis2*Basis2=(Nc^2-1)/4;
+*Bracket basis1,basis2,Basis1,Basis2,gs,Y,prop;
+*Print +s loop0diagram1,loop1diagram20;
+*Print +s Mat10o27o1;
 .store
 
 save ../../../data_save/qqtth_massive/NLO/Mat.sav;

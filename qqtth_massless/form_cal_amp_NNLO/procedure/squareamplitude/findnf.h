@@ -4,6 +4,7 @@
 * seperate momentum combination like f(...,p+q,...) into f(...,p,...)+f(...,q,...) form
 
 id g(i1?,i2?,up?quarkset,i3?)=g(i1,i2,up,i3);
+id mom(i1?,i2?)=mom(i1,i2);
 
 * connect spin line in each diagram
 

@@ -8,7 +8,7 @@ Off statistics;
 
 #include expr.h
 #include kira_myintegrals.inc
-#$total=81;
+#$total=76;
 
 #$allterm3=0;
 #$nu=0;

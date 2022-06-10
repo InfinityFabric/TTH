@@ -1,0 +1,517 @@
+FORM 4.2.1 (Sep  2 2021, v4.2.1-33-g2a37fd2) 64-bits  Run: Sun Jun  5 12:22:32 2022
+    #-
+
+   Mat10o27o1 =
+
+       + basis2*Basis2 * (
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12*s45*s51^2*gs^6*Y^2
+          - 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12*s45^2*s51*gs^6*Y^2
+          + 12*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12*s34*s45*s51*gs^6*Y^2
+          + 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12*s34*s45^2*gs^6*Y^2
+          - 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12*s34^2*s45*gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12*s23*s45*s51*gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12*s23*s34*s51*gs^6*Y^2
+          - 12*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12*s23*s34*s45*gs^6*Y^2
+          + 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12*s23*s34^2*gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12*s23^2*s34*gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12^2*s51^2*gs^6*Y^2
+          - 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12^2*s45*s51*gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12^2*s45^2*gs^6*Y^2
+          - 12*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12^2*s34*s51*gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12^2*s34*s45*gs^6*Y^2
+          + 12*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12^2*s23*s45*gs^6*Y^2
+          + 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12^2*s23*s34*gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12^2*s23^2*gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12^3*s51*gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12^3*s45*gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*Nc^-1*s12^3*s23*gs^6*Y^2
+          - 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*D*Nc^-1*s12^2*s45^2*gs^6*Y^2
+          - 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*D*Nc^-1*s12^2*s34*s45*gs^6*Y^2
+          + 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*i_*D*Nc^-1*s12^3*s45*gs^6*Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p2.k1*i_*Nc^-1*s45^2*gs^6*
+         Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p2.k1*i_*Nc^-1*s34*s45*gs^6
+         *Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p2.k1*i_*Nc^-1*s12*s45*gs^6
+         *Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p2.k1*i_*Nc^-1*s12*s34*gs^6
+         *Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p2.k1*i_*D*Nc^-1*s45^2*gs^6
+         *Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p2.k1*i_*D*Nc^-1*s34*s45*
+         gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p2.k1*i_*D*Nc^-1*s12*s45*
+         gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p2.k1*i_*D*Nc^-1*s12*s34*
+         gs^6*Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p3.k1*i_*Nc^-1*s12*s51*gs^6
+         *Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p3.k1*i_*Nc^-1*s12*s34*gs^6
+         *Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p3.k1*i_*Nc^-1*s12*s23*gs^6
+         *Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p3.k1*i_*D*Nc^-1*s12*s51*
+         gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p3.k1*i_*D*Nc^-1*s12*s34*
+         gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p3.k1*i_*D*Nc^-1*s12*s23*
+         gs^6*Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p4.k1*i_*Nc^-1*s45*s51*gs^6
+         *Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p4.k1*i_*Nc^-1*s34*s45*gs^6
+         *Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p4.k1*i_*Nc^-1*s23*s34*gs^6
+         *Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p4.k1*i_*Nc^-1*s12*s51*gs^6
+         *Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p4.k1*i_*Nc^-1*s12*s45*gs^6
+         *Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p4.k1*i_*Nc^-1*s12*s34*gs^6
+         *Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p4.k1*i_*Nc^-1*s12^2*gs^6*
+         Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p4.k1*i_*D*Nc^-1*s45*s51*
+         gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p4.k1*i_*D*Nc^-1*s34*s45*
+         gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p4.k1*i_*D*Nc^-1*s23*s34*
+         gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p4.k1*i_*D*Nc^-1*s12*s51*
+         gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p4.k1*i_*D*Nc^-1*s12*s45*
+         gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p4.k1*i_*D*Nc^-1*s12*s34*
+         gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*p4.k1*i_*D*Nc^-1*s12^2*gs^6
+         *Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*i_*Nc^-1*s12*s45*s51*gs^6*
+         Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*i_*Nc^-1*s12*s45^2*gs^6*Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*i_*Nc^-1*s12*s34*s45*gs^6*
+         Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*i_*Nc^-1*s12*s34^2*gs^6*Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*i_*Nc^-1*s12*s23*s45*gs^6*
+         Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*i_*Nc^-1*s12*s23*s34*gs^6*
+         Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*i_*Nc^-1*s12^2*s51*gs^6*Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*i_*Nc^-1*s12^2*s45*gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*i_*Nc^-1*s12^2*s34*gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*i_*Nc^-1*s12^2*s23*gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*i_*D*Nc^-1*s12*s45^2*gs^6*
+         Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*i_*D*Nc^-1*s12*s34*s45*gs^6
+         *Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1*i_*D*Nc^-1*s12^2*s45*gs^6*
+         Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1^2*i_*Nc^-1*s45*s51*gs^6*Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1^2*i_*Nc^-1*s34*s45*gs^6*Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1^2*i_*Nc^-1*s23*s45*gs^6*Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1^2*i_*Nc^-1*s12*s51*gs^6*Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1^2*i_*Nc^-1*s12*s34*gs^6*Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1^2*i_*Nc^-1*s12*s23*gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1^2*i_*D*Nc^-1*s45*s51*gs^6*
+         Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1^2*i_*D*Nc^-1*s34*s45*gs^6*
+         Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1^2*i_*D*Nc^-1*s23*s45*gs^6*
+         Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1^2*i_*D*Nc^-1*s12*s51*gs^6*
+         Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1^2*i_*D*Nc^-1*s12*s34*gs^6*
+         Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p1.k1^2*i_*D*Nc^-1*s12*s23*gs^6*
+         Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p3.k1*i_*Nc^-1*s12*s51*gs^6
+         *Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p3.k1*i_*Nc^-1*s12*s45*gs^6
+         *Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p3.k1*i_*Nc^-1*s12*s23*gs^6
+         *Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p3.k1*i_*D*Nc^-1*s12*s51*
+         gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p3.k1*i_*D*Nc^-1*s12*s45*
+         gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p3.k1*i_*D*Nc^-1*s12*s23*
+         gs^6*Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p4.k1*i_*Nc^-1*s45*s51*gs^6
+         *Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p4.k1*i_*Nc^-1*s34*s45*gs^6
+         *Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p4.k1*i_*Nc^-1*s23*s34*gs^6
+         *Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p4.k1*i_*Nc^-1*s12*s51*gs^6
+         *Y^2
+          - 32*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p4.k1*i_*Nc^-1*s12*s45*gs^6
+         *Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p4.k1*i_*Nc^-1*s12*s34*gs^6
+         *Y^2
+          + 32*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p4.k1*i_*Nc^-1*s12^2*gs^6*
+         Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p4.k1*i_*D*Nc^-1*s45*s51*
+         gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p4.k1*i_*D*Nc^-1*s34*s45*
+         gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p4.k1*i_*D*Nc^-1*s23*s34*
+         gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p4.k1*i_*D*Nc^-1*s12*s51*
+         gs^6*Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p4.k1*i_*D*Nc^-1*s12*s45*
+         gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p4.k1*i_*D*Nc^-1*s12*s34*
+         gs^6*Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*p4.k1*i_*D*Nc^-1*s12^2*gs^6
+         *Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*i_*Nc^-1*s12*s45*s51*gs^6*
+         Y^2
+          - 32*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*i_*Nc^-1*s12*s45^2*gs^6*Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*i_*Nc^-1*s12*s34*s45*gs^6*
+         Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*i_*Nc^-1*s12*s34^2*gs^6*Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*i_*Nc^-1*s12*s23*s45*gs^6*
+         Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*i_*Nc^-1*s12*s23*s34*gs^6*
+         Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*i_*Nc^-1*s12^2*s51*gs^6*Y^2
+          + 32*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*i_*Nc^-1*s12^2*s45*gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*i_*Nc^-1*s12^2*s34*gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*i_*Nc^-1*s12^2*s23*gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*i_*D*Nc^-1*s12*s45^2*gs^6*
+         Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*i_*D*Nc^-1*s12*s34*s45*gs^6
+         *Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1*i_*D*Nc^-1*s12^2*s45*gs^6*
+         Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1^2*i_*Nc^-1*s45*s51*gs^6*Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1^2*i_*Nc^-1*s45^2*gs^6*Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1^2*i_*Nc^-1*s23*s45*gs^6*Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1^2*i_*Nc^-1*s12*s51*gs^6*Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1^2*i_*Nc^-1*s12*s45*gs^6*Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1^2*i_*Nc^-1*s12*s23*gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1^2*i_*D*Nc^-1*s45*s51*gs^6*
+         Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1^2*i_*D*Nc^-1*s45^2*gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1^2*i_*D*Nc^-1*s23*s45*gs^6*
+         Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1^2*i_*D*Nc^-1*s12*s51*gs^6*
+         Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1^2*i_*D*Nc^-1*s12*s45*gs^6*
+         Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p2.k1^2*i_*D*Nc^-1*s12*s23*gs^6*
+         Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p3.k1*p4.k1*i_*Nc^-1*s12*s45*gs^6
+         *Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p3.k1*p4.k1*i_*Nc^-1*s12*s34*gs^6
+         *Y^2
+          - 32*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p3.k1*p4.k1*i_*Nc^-1*s12^2*gs^6*
+         Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p3.k1*p4.k1*i_*D*Nc^-1*s12*s45*
+         gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p3.k1*p4.k1*i_*D*Nc^-1*s12*s34*
+         gs^6*Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p3.k1*p4.k1*i_*D*Nc^-1*s12^2*gs^6
+         *Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p3.k1*i_*Nc^-1*s12*s45*s51*gs^6*
+         Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p3.k1*i_*Nc^-1*s12*s45^2*gs^6*Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p3.k1*i_*Nc^-1*s12*s34*s51*gs^6*
+         Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p3.k1*i_*Nc^-1*s12*s34^2*gs^6*Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p3.k1*i_*Nc^-1*s12*s23*s45*gs^6*
+         Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p3.k1*i_*Nc^-1*s12*s23*s34*gs^6*
+         Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p3.k1*i_*Nc^-1*s12^2*s51*gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p3.k1*i_*Nc^-1*s12^2*s45*gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p3.k1*i_*Nc^-1*s12^2*s34*gs^6*Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p3.k1*i_*Nc^-1*s12^2*s23*gs^6*Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p4.k1*i_*Nc^-1*s12*s45*s51*gs^6*
+         Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p4.k1*i_*Nc^-1*s12*s45^2*gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p4.k1*i_*Nc^-1*s12*s34*s45*gs^6*
+         Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p4.k1*i_*Nc^-1*s12*s23*s45*gs^6*
+         Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p4.k1*i_*Nc^-1*s12^2*s51*gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p4.k1*i_*Nc^-1*s12^2*s34*gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p4.k1*i_*Nc^-1*s12^3*gs^6*Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p4.k1^2*i_*Nc^-1*s12*s45*gs^6*Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p4.k1^2*i_*Nc^-1*s12^2*gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p4.k1^2*i_*D*Nc^-1*s12*s45*gs^6*
+         Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*p4.k1^2*i_*D*Nc^-1*s12^2*gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s45*s51^2*gs^6*Y^2
+          - 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s45^2*s51*gs^6*Y^2
+          + 12*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s34*s45*s51*gs^6*
+         Y^2
+          + 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s34*s45^2*gs^6*Y^2
+          - 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s34^2*s45*gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s23*s45*s51*gs^6*
+         Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s23*s34*s51*gs^6*
+         Y^2
+          - 12*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s23*s34*s45*gs^6*
+         Y^2
+          + 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s23*s34^2*gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s23^2*s34*gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s12*s51^2*gs^6*Y^2
+          - 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s12*s45*s51*gs^6*
+         Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s12*s45^2*gs^6*Y^2
+          - 12*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s12*s34*s51*gs^6*
+         Y^2
+          + 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s12*s34*s45*gs^6*
+         Y^2
+          + 12*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s12*s23*s45*gs^6*
+         Y^2
+          + 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s12*s23*s34*gs^6*
+         Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s12*s23^2*gs^6*Y^2
+          + 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s12^2*s51*gs^6*Y^2
+          - 16*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s12^2*s45*gs^6*Y^2
+          - 8*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*Nc^-1*s12^2*s23*gs^6*Y^2
+          + 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s45*s51^2*gs^6*
+         Y^2
+          + 2*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s45^2*s51*gs^6*
+         Y^2
+          - 6*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s34*s45*s51*gs^6
+         *Y^2
+          - 2*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s34*s45^2*gs^6*
+         Y^2
+          + 2*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s34^2*s45*gs^6*
+         Y^2
+          - 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s23*s45*s51*gs^6
+         *Y^2
+          + 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s23*s34*s51*gs^6
+         *Y^2
+          + 6*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s23*s34*s45*gs^6
+         *Y^2
+          - 2*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s23*s34^2*gs^6*
+         Y^2
+          - 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s23^2*s34*gs^6*
+         Y^2
+          - 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s12*s51^2*gs^6*
+         Y^2
+          + 2*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s12*s45*s51*gs^6
+         *Y^2
+          - 12*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s12*s45^2*gs^6*
+         Y^2
+          + 6*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s12*s34*s51*gs^6
+         *Y^2
+          - 12*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s12*s34*s45*gs^6
+         *Y^2
+          - 6*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s12*s23*s45*gs^6
+         *Y^2
+          - 2*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s12*s23*s34*gs^6
+         *Y^2
+          + 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s12*s23^2*gs^6*
+         Y^2
+          - 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s12^2*s51*gs^6*
+         Y^2
+          + 12*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s12^2*s45*gs^6*
+         Y^2
+          + 4*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D*Nc^-1*s12^2*s23*gs^6*
+         Y^2
+          + 2*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D^2*Nc^-1*s12*s45^2*gs^6
+         *Y^2
+          + 2*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D^2*Nc^-1*s12*s34*s45*
+         gs^6*Y^2
+          - 2*prop(-k1,0)*prop( - p1 - p2,0)*prop(p1 + p2,0)*prop(p1 - k1,0)*
+         prop( - p2 - k1,0)*prop(p3 + q,0)^2*k1.k1*i_*D^2*Nc^-1*s12^2*s45*gs^6
+         *Y^2
+          );
+
+  5.92 sec out of 5.94 sec

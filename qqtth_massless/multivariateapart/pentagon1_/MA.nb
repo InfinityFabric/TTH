@@ -1,0 +1,242 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      9805,        234]
+NotebookOptionsPosition[      8808,        209]
+NotebookOutlinePosition[      9172,        225]
+CellTagsIndexPosition[      9129,        222]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"SetDirectory", "[", 
+   RowBox[{"NotebookDirectory", "[", "]"}], "]"}], ";"}]], "Input",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.},
+ CellChangeTimes->{{3.85967689181564*^9, 3.85967691050891*^9}},
+ CellLabel->"",ExpressionUUID->"2981c23c-04af-4ac3-8f40-49b0c416696e"],
+
+Cell[BoxData[
+ RowBox[{"Needs", "[", "\"\<MultivariateApart`\>\"", "]"}]], "Input",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.},
+ CellChangeTimes->{{3.859674554628193*^9, 3.859674618932266*^9}, 
+   3.859676728343745*^9},
+ CellLabel->"",ExpressionUUID->"52070f51-ea44-48d5-88a0-caccd8773a71"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"dentable0", "=", 
+   RowBox[{"Import", "[", "\"\<denominators.m\>\"", "]"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"dentable", "=", 
+   RowBox[{"dentable0", "/.", 
+    RowBox[{
+     RowBox[{"den", "[", "x_", "]"}], "\[Rule]", "x"}]}]}], ";"}]}], "Input",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.},
+ CellChangeTimes->{{3.859674637199051*^9, 3.859674665970862*^9}, 
+   3.859676728343837*^9, {3.8598716538231564`*^9, 
+   3.859871679812746*^9}},ExpressionUUID->"226fa5db-7e6e-49b9-9f31-\
+866b4442ef60"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"cal", "[", "i_", "]"}], ":=", 
+  RowBox[{"Module", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+     "expr", ",", "dens", ",", "qis", ",", "ord", ",", "gb", ",", "k"}], 
+     "}"}], ",", "\[IndentingNewLine]", 
+    RowBox[{
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{"expr", ",", "dens", ",", "qis"}], "}"}], "=", 
+      RowBox[{"AbbreviateDenominators", "[", 
+       RowBox[{"1", "/", 
+        RowBox[{"dentable", "[", 
+         RowBox[{"[", "i", "]"}], "]"}]}], "]"}]}], ";", 
+     "\[IndentingNewLine]", 
+     RowBox[{"If", "[", 
+      RowBox[{
+       RowBox[{"dens", "!=", 
+        RowBox[{"{", "}"}]}], ",", "\[IndentingNewLine]", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"ord", "=", 
+          RowBox[{"ApartOrder", "[", 
+           RowBox[{"dens", ",", "qis"}], "]"}]}], ",", "\[IndentingNewLine]", 
+         
+         RowBox[{"gb", "=", 
+          RowBox[{"ApartBasis", "[", 
+           RowBox[{"dens", ",", "qis", ",", "ord"}], "]"}]}], ",", 
+         "\[IndentingNewLine]", 
+         RowBox[{"CreateDirectory", "[", 
+          RowBox[{"\"\<headfile\>\"", "<>", 
+           RowBox[{"ToString", "[", "i", "]"}]}], "]"}], ",", 
+         "\[IndentingNewLine]", 
+         RowBox[{"WriteString", "[", 
+          RowBox[{
+           RowBox[{"\"\<headfile\>\"", "<>", 
+            RowBox[{"ToString", "[", "i", "]"}], "<>", 
+            "\"\</idrule_den_q_\>\"", "<>", 
+            RowBox[{"ToString", "[", "i", "]"}], "<>", "\"\<.h\>\""}], ",", 
+           "\"\<id den(x?number_)=1/x;\\n\>\""}], "]"}], ",", 
+         "\[IndentingNewLine]", 
+         RowBox[{"WriteString", "[", 
+          RowBox[{
+           RowBox[{"\"\<headfile\>\"", "<>", 
+            RowBox[{"ToString", "[", "i", "]"}], "<>", 
+            "\"\</idrule_den_q_\>\"", "<>", 
+            RowBox[{"ToString", "[", "i", "]"}], "<>", "\"\<.h\>\""}], ",", 
+           "\"\<id den(?a)=\>\""}], "]"}], ",", "\[IndentingNewLine]", 
+         RowBox[{"expr", ">>", 
+          RowBox[{"\"\<headfile\>\"", "<>", 
+           RowBox[{"ToString", "[", "i", "]"}], "<>", 
+           "\"\</idrule_den_q_\>\"", "<>", 
+           RowBox[{"ToString", "[", "i", "]"}], "<>", "\"\<.h\>\""}]}], ",", 
+         "\[IndentingNewLine]", 
+         RowBox[{"WriteString", "[", 
+          RowBox[{
+           RowBox[{"\"\<headfile\>\"", "<>", 
+            RowBox[{"ToString", "[", "i", "]"}], "<>", 
+            "\"\</idrule_den_q_\>\"", "<>", 
+            RowBox[{"ToString", "[", "i", "]"}], "<>", "\"\<.h\>\""}], ",", 
+           "\"\<;\\n\>\""}], "]"}], ",", "\[IndentingNewLine]", 
+         RowBox[{"Do", "[", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{
+             RowBox[{"WriteString", "[", 
+              RowBox[{
+               RowBox[{"\"\<headfile\>\"", "<>", 
+                RowBox[{"ToString", "[", "i", "]"}], "<>", 
+                "\"\</idrule_q_den_\>\"", "<>", 
+                RowBox[{"ToString", "[", "i", "]"}], "<>", "\"\<.h\>\""}], 
+               ",", 
+               RowBox[{"\"\<id \>\"", "<>", 
+                RowBox[{"ToString", "[", 
+                 RowBox[{"qis", "[", 
+                  RowBox[{"[", "k", "]"}], "]"}], "]"}], "<>", 
+                "\"\<=den(\>\""}]}], "]"}], ",", 
+             RowBox[{
+              RowBox[{"dens", "[", 
+               RowBox[{"[", "k", "]"}], "]"}], ">>", 
+              RowBox[{"\"\<headfile\>\"", "<>", 
+               RowBox[{"ToString", "[", "i", "]"}], "<>", 
+               "\"\</idrule_q_den_\>\"", "<>", 
+               RowBox[{"ToString", "[", "i", "]"}], "<>", "\"\<.h\>\""}]}], 
+             ",", 
+             RowBox[{"WriteString", "[", 
+              RowBox[{
+               RowBox[{"\"\<headfile\>\"", "<>", 
+                RowBox[{"ToString", "[", "i", "]"}], "<>", 
+                "\"\</idrule_q_den_\>\"", "<>", 
+                RowBox[{"ToString", "[", "i", "]"}], "<>", "\"\<.h\>\""}], 
+               ",", "\"\<);\\n\>\""}], "]"}]}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"k", ",", "1", ",", 
+             RowBox[{"Length", "[", "qis", "]"}]}], "}"}]}], "]"}], ",", 
+         "\[IndentingNewLine]", 
+         RowBox[{"WriteFormReduceInput", "[", 
+          RowBox[{"gb", ",", "ord", ",", 
+           RowBox[{"\"\<headfile\>\"", "<>", 
+            RowBox[{"ToString", "[", "i", "]"}]}]}], "]"}]}], "}"}]}], 
+      "]"}]}]}], "\[IndentingNewLine]", "]"}]}]], "Input",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.},
+ CellChangeTimes->{{3.85967479564209*^9, 3.859674859868228*^9}, {
+   3.859674891451777*^9, 3.85967510406642*^9}, {3.8596756287176647`*^9, 
+   3.8596757640509167`*^9}, {3.859675960190855*^9, 3.8596763021137857`*^9}, {
+   3.8596763389427233`*^9, 3.859676391106326*^9}, 3.8596767283439074`*^9, 
+   3.859676789445929*^9, {3.859676852454373*^9, 3.859676852803204*^9}, 
+   3.859677491452577*^9, {3.85967794107388*^9, 3.8596779521944513`*^9}, {
+   3.8596780181512814`*^9, 3.8596780657755527`*^9}, {3.859678387201439*^9, 
+   3.859678408937153*^9}, {3.8596786439378023`*^9, 3.859678675353715*^9}, {
+   3.859678763912876*^9, 3.859678774108073*^9}, {3.859678817857979*^9, 
+   3.8596788183739347`*^9}, {3.859873281666173*^9, 3.85987330520452*^9}, {
+   3.859873441792964*^9, 3.859873447295518*^9}, {3.859873546475494*^9, 
+   3.859873588986064*^9}, {3.859873661827914*^9, 3.8598736705880213`*^9}, 
+   3.859873708993558*^9, {3.859873758802539*^9, 3.859873773782587*^9}, {
+   3.859873813147029*^9, 3.859873826353321*^9}, {3.859920736143977*^9, 
+   3.859920763537264*^9}, {3.859921132304668*^9, 3.8599212162754107`*^9}, {
+   3.8599212688324203`*^9, 3.859921384566804*^9}, {3.85992148749037*^9, 
+   3.859921527140059*^9}, {3.859921570705296*^9, 3.859921656726247*^9}, {
+   3.8599217269224043`*^9, 3.8599217349528923`*^9}, {3.859921791433652*^9, 
+   3.859921794435584*^9}, {3.859921869079155*^9, 3.8599218781221848`*^9}, {
+   3.859937144243369*^9, 3.859937174951744*^9}, {3.859948554098235*^9, 
+   3.859948554391328*^9}, {3.860183042661975*^9, 
+   3.860183044755764*^9}},ExpressionUUID->"12c63ecf-d179-4922-aef9-\
+5fda860ad64a"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"CloseKernels", "[", "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"LaunchKernels", "[", "10", "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"ParallelEvaluate", "[", 
+   RowBox[{"$HistoryLength", "=", "0"}], "]"}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"ParallelNeeds", "[", "\"\<MultivariateApart`\>\"", "]"}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"ParallelTable", "[", 
+   RowBox[{
+    RowBox[{"cal", "[", "i", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"i", ",", "1", ",", 
+      RowBox[{"Length", "[", "dentable", "]"}]}], "}"}]}], "]"}], 
+  ";"}]}], "Input",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.},
+ CellChangeTimes->{{3.859675115905457*^9, 3.859675233600157*^9}, {
+   3.859675394036471*^9, 3.8596754001656837`*^9}, 3.859676526615937*^9, 
+   3.859676728343976*^9},
+ CellLabel->"",ExpressionUUID->"f6fc1b4e-76c6-42cd-989d-0302b405be7b"]
+}, Open  ]]
+},
+WindowSize->{1920, 1007},
+WindowMargins->{{0, Automatic}, {0, Automatic}},
+Magnification:>1.5 Inherited,
+FrontEndVersion->"12.0 for Linux x86 (64-bit) (April 8, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 313, 6, 51, "Input",ExpressionUUID->"2981c23c-04af-4ac3-8f40-49b0c416696e",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
+Cell[896, 30, 301, 5, 51, "Input",ExpressionUUID->"52070f51-ea44-48d5-88a0-caccd8773a71",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
+Cell[1200, 37, 564, 14, 86, "Input",ExpressionUUID->"226fa5db-7e6e-49b9-9f31-866b4442ef60",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
+Cell[1767, 53, 6074, 127, 577, "Input",ExpressionUUID->"12c63ecf-d179-4922-aef9-5fda860ad64a",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
+Cell[7844, 182, 948, 24, 196, "Input",ExpressionUUID->"f6fc1b4e-76c6-42cd-989d-0302b405be7b",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.}]
+}, Open  ]]
+}
+]
+*)
+

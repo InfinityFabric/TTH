@@ -1,0 +1,1330 @@
+FORM 4.2.1 (Sep  2 2021, v4.2.1-33-g2a37fd2) 64-bits  Run: Fri Jun 10 12:46:55 2022
+    #-
+ amp10o1o1 loaded
+ amp10o1o2 loaded
+ amp10o2o1 loaded
+ amp10o2o2 loaded
+ amp10o3o1 loaded
+ amp10o3o2 loaded
+ amp10o4o1 loaded
+ amp10o4o2 loaded
+ amp10o5o1 loaded
+ amp10o5o2 loaded
+ amp10o6o1 loaded
+ amp10o6o2 loaded
+ amp10o7o1 loaded
+ amp10o7o2 loaded
+ amp10o8o1 loaded
+ amp10o8o2 loaded
+ amp10o9o1 loaded
+ amp10o9o2 loaded
+ amp10o10o1 loaded
+ amp10o10o2 loaded
+ amp10o11o1 loaded
+ amp10o11o2 loaded
+ amp10o12o1 loaded
+ amp10o12o2 loaded
+ amp10o13o1 loaded
+ amp10o13o2 loaded
+ amp10o14o1 loaded
+ amp10o14o2 loaded
+ amp10o15o1 loaded
+ amp10o15o2 loaded
+ amp10o16o1 loaded
+ amp10o16o2 loaded
+ amp10o17o1 loaded
+ amp10o17o2 loaded
+ amp10o18o1 loaded
+ amp10o18o2 loaded
+ amp10o19o1 loaded
+ amp10o19o2 loaded
+ amp10o20o1 loaded
+ amp10o20o2 loaded
+ amp10o21o1 loaded
+ amp10o21o2 loaded
+ amp10o22o1 loaded
+ amp10o22o2 loaded
+ amp10o23o1 loaded
+ amp10o23o2 loaded
+ amp10o24o1 loaded
+ amp10o24o2 loaded
+ amp10o25o1 loaded
+ amp10o25o2 loaded
+ amp10o26o1 loaded
+ amp10o26o2 loaded
+ amp10o27o1 loaded
+ amp10o27o2 loaded
+ amp10o28o1 loaded
+ amp10o28o2 loaded
+ amp10o29o1 loaded
+ amp10o29o2 loaded
+ amp10o30o1 loaded
+ amp10o30o2 loaded
+ amp10o31o1 loaded
+ amp10o31o2 loaded
+
+Time =       0.00 sec    Generated terms =          0
+         a10o1o1         Terms in output =          0
+                         Bytes used      =          4
+
+Time =       0.00 sec    Generated terms =          0
+         a10o1o2         Terms in output =          0
+                         Bytes used      =          4
+
+Time =       0.00 sec    Generated terms =          0
+         a10o2o1         Terms in output =          0
+                         Bytes used      =          4
+
+Time =       0.00 sec    Generated terms =          0
+         a10o2o2         Terms in output =          0
+                         Bytes used      =          4
+
+Time =       0.00 sec    Generated terms =        140
+         a10o3o1         Terms in output =        140
+                         Bytes used      =      15292
+
+Time =       0.00 sec    Generated terms =        248
+         a10o3o2         Terms in output =        248
+                         Bytes used      =      26212
+
+Time =       0.00 sec    Generated terms =        149
+         a10o4o1         Terms in output =        149
+                         Bytes used      =      16236
+
+Time =       0.00 sec    Generated terms =        270
+         a10o4o2         Terms in output =        270
+                         Bytes used      =      28584
+
+Time =       0.00 sec    Generated terms =        248
+         a10o5o1         Terms in output =        248
+                         Bytes used      =      24228
+
+Time =       0.00 sec    Generated terms =        140
+         a10o5o2         Terms in output =        140
+                         Bytes used      =      14172
+
+Time =       0.00 sec    Generated terms =        270
+         a10o6o1         Terms in output =        270
+                         Bytes used      =      26424
+
+Time =       0.00 sec    Generated terms =        149
+         a10o6o2         Terms in output =        149
+                         Bytes used      =      15044
+
+Time =       0.00 sec    Generated terms =        182
+         a10o7o1         Terms in output =        182
+                         Bytes used      =      13160
+
+Time =       0.00 sec    Generated terms =        348
+         a10o7o2         Terms in output =        348
+                         Bytes used      =      24996
+
+Time =       0.01 sec    Generated terms =        348
+         a10o8o1         Terms in output =        348
+                         Bytes used      =      23604
+
+Time =       0.01 sec    Generated terms =        182
+         a10o8o2         Terms in output =        182
+                         Bytes used      =      12432
+
+Time =       0.01 sec    Generated terms =        398
+         a10o9o1         Terms in output =        398
+                         Bytes used      =      39480
+
+Time =       0.01 sec    Generated terms =        298
+         a10o9o2         Terms in output =        298
+                         Bytes used      =      29608
+
+Time =       0.01 sec    Generated terms =        199
+        a10o10o1         Terms in output =        199
+                         Bytes used      =      20212
+
+Time =       0.01 sec    Generated terms =        149
+        a10o10o2         Terms in output =        149
+                         Bytes used      =      15208
+
+Time =       0.01 sec    Generated terms =        364
+        a10o11o1         Terms in output =        364
+                         Bytes used      =      35388
+
+Time =       0.01 sec    Generated terms =        294
+        a10o11o2         Terms in output =        294
+                         Bytes used      =      28360
+
+Time =       0.01 sec    Generated terms =        125
+        a10o12o1         Terms in output =        125
+                         Bytes used      =      15836
+
+Time =       0.01 sec    Generated terms =         91
+        a10o12o2         Terms in output =         91
+                         Bytes used      =      11592
+
+Time =       0.01 sec    Generated terms =        288
+        a10o13o1         Terms in output =        288
+                         Bytes used      =      28580
+
+Time =       0.01 sec    Generated terms =        166
+        a10o13o2         Terms in output =        166
+                         Bytes used      =      16440
+
+Time =       0.01 sec    Generated terms =        144
+        a10o14o1         Terms in output =        144
+                         Bytes used      =      14664
+
+Time =       0.01 sec    Generated terms =         83
+        a10o14o2         Terms in output =         83
+                         Bytes used      =       8824
+
+Time =       0.01 sec    Generated terms =        240
+        a10o15o1         Terms in output =        240
+                         Bytes used      =      24076
+
+Time =       0.01 sec    Generated terms =        144
+        a10o15o2         Terms in output =        144
+                         Bytes used      =      14892
+
+Time =       0.01 sec    Generated terms =         90
+        a10o16o1         Terms in output =         90
+                         Bytes used      =      11484
+
+Time =       0.01 sec    Generated terms =         52
+        a10o16o2         Terms in output =         52
+                         Bytes used      =       6716
+
+Time =       0.01 sec    Generated terms =        214
+        a10o17o1         Terms in output =        214
+                         Bytes used      =      21060
+
+Time =       0.02 sec    Generated terms =        276
+        a10o17o2         Terms in output =        276
+                         Bytes used      =      28164
+
+Time =       0.02 sec    Generated terms =        276
+        a10o18o1         Terms in output =        276
+                         Bytes used      =      25956
+
+Time =       0.02 sec    Generated terms =        214
+        a10o18o2         Terms in output =        214
+                         Bytes used      =      19348
+
+Time =       0.02 sec    Generated terms =        252
+        a10o19o1         Terms in output =        252
+                         Bytes used      =      24372
+
+Time =       0.02 sec    Generated terms =        252
+        a10o19o2         Terms in output =        252
+                         Bytes used      =      24304
+
+Time =       0.02 sec    Generated terms =        411
+        a10o20o1         Terms in output =        411
+                         Bytes used      =      33108
+
+Time =       0.02 sec    Generated terms =        756
+        a10o20o2         Terms in output =        756
+                         Bytes used      =      61192
+
+Time =       0.02 sec    Generated terms =        548
+        a10o21o1         Terms in output =        548
+                         Bytes used      =      47984
+
+Time =       0.02 sec    Generated terms =       1008
+        a10o21o2         Terms in output =       1008
+                         Bytes used      =      87048
+
+Time =       0.02 sec    Generated terms =       1008
+        a10o22o1         Terms in output =       1008
+                         Bytes used      =      87072
+
+Time =       0.03 sec    Generated terms =        548
+        a10o22o2         Terms in output =        548
+                         Bytes used      =      47832
+
+Time =       0.03 sec    Generated terms =        756
+        a10o23o1         Terms in output =        756
+                         Bytes used      =      57160
+
+Time =       0.03 sec    Generated terms =        411
+        a10o23o2         Terms in output =        411
+                         Bytes used      =      30916
+
+Time =       0.03 sec    Generated terms =        322
+        a10o24o1         Terms in output =        322
+                         Bytes used      =      21760
+
+Time =       0.03 sec    Generated terms =        160
+        a10o24o2         Terms in output =        160
+                         Bytes used      =      10792
+
+Time =       0.03 sec    Generated terms =        160
+        a10o25o1         Terms in output =        160
+                         Bytes used      =      11432
+
+Time =       0.03 sec    Generated terms =        322
+        a10o25o2         Terms in output =        322
+                         Bytes used      =      23048
+
+Time =       0.03 sec    Generated terms =        353
+        a10o26o1         Terms in output =        353
+                         Bytes used      =      34216
+
+Time =       0.03 sec    Generated terms =        284
+        a10o26o2         Terms in output =        284
+                         Bytes used      =      27152
+
+Time =       0.03 sec    Generated terms =        348
+        a10o27o1         Terms in output =        348
+                         Bytes used      =      33680
+
+Time =       0.03 sec    Generated terms =        270
+        a10o27o2         Terms in output =        270
+                         Bytes used      =      25904
+
+Time =       0.03 sec    Generated terms =        228
+        a10o28o1         Terms in output =        228
+                         Bytes used      =      22680
+
+Time =       0.03 sec    Generated terms =        136
+        a10o28o2         Terms in output =        136
+                         Bytes used      =      13792
+
+Time =       0.04 sec    Generated terms =        249
+        a10o29o1         Terms in output =        249
+                         Bytes used      =      24160
+
+Time =       0.04 sec    Generated terms =        136
+        a10o29o2         Terms in output =        136
+                         Bytes used      =      13812
+
+Time =       0.04 sec    Generated terms =        808
+        a10o30o1         Terms in output =        808
+                         Bytes used      =      67924
+
+Time =       0.04 sec    Generated terms =        808
+        a10o30o2         Terms in output =        808
+                         Bytes used      =      68092
+
+Time =       0.04 sec    Generated terms =        606
+        a10o31o1         Terms in output =        606
+                         Bytes used      =      49028
+
+Time =       0.04 sec    Generated terms =        606
+        a10o31o2         Terms in output =        606
+                         Bytes used      =      49248
+
+Time =       0.04 sec    Generated terms =          0
+         a10o1o1         Terms in output =          0
+                         Bytes used      =          4
+
+Time =       0.04 sec    Generated terms =          0
+         a10o1o2         Terms in output =          0
+                         Bytes used      =          4
+
+Time =       0.04 sec    Generated terms =          0
+         a10o2o1         Terms in output =          0
+                         Bytes used      =          4
+
+Time =       0.04 sec    Generated terms =          0
+         a10o2o2         Terms in output =          0
+                         Bytes used      =          4
+
+Time =       0.04 sec    Generated terms =        143
+         a10o3o1         Terms in output =        143
+                         Bytes used      =      25660
+
+Time =       0.05 sec    Generated terms =        234
+         a10o3o2         Terms in output =        234
+                         Bytes used      =      34628
+
+Time =       0.05 sec    Generated terms =        156
+         a10o4o1         Terms in output =        156
+                         Bytes used      =      27028
+
+Time =       0.06 sec    Generated terms =        268
+         a10o4o2         Terms in output =        268
+                         Bytes used      =      38388
+
+Time =       0.06 sec    Generated terms =        234
+         a10o5o1         Terms in output =        234
+                         Bytes used      =      32756
+
+Time =       0.06 sec    Generated terms =        143
+         a10o5o2         Terms in output =        143
+                         Bytes used      =      24516
+
+Time =       0.07 sec    Generated terms =        268
+         a10o6o1         Terms in output =        268
+                         Bytes used      =      36244
+
+Time =       0.07 sec    Generated terms =        156
+         a10o6o2         Terms in output =        156
+                         Bytes used      =      25780
+
+Time =       0.07 sec    Generated terms =         92
+         a10o7o1         Terms in output =         92
+                         Bytes used      =       6976
+
+Time =       0.08 sec    Generated terms =        186
+         a10o7o2         Terms in output =        186
+                         Bytes used      =      14228
+
+Time =       0.08 sec    Generated terms =        186
+         a10o8o1         Terms in output =        186
+                         Bytes used      =      13484
+
+Time =       0.08 sec    Generated terms =         92
+         a10o8o2         Terms in output =         92
+                         Bytes used      =       6608
+
+Time =       0.08 sec    Generated terms =        174
+         a10o9o1         Terms in output =        174
+                         Bytes used      =      19208
+
+Time =       0.09 sec    Generated terms =        126
+         a10o9o2         Terms in output =        126
+                         Bytes used      =      14340
+
+Time =       0.09 sec    Generated terms =         87
+        a10o10o1         Terms in output =         87
+                         Bytes used      =      10736
+
+Time =       0.09 sec    Generated terms =         63
+        a10o10o2         Terms in output =         63
+                         Bytes used      =       8212
+
+Time =       0.09 sec    Generated terms =        161
+        a10o11o1         Terms in output =        161
+                         Bytes used      =      17688
+
+Time =       0.09 sec    Generated terms =        124
+        a10o11o2         Terms in output =        124
+                         Bytes used      =      13844
+
+Time =       0.09 sec    Generated terms =         50
+        a10o12o1         Terms in output =         50
+                         Bytes used      =       8480
+
+Time =       0.09 sec    Generated terms =         34
+        a10o12o2         Terms in output =         34
+                         Bytes used      =       6360
+
+Time =       0.10 sec    Generated terms =        126
+        a10o13o1         Terms in output =        126
+                         Bytes used      =      14340
+
+Time =       0.10 sec    Generated terms =         72
+        a10o13o2         Terms in output =         72
+                         Bytes used      =       8508
+
+Time =       0.10 sec    Generated terms =         63
+        a10o14o1         Terms in output =         63
+                         Bytes used      =       8236
+
+Time =       0.10 sec    Generated terms =         36
+        a10o14o2         Terms in output =         36
+                         Bytes used      =       5172
+
+Time =       0.10 sec    Generated terms =        109
+        a10o15o1         Terms in output =        109
+                         Bytes used      =      12784
+
+Time =       0.10 sec    Generated terms =         64
+        a10o15o2         Terms in output =         64
+                         Bytes used      =       8000
+
+Time =       0.10 sec    Generated terms =         42
+        a10o16o1         Terms in output =         42
+                         Bytes used      =       7048
+
+Time =       0.10 sec    Generated terms =         22
+        a10o16o2         Terms in output =         22
+                         Bytes used      =       4220
+
+Time =       0.11 sec    Generated terms =        293
+        a10o17o1         Terms in output =        293
+                         Bytes used      =      57532
+
+Time =       0.12 sec    Generated terms =        382
+        a10o17o2         Terms in output =        382
+                         Bytes used      =      67372
+
+Time =       0.13 sec    Generated terms =        382
+        a10o18o1         Terms in output =        382
+                         Bytes used      =      64316
+
+Time =       0.13 sec    Generated terms =        293
+        a10o18o2         Terms in output =        293
+                         Bytes used      =      55188
+
+Time =       0.14 sec    Generated terms =        362
+        a10o19o1         Terms in output =        362
+                         Bytes used      =      64328
+
+Time =       0.15 sec    Generated terms =        362
+        a10o19o2         Terms in output =        362
+                         Bytes used      =      64352
+
+Time =       0.16 sec    Generated terms =        561
+        a10o20o1         Terms in output =        561
+                         Bytes used      =      54468
+
+Time =       0.17 sec    Generated terms =       1017
+        a10o20o2         Terms in output =       1017
+                         Bytes used      =      91236
+
+Time =       0.18 sec    Generated terms =        748
+        a10o21o1         Terms in output =        748
+                         Bytes used      =      75164
+
+Time =       0.21 sec    Generated terms =       1356
+        a10o21o2         Terms in output =       1356
+                         Bytes used      =     126488
+
+Time =       0.23 sec    Generated terms =       1356
+        a10o22o1         Terms in output =       1356
+                         Bytes used      =     126312
+
+Time =       0.24 sec    Generated terms =        748
+        a10o22o2         Terms in output =        748
+                         Bytes used      =      74716
+
+Time =       0.26 sec    Generated terms =       1017
+        a10o23o1         Terms in output =       1017
+                         Bytes used      =      85812
+
+Time =       0.26 sec    Generated terms =        561
+        a10o23o2         Terms in output =        561
+                         Bytes used      =      51476
+
+Time =       0.27 sec    Generated terms =        180
+        a10o24o1         Terms in output =        180
+                         Bytes used      =      13232
+
+Time =       0.27 sec    Generated terms =         86
+        a10o24o2         Terms in output =         86
+                         Bytes used      =       6548
+
+Time =       0.27 sec    Generated terms =         86
+        a10o25o1         Terms in output =         86
+                         Bytes used      =       6892
+
+Time =       0.27 sec    Generated terms =        180
+        a10o25o2         Terms in output =        180
+                         Bytes used      =      13952
+
+Time =       0.28 sec    Generated terms =        161
+        a10o26o1         Terms in output =        161
+                         Bytes used      =      18948
+
+Time =       0.28 sec    Generated terms =        124
+        a10o26o2         Terms in output =        124
+                         Bytes used      =      15052
+
+Time =       0.28 sec    Generated terms =        149
+        a10o27o1         Terms in output =        149
+                         Bytes used      =      17912
+
+Time =       0.28 sec    Generated terms =        114
+        a10o27o2         Terms in output =        114
+                         Bytes used      =      14308
+
+Time =       0.29 sec    Generated terms =        109
+        a10o28o1         Terms in output =        109
+                         Bytes used      =      13920
+
+Time =       0.29 sec    Generated terms =         58
+        a10o28o2         Terms in output =         58
+                         Bytes used      =       8244
+
+Time =       0.29 sec    Generated terms =        114
+        a10o29o1         Terms in output =        114
+                         Bytes used      =      14372
+
+Time =       0.29 sec    Generated terms =         60
+        a10o29o2         Terms in output =         60
+                         Bytes used      =       8444
+
+Time =       0.31 sec    Generated terms =       1312
+        a10o30o1         Terms in output =       1312
+                         Bytes used      =     130200
+
+Time =       0.33 sec    Generated terms =       1312
+        a10o30o2         Terms in output =       1312
+                         Bytes used      =     130464
+
+Time =       0.34 sec    Generated terms =        984
+        a10o31o1         Terms in output =        984
+                         Bytes used      =      99152
+
+Time =       0.36 sec    Generated terms =        984
+        a10o31o2         Terms in output =        984
+                         Bytes used      =      99476
+
+Time =       0.36 sec    Generated terms =          0
+         a10o1o1         Terms in output =          0
+                         Bytes used      =          4
+
+Time =       0.36 sec    Generated terms =          0
+         a10o1o2         Terms in output =          0
+                         Bytes used      =          4
+
+Time =       0.36 sec    Generated terms =          0
+         a10o2o1         Terms in output =          0
+                         Bytes used      =          4
+
+Time =       0.36 sec    Generated terms =          0
+         a10o2o2         Terms in output =          0
+                         Bytes used      =          4
+
+Time =       0.36 sec    Generated terms =        143
+         a10o3o1         Terms in output =        143
+                         Bytes used      =      25660
+
+Time =       0.36 sec    Generated terms =        234
+         a10o3o2         Terms in output =        234
+                         Bytes used      =      34628
+
+Time =       0.36 sec    Generated terms =        156
+         a10o4o1         Terms in output =        156
+                         Bytes used      =      27028
+
+Time =       0.36 sec    Generated terms =        268
+         a10o4o2         Terms in output =        268
+                         Bytes used      =      38388
+
+Time =       0.36 sec    Generated terms =        234
+         a10o5o1         Terms in output =        234
+                         Bytes used      =      32756
+
+Time =       0.36 sec    Generated terms =        143
+         a10o5o2         Terms in output =        143
+                         Bytes used      =      24516
+
+Time =       0.36 sec    Generated terms =        268
+         a10o6o1         Terms in output =        268
+                         Bytes used      =      36244
+
+Time =       0.36 sec    Generated terms =        156
+         a10o6o2         Terms in output =        156
+                         Bytes used      =      25780
+
+Time =       0.36 sec    Generated terms =         92
+         a10o7o1         Terms in output =         92
+                         Bytes used      =       6976
+
+Time =       0.36 sec    Generated terms =        186
+         a10o7o2         Terms in output =        186
+                         Bytes used      =      14228
+
+Time =       0.36 sec    Generated terms =        186
+         a10o8o1         Terms in output =        186
+                         Bytes used      =      13484
+
+Time =       0.36 sec    Generated terms =         92
+         a10o8o2         Terms in output =         92
+                         Bytes used      =       6608
+
+Time =       0.37 sec    Generated terms =        174
+         a10o9o1         Terms in output =        174
+                         Bytes used      =      19208
+
+Time =       0.37 sec    Generated terms =        126
+         a10o9o2         Terms in output =        126
+                         Bytes used      =      14340
+
+Time =       0.37 sec    Generated terms =         87
+        a10o10o1         Terms in output =         87
+                         Bytes used      =      10736
+
+Time =       0.37 sec    Generated terms =         63
+        a10o10o2         Terms in output =         63
+                         Bytes used      =       8212
+
+Time =       0.37 sec    Generated terms =        161
+        a10o11o1         Terms in output =        161
+                         Bytes used      =      17688
+
+Time =       0.37 sec    Generated terms =        124
+        a10o11o2         Terms in output =        124
+                         Bytes used      =      13844
+
+Time =       0.37 sec    Generated terms =         50
+        a10o12o1         Terms in output =         50
+                         Bytes used      =       8480
+
+Time =       0.37 sec    Generated terms =         34
+        a10o12o2         Terms in output =         34
+                         Bytes used      =       6360
+
+Time =       0.37 sec    Generated terms =        126
+        a10o13o1         Terms in output =        126
+                         Bytes used      =      14340
+
+Time =       0.37 sec    Generated terms =         72
+        a10o13o2         Terms in output =         72
+                         Bytes used      =       8508
+
+Time =       0.37 sec    Generated terms =         63
+        a10o14o1         Terms in output =         63
+                         Bytes used      =       8236
+
+Time =       0.37 sec    Generated terms =         36
+        a10o14o2         Terms in output =         36
+                         Bytes used      =       5172
+
+Time =       0.37 sec    Generated terms =        109
+        a10o15o1         Terms in output =        109
+                         Bytes used      =      12784
+
+Time =       0.37 sec    Generated terms =         64
+        a10o15o2         Terms in output =         64
+                         Bytes used      =       8000
+
+Time =       0.37 sec    Generated terms =         42
+        a10o16o1         Terms in output =         42
+                         Bytes used      =       7048
+
+Time =       0.37 sec    Generated terms =         22
+        a10o16o2         Terms in output =         22
+                         Bytes used      =       4220
+
+Time =       0.37 sec    Generated terms =        293
+        a10o17o1         Terms in output =        293
+                         Bytes used      =      57532
+
+Time =       0.37 sec    Generated terms =        382
+        a10o17o2         Terms in output =        382
+                         Bytes used      =      67372
+
+Time =       0.37 sec    Generated terms =        382
+        a10o18o1         Terms in output =        382
+                         Bytes used      =      64316
+
+Time =       0.37 sec    Generated terms =        293
+        a10o18o2         Terms in output =        293
+                         Bytes used      =      55188
+
+Time =       0.37 sec    Generated terms =        362
+        a10o19o1         Terms in output =        362
+                         Bytes used      =      64328
+
+Time =       0.37 sec    Generated terms =        362
+        a10o19o2         Terms in output =        362
+                         Bytes used      =      64352
+
+Time =       0.37 sec    Generated terms =        561
+        a10o20o1         Terms in output =        561
+                         Bytes used      =      54468
+
+Time =       0.37 sec    Generated terms =       1017
+        a10o20o2         Terms in output =       1017
+                         Bytes used      =      91236
+
+Time =       0.37 sec    Generated terms =        748
+        a10o21o1         Terms in output =        748
+                         Bytes used      =      75164
+
+Time =       0.37 sec    Generated terms =       1356
+        a10o21o2         Terms in output =       1356
+                         Bytes used      =     126488
+
+Time =       0.38 sec    Generated terms =       1356
+        a10o22o1         Terms in output =       1356
+                         Bytes used      =     126312
+
+Time =       0.38 sec    Generated terms =        748
+        a10o22o2         Terms in output =        748
+                         Bytes used      =      74716
+
+Time =       0.38 sec    Generated terms =       1017
+        a10o23o1         Terms in output =       1017
+                         Bytes used      =      85812
+
+Time =       0.38 sec    Generated terms =        561
+        a10o23o2         Terms in output =        561
+                         Bytes used      =      51476
+
+Time =       0.38 sec    Generated terms =        180
+        a10o24o1         Terms in output =        180
+                         Bytes used      =      13232
+
+Time =       0.38 sec    Generated terms =         86
+        a10o24o2         Terms in output =         86
+                         Bytes used      =       6548
+
+Time =       0.38 sec    Generated terms =         86
+        a10o25o1         Terms in output =         86
+                         Bytes used      =       6892
+
+Time =       0.38 sec    Generated terms =        180
+        a10o25o2         Terms in output =        180
+                         Bytes used      =      13952
+
+Time =       0.38 sec    Generated terms =        161
+        a10o26o1         Terms in output =        161
+                         Bytes used      =      18948
+
+Time =       0.38 sec    Generated terms =        124
+        a10o26o2         Terms in output =        124
+                         Bytes used      =      15052
+
+Time =       0.38 sec    Generated terms =        149
+        a10o27o1         Terms in output =        149
+                         Bytes used      =      17912
+
+Time =       0.38 sec    Generated terms =        114
+        a10o27o2         Terms in output =        114
+                         Bytes used      =      14308
+
+Time =       0.38 sec    Generated terms =        109
+        a10o28o1         Terms in output =        109
+                         Bytes used      =      13920
+
+Time =       0.38 sec    Generated terms =         58
+        a10o28o2         Terms in output =         58
+                         Bytes used      =       8244
+
+Time =       0.38 sec    Generated terms =        114
+        a10o29o1         Terms in output =        114
+                         Bytes used      =      14372
+
+Time =       0.38 sec    Generated terms =         60
+        a10o29o2         Terms in output =         60
+                         Bytes used      =       8444
+
+Time =       0.38 sec    Generated terms =       1312
+        a10o30o1         Terms in output =       1312
+                         Bytes used      =     130200
+
+Time =       0.38 sec    Generated terms =       1312
+        a10o30o2         Terms in output =       1312
+                         Bytes used      =     130464
+
+Time =       0.38 sec    Generated terms =        984
+        a10o31o1         Terms in output =        984
+                         Bytes used      =      99152
+
+Time =       0.38 sec    Generated terms =        984
+        a10o31o2         Terms in output =        984
+                         Bytes used      =      99476
+
+   a10o27o1 =
+       - 8*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12*s45*s51^2*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12*s45^2*s51*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12*s34*s51^2*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 4*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12*s34*s45*s51*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12*s34*s45^2*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12*s34^2*s51*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12*s34^2*s45*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 8*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12*s23*s45*s51*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 8*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12*s23*s34*s51*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12*s23*s34*s45*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12*s23*s34^2*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 8*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12^2*s51^2*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12^2*s45^2*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 12*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[
+       - s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*
+      i_*s12^2*s34*s51*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12^2*s23*s51*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 4*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12^2*s23*s45*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12^2*s23*s34*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 4*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12^3*s51*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 8*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12^3*s45*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      s12^3*s23*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      D*s12*s45*s51^2*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      D*s12*s34*s51^2*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 4*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      D*s12*s23*s45*s51*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 4*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      D*s12*s23*s34*s51*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 4*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      D*s12^2*s51^2*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      D*s12^2*s45^2*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      D*s12^2*s34*s45*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      D*s12^2*s23*s51*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 4*num[6 - 2*d]*den[ - 4*s12 + s12*d]*den[s12]*den[s12]*den[ - 
+      s45 - s34 + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*
+      D*s12^3*s45*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 32*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12*s45*s51*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 4*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12*s45^2*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 32*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12*s34*s51*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 4*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12*s34*s45*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 8*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12*s34^2*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 16*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12*s23*s45*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 16*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12*s23*s34*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 32*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12^2*s51*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 12*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12^2*s34*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 16*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12^2*s23*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 4*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12^3*gs^6*Y^2*Nc^(-1)*basis2*
+      Basis2
+       - 8*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s45*s51*gs^6*Y^2*Nc^(-1)
+      *basis2*Basis2
+       - 8*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s34*s51*gs^6*Y^2*Nc^(-1)
+      *basis2*Basis2
+       + 4*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s23*s45*gs^6*Y^2*Nc^(-1)
+      *basis2*Basis2
+       + 4*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s23*s34*gs^6*Y^2*Nc^(-1)
+      *basis2*Basis2
+       + 8*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12^2*s51*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 4*num[ - 2*s51 + 4*s34 - s34*d - 4*s12 + s12*d]*den[ - 4*s12
+       + s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - 
+      s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12^2*s23*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 8*num[ - 8*s51^2 + 16*s34*s51 - 4*s34*s51*d - 8*s34^2 + 6*
+      s34^2*d - s34^2*d^2 - 16*s12*s51 + 4*s12*s51*d + 16*s12*s34 - 12*
+      s12*s34*d + 2*s12*s34*d^2 - 8*s12^2 + 6*s12^2*d - s12^2*d^2]*den[
+      16*s12 - 12*s12*d + 2*s12*d^2]*den[s12]*den[s12]*den[ - s45 - s34
+       + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12*s45*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[ - 8*s51^2 + 16*s34*s51 - 4*s34*s51*d - 8*s34^2 + 6*
+      s34^2*d - s34^2*d^2 - 16*s12*s51 + 4*s12*s51*d + 16*s12*s34 - 12*
+      s12*s34*d + 2*s12*s34*d^2 - 8*s12^2 + 6*s12^2*d - s12^2*d^2]*den[
+      16*s12 - 12*s12*d + 2*s12*d^2]*den[s12]*den[s12]*den[ - s45 - s34
+       + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12*s34*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 8*num[ - 8*s51^2 + 16*s34*s51 - 4*s34*s51*d - 8*s34^2 + 6*
+      s34^2*d - s34^2*d^2 - 16*s12*s51 + 4*s12*s51*d + 16*s12*s34 - 12*
+      s12*s34*d + 2*s12*s34*d^2 - 8*s12^2 + 6*s12^2*d - s12^2*d^2]*den[
+      16*s12 - 12*s12*d + 2*s12*d^2]*den[s12]*den[s12]*den[ - s45 - s34
+       + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12^2*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[ - 8*s51^2 + 16*s34*s51 - 4*s34*s51*d - 8*s34^2 + 6*
+      s34^2*d - s34^2*d^2 - 16*s12*s51 + 4*s12*s51*d + 16*s12*s34 - 12*
+      s12*s34*d + 2*s12*s34*d^2 - 8*s12^2 + 6*s12^2*d - s12^2*d^2]*den[
+      16*s12 - 12*s12*d + 2*s12*d^2]*den[s12]*den[s12]*den[ - s45 - s34
+       + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s45
+      *gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[ - 8*s51^2 + 16*s34*s51 - 4*s34*s51*d - 8*s34^2 + 6*
+      s34^2*d - s34^2*d^2 - 16*s12*s51 + 4*s12*s51*d + 16*s12*s34 - 12*
+      s12*s34*d + 2*s12*s34*d^2 - 8*s12^2 + 6*s12^2*d - s12^2*d^2]*den[
+      16*s12 - 12*s12*d + 2*s12*d^2]*den[s12]*den[s12]*den[ - s45 - s34
+       + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s34
+      *gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 4*num[ - 8*s51^2 + 16*s34*s51 - 4*s34*s51*d - 8*s34^2 + 6*
+      s34^2*d - s34^2*d^2 - 16*s12*s51 + 4*s12*s51*d + 16*s12*s34 - 12*
+      s12*s34*d + 2*s12*s34*d^2 - 8*s12^2 + 6*s12^2*d - s12^2*d^2]*den[
+      16*s12 - 12*s12*d + 2*s12*d^2]*den[s12]*den[s12]*den[ - s45 - s34
+       + s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12^2*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[s45 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s45*s51*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[s45 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s34*s51*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[s45 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s34*s45*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[s45 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s34^2*gs^6*
+      Y^2*Nc^(-1)*basis2*Basis2
+       + 8*num[s45 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12*s51*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       - 4*num[s45 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12*s45*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[s45 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12*s34*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[s45 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12^2*gs^6*
+      Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[s45 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s45*s51*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[s45 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s34*s51*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 2*num[s45 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s34*s45*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 2*num[s45 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s34^2*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       - 4*num[s45 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s51*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 2*num[s45 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s45*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[s45 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s34*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 2*num[s45 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12^2*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       - 16*num[4*s45 - s45*d - 2*s23 - 4*s12 + s12*d]*den[ - 4*s12 + 
+      s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12*s45*s51*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 16*num[4*s45 - s45*d - 2*s23 - 4*s12 + s12*d]*den[ - 4*s12 + 
+      s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12*s34*s51*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 4*num[4*s45 - s45*d - 2*s23 - 4*s12 + s12*d]*den[ - 4*s12 + 
+      s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12*s34*s45*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 4*num[4*s45 - s45*d - 2*s23 - 4*s12 + s12*d]*den[ - 4*s12 + 
+      s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12*s34^2*gs^6*Y^2*Nc^(-1)*basis2
+      *Basis2
+       + 16*num[4*s45 - s45*d - 2*s23 - 4*s12 + s12*d]*den[ - 4*s12 + 
+      s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12^2*s51*gs^6*Y^2*Nc^(-1)*basis2
+      *Basis2
+       - 4*num[4*s45 - s45*d - 2*s23 - 4*s12 + s12*d]*den[ - 4*s12 + 
+      s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12^2*s45*gs^6*Y^2*Nc^(-1)*basis2
+      *Basis2
+       - 8*num[4*s45 - s45*d - 2*s23 - 4*s12 + s12*d]*den[ - 4*s12 + 
+      s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12^2*s34*gs^6*Y^2*Nc^(-1)*basis2
+      *Basis2
+       + 4*num[4*s45 - s45*d - 2*s23 - 4*s12 + s12*d]*den[ - 4*s12 + 
+      s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12^3*gs^6*Y^2*Nc^(-1)*basis2*
+      Basis2
+       + 4*num[4*s45 - s45*d - 2*s23 - 4*s12 + s12*d]*den[ - 4*s12 + 
+      s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s45*s51*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 4*num[4*s45 - s45*d - 2*s23 - 4*s12 + s12*d]*den[ - 4*s12 + 
+      s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s34*s51*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 4*num[4*s45 - s45*d - 2*s23 - 4*s12 + s12*d]*den[ - 4*s12 + 
+      s12*d]*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s12^2*s51*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 8*num[8*s45*s51 - 2*s45*s51*d - 16*s34*s45 + 8*s34*s45*d - s34
+      *s45*d^2 - 8*s23*s51 + 8*s23*s34 - 2*s23*s34*d - 8*s12*s51 + 2*
+      s12*s51*d + 8*s12*s45 - 6*s12*s45*d + s12*s45*d^2 + 8*s12*s34 - 6
+      *s12*s34*d + s12*s34*d^2 - 8*s12*s23 + 2*s12*s23*d - 8*s12^2 + 6*
+      s12^2*d - s12^2*d^2]*den[16*s12 - 12*s12*d + 2*s12*d^2]*den[s12]*
+      den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34 + s12]*
+      pentagon1[1,0,1,0,0]*i_*s12*s45*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 8*num[8*s45*s51 - 2*s45*s51*d - 16*s34*s45 + 8*s34*s45*d - s34
+      *s45*d^2 - 8*s23*s51 + 8*s23*s34 - 2*s23*s34*d - 8*s12*s51 + 2*
+      s12*s51*d + 8*s12*s45 - 6*s12*s45*d + s12*s45*d^2 + 8*s12*s34 - 6
+      *s12*s34*d + s12*s34*d^2 - 8*s12*s23 + 2*s12*s23*d - 8*s12^2 + 6*
+      s12^2*d - s12^2*d^2]*den[16*s12 - 12*s12*d + 2*s12*d^2]*den[s12]*
+      den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34 + s12]*
+      pentagon1[1,0,1,0,0]*i_*s12*s34*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[8*s45*s51 - 2*s45*s51*d - 16*s34*s45 + 8*s34*s45*d - s34
+      *s45*d^2 - 8*s23*s51 + 8*s23*s34 - 2*s23*s34*d - 8*s12*s51 + 2*
+      s12*s51*d + 8*s12*s45 - 6*s12*s45*d + s12*s45*d^2 + 8*s12*s34 - 6
+      *s12*s34*d + s12*s34*d^2 - 8*s12*s23 + 2*s12*s23*d - 8*s12^2 + 6*
+      s12^2*d - s12^2*d^2]*den[16*s12 - 12*s12*d + 2*s12*d^2]*den[s12]*
+      den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34 + s12]*
+      pentagon1[1,0,1,0,0]*i_*s12^2*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 4*num[8*s45*s51 - 2*s45*s51*d - 16*s34*s45 + 8*s34*s45*d - s34
+      *s45*d^2 - 8*s23*s51 + 8*s23*s34 - 2*s23*s34*d - 8*s12*s51 + 2*
+      s12*s51*d + 8*s12*s45 - 6*s12*s45*d + s12*s45*d^2 + 8*s12*s34 - 6
+      *s12*s34*d + s12*s34*d^2 - 8*s12*s23 + 2*s12*s23*d - 8*s12^2 + 6*
+      s12^2*d - s12^2*d^2]*den[16*s12 - 12*s12*d + 2*s12*d^2]*den[s12]*
+      den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34 + s12]*
+      pentagon1[1,0,1,0,0]*i_*D*s12*s45*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 4*num[8*s45*s51 - 2*s45*s51*d - 16*s34*s45 + 8*s34*s45*d - s34
+      *s45*d^2 - 8*s23*s51 + 8*s23*s34 - 2*s23*s34*d - 8*s12*s51 + 2*
+      s12*s51*d + 8*s12*s45 - 6*s12*s45*d + s12*s45*d^2 + 8*s12*s34 - 6
+      *s12*s34*d + s12*s34*d^2 - 8*s12*s23 + 2*s12*s23*d - 8*s12^2 + 6*
+      s12^2*d - s12^2*d^2]*den[16*s12 - 12*s12*d + 2*s12*d^2]*den[s12]*
+      den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34 + s12]*
+      pentagon1[1,0,1,0,0]*i_*D*s12*s34*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[8*s45*s51 - 2*s45*s51*d - 16*s34*s45 + 8*s34*s45*d - s34
+      *s45*d^2 - 8*s23*s51 + 8*s23*s34 - 2*s23*s34*d - 8*s12*s51 + 2*
+      s12*s51*d + 8*s12*s45 - 6*s12*s45*d + s12*s45*d^2 + 8*s12*s34 - 6
+      *s12*s34*d + s12*s34*d^2 - 8*s12*s23 + 2*s12*s23*d - 8*s12^2 + 6*
+      s12^2*d - s12^2*d^2]*den[16*s12 - 12*s12*d + 2*s12*d^2]*den[s12]*
+      den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34 + s12]*
+      pentagon1[1,0,1,0,0]*i_*D*s12^2*gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 16*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s45*s51*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s45^2*gs^6*
+      Y^2*Nc^(-1)*basis2*Basis2
+       + 16*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s34*s51*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       - 4*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s34*s45*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s34^2*gs^6*
+      Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s23*s45*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s23*s34*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       - 16*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12*s51*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       + 12*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12*s34*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       + 8*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12*s23*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       - 4*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12^2*gs^6*
+      Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s45*s51*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 2*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s45^2*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s34*s51*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 2*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s34*s45*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s34^2*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s23*s45*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 4*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s23*s34*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 8*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s51*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 6*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s34*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       - 4*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s23*
+      gs^6*Y^2*Nc^(-1)*basis2*Basis2
+       + 2*num[s34 - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + 
+      s12]*den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12^2*gs^6
+      *Y^2*Nc^(-1)*basis2*Basis2
+       - 8*num[ - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + s12]
+      *den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s45^2*gs^6*Y^2*
+      Nc^(-1)*basis2*Basis2
+       - 8*num[ - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + s12]
+      *den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s34*s45*gs^6*Y^2
+      *Nc^(-1)*basis2*Basis2
+       + 8*num[ - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + s12]
+      *den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*s12*s45*gs^6*Y^2
+      *Nc^(-1)*basis2*Basis2
+       + 4*num[ - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + s12]
+      *den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s45^2*gs^6*Y^2
+      *Nc^(-1)*basis2*Basis2
+       + 4*num[ - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + s12]
+      *den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s34*s45*gs^6*
+      Y^2*Nc^(-1)*basis2*Basis2
+       - 4*num[ - s12]*den[2]*den[s12]*den[s12]*den[ - s45 - s34 + s12]
+      *den[ - s45 - s34 + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s45*gs^6*
+      Y^2*Nc^(-1)*basis2*Basis2
+       + 4*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s45^2*s51*gs^6*Y^2*Nc^(-1)*basis2
+      *Basis2
+       - 4*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s34*s45*s51*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 16*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s34*s45^2*gs^6*Y^2*Nc^(-1)*basis2
+      *Basis2
+       - 8*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s34^2*s51*gs^6*Y^2*Nc^(-1)*basis2
+      *Basis2
+       - 24*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s34^2*s45*gs^6*Y^2*Nc^(-1)*basis2
+      *Basis2
+       - 8*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s34^3*gs^6*Y^2*Nc^(-1)*basis2*
+      Basis2
+       + 4*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s23*s34*s45*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 4*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s23*s34^2*gs^6*Y^2*Nc^(-1)*basis2
+      *Basis2
+       - 40*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12*s45^2*gs^6*Y^2*Nc^(-1)*basis2
+      *Basis2
+       + 12*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12*s34*s51*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 16*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12*s34*s45*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 16*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12*s34^2*gs^6*Y^2*Nc^(-1)*basis2
+      *Basis2
+       - 4*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12*s23*s45*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 8*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12*s23*s34*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 4*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12^2*s51*gs^6*Y^2*Nc^(-1)*basis2
+      *Basis2
+       + 40*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12^2*s45*gs^6*Y^2*Nc^(-1)*basis2
+      *Basis2
+       - 8*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12^2*s34*gs^6*Y^2*Nc^(-1)*basis2
+      *Basis2
+       + 4*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*s12^2*s23*gs^6*Y^2*Nc^(-1)*basis2
+      *Basis2
+       - 2*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s45^2*s51*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 2*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s34*s45*s51*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 4*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s34*s45^2*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 4*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s34^2*s51*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 4*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s34^2*s45*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 2*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s23*s34*s45*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 2*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s23*s34^2*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 20*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s45^2*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 6*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s34*s51*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 16*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s34*s45*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 2*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s23*s45*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 4*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s12*s23*s34*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 2*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s12^2*s51*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 20*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s12^2*s45*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 2*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D*s12^2*s23*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 2*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D^2*s12*s45^2*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       - 2*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D^2*s12*s34*s45*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+       + 2*den[s12]*den[s12]*den[ - s45 - s34 + s12]*den[ - s45 - s34
+       + s12]*pentagon1[1,0,1,0,0]*i_*D^2*s12^2*s45*gs^6*Y^2*Nc^(-1)*
+      basis2*Basis2
+      ;
+
+  0.39 sec out of 0.40 sec

@@ -1,0 +1,18 @@
+jobs:
+ - reduce_sectors:
+    sector_selection:
+      select_recursively:
+        - [pentagon1, 31]
+
+    identities:
+     ibp:
+        - {r: [t,5], s: [0,2]}      
+    run_initiate: true
+    run_triangular: true 
+    run_back_substitution: true
+    # - kira2form:
+    # - kira2math:
+    #    target:
+    #     - {sectors: [29], r: 4, s: 1, d: 0} # new notation
+#     - {sectors: [15], r: 4, s: 2} # new notation
+

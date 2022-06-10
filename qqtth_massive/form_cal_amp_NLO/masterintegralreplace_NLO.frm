@@ -27,11 +27,13 @@ Delete storage;
 id D=d;
 *****
 
-#do i=1,2
+#do i=1,1
     
 #include ../multivariateapart/pentagon`i'/kira_rule.inc
 
 #enddo
+
+id prop(?a)=den(?a);
 
 ***** tansfrom kira d into D *****
 id d=D;
@@ -40,11 +42,11 @@ id d=D;
 *id mu=0;
 *id mt=0;
 
-.sort
-Bracket pentagon1,pentagon2,basis1,basis2,Basis1,Basis2,Nc,Y,gs;
-Print +s;
+*.sort
+*Bracket pentagon1,pentagon2,basis1,basis2,Basis1,Basis2,Nc,Y,gs;
+*Print +s;
 *Format mathematica;
-*#write <../myresults.nb> "(%E)",a10o10o1
+*#write <myresults.m> "(%E)",a10o27o1
 .store
 
 save ../../../data_save/qqtth_massive/NLO/amp_master.sav;
