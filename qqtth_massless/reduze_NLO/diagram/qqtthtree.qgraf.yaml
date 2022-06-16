@@ -58,10 +58,10 @@ diagram:
     - [ [3, 1], gluon_gluon: [[gluon, 3, +1, -p1-p2, 0, 1], [gluon, 3, +1, p1+p2, 0, 2]] ]
     - [ [3, 2], quark2_qbar2: [[quark2, 3, -1, p3+q, 0, 3], [qbar2, 3, -1, -p3-q, 0, 4]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, p3+q, 0, 3], [qbar2, 2, -1, -p3, 0, -2], [higgs, 2, +1, -q, 0, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, 0, -4], [qbar2, 3, -1, -p3-q, 0, 4], [gluon, 3, +1, p1+p2, 0, 2]] ]
-  symmetry_factor: -1
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 2, -1, -p3, 0, -2], [quark2, 3, -1, p3+q, 0, 3], [higgs, 2, +1, -q, 0, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -p3-q, 0, 4], [gluon, 3, +1, p1+p2, 0, 2], [quark2, 2, -1, -p4, 0, -4]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 0
@@ -81,10 +81,10 @@ diagram:
     - [ [3, 1], gluon_gluon: [[gluon, 3, +1, -p1-p2, 0, 1], [gluon, 3, +1, p1+p2, 0, 2]] ]
     - [ [2, 3], quark2_qbar2: [[quark2, 3, -1, -p4-q, 0, 3], [qbar2, 3, -1, p4+q, 0, 4]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 2, -1, -p4, 0, -4], [qbar2, 3, -1, p4+q, 0, 4], [higgs, 2, +1, -q, 0, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -p4-q, 0, 3], [qbar2, 2, -1, -p3, 0, -2], [gluon, 3, +1, p1+p2, 0, 2]] ]
-  symmetry_factor: -1
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, p4+q, 0, 4], [quark2, 2, -1, -p4, 0, -4], [higgs, 2, +1, -q, 0, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, 0, -2], [gluon, 3, +1, p1+p2, 0, 2], [quark2, 3, -1, -p4-q, 0, 3]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 0

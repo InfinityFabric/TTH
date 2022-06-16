@@ -4,11 +4,21 @@
 
 * vertex 
 
-id vrtx(Uug,i1?,p1?,i2?,p2?,i3?,p3?)=-i_*gs*g(i2,i1,up,i3)*t(i3,i2,i1);
-id vrtx(Ttg,i1?,p1?,i2?,p2?,i3?,p3?)=-i_*gs*g(i2,i1,top,i3)*t(i3,i2,i1);
-id vrtx(Tth,i1?,p1?,i2?,p2?,i3?,p3?)=-i_*Y*g(i2,i1,top)*ch(i2,i1);
-id vrtx(ggg,i1?,p1?,i2?,p2?,i3?,p3?)=-gs*f(i1,i2,i3)*(gv(i1,i2)*mom(i3,p1-p2)+gv(i2,i3)*mom(i1,p2-p3)+gv(i3,i1)*mom(i2,p3-p1));
-id vrtx(Ghghg,i1?,p1?,i2?,p2?,i3?,p3?)=gs*f(i1,i3,i2)*mom(i3,p2);
+id vrtx(Uug,i1?,p1?,i2?,p2?,i3?,p3?)=i_*gs*g(i1,i3,up,i2)*t(i2,i1,i3);
+id vrtx(Ttg,i1?,p1?,i2?,p2?,i3?,p3?)=i_*gs*g(i1,i3,top,i2)*t(i2,i1,i3);
+id vrtx(Tth,i1?,p1?,i2?,p2?,i3?,p3?)=-i_*Y*g(i1,i2,top)*ch(i1,i2);
+id vrtx(ggg,i1?,p1?,i2?,p2?,i3?,p3?)=gs*f(i1,i2,i3)*(gv(i1,i2)*mom(i3,p1-p2)+gv(i2,i3)*mom(i1,p2-p3)+gv(i3,i1)*mom(i2,p3-p1));
+id vrtx(Ghghg,i1?,p1?,i2?,p2?,i3?,p3?)=gs*f(i1,i2,i3)*mom(i2,-p3);
+*id vrtx(Uug,i1?,p1?,i2?,p2?,i3?,p3?)=i_*gs*g(i2,i1,up,i3)*t(i3,i2,i1);
+*id vrtx(Ttg,i1?,p1?,i2?,p2?,i3?,p3?)=i_*gs*g(i2,i1,top,i3)*t(i3,i2,i1);
+*id vrtx(Tth,i1?,p1?,i2?,p2?,i3?,p3?)=-i_*Y*g(i2,i1,top)*ch(i2,i1);
+*id vrtx(ggg,i1?,p1?,i2?,p2?,i3?,p3?)=gs*f(i1,i2,i3)*(gv(i1,i2)*mom(i3,p1-p2)+gv(i2,i3)*mom(i1,p2-p3)+gv(i3,i1)*mom(i2,p3-p1));
+*id vrtx(Ghghg,i1?,p1?,i2?,p2?,i3?,p3?)=gs*f(i1,i3,i2)*mom(i3,-p2);
+*id vrtx(Uug,i1?,p1?,i2?,p2?,i3?,p3?)=-i_*gs*g(i2,i1,up,i3)*t(i3,i2,i1);
+*id vrtx(Ttg,i1?,p1?,i2?,p2?,i3?,p3?)=-i_*gs*g(i2,i1,top,i3)*t(i3,i2,i1);
+*id vrtx(Tth,i1?,p1?,i2?,p2?,i3?,p3?)=-i_*Y*g(i2,i1,top)*ch(i2,i1);
+*id vrtx(ggg,i1?,p1?,i2?,p2?,i3?,p3?)=-gs*f(i1,i2,i3)*(gv(i1,i2)*mom(i3,p1-p2)+gv(i2,i3)*mom(i1,p2-p3)+gv(i3,i1)*mom(i2,p3-p1));
+*id vrtx(Ghghg,i1?,p1?,i2?,p2?,i3?,p3?)=gs*f(i1,i3,i2)*mom(i3,p2);
 
 * propagators
 

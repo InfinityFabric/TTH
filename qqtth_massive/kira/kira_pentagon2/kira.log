@@ -1,0 +1,69 @@
+Kira found this executable to Fermat: 
+/usr/bin/fer64
+
+One variable is set to 1: {}
+The input directory is set to:
+./results
+
+*****Integral ordering*************************************
+Kira will use the integral ordering: 1.
+symbol_to_replace_by_one: x in kinematics.yaml is not set. 
+Mass reconstruction is disabled.
+################################################
+kira2form: Reconstruct results for pentagon2
+################################################
+
+Algebraic reconstruction is switched off.
+This requested integral is a master integral: pentagon2[0,0,0,1,0] # 8
+This requested integral is a master integral: pentagon2[0,0,0,1,1] # 24
+This requested integral is a master integral: pentagon2[0,0,1,0,1] # 20
+This requested integral is a master integral: pentagon2[0,0,1,1,1] # 28
+This requested integral is a master integral: pentagon2[0,1,0,0,1] # 18
+This requested integral is a master integral: pentagon2[0,1,0,1,0] # 10
+This requested integral is a master integral: pentagon2[0,1,0,1,1] # 26
+This requested integral is a master integral: pentagon2[0,1,1,1,1] # 30
+This requested integral is a master integral: pentagon2[1,0,0,1,0] # 9
+This requested integral is a master integral: pentagon2[1,0,0,1,1] # 25
+This requested integral is a master integral: pentagon2[1,0,1,0,0] # 5
+This requested integral is a master integral: pentagon2[1,0,1,0,1] # 21
+This requested integral is a master integral: pentagon2[1,0,1,1,0] # 13
+This requested integral is a master integral: pentagon2[1,0,1,1,1] # 29
+This requested integral is a master integral: pentagon2[1,1,0,1,1] # 27
+This requested integral is a master integral: pentagon2[1,1,1,0,1] # 23
+This requested integral is a master integral: pentagon2[1,1,1,1,0] # 15
+This requested integral is a master integral: pentagon2[1,1,1,1,1] # 31
+unreduced integrals: 0.
+
+closeCalc: 105164
+The input directory is set to:
+./results
+symbol_to_replace_by_one: x in kinematics.yaml is not set. 
+Mass reconstruction is disabled.
+################################################
+kira2math: Reconstruct results for pentagon2
+################################################
+
+Algebraic reconstruction is switched off.
+This requested integral is a master integral: pentagon2[0,0,0,1,0] # 8
+This requested integral is a master integral: pentagon2[0,0,0,1,1] # 24
+This requested integral is a master integral: pentagon2[0,0,1,0,1] # 20
+This requested integral is a master integral: pentagon2[0,0,1,1,1] # 28
+This requested integral is a master integral: pentagon2[0,1,0,0,1] # 18
+This requested integral is a master integral: pentagon2[0,1,0,1,0] # 10
+This requested integral is a master integral: pentagon2[0,1,0,1,1] # 26
+This requested integral is a master integral: pentagon2[0,1,1,1,1] # 30
+This requested integral is a master integral: pentagon2[1,0,0,1,0] # 9
+This requested integral is a master integral: pentagon2[1,0,0,1,1] # 25
+This requested integral is a master integral: pentagon2[1,0,1,0,0] # 5
+This requested integral is a master integral: pentagon2[1,0,1,0,1] # 21
+This requested integral is a master integral: pentagon2[1,0,1,1,0] # 13
+This requested integral is a master integral: pentagon2[1,0,1,1,1] # 29
+This requested integral is a master integral: pentagon2[1,1,0,1,1] # 27
+This requested integral is a master integral: pentagon2[1,1,1,0,1] # 23
+This requested integral is a master integral: pentagon2[1,1,1,1,0] # 15
+This requested integral is a master integral: pentagon2[1,1,1,1,1] # 31
+unreduced integrals: 0.
+
+closeCalc: 105644
+Total time:
+( 0.813055 s )

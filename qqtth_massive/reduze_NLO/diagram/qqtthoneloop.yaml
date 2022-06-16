@@ -8,7 +8,7 @@ qgraf_globals:
   - "qgraf_version = qgraf-3.5.0"
   - " style= 'reduze.sty' ;"
   - " output= '../reduze_NLO/diagram/qqtthoneloop.yaml';"
-  - " model= 'qqtth';"
+  - " model= 'qqtth_massive';"
   - " in= quark1[p1],qbar1[p2];"
   - " out= quark2[p3],qbar2[p4],higgs[q];"
   - " loops= 1;"
@@ -61,12 +61,12 @@ diagram:
     - [ [3, 5], quark2_qbar2: [[quark2, 3, -1, -k1-q, mt, 7], [qbar2, 3, -1, k1+q, mt, 8]] ]
     - [ [5, 4], quark2_qbar2: [[quark2, 3, -1, -k1-p1-p2, mt, 9], [qbar2, 3, -1, k1+p1+p2, mt, 10]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p3+p4, 0, 3]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, -k1, mt, 5], [qbar2, 3, -1, k1+q, mt, 8], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -k1-p1-p2, mt, 9], [qbar2, 3, -1, k1, mt, 6], [gluon, 3, +1, p1+p2, 0, 2]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -k1-q, mt, 7], [qbar2, 3, -1, k1+p1+p2, mt, 10], [gluon, 3, +1, -p3-p4, 0, 4]] ]
-  symmetry_factor: 1
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p3+p4, 0, 3], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, k1+q, mt, 8], [quark2, 3, -1, -k1, mt, 5], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, k1, mt, 6], [gluon, 3, +1, p1+p2, 0, 2], [quark2, 3, -1, -k1-p1-p2, mt, 9]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, k1+p1+p2, mt, 10], [gluon, 3, +1, -p3-p4, 0, 4], [quark2, 3, -1, -k1-q, mt, 7]] ]
+  symmetry_factor: -1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -89,12 +89,12 @@ diagram:
     - [ [5, 3], quark2_qbar2: [[quark2, 3, -1, k1+q, mt, 7], [qbar2, 3, -1, -k1-q, mt, 8]] ]
     - [ [4, 5], quark2_qbar2: [[quark2, 3, -1, k1+p1+p2, mt, 9], [qbar2, 3, -1, -k1-p1-p2, mt, 10]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p3+p4, 0, 3]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, k1+q, mt, 7], [qbar2, 3, -1, -k1, mt, 6], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1, mt, 5], [qbar2, 3, -1, -k1-p1-p2, mt, 10], [gluon, 3, +1, p1+p2, 0, 2]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1+p1+p2, mt, 9], [qbar2, 3, -1, -k1-q, mt, 8], [gluon, 3, +1, -p3-p4, 0, 4]] ]
-  symmetry_factor: 1
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p3+p4, 0, 3], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, -k1, mt, 6], [quark2, 3, -1, k1+q, mt, 7], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1-p1-p2, mt, 10], [gluon, 3, +1, p1+p2, 0, 2], [quark2, 3, -1, k1, mt, 5]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1-q, mt, 8], [gluon, 3, +1, -p3-p4, 0, 4], [quark2, 3, -1, k1+p1+p2, mt, 9]] ]
+  symmetry_factor: -1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -117,12 +117,12 @@ diagram:
     - [ [5, 3], gluon_gluon: [[gluon, 3, +1, k1+p4, 0, 7], [gluon, 3, +1, -k1-p4, 0, 8]] ]
     - [ [4, 5], quark2_qbar2: [[quark2, 3, -1, k1+p1+p2, mt, 9], [qbar2, 3, -1, -k1-p1-p2, mt, 10]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, p3+q, mt, 3], [qbar2, 2, -1, -p3, mt, -2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, -k1, mt, 6], [gluon, 3, +1, k1+p4, 0, 7]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1, mt, 5], [qbar2, 3, -1, -k1-p1-p2, mt, 10], [gluon, 3, +1, p1+p2, 0, 2]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1+p1+p2, mt, 9], [qbar2, 3, -1, -p3-q, mt, 4], [gluon, 3, +1, -k1-p4, 0, 8]] ]
-  symmetry_factor: -1
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 2, -1, -p3, mt, -2], [quark2, 3, -1, p3+q, mt, 3], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1, mt, 6], [gluon, 3, +1, k1+p4, 0, 7], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1-p1-p2, mt, 10], [gluon, 3, +1, p1+p2, 0, 2], [quark2, 3, -1, k1, mt, 5]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -p3-q, mt, 4], [gluon, 3, +1, -k1-p4, 0, 8], [quark2, 3, -1, k1+p1+p2, mt, 9]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -145,11 +145,11 @@ diagram:
     - [ [3, 5], quark2_qbar2: [[quark2, 3, -1, -k1-p4, mt, 7], [qbar2, 3, -1, k1+p4, mt, 8]] ]
     - [ [5, 4], gluon_gluon: [[gluon, 3, +1, -k1-p1-p2, 0, 9], [gluon, 3, +1, k1+p1+p2, 0, 10]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, p3+q, mt, 3], [qbar2, 2, -1, -p3, mt, -2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, k1+p4, mt, 8], [gluon, 3, +1, -k1, 0, 5]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 2, -1, -p3, mt, -2], [quark2, 3, -1, p3+q, mt, 3], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, k1+p4, mt, 8], [gluon, 3, +1, -k1, 0, 5], [quark2, 2, -1, -p4, mt, -4]] ]
     - [ gluon_gluon_gluon: [[gluon, 3, +1, p1+p2, 0, 2], [gluon, 3, +1, k1, 0, 6], [gluon, 3, +1, -k1-p1-p2, 0, 9]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -k1-p4, mt, 7], [qbar2, 3, -1, -p3-q, mt, 4], [gluon, 3, +1, k1+p1+p2, 0, 10]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -p3-q, mt, 4], [gluon, 3, +1, k1+p1+p2, 0, 10], [quark2, 3, -1, -k1-p4, mt, 7]] ]
   symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
@@ -173,12 +173,12 @@ diagram:
     - [ [5, 3], gluon_gluon: [[gluon, 3, +1, k1+p3, 0, 7], [gluon, 3, +1, -k1-p3, 0, 8]] ]
     - [ [5, 4], quark2_qbar2: [[quark2, 3, -1, -k1-p1-p2, mt, 9], [qbar2, 3, -1, k1+p1+p2, mt, 10]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, p4+q, mt, 4], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -k1, mt, 5], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, k1+p3, 0, 7]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -k1-p1-p2, mt, 9], [qbar2, 3, -1, k1, mt, 6], [gluon, 3, +1, p1+p2, 0, 2]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -p4-q, mt, 3], [qbar2, 3, -1, k1+p1+p2, mt, 10], [gluon, 3, +1, -k1-p3, 0, 8]] ]
-  symmetry_factor: -1
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, p4+q, mt, 4], [quark2, 2, -1, -p4, mt, -4], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, k1+p3, 0, 7], [quark2, 3, -1, -k1, mt, 5]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, k1, mt, 6], [gluon, 3, +1, p1+p2, 0, 2], [quark2, 3, -1, -k1-p1-p2, mt, 9]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, k1+p1+p2, mt, 10], [gluon, 3, +1, -k1-p3, 0, 8], [quark2, 3, -1, -p4-q, mt, 3]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -201,11 +201,11 @@ diagram:
     - [ [5, 3], quark2_qbar2: [[quark2, 3, -1, k1+p3, mt, 7], [qbar2, 3, -1, -k1-p3, mt, 8]] ]
     - [ [5, 4], gluon_gluon: [[gluon, 3, +1, -k1-p1-p2, 0, 9], [gluon, 3, +1, k1+p1+p2, 0, 10]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, p4+q, mt, 4], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1+p3, mt, 7], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, -k1, 0, 5]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, p4+q, mt, 4], [quark2, 2, -1, -p4, mt, -4], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, -k1, 0, 5], [quark2, 3, -1, k1+p3, mt, 7]] ]
     - [ gluon_gluon_gluon: [[gluon, 3, +1, p1+p2, 0, 2], [gluon, 3, +1, k1, 0, 6], [gluon, 3, +1, -k1-p1-p2, 0, 9]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -p4-q, mt, 3], [qbar2, 3, -1, -k1-p3, mt, 8], [gluon, 3, +1, k1+p1+p2, 0, 10]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1-p3, mt, 8], [gluon, 3, +1, k1+p1+p2, 0, 10], [quark2, 3, -1, -p4-q, mt, 3]] ]
   symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
@@ -229,12 +229,12 @@ diagram:
     - [ [5, 4], quark2_qbar2: [[quark2, 3, -1, k1+p3+q, mt, 7], [qbar2, 3, -1, -k1-p3-q, mt, 8]] ]
     - [ [5, 4], gluon_gluon: [[gluon, 3, +1, -k1, 0, 9], [gluon, 3, +1, k1, 0, 10]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, p3+q, mt, 3], [qbar2, 2, -1, -p3, mt, -2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, -p3-q, mt, 6], [gluon, 3, +1, p1+p2, 0, 2]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1+p3+q, mt, 7], [qbar2, 3, -1, -p3-q, mt, 4], [gluon, 3, +1, -k1, 0, 9]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, p3+q, mt, 5], [qbar2, 3, -1, -k1-p3-q, mt, 8], [gluon, 3, +1, k1, 0, 10]] ]
-  symmetry_factor: -1
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 2, -1, -p3, mt, -2], [quark2, 3, -1, p3+q, mt, 3], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -p3-q, mt, 6], [gluon, 3, +1, p1+p2, 0, 2], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -p3-q, mt, 4], [gluon, 3, +1, -k1, 0, 9], [quark2, 3, -1, k1+p3+q, mt, 7]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1-p3-q, mt, 8], [gluon, 3, +1, k1, 0, 10], [quark2, 3, -1, p3+q, mt, 5]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -257,12 +257,12 @@ diagram:
     - [ [4, 5], quark2_qbar2: [[quark2, 3, -1, -k1-p4-q, mt, 7], [qbar2, 3, -1, k1+p4+q, mt, 8]] ]
     - [ [5, 4], gluon_gluon: [[gluon, 3, +1, -k1, 0, 9], [gluon, 3, +1, k1, 0, 10]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, p4+q, mt, 4], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -p4-q, mt, 5], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p1+p2, 0, 2]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -p4-q, mt, 3], [qbar2, 3, -1, k1+p4+q, mt, 8], [gluon, 3, +1, -k1, 0, 9]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -k1-p4-q, mt, 7], [qbar2, 3, -1, p4+q, mt, 6], [gluon, 3, +1, k1, 0, 10]] ]
-  symmetry_factor: -1
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, p4+q, mt, 4], [quark2, 2, -1, -p4, mt, -4], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p1+p2, 0, 2], [quark2, 3, -1, -p4-q, mt, 5]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, k1+p4+q, mt, 8], [gluon, 3, +1, -k1, 0, 9], [quark2, 3, -1, -p4-q, mt, 3]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, p4+q, mt, 6], [gluon, 3, +1, k1, 0, 10], [quark2, 3, -1, -k1-p4-q, mt, 7]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -285,12 +285,12 @@ diagram:
     - [ [5, 4], quark1_qbar1: [[quark1, 3, -1, k1-p1-p2, 0, 7], [qbar1, 3, -1, -k1+p1+p2, 0, 8]] ]
     - [ [4, 5], quark1_qbar1: [[quark1, 3, -1, k1, 0, 9], [qbar1, 3, -1, -k1, 0, 10]] ]
   vertices:
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, p3+q, mt, 1], [qbar2, 2, -1, -p3, mt, -2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 3]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, -p3-q, mt, 2], [gluon, 3, +1, p1+p2, 0, 5]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 3, -1, k1-p1-p2, 0, 7], [qbar1, 3, -1, -k1, 0, 10], [gluon, 3, +1, p1+p2, 0, 4]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 3, -1, k1, 0, 9], [qbar1, 3, -1, -k1+p1+p2, 0, 8], [gluon, 3, +1, -p1-p2, 0, 6]] ]
-  symmetry_factor: 1
+    - [ qbar2_quark2_higgs: [[qbar2, 2, -1, -p3, mt, -2], [quark2, 3, -1, p3+q, mt, 1], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 3], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -p3-q, mt, 2], [gluon, 3, +1, p1+p2, 0, 5], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 3, -1, -k1, 0, 10], [gluon, 3, +1, p1+p2, 0, 4], [quark1, 3, -1, k1-p1-p2, 0, 7]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 3, -1, -k1+p1+p2, 0, 8], [gluon, 3, +1, -p1-p2, 0, 6], [quark1, 3, -1, k1, 0, 9]] ]
+  symmetry_factor: -1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -313,12 +313,12 @@ diagram:
     - [ [5, 4], quark2_qbar2: [[quark2, 3, -1, k1-p1-p2, mt, 7], [qbar2, 3, -1, -k1+p1+p2, mt, 8]] ]
     - [ [4, 5], quark2_qbar2: [[quark2, 3, -1, k1, mt, 9], [qbar2, 3, -1, -k1, mt, 10]] ]
   vertices:
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, p3+q, mt, 1], [qbar2, 2, -1, -p3, mt, -2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 3]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, -p3-q, mt, 2], [gluon, 3, +1, p1+p2, 0, 5]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1-p1-p2, mt, 7], [qbar2, 3, -1, -k1, mt, 10], [gluon, 3, +1, p1+p2, 0, 4]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1, mt, 9], [qbar2, 3, -1, -k1+p1+p2, mt, 8], [gluon, 3, +1, -p1-p2, 0, 6]] ]
-  symmetry_factor: 1
+    - [ qbar2_quark2_higgs: [[qbar2, 2, -1, -p3, mt, -2], [quark2, 3, -1, p3+q, mt, 1], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 3], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -p3-q, mt, 2], [gluon, 3, +1, p1+p2, 0, 5], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1, mt, 10], [gluon, 3, +1, p1+p2, 0, 4], [quark2, 3, -1, k1-p1-p2, mt, 7]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1+p1+p2, mt, 8], [gluon, 3, +1, -p1-p2, 0, 6], [quark2, 3, -1, k1, mt, 9]] ]
+  symmetry_factor: -1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -341,12 +341,12 @@ diagram:
     - [ [5, 4], gluon_gluon: [[gluon, 3, +1, k1-p1-p2, 0, 7], [gluon, 3, +1, -k1+p1+p2, 0, 8]] ]
     - [ [5, 4], gluon_gluon: [[gluon, 3, +1, -k1, 0, 9], [gluon, 3, +1, k1, 0, 10]] ]
   vertices:
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, p3+q, mt, 1], [qbar2, 2, -1, -p3, mt, -2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 3]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, -p3-q, mt, 2], [gluon, 3, +1, p1+p2, 0, 5]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 2, -1, -p3, mt, -2], [quark2, 3, -1, p3+q, mt, 1], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 3], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -p3-q, mt, 2], [gluon, 3, +1, p1+p2, 0, 5], [quark2, 2, -1, -p4, mt, -4]] ]
     - [ gluon_gluon_gluon: [[gluon, 3, +1, p1+p2, 0, 4], [gluon, 3, +1, k1-p1-p2, 0, 7], [gluon, 3, +1, -k1, 0, 9]] ]
     - [ gluon_gluon_gluon: [[gluon, 3, +1, -p1-p2, 0, 6], [gluon, 3, +1, -k1+p1+p2, 0, 8], [gluon, 3, +1, k1, 0, 10]] ]
-  symmetry_factor: -1/2
+  symmetry_factor: 1/2
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -369,12 +369,12 @@ diagram:
     - [ [5, 4], ghost_Ghost: [[ghost, 3, -1, k1-p1-p2, 0, 7], [Ghost, 3, -1, -k1+p1+p2, 0, 8]] ]
     - [ [4, 5], ghost_Ghost: [[ghost, 3, -1, k1, 0, 9], [Ghost, 3, -1, -k1, 0, 10]] ]
   vertices:
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, p3+q, mt, 1], [qbar2, 2, -1, -p3, mt, -2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 3]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, -p3-q, mt, 2], [gluon, 3, +1, p1+p2, 0, 5]] ]
-    - [ Ghost_ghost_gluon: [[Ghost, 3, -1, -k1, 0, 10], [ghost, 3, -1, k1-p1-p2, 0, 7], [gluon, 3, +1, p1+p2, 0, 4]] ]
-    - [ Ghost_ghost_gluon: [[Ghost, 3, -1, -k1+p1+p2, 0, 8], [ghost, 3, -1, k1, 0, 9], [gluon, 3, +1, -p1-p2, 0, 6]] ]
-  symmetry_factor: 1
+    - [ qbar2_quark2_higgs: [[qbar2, 2, -1, -p3, mt, -2], [quark2, 3, -1, p3+q, mt, 1], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 3], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -p3-q, mt, 2], [gluon, 3, +1, p1+p2, 0, 5], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ Ghost_gluon_ghost: [[Ghost, 3, -1, -k1, 0, 10], [gluon, 3, +1, p1+p2, 0, 4], [ghost, 3, -1, k1-p1-p2, 0, 7]] ]
+    - [ Ghost_gluon_ghost: [[Ghost, 3, -1, -k1+p1+p2, 0, 8], [gluon, 3, +1, -p1-p2, 0, 6], [ghost, 3, -1, k1, 0, 9]] ]
+  symmetry_factor: -1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -397,12 +397,12 @@ diagram:
     - [ [5, 4], quark1_qbar1: [[quark1, 3, -1, k1-p1-p2, 0, 7], [qbar1, 3, -1, -k1+p1+p2, 0, 8]] ]
     - [ [4, 5], quark1_qbar1: [[quark1, 3, -1, k1, 0, 9], [qbar1, 3, -1, -k1, 0, 10]] ]
   vertices:
-    - [ quark2_qbar2_higgs: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, p4+q, mt, 2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 3]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -p4-q, mt, 1], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p1+p2, 0, 5]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 3, -1, k1-p1-p2, 0, 7], [qbar1, 3, -1, -k1, 0, 10], [gluon, 3, +1, p1+p2, 0, 4]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 3, -1, k1, 0, 9], [qbar1, 3, -1, -k1+p1+p2, 0, 8], [gluon, 3, +1, -p1-p2, 0, 6]] ]
-  symmetry_factor: 1
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, p4+q, mt, 2], [quark2, 2, -1, -p4, mt, -4], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 3], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p1+p2, 0, 5], [quark2, 3, -1, -p4-q, mt, 1]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 3, -1, -k1, 0, 10], [gluon, 3, +1, p1+p2, 0, 4], [quark1, 3, -1, k1-p1-p2, 0, 7]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 3, -1, -k1+p1+p2, 0, 8], [gluon, 3, +1, -p1-p2, 0, 6], [quark1, 3, -1, k1, 0, 9]] ]
+  symmetry_factor: -1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -425,12 +425,12 @@ diagram:
     - [ [5, 4], quark2_qbar2: [[quark2, 3, -1, k1-p1-p2, mt, 7], [qbar2, 3, -1, -k1+p1+p2, mt, 8]] ]
     - [ [4, 5], quark2_qbar2: [[quark2, 3, -1, k1, mt, 9], [qbar2, 3, -1, -k1, mt, 10]] ]
   vertices:
-    - [ quark2_qbar2_higgs: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, p4+q, mt, 2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 3]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -p4-q, mt, 1], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p1+p2, 0, 5]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1-p1-p2, mt, 7], [qbar2, 3, -1, -k1, mt, 10], [gluon, 3, +1, p1+p2, 0, 4]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1, mt, 9], [qbar2, 3, -1, -k1+p1+p2, mt, 8], [gluon, 3, +1, -p1-p2, 0, 6]] ]
-  symmetry_factor: 1
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, p4+q, mt, 2], [quark2, 2, -1, -p4, mt, -4], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 3], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p1+p2, 0, 5], [quark2, 3, -1, -p4-q, mt, 1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1, mt, 10], [gluon, 3, +1, p1+p2, 0, 4], [quark2, 3, -1, k1-p1-p2, mt, 7]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1+p1+p2, mt, 8], [gluon, 3, +1, -p1-p2, 0, 6], [quark2, 3, -1, k1, mt, 9]] ]
+  symmetry_factor: -1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -453,12 +453,12 @@ diagram:
     - [ [5, 4], gluon_gluon: [[gluon, 3, +1, k1-p1-p2, 0, 7], [gluon, 3, +1, -k1+p1+p2, 0, 8]] ]
     - [ [5, 4], gluon_gluon: [[gluon, 3, +1, -k1, 0, 9], [gluon, 3, +1, k1, 0, 10]] ]
   vertices:
-    - [ quark2_qbar2_higgs: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, p4+q, mt, 2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 3]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -p4-q, mt, 1], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p1+p2, 0, 5]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, p4+q, mt, 2], [quark2, 2, -1, -p4, mt, -4], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 3], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p1+p2, 0, 5], [quark2, 3, -1, -p4-q, mt, 1]] ]
     - [ gluon_gluon_gluon: [[gluon, 3, +1, p1+p2, 0, 4], [gluon, 3, +1, k1-p1-p2, 0, 7], [gluon, 3, +1, -k1, 0, 9]] ]
     - [ gluon_gluon_gluon: [[gluon, 3, +1, -p1-p2, 0, 6], [gluon, 3, +1, -k1+p1+p2, 0, 8], [gluon, 3, +1, k1, 0, 10]] ]
-  symmetry_factor: -1/2
+  symmetry_factor: 1/2
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -481,12 +481,12 @@ diagram:
     - [ [5, 4], ghost_Ghost: [[ghost, 3, -1, k1-p1-p2, 0, 7], [Ghost, 3, -1, -k1+p1+p2, 0, 8]] ]
     - [ [4, 5], ghost_Ghost: [[ghost, 3, -1, k1, 0, 9], [Ghost, 3, -1, -k1, 0, 10]] ]
   vertices:
-    - [ quark2_qbar2_higgs: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, p4+q, mt, 2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 3]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -p4-q, mt, 1], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p1+p2, 0, 5]] ]
-    - [ Ghost_ghost_gluon: [[Ghost, 3, -1, -k1, 0, 10], [ghost, 3, -1, k1-p1-p2, 0, 7], [gluon, 3, +1, p1+p2, 0, 4]] ]
-    - [ Ghost_ghost_gluon: [[Ghost, 3, -1, -k1+p1+p2, 0, 8], [ghost, 3, -1, k1, 0, 9], [gluon, 3, +1, -p1-p2, 0, 6]] ]
-  symmetry_factor: 1
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, p4+q, mt, 2], [quark2, 2, -1, -p4, mt, -4], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 3], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p1+p2, 0, 5], [quark2, 3, -1, -p4-q, mt, 1]] ]
+    - [ Ghost_gluon_ghost: [[Ghost, 3, -1, -k1, 0, 10], [gluon, 3, +1, p1+p2, 0, 4], [ghost, 3, -1, k1-p1-p2, 0, 7]] ]
+    - [ Ghost_gluon_ghost: [[Ghost, 3, -1, -k1+p1+p2, 0, 8], [gluon, 3, +1, -p1-p2, 0, 6], [ghost, 3, -1, k1, 0, 9]] ]
+  symmetry_factor: -1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -509,12 +509,12 @@ diagram:
     - [ [3, 5], quark2_qbar2: [[quark2, 3, -1, k1-p4, mt, 7], [qbar2, 3, -1, -k1+p4, mt, 8]] ]
     - [ [5, 4], quark2_qbar2: [[quark2, 3, -1, k1+p3+q, mt, 9], [qbar2, 3, -1, -k1-p3-q, mt, 10]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1+p3, mt, 5], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, -k1, 0, 3]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, -k1+p4, mt, 8], [gluon, 3, +1, k1, 0, 4]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, k1+p3+q, mt, 9], [qbar2, 3, -1, -k1-p3, mt, 6], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1-p4, mt, 7], [qbar2, 3, -1, -k1-p3-q, mt, 10], [gluon, 3, +1, p1+p2, 0, 2]] ]
-  symmetry_factor: -1
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, -k1, 0, 3], [quark2, 3, -1, k1+p3, mt, 5]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1+p4, mt, 8], [gluon, 3, +1, k1, 0, 4], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, -k1-p3, mt, 6], [quark2, 3, -1, k1+p3+q, mt, 9], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1-p3-q, mt, 10], [gluon, 3, +1, p1+p2, 0, 2], [quark2, 3, -1, k1-p4, mt, 7]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -537,12 +537,12 @@ diagram:
     - [ [5, 3], quark2_qbar2: [[quark2, 3, -1, -k1+p3, mt, 7], [qbar2, 3, -1, k1-p3, mt, 8]] ]
     - [ [4, 5], quark2_qbar2: [[quark2, 3, -1, -k1-p4-q, mt, 9], [qbar2, 3, -1, k1+p4+q, mt, 10]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, k1+p4, mt, 6], [gluon, 3, +1, -k1, 0, 3]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -k1+p3, mt, 7], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, k1, 0, 4]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, -k1-p4, mt, 5], [qbar2, 3, -1, k1+p4+q, mt, 10], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -k1-p4-q, mt, 9], [qbar2, 3, -1, k1-p3, mt, 8], [gluon, 3, +1, p1+p2, 0, 2]] ]
-  symmetry_factor: -1
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, k1+p4, mt, 6], [gluon, 3, +1, -k1, 0, 3], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, k1, 0, 4], [quark2, 3, -1, -k1+p3, mt, 7]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, k1+p4+q, mt, 10], [quark2, 3, -1, -k1-p4, mt, 5], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, k1-p3, mt, 8], [gluon, 3, +1, p1+p2, 0, 2], [quark2, 3, -1, -k1-p4-q, mt, 9]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -565,10 +565,10 @@ diagram:
     - [ [5, 3], gluon_gluon: [[gluon, 3, +1, -k1+p3, 0, 7], [gluon, 3, +1, k1-p3, 0, 8]] ]
     - [ [5, 4], gluon_gluon: [[gluon, 3, +1, k1+p4+q, 0, 9], [gluon, 3, +1, -k1-p4-q, 0, 10]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, k1+q, mt, 5], [qbar2, 3, -1, -k1, mt, 4], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1, mt, 3], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, -k1+p3, 0, 7]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, -k1-q, mt, 6], [gluon, 3, +1, k1+p4+q, 0, 9]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, -k1, mt, 4], [quark2, 3, -1, k1+q, mt, 5], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, -k1+p3, 0, 7], [quark2, 3, -1, k1, mt, 3]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1-q, mt, 6], [gluon, 3, +1, k1+p4+q, 0, 9], [quark2, 2, -1, -p4, mt, -4]] ]
     - [ gluon_gluon_gluon: [[gluon, 3, +1, p1+p2, 0, 2], [gluon, 3, +1, k1-p3, 0, 8], [gluon, 3, +1, -k1-p4-q, 0, 10]] ]
   symmetry_factor: 1
   num_legs_in: 2
@@ -593,12 +593,12 @@ diagram:
     - [ [5, 3], gluon_gluon: [[gluon, 3, +1, -k1-p2, 0, 7], [gluon, 3, +1, k1+p2, 0, 8]] ]
     - [ [4, 5], quark2_qbar2: [[quark2, 3, -1, -k1+p1-p4, mt, 9], [qbar2, 3, -1, k1-p1+p4, mt, 10]] ]
   vertices:
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, p3+q, mt, 1], [qbar2, 2, -1, -p3, mt, -2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 3, -1, -k1, 0, 4], [gluon, 3, +1, k1-p1, 0, 5]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 3, -1, k1, 0, 3], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -k1-p2, 0, 7]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, k1-p1+p4, mt, 10], [gluon, 3, +1, -k1+p1, 0, 6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -k1+p1-p4, mt, 9], [qbar2, 3, -1, -p3-q, mt, 2], [gluon, 3, +1, k1+p2, 0, 8]] ]
-  symmetry_factor: -1
+    - [ qbar2_quark2_higgs: [[qbar2, 2, -1, -p3, mt, -2], [quark2, 3, -1, p3+q, mt, 1], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 3, -1, -k1, 0, 4], [gluon, 3, +1, k1-p1, 0, 5], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -k1-p2, 0, 7], [quark1, 3, -1, k1, 0, 3]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, k1-p1+p4, mt, 10], [gluon, 3, +1, -k1+p1, 0, 6], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -p3-q, mt, 2], [gluon, 3, +1, k1+p2, 0, 8], [quark2, 3, -1, -k1+p1-p4, mt, 9]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -621,12 +621,12 @@ diagram:
     - [ [5, 3], gluon_gluon: [[gluon, 3, +1, -k1-p1, 0, 7], [gluon, 3, +1, k1+p1, 0, 8]] ]
     - [ [4, 5], quark2_qbar2: [[quark2, 3, -1, -k1+p2-p4, mt, 9], [qbar2, 3, -1, k1-p2+p4, mt, 10]] ]
   vertices:
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, p3+q, mt, 1], [qbar2, 2, -1, -p3, mt, -2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 3, -1, -k1, 0, 3], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, k1-p2, 0, 5]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 3, -1, k1, 0, 4], [gluon, 3, +1, -k1-p1, 0, 7]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, k1-p2+p4, mt, 10], [gluon, 3, +1, -k1+p2, 0, 6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -k1+p2-p4, mt, 9], [qbar2, 3, -1, -p3-q, mt, 2], [gluon, 3, +1, k1+p1, 0, 8]] ]
-  symmetry_factor: -1
+    - [ qbar2_quark2_higgs: [[qbar2, 2, -1, -p3, mt, -2], [quark2, 3, -1, p3+q, mt, 1], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, k1-p2, 0, 5], [quark1, 3, -1, -k1, 0, 3]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 3, -1, k1, 0, 4], [gluon, 3, +1, -k1-p1, 0, 7], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, k1-p2+p4, mt, 10], [gluon, 3, +1, -k1+p2, 0, 6], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -p3-q, mt, 2], [gluon, 3, +1, k1+p1, 0, 8], [quark2, 3, -1, -k1+p2-p4, mt, 9]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -649,12 +649,12 @@ diagram:
     - [ [5, 3], gluon_gluon: [[gluon, 3, +1, -k1-p2, 0, 7], [gluon, 3, +1, k1+p2, 0, 8]] ]
     - [ [5, 4], quark2_qbar2: [[quark2, 3, -1, k1-p1+p3, mt, 9], [qbar2, 3, -1, -k1+p1-p3, mt, 10]] ]
   vertices:
-    - [ quark2_qbar2_higgs: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, p4+q, mt, 2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 3, -1, -k1, 0, 4], [gluon, 3, +1, k1-p1, 0, 5]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 3, -1, k1, 0, 3], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -k1-p2, 0, 7]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1-p1+p3, mt, 9], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, -k1+p1, 0, 6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -p4-q, mt, 1], [qbar2, 3, -1, -k1+p1-p3, mt, 10], [gluon, 3, +1, k1+p2, 0, 8]] ]
-  symmetry_factor: -1
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, p4+q, mt, 2], [quark2, 2, -1, -p4, mt, -4], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 3, -1, -k1, 0, 4], [gluon, 3, +1, k1-p1, 0, 5], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -k1-p2, 0, 7], [quark1, 3, -1, k1, 0, 3]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, -k1+p1, 0, 6], [quark2, 3, -1, k1-p1+p3, mt, 9]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1+p1-p3, mt, 10], [gluon, 3, +1, k1+p2, 0, 8], [quark2, 3, -1, -p4-q, mt, 1]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -677,12 +677,12 @@ diagram:
     - [ [5, 3], gluon_gluon: [[gluon, 3, +1, -k1-p1, 0, 7], [gluon, 3, +1, k1+p1, 0, 8]] ]
     - [ [5, 4], quark2_qbar2: [[quark2, 3, -1, k1-p2+p3, mt, 9], [qbar2, 3, -1, -k1+p2-p3, mt, 10]] ]
   vertices:
-    - [ quark2_qbar2_higgs: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, p4+q, mt, 2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 3, -1, -k1, 0, 3], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, k1-p2, 0, 5]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 3, -1, k1, 0, 4], [gluon, 3, +1, -k1-p1, 0, 7]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1-p2+p3, mt, 9], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, -k1+p2, 0, 6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -p4-q, mt, 1], [qbar2, 3, -1, -k1+p2-p3, mt, 10], [gluon, 3, +1, k1+p1, 0, 8]] ]
-  symmetry_factor: -1
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, p4+q, mt, 2], [quark2, 2, -1, -p4, mt, -4], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, k1-p2, 0, 5], [quark1, 3, -1, -k1, 0, 3]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 3, -1, k1, 0, 4], [gluon, 3, +1, -k1-p1, 0, 7], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, -k1+p2, 0, 6], [quark2, 3, -1, k1-p2+p3, mt, 9]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1+p2-p3, mt, 10], [gluon, 3, +1, k1+p1, 0, 8], [quark2, 3, -1, -p4-q, mt, 1]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -705,12 +705,12 @@ diagram:
     - [ [5, 3], gluon_gluon: [[gluon, 3, +1, k1+p4, 0, 7], [gluon, 3, +1, -k1-p4, 0, 8]] ]
     - [ [4, 5], quark2_qbar2: [[quark2, 3, -1, k1-q, mt, 9], [qbar2, 3, -1, -k1+q, mt, 10]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -p4-q, mt, 3], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p1+p2, 0, 2]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, -k1, mt, 6], [gluon, 3, +1, k1+p4, 0, 7]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, k1, mt, 5], [qbar2, 3, -1, -k1+q, mt, 10], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1-q, mt, 9], [qbar2, 3, -1, p4+q, mt, 4], [gluon, 3, +1, -k1-p4, 0, 8]] ]
-  symmetry_factor: -1
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p1+p2, 0, 2], [quark2, 3, -1, -p4-q, mt, 3]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1, mt, 6], [gluon, 3, +1, k1+p4, 0, 7], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, -k1+q, mt, 10], [quark2, 3, -1, k1, mt, 5], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, p4+q, mt, 4], [gluon, 3, +1, -k1-p4, 0, 8], [quark2, 3, -1, k1-q, mt, 9]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -733,12 +733,12 @@ diagram:
     - [ [5, 3], gluon_gluon: [[gluon, 3, +1, k1+p3, 0, 7], [gluon, 3, +1, -k1-p3, 0, 8]] ]
     - [ [5, 4], quark2_qbar2: [[quark2, 3, -1, -k1+q, mt, 9], [qbar2, 3, -1, k1-q, mt, 10]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, -p3-q, mt, 4], [gluon, 3, +1, p1+p2, 0, 2]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -k1, mt, 5], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, k1+p3, 0, 7]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, -k1+q, mt, 9], [qbar2, 3, -1, k1, mt, 6], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, p3+q, mt, 3], [qbar2, 3, -1, k1-q, mt, 10], [gluon, 3, +1, -k1-p3, 0, 8]] ]
-  symmetry_factor: -1
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -p1-p2, 0, 1], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -p3-q, mt, 4], [gluon, 3, +1, p1+p2, 0, 2], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, k1+p3, 0, 7], [quark2, 3, -1, -k1, mt, 5]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, k1, mt, 6], [quark2, 3, -1, -k1+q, mt, 9], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, k1-q, mt, 10], [gluon, 3, +1, -k1-p3, 0, 8], [quark2, 3, -1, p3+q, mt, 3]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -761,10 +761,10 @@ diagram:
     - [ [5, 3], gluon_gluon: [[gluon, 3, +1, k1-p1, 0, 7], [gluon, 3, +1, -k1+p1, 0, 8]] ]
     - [ [5, 4], gluon_gluon: [[gluon, 3, +1, -k1-p2, 0, 9], [gluon, 3, +1, k1+p2, 0, 10]] ]
   vertices:
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, p3+q, mt, 1], [qbar2, 2, -1, -p3, mt, -2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, -p3-q, mt, 2], [gluon, 3, +1, p1+p2, 0, 3]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 3, -1, -k1, 0, 6], [gluon, 3, +1, k1-p1, 0, 7]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 3, -1, k1, 0, 5], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -k1-p2, 0, 9]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 2, -1, -p3, mt, -2], [quark2, 3, -1, p3+q, mt, 1], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -p3-q, mt, 2], [gluon, 3, +1, p1+p2, 0, 3], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 3, -1, -k1, 0, 6], [gluon, 3, +1, k1-p1, 0, 7], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -k1-p2, 0, 9], [quark1, 3, -1, k1, 0, 5]] ]
     - [ gluon_gluon_gluon: [[gluon, 3, +1, -p1-p2, 0, 4], [gluon, 3, +1, -k1+p1, 0, 8], [gluon, 3, +1, k1+p2, 0, 10]] ]
   symmetry_factor: 1
   num_legs_in: 2
@@ -789,12 +789,12 @@ diagram:
     - [ [3, 5], quark1_qbar1: [[quark1, 3, -1, -k1+p1, 0, 7], [qbar1, 3, -1, k1-p1, 0, 8]] ]
     - [ [5, 4], quark1_qbar1: [[quark1, 3, -1, -k1-p2, 0, 9], [qbar1, 3, -1, k1+p2, 0, 10]] ]
   vertices:
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, p3+q, mt, 1], [qbar2, 2, -1, -p3, mt, -2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, -p3-q, mt, 2], [gluon, 3, +1, p1+p2, 0, 3]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 3, -1, k1-p1, 0, 8], [gluon, 3, +1, -k1, 0, 5]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 3, -1, -k1-p2, 0, 9], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, k1, 0, 6]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 3, -1, -k1+p1, 0, 7], [qbar1, 3, -1, k1+p2, 0, 10], [gluon, 3, +1, -p1-p2, 0, 4]] ]
-  symmetry_factor: -1
+    - [ qbar2_quark2_higgs: [[qbar2, 2, -1, -p3, mt, -2], [quark2, 3, -1, p3+q, mt, 1], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -p3-q, mt, 2], [gluon, 3, +1, p1+p2, 0, 3], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 3, -1, k1-p1, 0, 8], [gluon, 3, +1, -k1, 0, 5], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, k1, 0, 6], [quark1, 3, -1, -k1-p2, 0, 9]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 3, -1, k1+p2, 0, 10], [gluon, 3, +1, -p1-p2, 0, 4], [quark1, 3, -1, -k1+p1, 0, 7]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -817,10 +817,10 @@ diagram:
     - [ [5, 3], gluon_gluon: [[gluon, 3, +1, k1-p1, 0, 7], [gluon, 3, +1, -k1+p1, 0, 8]] ]
     - [ [5, 4], gluon_gluon: [[gluon, 3, +1, -k1-p2, 0, 9], [gluon, 3, +1, k1+p2, 0, 10]] ]
   vertices:
-    - [ quark2_qbar2_higgs: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, p4+q, mt, 2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -p4-q, mt, 1], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p1+p2, 0, 3]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 3, -1, -k1, 0, 6], [gluon, 3, +1, k1-p1, 0, 7]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 3, -1, k1, 0, 5], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -k1-p2, 0, 9]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, p4+q, mt, 2], [quark2, 2, -1, -p4, mt, -4], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p1+p2, 0, 3], [quark2, 3, -1, -p4-q, mt, 1]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 3, -1, -k1, 0, 6], [gluon, 3, +1, k1-p1, 0, 7], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -k1-p2, 0, 9], [quark1, 3, -1, k1, 0, 5]] ]
     - [ gluon_gluon_gluon: [[gluon, 3, +1, -p1-p2, 0, 4], [gluon, 3, +1, -k1+p1, 0, 8], [gluon, 3, +1, k1+p2, 0, 10]] ]
   symmetry_factor: 1
   num_legs_in: 2
@@ -845,12 +845,12 @@ diagram:
     - [ [3, 5], quark1_qbar1: [[quark1, 3, -1, -k1+p1, 0, 7], [qbar1, 3, -1, k1-p1, 0, 8]] ]
     - [ [5, 4], quark1_qbar1: [[quark1, 3, -1, -k1-p2, 0, 9], [qbar1, 3, -1, k1+p2, 0, 10]] ]
   vertices:
-    - [ quark2_qbar2_higgs: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, p4+q, mt, 2], [higgs, 2, +1, -q, mh, -6]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -p4-q, mt, 1], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p1+p2, 0, 3]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 3, -1, k1-p1, 0, 8], [gluon, 3, +1, -k1, 0, 5]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 3, -1, -k1-p2, 0, 9], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, k1, 0, 6]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 3, -1, -k1+p1, 0, 7], [qbar1, 3, -1, k1+p2, 0, 10], [gluon, 3, +1, -p1-p2, 0, 4]] ]
-  symmetry_factor: -1
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, p4+q, mt, 2], [quark2, 2, -1, -p4, mt, -4], [higgs, 2, +1, -q, mh, -6]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, p1+p2, 0, 3], [quark2, 3, -1, -p4-q, mt, 1]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 3, -1, k1-p1, 0, 8], [gluon, 3, +1, -k1, 0, 5], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, k1, 0, 6], [quark1, 3, -1, -k1-p2, 0, 9]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 3, -1, k1+p2, 0, 10], [gluon, 3, +1, -p1-p2, 0, 4], [quark1, 3, -1, -k1+p1, 0, 7]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -873,12 +873,12 @@ diagram:
     - [ [5, 3], quark2_qbar2: [[quark2, 3, -1, k1-p1+p3, mt, 7], [qbar2, 3, -1, -k1+p1-p3, mt, 8]] ]
     - [ [4, 5], quark2_qbar2: [[quark2, 3, -1, k1+p2-p4, mt, 9], [qbar2, 3, -1, -k1-p2+p4, mt, 10]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 3, -1, -k1, 0, 2], [gluon, 3, +1, k1-p1, 0, 3]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 3, -1, k1, 0, 1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -k1-p2, 0, 5]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, k1-p1+p3, mt, 7], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, -k1+p1, 0, 4]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, -k1-p2+p4, mt, 10], [gluon, 3, +1, k1+p2, 0, 6]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, k1+p2-p4, mt, 9], [qbar2, 3, -1, -k1+p1-p3, mt, 8], [higgs, 2, +1, -q, mh, -6]] ]
-  symmetry_factor: -1
+    - [ qbar1_gluon_quark1: [[qbar1, 3, -1, -k1, 0, 2], [gluon, 3, +1, k1-p1, 0, 3], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -k1-p2, 0, 5], [quark1, 3, -1, k1, 0, 1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, -k1+p1, 0, 4], [quark2, 3, -1, k1-p1+p3, mt, 7]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, -k1-p2+p4, mt, 10], [gluon, 3, +1, k1+p2, 0, 6], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, -k1+p1-p3, mt, 8], [quark2, 3, -1, k1+p2-p4, mt, 9], [higgs, 2, +1, -q, mh, -6]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1
@@ -901,12 +901,12 @@ diagram:
     - [ [3, 5], quark2_qbar2: [[quark2, 3, -1, -k1+p1-p4, mt, 7], [qbar2, 3, -1, k1-p1+p4, mt, 8]] ]
     - [ [5, 4], quark2_qbar2: [[quark2, 3, -1, -k1-p2+p3, mt, 9], [qbar2, 3, -1, k1+p2-p3, mt, 10]] ]
   vertices:
-    - [ quark1_qbar1_gluon: [[quark1, 1, -1, p1, 0, -1], [qbar1, 3, -1, -k1, 0, 2], [gluon, 3, +1, k1-p1, 0, 3]] ]
-    - [ quark1_qbar1_gluon: [[quark1, 3, -1, k1, 0, 1], [qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -k1-p2, 0, 5]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 2, -1, -p4, mt, -4], [qbar2, 3, -1, k1-p1+p4, mt, 8], [gluon, 3, +1, -k1+p1, 0, 4]] ]
-    - [ quark2_qbar2_gluon: [[quark2, 3, -1, -k1-p2+p3, mt, 9], [qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, k1+p2, 0, 6]] ]
-    - [ quark2_qbar2_higgs: [[quark2, 3, -1, -k1+p1-p4, mt, 7], [qbar2, 3, -1, k1+p2-p3, mt, 10], [higgs, 2, +1, -q, mh, -6]] ]
-  symmetry_factor: -1
+    - [ qbar1_gluon_quark1: [[qbar1, 3, -1, -k1, 0, 2], [gluon, 3, +1, k1-p1, 0, 3], [quark1, 1, -1, p1, 0, -1]] ]
+    - [ qbar1_gluon_quark1: [[qbar1, 1, -1, p2, 0, -3], [gluon, 3, +1, -k1-p2, 0, 5], [quark1, 3, -1, k1, 0, 1]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 3, -1, k1-p1+p4, mt, 8], [gluon, 3, +1, -k1+p1, 0, 4], [quark2, 2, -1, -p4, mt, -4]] ]
+    - [ qbar2_gluon_quark2: [[qbar2, 2, -1, -p3, mt, -2], [gluon, 3, +1, k1+p2, 0, 6], [quark2, 3, -1, -k1-p2+p3, mt, 9]] ]
+    - [ qbar2_quark2_higgs: [[qbar2, 3, -1, k1+p2-p3, mt, 10], [quark2, 3, -1, -k1+p1-p4, mt, 7], [higgs, 2, +1, -q, mh, -6]] ]
+  symmetry_factor: 1
   num_legs_in: 2
   num_legs_out: 3
   num_loops: 1

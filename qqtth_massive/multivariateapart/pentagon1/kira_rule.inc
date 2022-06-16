@@ -2,11 +2,11 @@ id pentagon1(0,0,0,0,0)=
  0;
 
 
-id pentagon1(0,0,0,1,0)=
+id pentagon1(0,0,0,0,1)=
  0;
 
 
-id pentagon1(0,0,0,0,1)=
+id pentagon1(0,0,0,1,0)=
 pentagon1(1,0,0,0,0);
 
 

@@ -45,9 +45,11 @@ id d=D;
 
 .sort
 *Bracket pentagon1,pentagon2,basis1,basis2,Basis1,Basis2,Nc,Y,gs;
-Print +s a10o27o1;
+Print +s a10o16o1;
 Format mathematica;
-#write <myresults.m> "(%E)",a10o19o1
+#do i=1,31
+#write <myresults`i'.m> "(%E)",a10o`i'o1
+#enddo
 .store
 
 save ../../../data_save/qqtth_massless/NLO/amp_master.sav;

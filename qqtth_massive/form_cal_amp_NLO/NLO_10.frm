@@ -49,7 +49,7 @@ Off statistics;
 
 #include ../qgraf/diagram/qqtthoneloop.frm
 
-Multiply left U(-1,p1,0,up)*VB(-3,p2,0,up)*UB(-2,p3,0,top)*V(-4,p4,0,top);
+Multiply left U(-1,p1,0,up)*VB(-3,p2,0,up)*UB(-2,p3,mt,top)*V(-4,p4,mt,top);
 .sort
 
 #call numbertoindex

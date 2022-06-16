@@ -9,7 +9,7 @@
 
  output= '../reduze_NLO/diagram/qqtthtwoloop.yaml';
 
- model= 'qqtth';
+ model= 'qqtth_massive';
 
  in= quark1[p1],qbar1[p2];
 

@@ -1,6 +1,6 @@
 Fill tab(1)=pentagon1(0,0,0,0,0);
-Fill tab(2)=pentagon1(0,0,0,1,0);
-Fill tab(3)=pentagon1(0,0,0,0,1);
+Fill tab(2)=pentagon1(0,0,0,0,1);
+Fill tab(3)=pentagon1(0,0,0,1,0);
 Fill tab(4)=pentagon1(0,0,0,1,1);
 Fill tab(5)=pentagon1(0,0,1,0,0);
 Fill tab(6)=pentagon1(0,0,1,0,-1);

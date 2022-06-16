@@ -1,11 +1,11 @@
 #! /bin/bash/
 
-cd /home/xty/Desktop/qqtth_form_massive/multivariateapart/pentagon1
+cd /home/xty/Desktop/TTH/qqtth_massive/multivariateapart/pentagon1
 
 for ((i=1;i<=126;i++))
 do
 	echo "$i"
-	cd /home/xty/Desktop/qqtth_form_massive/multivariateapart/pentagon1/headfile"$i"
+	cd /home/xty/Desktop/TTH/qqtth_massive/multivariateapart/pentagon1/headfile"$i"
         pwd	
 	sed -i s#apartreduce#apartreduce"$i"#g apartreduce.h
 	sed -i s#dens#dens"$i"#g apartreduce.h

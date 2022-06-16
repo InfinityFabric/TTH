@@ -27,9 +27,10 @@ Delete storage;
 id D=d;
 *****
 
-#do i=1,1
+#do i=1,2
     
-#include ../multivariateapart/pentagon`i'/kira_rule.inc
+#include ../kira/kira_pentagon`i'/results/pentagon1/kira_myintegrals.inc
+*#include ../multivariateapart/pentagon`i'/kira_rule.inc
 
 #enddo
 
@@ -42,11 +43,13 @@ id d=D;
 *id mu=0;
 *id mt=0;
 
-*.sort
+.sort
 *Bracket pentagon1,pentagon2,basis1,basis2,Basis1,Basis2,Nc,Y,gs;
-*Print +s;
+*Print +s a10o16o1;
 *Format mathematica;
-*#write <myresults.m> "(%E)",a10o27o1
+*#do i=1,31
+*#write <myresults`i'.m> "(%E)",a10o`i'o1
+*#enddo
 .store
 
 save ../../../data_save/qqtth_massive/NLO/amp_master.sav;
