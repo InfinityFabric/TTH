@@ -6,12 +6,12 @@ digraph pentagonbox1_5_453 {
     -2 -> 2 [label="(p2,0;2)"];
     3 -> -3 [label="(p3,0;3)"];
     3 -> -4 [label="(p4,0;4)"];
-    4 -> -5 [label="(-p4+p1-p3+p2,0;5)"];
+    4 -> -5 [label="(p2-p4+p1-p3,0;5)"];
     4 -> 2 [label="(k1,0;6)"];
-    2 -> 3 [label="(p1+k1+p2,0;8)"];
-    3 -> 1 [label="(-p4+p1-p3+p2+k2,0;12)"];
+    2 -> 3 [label="(k1+p2+p1,0;8)"];
+    3 -> 1 [label="(p2+k2-p4+p1-p3,0;12)"];
     3 -> 1 [label="(k1-k2,0;13)"];
-    1 -> 4 [label="(-p4+p1-p3+k1+p2,0;14)"];
+    1 -> 4 [label="(k1+p2-p4+p1-p3,0;14)"];
   }
   subgraph incoming { rank="source"; -1; -2; }
   subgraph outgoing { rank="sink"; -3; -4; -5; }

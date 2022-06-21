@@ -1,0 +1,6 @@
+MaxTermSize 10M
+WorkSpace 1000M
+SubTermsInSmall 1M
+SubSmallSize 100M
+SubLargeSize 1000M
+MaxNumberSize 50K

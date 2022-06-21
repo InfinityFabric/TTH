@@ -3,11 +3,11 @@
 
  style= 'xty.sty' ;
  
- output= 'diagram/twoloop.frm' ;
+ output= 'diagram/ggtthtwoloop.frm' ;
 
  style= 'reduze.sty' ;
 
- output= '../reduze/diagram/twoloop.yaml';
+ output= '../reduze_NLO/diagram/ggtthtwoloop.yaml';
 
  model= 'ggtth_massless';
 

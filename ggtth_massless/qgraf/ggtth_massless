@@ -8,9 +8,9 @@
 
 * vertices
 
-[quark1,qbar1,gluon;vfunct='Uug',gs=1,Y=0]
-[quark2,qbar2,gluon;vfunct='Ttg',gs=1,Y=0]
+[qbar1,gluon,quark1;vfunct='Uug',gs=1,Y=0]
+[qbar2,gluon,quark2;vfunct='Ttg',gs=1,Y=0]
 [gluon,gluon,gluon;vfunct='ggg',gs=1,Y=0]
-[Ghost,ghost,gluon;vfunct='Ghghg',gs=1,Y=0]
-[quark2,qbar2,higgs;vfunct='Tth',gs=0,Y=1]
+[Ghost,gluon,ghost;vfunct='Ghghg',gs=1,Y=0]
+[qbar2,quark2,higgs;vfunct='Tth',gs=0,Y=1]
 [gluon,gluon,gluon,gluon;vfunct='gggg',gs=2,Y=0]

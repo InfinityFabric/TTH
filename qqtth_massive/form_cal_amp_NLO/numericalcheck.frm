@@ -36,7 +36,7 @@ Format mathematica;
 
 #write <../../../data_save/qqtth_massive/NLO/matsum.m> "(%E)",matsum
 
-Print matsum;
+*Print matsum;
 
 .store
 Save ../../../data_save/qqtth_massive/NLO/matsum.sav;

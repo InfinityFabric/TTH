@@ -1,10 +1,11 @@
 jobs:
   - reduce_sectors:
-      sector_selection:
-        select_recursively:
-	  - [pentagon1,31]
-      ibp:
-        - {r: [t,5], s: [0,3]}
-      run_initiate: true
-      run_triangular: sectorwise
-      run_back_substitution: true
+      reduce:
+        - {sector: [31], r: 5, s: 3}
+          #      select_integrals:
+          #        select_mandatory_list:
+          #        - [pentagon1, master]
+        #        - {toplogy: [pentagon1], sector: [31], r: 5, s: 2}
+        #        - {toplogy: [pentagon2], sector: [31], r: 5, s: 2}
+        #        - {toplogy: [pentagon3], sector: [31], r: 5, s: 2}
+        #        - {toplogy: [pentagon4], sector: [31], r: 5, s: 2}

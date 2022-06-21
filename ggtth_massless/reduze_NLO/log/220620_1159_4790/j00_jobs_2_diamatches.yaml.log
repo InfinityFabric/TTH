@@ -1,0 +1,106 @@
+
+Date: Mon Jun 20 11:59:47 2022
+
+Setting up job queue from myjobs/jobs_2_diamatches.yaml
+Updating job queue dependencies
+Processing jobs in serial mode (only one MPI process)
+Inserted new job in queue: job(1): find diagram shifts (alt) for diagram/ggtthoneloop.yaml
+Updating job queue dependencies
+Loading uncrossed integral families from file ./config/integralfamilies.yaml
+Initialize integral family 'pentagon1'
+Loaded integral family pentagon1
+Loaded 1 (uncrossed) integral families
+Done loading uncrossed integral families
+Using integral family pentagon1 (id reset to 1)
+Loading crossings from file ./sectormappings/crossings.yaml
+Crossing equivalence: '' -> ''
+using crossing x12 (invs: {s14==s24,s24==s14,s13==s23,s23==s13}, mom: {p2==p1,p1==p2})
+using crossing x12x34 (invs: {s14==s23,s24==s13,s13==s24,s23==s14}, mom: {p2==p1,p4==p3,p1==p2,p3==p4})
+using crossing x123 (invs: {s14==s24,s24==s34,s13==s12,s23==s13,s12==s23,s34==s14}, mom: {p2==-p3,p1==p2,p3==-p1})
+using crossing x1234 (invs: {s14==s12,s24==s13,s13==s24,s23==s34,s12==s23,s34==s14}, mom: {p2==-p3,p4==-p1,p1==p2,p3==p4})
+using crossing x124 (invs: {s14==s12,s24==s14,s13==s23,s23==s34,s12==s24,s34==s13}, mom: {p2==-p4,p4==-p1,p1==p2})
+using crossing x1243 (invs: {s14==s23,s24==s34,s13==s12,s23==s14,s12==s24,s34==s13}, mom: {p2==-p4,p4==p3,p1==p2,p3==-p1})
+using crossing x13 (invs: {s14==s34,s23==s12,s12==s23,s34==s14}, mom: {p1==-p3,p3==-p1})
+using crossing x13x24 (invs: {s14==s23,s23==s14,s12==s34,s34==s12}, mom: {p2==-p4,p4==-p2,p1==-p3,p3==-p1})
+using crossing x132 (invs: {s14==s34,s24==s14,s13==s23,s23==s12,s12==s13,s34==s24}, mom: {p2==p1,p1==-p3,p3==-p2})
+using crossing x1324 (invs: {s14==s13,s24==s14,s13==s23,s23==s24,s12==s34,s34==s12}, mom: {p2==-p4,p4==-p1,p1==-p3,p3==-p2})
+using crossing x134 (invs: {s14==s13,s24==s12,s13==s34,s23==s24,s12==s23,s34==s14}, mom: {p4==-p1,p1==-p3,p3==p4})
+using crossing x1342 (invs: {s14==s23,s24==s12,s13==s34,s23==s14,s12==s13,s34==s24}, mom: {p2==p1,p4==-p2,p1==-p3,p3==p4})
+using crossing x14 (invs: {s24==s12,s13==s34,s12==s24,s34==s13}, mom: {p4==-p1,p1==-p4})
+using crossing x14x23 (invs: {s24==s13,s13==s24,s12==s34,s34==s12}, mom: {p2==-p3,p4==-p1,p1==-p4,p3==-p2})
+using crossing x142 (invs: {s14==s24,s24==s12,s13==s34,s23==s13,s12==s14,s34==s23}, mom: {p2==p1,p4==-p2,p1==-p4})
+using crossing x1423 (invs: {s14==s24,s24==s23,s13==s14,s23==s13,s12==s34,s34==s12}, mom: {p2==-p3,p4==-p2,p1==-p4,p3==-p1})
+using crossing x143 (invs: {s14==s34,s24==s23,s13==s14,s23==s12,s12==s24,s34==s13}, mom: {p4==p3,p1==-p4,p3==-p1})
+using crossing x1432 (invs: {s14==s34,s24==s13,s13==s24,s23==s12,s12==s14,s34==s23}, mom: {p2==p1,p4==p3,p1==-p4,p3==-p2})
+using crossing x23 (invs: {s24==s34,s13==s12,s12==s13,s34==s24}, mom: {p2==-p3,p3==-p2})
+using crossing x234 (invs: {s14==s12,s24==s23,s13==s14,s23==s34,s12==s13,s34==s24}, mom: {p2==-p3,p4==-p2,p3==p4})
+using crossing x24 (invs: {s14==s12,s23==s34,s12==s14,s34==s23}, mom: {p2==-p4,p4==-p2})
+using crossing x243 (invs: {s14==s13,s24==s34,s13==s12,s23==s24,s12==s14,s34==s23}, mom: {p2==-p4,p4==p3,p3==-p2})
+using crossing x34 (invs: {s14==s13,s24==s23,s13==s14,s23==s24}, mom: {p4==p3,p3==p4})
+Crossing equivalence: 'x34' -> 'x34'
+Crossing equivalence: 'x243' -> 'x243'
+Crossing equivalence: 'x24' -> 'x24'
+Crossing equivalence: 'x234' -> 'x234'
+Crossing equivalence: 'x23' -> 'x23'
+Crossing equivalence: 'x1432' -> 'x1432'
+Crossing equivalence: 'x143' -> 'x143'
+Crossing equivalence: 'x1423' -> 'x1423'
+Crossing equivalence: 'x142' -> 'x142'
+Crossing equivalence: 'x14x23' -> 'x14x23'
+Crossing equivalence: 'x14' -> 'x14'
+Crossing equivalence: 'x1342' -> 'x1342'
+Crossing equivalence: 'x134' -> 'x134'
+Crossing equivalence: 'x1324' -> 'x1324'
+Crossing equivalence: 'x132' -> 'x132'
+Crossing equivalence: 'x13x24' -> 'x13x24'
+Crossing equivalence: 'x13' -> 'x13'
+Crossing equivalence: 'x1243' -> 'x1243'
+Crossing equivalence: 'x124' -> 'x124'
+Crossing equivalence: 'x1234' -> 'x1234'
+Crossing equivalence: 'x123' -> 'x123'
+Crossing equivalence: 'x12x34' -> 'x12x34'
+Crossing equivalence: 'x12' -> 'x12'
+Crossing equivalence: '' -> ''
+Loaded crossings for kinematics ''
+Loaded crossings for 1 kinematics
+Done loading crossings
+  generated crossed integral family pentagon1x12 (id set to 2)
+  generated crossed integral family pentagon1x12x34 (id set to 3)
+  generated crossed integral family pentagon1x123 (id set to 4)
+  generated crossed integral family pentagon1x1234 (id set to 5)
+  generated crossed integral family pentagon1x124 (id set to 6)
+  generated crossed integral family pentagon1x1243 (id set to 7)
+  generated crossed integral family pentagon1x13 (id set to 8)
+  generated crossed integral family pentagon1x13x24 (id set to 9)
+  generated crossed integral family pentagon1x132 (id set to 10)
+  generated crossed integral family pentagon1x1324 (id set to 11)
+  generated crossed integral family pentagon1x134 (id set to 12)
+  generated crossed integral family pentagon1x1342 (id set to 13)
+  generated crossed integral family pentagon1x14 (id set to 14)
+  generated crossed integral family pentagon1x14x23 (id set to 15)
+  generated crossed integral family pentagon1x142 (id set to 16)
+  generated crossed integral family pentagon1x1423 (id set to 17)
+  generated crossed integral family pentagon1x143 (id set to 18)
+  generated crossed integral family pentagon1x1432 (id set to 19)
+  generated crossed integral family pentagon1x23 (id set to 20)
+  generated crossed integral family pentagon1x234 (id set to 21)
+  generated crossed integral family pentagon1x24 (id set to 22)
+  generated crossed integral family pentagon1x243 (id set to 23)
+  generated crossed integral family pentagon1x34 (id set to 24)
+Done loading integral families
+Updated job queue:
+  [p] job(1): find diagram shifts (alt) for diagram/ggtthoneloop.yaml  [dep: ]
+
+
+Date: Mon Jun 20 11:59:47 2022
+
+Run ID: 8cba0646
+
+Starting job(1): find diagram shifts (alt) for diagram/ggtthoneloop.yaml
+Completed Job(1) [Time: 1s, CPU: 1s]
+Updating job queue dependencies
+Completed jobs in jobqueue
+
+Completed all jobs
+Total run time: 2 s
+Killing Fermat

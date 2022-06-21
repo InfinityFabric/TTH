@@ -3,13 +3,13 @@
 
  style= 'xty.sty' ;
  
- output= 'diagram/tree.frm' ;
+ output= 'diagram/ggtthtree.frm' ;
 
  style= 'reduze.sty' ;
 
- output= '../reduze/diagram/tree.yaml';
+ output= '../reduze_NLO/diagram/ggtthtree.yaml';
 
- model= 'ggtth';
+ model= 'ggtth_massive';
 
  in= gluon[p1],gluon[p2];
 

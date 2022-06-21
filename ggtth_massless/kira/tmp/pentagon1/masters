@@ -2,10 +2,8 @@ pentagon1[1,0,1,0,0] #  5
 pentagon1[1,0,0,1,0] #  9
 pentagon1[0,1,0,1,0] # 10
 pentagon1[1,1,1,1,0] # 15
-pentagon1[1,0,0,0,1] # 17
 pentagon1[0,1,0,0,1] # 18
 pentagon1[0,0,1,0,1] # 20
-pentagon1[1,0,1,0,1] # 21
 pentagon1[1,1,1,0,1] # 23
 pentagon1[1,1,0,1,1] # 27
 pentagon1[1,0,1,1,1] # 29

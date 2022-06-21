@@ -1,0 +1,1179 @@
+FORM 4.2.1 (Sep  2 2021, v4.2.1-33-g2a37fd2) 64-bits  Run: Mon Jun 20 12:08:57 2022
+    #-
+ Mat10o1o1 loaded
+ Mat10o1o2 loaded
+ Mat10o2o1 loaded
+ Mat10o2o2 loaded
+ Mat10o3o1 loaded
+ Mat10o3o2 loaded
+ Mat10o4o1 loaded
+ Mat10o4o2 loaded
+ Mat10o5o1 loaded
+ Mat10o5o2 loaded
+ Mat10o6o1 loaded
+ Mat10o6o2 loaded
+ Mat10o7o1 loaded
+ Mat10o7o2 loaded
+ Mat10o8o1 loaded
+ Mat10o8o2 loaded
+ Mat10o9o1 loaded
+ Mat10o9o2 loaded
+ Mat10o10o1 loaded
+ Mat10o10o2 loaded
+ Mat10o11o1 loaded
+ Mat10o11o2 loaded
+ Mat10o12o1 loaded
+ Mat10o12o2 loaded
+ Mat10o13o1 loaded
+ Mat10o13o2 loaded
+ Mat10o14o1 loaded
+ Mat10o14o2 loaded
+ Mat10o15o1 loaded
+ Mat10o15o2 loaded
+ Mat10o16o1 loaded
+ Mat10o16o2 loaded
+ Mat10o17o1 loaded
+ Mat10o17o2 loaded
+ Mat10o18o1 loaded
+ Mat10o18o2 loaded
+ Mat10o19o1 loaded
+ Mat10o19o2 loaded
+ Mat10o20o1 loaded
+ Mat10o20o2 loaded
+ Mat10o21o1 loaded
+ Mat10o21o2 loaded
+ Mat10o22o1 loaded
+ Mat10o22o2 loaded
+ Mat10o23o1 loaded
+ Mat10o23o2 loaded
+ Mat10o24o1 loaded
+ Mat10o24o2 loaded
+ Mat10o25o1 loaded
+ Mat10o25o2 loaded
+ Mat10o26o1 loaded
+ Mat10o26o2 loaded
+ Mat10o27o1 loaded
+ Mat10o27o2 loaded
+ Mat10o28o1 loaded
+ Mat10o28o2 loaded
+ Mat10o29o1 loaded
+ Mat10o29o2 loaded
+ Mat10o30o1 loaded
+ Mat10o30o2 loaded
+ Mat10o31o1 loaded
+ Mat10o31o2 loaded
+
+   am10o27o1 =
+       + 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.p3*p3.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.p3*p3.p4*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 8*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + q.q
+      )^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.p3*p3.p4*i_*D^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.p3*q.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.p3*q.p4*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.p3*q.p4*i_*D^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.p3*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 144*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.p3*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 24*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.p3*i_*D^2*mt^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.q*q.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.q*q.p4*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.q*q.p4*i_*D^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 256*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.q*i_*D^2*mt^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.p4*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.p4*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 8*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + q.q
+      )^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.p4*q.q*i_*D^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 288*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.p4*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 24*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*p3.p4*i_*D^2*mt^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*q.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*q.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 8*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + q.q
+      )^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*q.q*i_*D^2*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*q.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*q.p4*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*q.p4*i_*D^2*mt^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*i_*mt^4*gs^6*Y^2*basis2*Basis2*
+      Nc^-1
+       - 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*i_*D*mt^4*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 8*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + q.q
+      )^2*Sector(pentagon2,3,7)*k1.k1*p1.p2*i_*D^2*mt^4*gs^6*Y^2*basis2*Basis2
+      *Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p3*p2.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p3*p2.p4*p3.p3*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p3*p2.p4*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p3*p2.p4*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p3*p2.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p3*p2.p4*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.q*p2.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.q*p2.p4*p3.p3*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.q*p2.p4*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.q*p2.p4*p3.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.q*p2.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.q*p2.p4*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p4*p2.p3*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p4*p2.p3*p3.p3*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p4*p2.p3*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p4*p2.p3*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p4*p2.p3*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p4*p2.p3*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p4*p2.q*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p4*p2.q*p3.p3*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p4*p2.q*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p4*p2.q*p3.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p4*p2.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.k1*p1.p4*p2.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*p3.p3*p3.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*p3.p3*p3.p4*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*p3.p3*q.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*p3.p3*q.p4*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*p3.p3*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*p3.p3*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*p3.q*q.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*p3.q*q.p4*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 256*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*p3.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*p3.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*p3.p4*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*p3.p4*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*p3.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*p3.p4*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*q.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*q.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*q.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*q.p4*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*i_*mt^4*gs^6*Y^2*basis2*Basis2*
+      Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p2*i_*D*mt^4*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p3*p2.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p3*p2.p4*p3.p3*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p3*p2.p4*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p3*p2.p4*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p3*p2.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p3*p2.p4*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.q*p2.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.q*p2.p4*p3.p3*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.q*p2.p4*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.q*p2.p4*p3.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.q*p2.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.q*p2.p4*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p4*p2.p3*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p4*p2.p3*p3.p3*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p4*p2.p3*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p4*p2.p3*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p4*p2.p3*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p4*p2.p3*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p4*p2.q*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p4*p2.q*p3.p3*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p4*p2.q*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p4*p2.q*p3.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p4*p2.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*k1.p4*p2.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 256*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.p3*p3.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.p3*p3.p4*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.p3*p3.p4*i_*D^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 512*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.p3*q.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 256*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.p3*q.p4*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.p3*q.p4*i_*D^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 384*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.p3*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 288*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.p3*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.p3*i_*D^2*mt^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 512*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.q*q.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 256*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.q*q.p4*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.q*q.p4*i_*D^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 512*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 384*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.q*i_*D^2*mt^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 256*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.p4*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.p4*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.p4*q.q*i_*D^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 768*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 384*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.p4*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*p3.p4*i_*D^2*mt^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*q.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*q.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*q.q*i_*D^2*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 512*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*q.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 256*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*q.p4*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*q.p4*i_*D^2*mt^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*i_*mt^4*gs^6*Y^2*basis2*Basis2*
+      Nc^-1
+       - 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*i_*D*mt^4*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p2*i_*D^2*mt^4*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p3*p2.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p3*p2.p4*p3.p3*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p3*p2.p4*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p3*p2.p4*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p3*p2.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p3*p2.p4*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.q*p2.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.q*p2.p4*p3.p3*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.q*p2.p4*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.q*p2.p4*p3.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.q*p2.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.q*p2.p4*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p4*p2.p3*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p4*p2.p3*p3.p3*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p4*p2.p3*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p4*p2.p3*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p4*p2.p3*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p4*p2.p3*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p4*p2.q*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p4*p2.q*p3.p3*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p4*p2.q*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p4*p2.q*p3.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p4*p2.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p1.p4*p2.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 160*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.p3*p3.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.p3*p3.p4*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 8*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + q.q
+      )^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.p3*p3.p4*i_*D^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 320*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.p3*q.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.p3*q.p4*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.p3*q.p4*i_*D^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.p3*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 144*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.p3*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 24*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.p3*i_*D^2*mt^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 320*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.q*q.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.q*q.p4*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.q*q.p4*i_*D^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 256*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.q*i_*D^2*mt^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 160*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.p4*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.p4*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 8*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + q.q
+      )^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.p4*q.q*i_*D^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 480*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.p4*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 24*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*p3.p4*i_*D^2*mt^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*q.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*q.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 8*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + q.q
+      )^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*q.q*i_*D^2*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 320*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*q.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*q.p4*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*q.p4*i_*D^2*mt^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*i_*mt^4*gs^6*Y^2*basis2*Basis2*
+      Nc^-1
+       - 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*i_*D*mt^4*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 8*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + q.q
+      )^2*Sector(pentagon2,3,7)*k1.p1*p2.p2*i_*D^2*mt^4*gs^6*Y^2*basis2*Basis2
+      *Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p3*p2.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p3*p2.p4*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.p3*p2.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.q*p2.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.q*p2.p4*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p1*p2.q*p2.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p3*p1.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p3*p1.p4*p3.p3*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p3*p1.p4*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p3*p1.p4*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p3*p1.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p3*p1.p4*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.q*p1.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.q*p1.p4*p3.p3*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.q*p1.p4*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.q*p1.p4*p3.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.q*p1.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.q*p1.p4*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p4*p1.p3*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p4*p1.p3*p3.p3*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p4*p1.p3*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p4*p1.p3*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p4*p1.p3*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p4*p1.p3*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p4*p1.q*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p4*p1.q*p3.p3*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p4*p1.q*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p4*p1.q*p3.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p4*p1.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*k1.p4*p1.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 224*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.p3*p3.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.p3*p3.p4*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 8*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + q.q
+      )^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.p3*p3.p4*i_*D^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 448*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.p3*q.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.p3*q.p4*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.p3*q.p4*i_*D^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 384*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.p3*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 240*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.p3*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 24*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.p3*i_*D^2*mt^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 448*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.q*q.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.q*q.p4*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.q*q.p4*i_*D^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 512*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 320*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.q*i_*D^2*mt^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 224*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.p4*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.p4*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 8*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + q.q
+      )^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.p4*q.q*i_*D^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 672*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 288*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.p4*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 24*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*p3.p4*i_*D^2*mt^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*q.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 80*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*q.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 8*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + q.q
+      )^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*q.q*i_*D^2*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 448*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*q.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*q.p4*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*q.p4*i_*D^2*mt^2*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*i_*mt^4*gs^6*Y^2*basis2*Basis2*
+      Nc^-1
+       + 80*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*i_*D*mt^4*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 8*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + q.q
+      )^2*Sector(pentagon2,3,7)*k1.p2*p1.p1*i_*D^2*mt^4*gs^6*Y^2*basis2*Basis2
+      *Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*p3.p3*p3.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*p3.p3*p3.p4*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 256*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*p3.p3*q.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*p3.p3*q.p4*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*p3.p3*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*p3.p3*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 256*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*p3.q*q.p4*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*p3.q*q.p4*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 256*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*p3.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*p3.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*p3.p4*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*p3.p4*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 384*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*p3.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*p3.p4*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*q.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*q.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 256*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*q.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*q.p4*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*i_*mt^4*gs^6*Y^2*basis2*Basis2*
+      Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p2*i_*D*mt^4*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p3*p1.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p3*p1.p4*p3.p3*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p3*p1.p4*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p3*p1.p4*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 384*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p3*p1.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p3*p1.p4*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p3*p2.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p3*p2.p4*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p3*p2.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 256*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.q*p1.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.q*p1.p4*p3.p3*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 256*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.q*p1.p4*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.q*p1.p4*p3.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 256*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.q*p1.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.q*p1.p4*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.q*p2.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.q*p2.p4*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.q*p2.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p4*p2.p3*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p4*p2.p3*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p4*p2.p3*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p4*p2.q*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p4*p2.q*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p2*p1.p4*p2.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*k1.p4*p1.p2*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*k1.p4*p1.p2*p3.p3*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*k1.p4*p1.p2*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*k1.p4*p1.p2*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*k1.p4*p1.p2*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*k1.p4*p1.p2*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p1*p2.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p1*p2.p4*p3.p3*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p1*p2.p4*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p1*p2.p4*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p1*p2.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p1*p2.p4*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p2*p1.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p2*p1.p4*p3.p3*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p2*p1.p4*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p2*p1.p4*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p2*p1.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p2*p1.p4*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p2*p2.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p2*p2.p4*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p2*p2.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p4*p2.p2*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p4*p2.p2*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p3*p1.p4*p2.p2*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*k1.p4*p1.p2*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*k1.p4*p1.p2*p3.p3*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*k1.p4*p1.p2*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*k1.p4*p1.p2*p3.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*k1.p4*p1.p2*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*k1.p4*p1.p2*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p1*p2.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p1*p2.p4*p3.p3*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p1*p2.p4*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p1*p2.p4*p3.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p1*p2.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p1*p2.p4*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p2*p1.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p2*p1.p4*p3.p3*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p2*p1.p4*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p2*p1.p4*p3.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p2*p1.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p2*p1.p4*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p2*p2.p4*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p2*p2.p4*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p2*p2.p4*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p4*p2.p2*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p4*p2.p2*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.q*p1.p4*p2.p2*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p1*p2.p3*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p1*p2.p3*p3.p3*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p1*p2.p3*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p1*p2.p3*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p1*p2.p3*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p1*p2.p3*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p1*p2.q*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p1*p2.q*p3.p3*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       + 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p1*p2.q*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p1*p2.q*p3.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p1*p2.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p1*p2.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p1.p3*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p1.p3*p3.p3*i_*D*gs^6*Y^2*
+      basis2*Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p1.p3*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 16*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p1.p3*q.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 192*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p1.p3*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 48*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p1.p3*i_*D*mt^2*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p1.q*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p1.q*p3.p3*i_*D*gs^6*Y^2*basis2
+      *Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p1.q*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p1.q*p3.q*i_*D*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 128*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p1.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p1.q*i_*D*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p2.p3*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p2.p3*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p2.p3*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p2.q*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p2.q*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p2*p2.q*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p3*p2.p2*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       + 32*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p3*p2.p2*q.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 96*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.p3*p2.p2*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.q*p2.p2*p3.p3*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.q*p2.p2*p3.q*i_*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+       - 64*prop(p1.p1 + 2*p1.p2 + p2.p2)^2*prop( - mt^2 + p3.p3 + 2*p3.q + 
+      q.q)^2*Sector(pentagon2,3,7)*k1.p4*p1.q*p2.p2*i_*mt^2*gs^6*Y^2*basis2*
+      Basis2*Nc^-1
+      ;
+
+  6.55 sec out of 6.59 sec

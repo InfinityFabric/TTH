@@ -28,13 +28,13 @@ id glprop(i1?,i2?,p?,m?)=-i_*gl(i2,i1)*glprop(i2,i1)*prop(p,m);
 id ghprop(i1?,i2?,p?,m?)=i_*gh(i1,i2)*prop(p,m);
 
 #do i=1,10
-  id once vrtx(gggg,i1?,p1?,i2?,p2?,i3?,p3?,i4?,p4?)=-i_*gs^2*
+  id once vrtx(gggg,i1?,p1?,i2?,p2?,i3?,p3?,i4?,p4?)=-i_*gs^2*(
   f(i1,i2,ig{`i'})*f(i3,i4,ig{`i'})*
   (gg(i1,i3)*gg(i2,i4)-gg(i1,i4)*gg(i2,i3))+
   f(i1,i3,ig{`i'})*f(i2,i4,ig{`i'})*
   (gg(i1,i2)*gg(i3,i4)-gg(i1,i4)*gg(i2,i3))+
   f(i1,i4,ig{`i'})*f(i2,i3,ig{`i'})*
-  (gg(i1,i2)*gg(i3,i4)-gg(i1,i3)*gg(i2,i4));
+  (gg(i1,i2)*gg(i3,i4)-gg(i1,i3)*gg(i2,i4)));
 #enddo
 
 #endprocedure

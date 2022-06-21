@@ -1,0 +1,6 @@
+{
+{"pentagon2", 3, 21, MultiGraph[{Labeled[-1->2, "(p1,0;1)"], Labeled[-2->3, "(p2,0;2)"], Labeled[2->-3, "(p3,mt^2;3)"], Labeled[3->-4, "(p4,mt^2;4)"], Labeled[1->-5, "(p1-p3+p2-p4,mh^2;5)"], Labeled[1->2, "(k1,mt^2;6)"], Labeled[2->3, "(p1-p3+k1,0;8)"], Labeled[3->1, "(p1-p3+p2+k1-p4,mt^2;10)"]}]},
+{"pentagon2", 4, 23, MultiGraph[{Labeled[-1->2, "(p1,0;1)"], Labeled[-2->4, "(p2,0;2)"], Labeled[1->-3, "(p3,mt^2;3)"], Labeled[4->-4, "(p4,mt^2;4)"], Labeled[3->-5, "(p1-p3+p2-p4,mh^2;5)"], Labeled[3->2, "(k1,mt^2;6)"], Labeled[2->1, "(p1+k1,mt^2;7)"], Labeled[1->4, "(p1-p3+k1,0;8)"], Labeled[4->3, "(p1-p3+p2+k1-p4,mt^2;10)"]}]},
+{"pentagon2", 4, 27, MultiGraph[{Labeled[-1->2, "(p1,0;1)"], Labeled[-2->4, "(p2,0;2)"], Labeled[1->-3, "(p3,mt^2;3)"], Labeled[1->-4, "(p4,mt^2;4)"], Labeled[3->-5, "(p1-p3+p2-p4,mh^2;5)"], Labeled[3->2, "(k1,mt^2;6)"], Labeled[2->1, "(p1+k1,mt^2;7)"], Labeled[1->4, "(p1-p3+k1-p4,mt^2;9)"], Labeled[4->3, "(p1-p3+p2+k1-p4,mt^2;10)"]}]},
+{"pentagon2", 5, 31, MultiGraph[{Labeled[-1->2, "(p1,0;1)"], Labeled[-2->5, "(p2,0;2)"], Labeled[1->-3, "(p3,mt^2;3)"], Labeled[3->-4, "(p4,mt^2;4)"], Labeled[4->-5, "(p1-p3+p2-p4,mh^2;5)"], Labeled[4->2, "(k1,mt^2;6)"], Labeled[2->1, "(p1+k1,mt^2;7)"], Labeled[1->3, "(p1-p3+k1,0;8)"], Labeled[3->5, "(p1-p3+k1-p4,mt^2;9)"], Labeled[5->4, "(p1-p3+p2+k1-p4,mt^2;10)"]}]}
+}

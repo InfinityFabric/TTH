@@ -45,6 +45,7 @@ Delete storage;
 *Bracket pentagon1,pentagon2;
 
 Format mathematica;
+Bracket pentagon1;
 *Print +s amp10o27o1;
 Print +s;
 .sort

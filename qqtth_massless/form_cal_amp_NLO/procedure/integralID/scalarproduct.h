@@ -23,11 +23,6 @@ id k1.p1=(prop2-prop1)/2;
 id k1.p2=(prop3-prop2-s12)/2;
 id k1.p3=-(prop4-prop3+s12-s45)/2;
 id k1.p4=-(prop5-prop4+s45)/2;
-*id k1.k1=sc1;
-*id k1.p1=sc2;
-*id k1.p2=sc3;
-*id k1.p3=sc4;
-*id k1.p4=sc5;
 
 *endif;
 
