@@ -1,0 +1,51 @@
+
+Date: Fri Jun 24 12:00:36 2022
+
+Setting up job queue from myjobs/jobs_1_setup.yaml
+Updating job queue dependencies
+Processing jobs in serial mode (only one MPI process)
+Inserted new job in queue: job(1): setup sector mappings
+Updating job queue dependencies
+Loading uncrossed integral families from file ./config/integralfamilies.yaml
+Initialize integral family 'pentagon3'
+Loaded integral family pentagon3
+Loaded 1 (uncrossed) integral families
+Done loading uncrossed integral families
+Created auxiliary job setup_crossings
+Created auxiliary job verify_permutation_symmetries for family: pentagon3
+Inserted new job in queue: job(2): verify permutation symmetries of family 'pentagon3'
+Inserted new job in queue: job(3): setup crossings
+Updated job queue:
+  [p] job(3): setup crossings  [dep: ]
+  [p] job(2): verify permutation symmetries of family 'pentagon3'  [dep: 3]
+  [p] job(1): setup sector mappings  [dep: 2,3]
+
+
+Date: Fri Jun 24 12:00:36 2022
+
+Run ID: 8ec97111
+
+Starting job(3): setup crossings
+Completed Job(3) [Time: 0s, CPU: 0s]
+Updating job queue dependencies
+
+Date: Fri Jun 24 12:00:36 2022
+
+Run ID: 8ec97111
+
+Starting job(2): verify permutation symmetries of family 'pentagon3'
+Completed Job(2) [Time: 0s, CPU: 0s]
+Updating job queue dependencies
+
+Date: Fri Jun 24 12:00:36 2022
+
+Run ID: 8ec97111
+
+Starting job(1): setup sector mappings
+Completed Job(1) [Time: 0s, CPU: 0s]
+Updating job queue dependencies
+Completed jobs in jobqueue
+
+Completed all jobs
+Total run time: 0 s
+Killing Fermat

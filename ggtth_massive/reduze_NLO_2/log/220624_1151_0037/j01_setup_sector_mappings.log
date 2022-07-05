@@ -1,0 +1,527 @@
+
+Date: Fri Jun 24 11:51:00 2022
+
+
+conditional: false
+find_sector_relations: true
+find_sector_symmetries: true
+examine_twists_for_symmetries: true
+find_zero_sectors: true
+find_graphless_zero_sectors: false
+minimize_graphs_by_twists: false
+construct_minimal_graphs: true
+setup_crossings: true
+minimize_target_crossings: true
+allow_general_crossings: true
+verify_permutation_symmetries: true
+
+Using integral family pentagon2 (id reset to 1)
+  generated crossed integral family pentagon2x12 (id set to 2)
+  generated crossed integral family pentagon2x12x34 (id set to 3)
+  generated crossed integral family pentagon2x34 (id set to 4)
+Done loading integral families
+Setup sector mappings for the following integral families requested:
+  1-loop:
+    pentagon2
+
+Clear sector mappings and crossed mappings of family 'pentagon2'
+read key 'sectormappings' in file './sectormappings/sectormappings_pentagon2.yaml'
+Found valid sector mappings for pentagon2
+Setup sector mappings for pentagon2
+
+Kinematics '':
+Rules scalar products to invariants:
+  {SP(p3,p3)==mt^2,SP(p2,p1)==-1/2*s51+1/2*s34+1/2*mh^2-1/2*s25,SP(p2,p4)==-1/2*s24+1/2*mt^2,SP(p2,p3)==1/2*s24-1/2*s51+1/2*s34-1/2*mt^2,SP(p1,p3)==-1/2*s13+1/2*mt^2,SP(p4,p1)==1/2*s34-1/2*s25+1/2*s13-1/2*mt^2,SP(p4,p4)==mt^2,SP(p1,p1)==0,SP(p4,p3)==1/2*s34-mt^2,SP(p2,p2)==0}
+Rules invariants to scalar products:
+  {s24==SP(p3,p3)-2*SP(p2,p4),s51==2*SP(p3,p3)-2*SP(p2,p4)-2*SP(p2,p3)+2*SP(p4,p3),s34==2*SP(p3,p3)+2*SP(p4,p3),mh^2==2*SP(p3,p3)+2*SP(p2,p1)-2*SP(p2,p4)-2*SP(p2,p3)-2*SP(p1,p3)-2*SP(p4,p1)+2*SP(p4,p3),mt^(-2)==SP(p3,p3)^(-1),s25==2*SP(p3,p3)-2*SP(p1,p3)-2*SP(p4,p1)+2*SP(p4,p3),s13==SP(p3,p3)-2*SP(p1,p3),mh^(-2)==1/2*(SP(p3,p3)+SP(p2,p1)-SP(p2,p4)-SP(p2,p3)-SP(p1,p3)-SP(p4,p1)+SP(p4,p3))^(-1),mt^2==SP(p3,p3)}
+
+Crossings for kinematics '':
+  permutation: [[1, 2]]  # name: x12
+                       # rules_momenta: {p2==p1,p1==p2}
+                       # rules_invariants: {s24==-s34+s25-s13+2*mt^2,s51==s25,s25==s51,s13==-s24+s51-s34+2*mt^2}
+is equivalent to 'x12'
+  permutation: [[1, 2], [3, 4]]  # name: x12x34
+                               # rules_momenta: {p2==p1,p4==p3,p1==p2,p3==p4}
+                               # rules_invariants: {s24==s13,s51==s25,s25==s51,s13==s24}
+is equivalent to 'x12x34'
+  permutation: [[3, 4]]  # name: x34
+                       # rules_momenta: {p4==p3,p3==p4}
+                       # rules_invariants: {s24==-s24+s51-s34+2*mt^2,s13==-s34+s25-s13+2*mt^2}
+is equivalent to 'x34'
+
+Integral family 'pentagon2':
+name: pentagon2
+loop_momenta: [k1]
+propagators:
+  - {standard: [k1, mt^2]}
+  - {standard: [p1+k1, mt^2]}
+  - {standard: [p1+k1-p3, 0]}
+  - {standard: [-p4+p1+k1-p3, mt^2]}
+  - {standard: [p2-p4+p1+k1-p3, mt^2]}
+cut_propagators: []
+permutation_symmetries:
+  []
+kinematics: ""
+
+Cut propagators form sector with id 0
+
+Rules scalar products to propagators:
+{SP(k1,p3)==-1/2*Prop(p1+k1-p3,0)^(-1)+1/2*s13+1/2*Prop(p1+k1,mt^2)^(-1)+1/2*mt^2,SP(k1,k1)==Prop(k1,mt^2)^(-1)+mt^2,SP(p2,k1)==1/2*Prop(p2-p4+p1+k1-p3,mt^2)^(-1)-1/2*mh^2+1/2*s25-1/2*Prop(p4-p1-k1+p3,mt^2)^(-1),SP(p1,k1)==-1/2*Prop(k1,mt^2)^(-1)+1/2*Prop(p1+k1,mt^2)^(-1),SP(p4,k1)==1/2*Prop(p1+k1-p3,0)^(-1)+1/2*s25-1/2*Prop(p4-p1-k1+p3,mt^2)^(-1)-1/2*s13-1/2*mt^2}
+
+Maximal sector id is 31.
+32 sectors occur in total
+Finding non-equivalent sectors using permutation symmetries:
+
+Non-equivalent sectors:
+t = 0:
+0
+t = 1:
+1, 2, 4, 8, 16
+t = 2:
+3, 5, 6, 9, 10, 12, 17, 18, 20, 24
+t = 3:
+7, 11, 13, 14, 19, 21, 22, 25, 26, 28
+t = 4:
+15, 23, 27, 29, 30
+t = 5:
+31
+
+32 non-equivalent sectors were found
+Finding representing graphs of sectors (twists off / construct minimal on):
+  finding graphs
+  ..................................................  **************************************************
+Found 31 graphs
+Printing all graphs from sectors in ./graphs/pentagon2/all/:
+
+Sectors without a graph:
+
+Finding canonical labels:
+  canonical labels:
+  ..................................................  **************************************************
+Finding sector shifts:
+  sector shifts:
+  ..................................................
+  **
+Finding shift for sector (pentagon2:1:1)
+No shift found for sector (pentagon2:1:1)
+*
+Finding shift for sector (pentagon2:1:2)
+Found shift from (pentagon2:1:2) to (pentagon2:1:1)
+**
+Finding shift for sector (pentagon2:1:4)
+No shift found for sector (pentagon2:1:4)
+*
+Finding shift for sector (pentagon2:1:8)
+Found shift from (pentagon2:1:8) to (pentagon2:1:1)
+**
+Finding shift for sector (pentagon2:1:16)
+Found shift from (pentagon2:1:16) to (pentagon2:1:1)
+**
+Finding shift for sector (pentagon2:2:3)
+No shift found for sector (pentagon2:2:3)
+*
+Finding shift for sector (pentagon2:2:5)
+No shift found for sector (pentagon2:2:5)
+**
+Finding shift for sector (pentagon2:2:6)
+No shift found for sector (pentagon2:2:6)
+**
+Finding shift for sector (pentagon2:2:9)
+No shift found for sector (pentagon2:2:9)
+*
+Finding shift for sector (pentagon2:2:10)
+No shift found for sector (pentagon2:2:10)
+**
+Finding shift for sector (pentagon2:2:12)
+Found shift from (pentagon2:2:12) to (pentagon2x12x34:2:6)
+*
+Finding shift for sector (pentagon2:2:17)
+No shift found for sector (pentagon2:2:17)
+**
+Finding shift for sector (pentagon2:2:18)
+Found shift from (pentagon2:2:18) to (pentagon2x12:2:9)
+**
+Finding shift for sector (pentagon2:2:20)
+Found shift from (pentagon2:2:20) to (pentagon2x12x34:2:5)
+*
+Finding shift for sector (pentagon2:2:24)
+Found shift from (pentagon2:2:24) to (pentagon2x12:2:3)
+**
+Finding shift for sector (pentagon2:3:7)
+No shift found for sector (pentagon2:3:7)
+*
+Finding shift for sector (pentagon2:3:11)
+No shift found for sector (pentagon2:3:11)
+**
+Finding shift for sector (pentagon2:3:13)
+No shift found for sector (pentagon2:3:13)
+**
+Finding shift for sector (pentagon2:3:14)
+No shift found for sector (pentagon2:3:14)
+*
+Finding shift for sector (pentagon2:3:19)
+No shift found for sector (pentagon2:3:19)
+**
+Finding shift for sector (pentagon2:3:21)
+No shift found for sector (pentagon2:3:21)
+*
+Finding shift for sector (pentagon2:3:22)
+Found shift from (pentagon2:3:22) to (pentagon2x12x34:3:13)
+**
+Finding shift for sector (pentagon2:3:25)
+Found shift from (pentagon2:3:25) to (pentagon2x12:3:19)
+**
+Finding shift for sector (pentagon2:3:26)
+Found shift from (pentagon2:3:26) to (pentagon2x12:3:11)
+*
+Finding shift for sector (pentagon2:3:28)
+Found shift from (pentagon2:3:28) to (pentagon2x12x34:3:7)
+**
+Finding shift for sector (pentagon2:4:15)
+No shift found for sector (pentagon2:4:15)
+**
+Finding shift for sector (pentagon2:4:23)
+No shift found for sector (pentagon2:4:23)
+*
+Finding shift for sector (pentagon2:4:27)
+No shift found for sector (pentagon2:4:27)
+**
+Finding shift for sector (pentagon2:4:29)
+Found shift from (pentagon2:4:29) to (pentagon2x12x34:4:23)
+*
+Finding shift for sector (pentagon2:4:30)
+Found shift from (pentagon2:4:30) to (pentagon2x12x34:4:15)
+**
+Finding shift for sector (pentagon2:5:31)
+No shift found for sector (pentagon2:5:31)
+
+Found 13 new shifts to lower sectors
+Found 18 shift target sectors.
+  shift targets contain 18 different graph(s)
+Finding zero sectors of sectors with a graph:
+Loaded only default generic IBP and LI identities
+   t = 1:	x0
+   t = 2:	xxxxxx
+   t = 3:	xxxxxx
+   t = 4:	xxx
+   t = 5:	x
+Found 2 zero sectors (isomorphics included).
+
+Non-vanishing shift targets:
+t = 1:
+1
+t = 2:
+3, 5, 6, 9, 10, 17
+t = 3:
+7, 11, 13, 14, 19, 21
+t = 4:
+15, 23, 27
+t = 5:
+31
+
+Found 17 non-vanishing shift target sectors
+  non-vanishing shift targets contain 17 different graph(s)
+Finding symmetry shift relations:
+  finding symmetry shifts
+  ..................................................
+Finding symmetry shifts for sector (pentagon2:1:1) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_1_1:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_1_1_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon2:1:1)
+  ***
+Finding symmetry shifts for sector (pentagon2:1:4) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_1_4:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_1_4_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon2:1:4)
+***
+Finding symmetry shifts for sector (pentagon2:2:3) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_2_3:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_2_3_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 2 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 1 symmetry shifts (permutations of multi-edges performed)
+Found 1 symmetry shifts
+Found 1 symmetry shifts for sector (pentagon2:2:3)
+**
+Finding symmetry shifts for sector (pentagon2:2:5) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_2_5:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_2_5_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon2:2:5)
+***
+Finding symmetry shifts for sector (pentagon2:2:6) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_2_6:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_2_6_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon2:2:6)
+***
+Finding symmetry shifts for sector (pentagon2:2:9) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_2_9:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_2_9_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 2 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 1 symmetry shifts (permutations of multi-edges performed)
+Found 1 symmetry shifts
+Found 1 symmetry shifts for sector (pentagon2:2:9)
+***
+Finding symmetry shifts for sector (pentagon2:2:10) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_2_10:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_2_10_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 2 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 1 symmetry shifts (permutations of multi-edges performed)
+Found 1 symmetry shifts
+Found 1 symmetry shifts for sector (pentagon2:2:10)
+**
+Finding symmetry shifts for sector (pentagon2:2:17) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_2_17:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_2_17_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 2 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 1 symmetry shifts (permutations of multi-edges performed)
+Found 1 symmetry shifts
+Found 1 symmetry shifts for sector (pentagon2:2:17)
+***
+Finding symmetry shifts for sector (pentagon2:3:7) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_3_7:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_3_7_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon2:3:7)
+***
+Finding symmetry shifts for sector (pentagon2:3:11) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_3_11:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_3_11_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon2:3:11)
+***
+Finding symmetry shifts for sector (pentagon2:3:13) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_3_13:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_3_13_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon2:3:13)
+***
+Finding symmetry shifts for sector (pentagon2:3:14) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_3_14:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_3_14_twisted1:
+  Found 4 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  omitting crossing: {p2==p1,p1==p2} (not equivalent to identity crossing)
+  omitting crossing: {p4==p3,p3==p4} (not equivalent to identity crossing)
+  omitting crossing: {p2==p1,p4==p3,p1==p2,p3==p4} (not equivalent to identity crossing)
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon2:3:14)
+**
+Finding symmetry shifts for sector (pentagon2:3:19) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_3_19:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_3_19_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon2:3:19)
+***
+Finding symmetry shifts for sector (pentagon2:3:21) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_3_21:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_3_21_twisted1:
+  Found 2 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  omitting crossing: {p2==p1,p4==p3,p1==p2,p3==p4} (not equivalent to identity crossing)
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon2:3:21)
+***
+Finding symmetry shifts for sector (pentagon2:4:15) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_4_15:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_4_15_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon2:4:15)
+***
+Finding symmetry shifts for sector (pentagon2:4:23) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_4_23:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_4_23_twisted1:
+  Found 1 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon2:4:23)
+**
+Finding symmetry shifts for sector (pentagon2:4:27) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_4_27:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_4_27_twisted1:
+  Found 4 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  omitting crossing: {p4==p3,p3==p4} (not equivalent to identity crossing)
+  omitting crossing: {p2==p1,p1==p2} (not equivalent to identity crossing)
+  omitting crossing: {p2==p1,p4==p3,p1==p2,p3==p4} (not equivalent to identity crossing)
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon2:4:27)
+***
+Finding symmetry shifts for sector (pentagon2:5:31) (examine twists: on)
+Finding non-isomorphic twists of graph pentagon2_5_31:
+Found 1 non-isomorphic twists
+Finding symmetry shifts of graph pentagon2_5_31_twisted1:
+  Found 2 symmetries (from node permutations) in the graph
+  performing permutations of multi edges
+  omitting crossing: {p2==p1,p4==p3,p1==p2,p3==p4} (not equivalent to identity crossing)
+  found 1 permutations of fundamental cycles
+  omitting empty shift (identity)
+  Found 0 symmetry shifts (permutations of multi-edges performed)
+Found 0 symmetry shifts
+Found 0 symmetry shifts for sector (pentagon2:5:31)
+***
+Finding crossed sector relations for non-zero shift targets
+  crossed relations:
+  ..................................................Found shift from (pentagon2x12:1:1) to (pentagon2:1:1)
+(pentagon2x12:1:1)=>(pentagon2:1:1): (pentagon2:1:1)
+Found shift from (pentagon2x12x34:1:1) to (pentagon2:1:1)
+(pentagon2x12x34:1:1)=>(pentagon2:1:1): (pentagon2:1:1)
+Found shift from (pentagon2x34:1:1) to (pentagon2:1:1)
+(pentagon2x34:1:1)=>(pentagon2:1:1): (pentagon2:1:1)
+  ***Found shift from (pentagon2x12:1:4) to (pentagon2:1:4)
+(pentagon2x12:1:4)=>(pentagon2:1:4): (pentagon2:1:4)
+Found shift from (pentagon2x12x34:1:4) to (pentagon2:1:4)
+(pentagon2x12x34:1:4)=>(pentagon2:1:4): (pentagon2:1:4)
+Found shift from (pentagon2x34:1:4) to (pentagon2:1:4)
+(pentagon2x34:1:4)=>(pentagon2:1:4): (pentagon2:1:4)
+***Found shift from (pentagon2x12x34:2:3) to (pentagon2x12:2:3)
+(pentagon2x12x34:2:3)=>(pentagon2:2:3): (pentagon2x12:2:3)
+Found shift from (pentagon2x34:2:3) to (pentagon2:2:3)
+(pentagon2x34:2:3)=>(pentagon2:2:3): (pentagon2:2:3)
+*****Found shift from (pentagon2x12:2:6) to (pentagon2:2:6)
+(pentagon2x12:2:6)=>(pentagon2:2:6): (pentagon2:2:6)
+Found shift from (pentagon2x34:2:6) to (pentagon2x12x34:2:6)
+(pentagon2x34:2:6)=>(pentagon2:2:6): (pentagon2x12x34:2:6)
+***Found shift from (pentagon2x12x34:2:9) to (pentagon2x12:2:9)
+(pentagon2x12x34:2:9)=>(pentagon2:2:9): (pentagon2x12:2:9)
+Found shift from (pentagon2x34:2:9) to (pentagon2:2:9)
+(pentagon2x34:2:9)=>(pentagon2:2:9): (pentagon2:2:9)
+***Found shift from (pentagon2x12:2:10) to (pentagon2:2:10)
+(pentagon2x12:2:10)=>(pentagon2:2:10): (pentagon2:2:10)
+Found shift from (pentagon2x12x34:2:10) to (pentagon2:2:10)
+(pentagon2x12x34:2:10)=>(pentagon2:2:10): (pentagon2:2:10)
+Found shift from (pentagon2x34:2:10) to (pentagon2:2:10)
+(pentagon2x34:2:10)=>(pentagon2:2:10): (pentagon2:2:10)
+**Found shift from (pentagon2x12:2:17) to (pentagon2:2:17)
+(pentagon2x12:2:17)=>(pentagon2:2:17): (pentagon2:2:17)
+Found shift from (pentagon2x12x34:2:17) to (pentagon2:2:17)
+(pentagon2x12x34:2:17)=>(pentagon2:2:17): (pentagon2:2:17)
+Found shift from (pentagon2x34:2:17) to (pentagon2:2:17)
+(pentagon2x34:2:17)=>(pentagon2:2:17): (pentagon2:2:17)
+******Found shift from (pentagon2x12x34:3:11) to (pentagon2x12:3:11)
+(pentagon2x12x34:3:11)=>(pentagon2:3:11): (pentagon2x12:3:11)
+Found shift from (pentagon2x34:3:11) to (pentagon2:3:11)
+(pentagon2x34:3:11)=>(pentagon2:3:11): (pentagon2:3:11)
+******Found shift from (pentagon2x12:3:14) to (pentagon2:3:14)
+(pentagon2x12:3:14)=>(pentagon2:3:14): (pentagon2:3:14)
+Found shift from (pentagon2x12x34:3:14) to (pentagon2:3:14)
+(pentagon2x12x34:3:14)=>(pentagon2:3:14): (pentagon2:3:14)
+Found shift from (pentagon2x34:3:14) to (pentagon2:3:14)
+(pentagon2x34:3:14)=>(pentagon2:3:14): (pentagon2:3:14)
+**Found shift from (pentagon2x12x34:3:19) to (pentagon2x12:3:19)
+(pentagon2x12x34:3:19)=>(pentagon2:3:19): (pentagon2x12:3:19)
+Found shift from (pentagon2x34:3:19) to (pentagon2:3:19)
+(pentagon2x34:3:19)=>(pentagon2:3:19): (pentagon2:3:19)
+***Found shift from (pentagon2x12x34:3:21) to (pentagon2:3:21)
+(pentagon2x12x34:3:21)=>(pentagon2:3:21): (pentagon2:3:21)
+Found shift from (pentagon2x34:3:21) to (pentagon2x12:3:21)
+(pentagon2x34:3:21)=>(pentagon2:3:21): (pentagon2x12:3:21)
+********Found shift from (pentagon2x12:4:27) to (pentagon2:4:27)
+(pentagon2x12:4:27)=>(pentagon2:4:27): (pentagon2:4:27)
+Found shift from (pentagon2x12x34:4:27) to (pentagon2:4:27)
+(pentagon2x12x34:4:27)=>(pentagon2:4:27): (pentagon2:4:27)
+Found shift from (pentagon2x34:4:27) to (pentagon2:4:27)
+(pentagon2x34:4:27)=>(pentagon2:4:27): (pentagon2:4:27)
+***Found shift from (pentagon2x12x34:5:31) to (pentagon2:5:31)
+(pentagon2x12x34:5:31)=>(pentagon2:5:31): (pentagon2:5:31)
+Found shift from (pentagon2x34:5:31) to (pentagon2x12:5:31)
+(pentagon2x34:5:31)=>(pentagon2:5:31): (pentagon2x12:5:31)
+***
+Printing graphs of shift targets in ./graphs/pentagon2/shift_targets/:
+To generate a postscript file from the graphs in the dot format type e.g.
+  dot -Tps -o pentagon2.ps ./graphs/pentagon2/all/pentagon2_*.dot
+  neato -Tps -o pentagon2_shift_targets.ps ./graphs/pentagon2/shift_targets/pentagon2_*.dot
+Printing graphs in mma format to ./graphs/pentagon2/shift_targets.m
+Done setup sector mappings for pentagon2
+Saving sector mappings for pentagon2
+
+
+Job done (total time: 0 s)

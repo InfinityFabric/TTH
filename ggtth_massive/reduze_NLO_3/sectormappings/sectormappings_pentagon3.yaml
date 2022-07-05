@@ -1,0 +1,57 @@
+sectormappings:
+  name: pentagon3
+  zero_sectors:
+    t=0: [0]
+    t=1: [4, 8]
+    t=2: [12]
+  sectors_without_graph:
+    {}
+  sector_relations:
+    2: [[pentagon3, 1], [[k1, -p1+k1]]]
+    8: [[pentagon3, 4], [[k1, -p2+k1]]]
+    10: [[pentagon3x12, 5], [[k1, -p1+k1]]]
+    16: [[pentagon3, 1], [[k1, -p2+p4-p1+k1+p3]]]
+    20: [[pentagon3x12x34, 5], [[k1, -p2+p4-p1-k1+p3]]]
+    24: [[pentagon3x12x34, 6], [[k1, -2*p2+p4-p1-k1+p3]]]
+    26: [[pentagon3x34, 22], [[k1, -p2+p4-2*p1-k1+p3]]]
+    28: [[pentagon3x34, 14], [[k1, -p2+p4-2*p1-k1+p3]]]
+  crossed_sector_relations:
+    x12:
+      1: [[pentagon3, 1], []]
+      4: [[pentagon3, 4], [[k1, -p2+p1+k1]]]
+      6: [[pentagon3, 6], [[k1, -p2+p1+k1]]]
+      9: [[pentagon3, 9], []]
+      17: [[pentagon3, 17], [[k1, -p2+p4-p1-k1+p3]]]
+      25: [[pentagon3, 25], []]
+    x12x34:
+      1: [[pentagon3, 1], []]
+      3: [[pentagon3x12, 3], [[k1, -p2-k1]]]
+      4: [[pentagon3, 4], [[k1, -p2+p4+p1+k1-p3]]]
+      12: [[pentagon3x12, 12], [[k1, -2*p2+p4-p1-k1+p3]]]
+      17: [[pentagon3, 17], [[k1, -p2+p4-p1-k1+p3]]]
+      18: [[pentagon3x12, 18], [[k1, -2*p2+p4-p1-k1+p3]]]
+      19: [[pentagon3x12, 19], []]
+      21: [[pentagon3, 21], [[k1, -p2+p4-p1-k1+p3]]]
+      30: [[pentagon3x12, 30], [[k1, -2*p2+p4-p1-k1+p3]]]
+    x34:
+      1: [[pentagon3, 1], []]
+      3: [[pentagon3, 3], [[k1, -p1-k1]]]
+      4: [[pentagon3, 4], [[k1, p4+k1-p3]]]
+      6: [[pentagon3x12x34, 6], [[k1, p2-p1+k1]]]
+      9: [[pentagon3x12x34, 9], []]
+      12: [[pentagon3, 12], [[k1, -p2+p4-2*p1-k1+p3]]]
+      17: [[pentagon3, 17], [[k1, -p2+p4-p1-k1+p3]]]
+      18: [[pentagon3, 18], [[k1, -p2+p4-2*p1-k1+p3]]]
+      19: [[pentagon3, 19], []]
+      21: [[pentagon3x12, 21], [[k1, -p2+p4-p1-k1+p3]]]
+      25: [[pentagon3x12x34, 25], []]
+      30: [[pentagon3, 30], [[k1, -p2+p4-2*p1-k1+p3]]]
+  sector_symmetries:
+    3:
+      - [[k1, -p1-k1]]
+    12:
+      - [[k1, -p2-2*p1-k1+2*p3]]
+    17:
+      - [[k1, -p2+p4-p1-k1+p3]]
+    18:
+      - [[k1, -p2+p4-2*p1-k1+p3]]

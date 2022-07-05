@@ -1,0 +1,1406 @@
+integralfamilies:
+
+  - name: pentagon1_3_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["p1 + p2 + p3 + p4 + k1", 0]
+
+  - name: pentagon1_3_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["p1 + p2 + p3 + p4 + k1", 0]
+
+  - name: pentagon1_3_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["p1 + p2 + p3 + p4 + k1",mt^2]
+
+  - name: pentagon1_3_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["p1 + p2 + p3 + p4 + k1", 0]
+
+  - name: pentagon1_3_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["p1 + p2 + p3 + p4 + k1",mt^2]
+
+  - name: pentagon1_3_6
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["p1 + p2 + p3 + p4 + k1",mt^2]
+
+  - name: pentagon1_3_7
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["p1 + p2 + p3 + p4 + k1", 0]
+
+  - name: pentagon1_3_8
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["p1 + p2 + p3 + p4 + k1",mt^2]
+
+  - name: pentagon1_3_9
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["p1 + p2 + p3 + p4 + k1",mt^2]
+
+  - name: pentagon1_3_10
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["p1 + p2 + p3 + p4 + k1",mt^2]
+
+  - name: pentagon1_2_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["p1 + p2 + p3 + p4 + k1", 0]
+
+  - name: pentagon1_2_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["p1 + p2 + p3 + p4 + k1", 0]
+
+  - name: pentagon1_2_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["p1 + p2 + p3 + p4 + k1", 0]
+
+  - name: pentagon1_2_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["p1 + p2 + p3 + p4 + k1",mt^2]
+
+  - name: pentagon1_2_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["p1 + p2 + p3 + p4 + k1", 0]
+
+  - name: pentagon1_2_6
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["p1 + p2 + p3 + p4 + k1", 0]
+
+  - name: pentagon1_2_7
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["p1 + p2 + p3 + p4 + k1",mt^2]
+
+  - name: pentagon1_2_8
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["p1 + p2 + p3 + p4 + k1", 0]
+
+  - name: pentagon1_2_9
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["p1 + p2 + p3 + p4 + k1",mt^2]
+
+  - name: pentagon1_2_10
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["p1 + p2 + p3 + p4 + k1",mt^2]
+
+  - name: pentagon1_1_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["p1 + p2 + p3 + p4 + k1", 0]
+
+  - name: pentagon1_1_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["p1 + p2 + p3 + p4 + k1", 0]
+
+  - name: pentagon1_1_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["p1 + p2 + p3 + p4 + k1", 0]
+
+  - name: pentagon1_1_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["p1 + p2 + p3 + p4 + k1", 0]
+
+  - name: pentagon1_1_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["p1 + p2 + p3 + p4 + k1",mt^2]
+
+  - name: pentagon1_0_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["p1 + p2 + p3 + p4 + k1", 0]
+
+  - name: pentagon2_3_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon2_3_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon2_3_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon2_3_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon2_3_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon2_3_6
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon2_3_7
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon2_3_8
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon2_3_9
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon2_3_10
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon2_2_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon2_2_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon2_2_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon2_2_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon2_2_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon2_2_6
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon2_2_7
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon2_2_8
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon2_2_9
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon2_2_10
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon2_1_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon2_1_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon2_1_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon2_1_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon2_1_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon2_0_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["p1 + p2 + p3 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon5_3_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon5_3_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon5_3_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon5_3_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon5_3_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon5_3_6
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon5_3_7
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon5_3_8
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon5_3_9
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon5_3_10
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon5_2_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon5_2_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon5_2_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon5_2_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon5_2_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon5_2_6
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon5_2_7
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon5_2_8
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon5_2_9
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon5_2_10
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon5_1_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon5_1_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 + p2 + k1", 0]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon5_1_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon5_1_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1",mt^2]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon5_1_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1",mt^2]
+
+  - name: pentagon5_0_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 + p2 + k1", 0]
+      - ["2*p1 + 2*p2 - p3 - p4 + k1", 0]
+      - ["2*p1 + 2*p2 - p4 + k1", 0]
+
+  - name: pentagon7_3_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon7_3_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon7_3_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon7_3_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon7_3_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon7_3_6
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon7_3_7
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon7_3_8
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon7_3_9
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon7_3_10
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon7_2_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon7_2_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon7_2_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon7_2_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon7_2_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon7_2_6
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon7_2_7
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon7_2_8
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon7_2_9
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon7_2_10
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon7_1_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon7_1_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon7_1_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon7_1_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon7_1_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon7_0_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon8_3_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["2*p1 - 2*p3 - p4 + k1", 0]
+
+  - name: pentagon8_3_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["2*p1 - 2*p3 - p4 + k1", 0]
+
+  - name: pentagon8_3_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["2*p1 - 2*p3 - p4 + k1",mt^2]
+
+  - name: pentagon8_3_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["2*p1 - 2*p3 - p4 + k1", 0]
+
+  - name: pentagon8_3_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["2*p1 - 2*p3 - p4 + k1",mt^2]
+
+  - name: pentagon8_3_6
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["2*p1 - 2*p3 - p4 + k1",mt^2]
+
+  - name: pentagon8_3_7
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["2*p1 - 2*p3 - p4 + k1", 0]
+
+  - name: pentagon8_3_8
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["2*p1 - 2*p3 - p4 + k1",mt^2]
+
+  - name: pentagon8_3_9
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["2*p1 - 2*p3 - p4 + k1",mt^2]
+
+  - name: pentagon8_3_10
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["2*p1 - 2*p3 - p4 + k1",mt^2]
+
+  - name: pentagon8_2_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["2*p1 - 2*p3 - p4 + k1", 0]
+
+  - name: pentagon8_2_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["2*p1 - 2*p3 - p4 + k1", 0]
+
+  - name: pentagon8_2_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["2*p1 - 2*p3 - p4 + k1", 0]
+
+  - name: pentagon8_2_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["2*p1 - 2*p3 - p4 + k1",mt^2]
+
+  - name: pentagon8_2_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["2*p1 - 2*p3 - p4 + k1", 0]
+
+  - name: pentagon8_2_6
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["2*p1 - 2*p3 - p4 + k1", 0]
+
+  - name: pentagon8_2_7
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["2*p1 - 2*p3 - p4 + k1",mt^2]
+
+  - name: pentagon8_2_8
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["2*p1 - 2*p3 - p4 + k1", 0]
+
+  - name: pentagon8_2_9
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["2*p1 - 2*p3 - p4 + k1",mt^2]
+
+  - name: pentagon8_2_10
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["2*p1 - 2*p3 - p4 + k1",mt^2]
+
+  - name: pentagon8_1_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["2*p1 - 2*p3 - p4 + k1", 0]
+
+  - name: pentagon8_1_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["2*p1 - 2*p3 - p4 + k1", 0]
+
+  - name: pentagon8_1_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["2*p1 - 2*p3 - p4 + k1", 0]
+
+  - name: pentagon8_1_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1",mt^2]
+      - ["2*p1 - 2*p3 - p4 + k1", 0]
+
+  - name: pentagon8_1_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["2*p1 - 2*p3 - p4 + k1",mt^2]
+
+  - name: pentagon8_0_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p2 - p3 + k1", 0]
+      - ["2*p1 - 2*p3 - p4 + k1", 0]
+
+  - name: pentagon9_3_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p3 + p4 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon9_3_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p3 + p4 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon9_3_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p3 + p4 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon9_3_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p3 + p4 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon9_3_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p3 + p4 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon9_3_6
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p3 + p4 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon9_3_7
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p3 + p4 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon9_3_8
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p3 + p4 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon9_3_9
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p3 + p4 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon9_3_10
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p3 + p4 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon9_2_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p3 + p4 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon9_2_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p3 + p4 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon9_2_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p3 + p4 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon9_2_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p3 + p4 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon9_2_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p3 + p4 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon9_2_6
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p3 + p4 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon9_2_7
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p3 + p4 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon9_2_8
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p3 + p4 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon9_2_9
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p3 + p4 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon9_2_10
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p3 + p4 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon9_1_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1",mt^2]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p3 + p4 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon9_1_2
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1",mt^2]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p3 + p4 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon9_1_3
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1",mt^2]
+      - ["p1 - p3 + p4 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon9_1_4
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p3 + p4 + k1",mt^2]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+
+  - name: pentagon9_1_5
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p3 + p4 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1",mt^2]
+
+  - name: pentagon9_0_1
+    loop_momenta: [k1]
+    propagators:
+      - ["k1", 0]
+      - ["p1 + k1", 0]
+      - ["p1 - p3 + k1", 0]
+      - ["p1 - p3 + p4 + k1", 0]
+      - ["p1 - p2 - p3 + p4 + k1", 0]
+

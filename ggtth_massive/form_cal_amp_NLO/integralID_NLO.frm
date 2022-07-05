@@ -8,18 +8,19 @@
 Autodeclare Index i;
 Autodeclare Vector p,q,k;
 Autodeclare Symbol prop;
-Symbol s12,s23,s34,s45,s51,s24,s53,s31;
+*Symbol s12,s23,s34,s45,s51,s24,s53,s31;
+Symbol s12,s23,s34,s45,s51,s13,s24,s25,s35,s14;
 
 Autodeclare CFunction pentagon;
-CFunction pentagon1,pentagon1x12,pentagon1x123,pentagon1x1234,pentagon1x124,pentagon1x1243,pentagon1x12x34,pentagon1x13,pentagon1x132,pentagon1x1324,pentagon1x134,pentagon1x14;
+CFunction pentagon1,pentagon1x12,pentagon1x12x34,pentagon1x34,pentagon2,pentagon2x12,pentagon3,pentagon3x12,pentagon3x12x34,pentagon3x34,pentagon4,pentagon4x12;
 CFunction Sector,F;
 Symbol mu,mt,mh;
-CFunction cross1x12,cross1x123,cross1x1234,cross1x124,cross1x1243,cross1x12x34,cross1x13,cross1x132,cross1x1324,cross1x134,cross1x14;
+CFunction cross1x12,cross1x12x34,cross1x34;
 Autodeclare Symbol a,[],Ca,Cf;
 
 Off statistics;
 
-Load ../../../data_save/ggtth_massless/NLO/am_after_momentumshift.sav;
+Load ../../../data_save/ggtth_massive/NLO/am_after_momentumshift.sav;
 
 .sort
 
@@ -40,7 +41,7 @@ Delete storage;
 *Bracket pentagon1,pentagon2;
 
 Format mathematica;
-Bracket pentagon1;
+Bracket pentagon1,pentagon2,pentagon3,pentagon4;
 *Print +s amp10o27o1;
 Print +s;
 .sort
@@ -48,6 +49,6 @@ Print +s;
 *#write <test.m> "(%E)",amp10o27o1
 .store
 
-save ../../../data_save/ggtth_massless/NLO/amp_ID.sav;
+save ../../../data_save/ggtth_massive/NLO/amp_ID.sav;
 
 .end

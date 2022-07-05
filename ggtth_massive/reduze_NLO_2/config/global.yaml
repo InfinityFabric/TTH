@@ -1,0 +1,4 @@
+# eg. path to the Fermat executable
+paths: 
+  fermat:
+    "/usr/bin/fer64"

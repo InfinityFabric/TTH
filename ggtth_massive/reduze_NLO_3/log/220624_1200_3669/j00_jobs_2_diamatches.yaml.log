@@ -1,0 +1,46 @@
+
+Date: Fri Jun 24 12:00:36 2022
+
+Setting up job queue from myjobs/jobs_2_diamatches.yaml
+Updating job queue dependencies
+Processing jobs in serial mode (only one MPI process)
+Inserted new job in queue: job(1): find diagram shifts (alt) for diagram/ggtthoneloop.yaml
+Updating job queue dependencies
+Loading uncrossed integral families from file ./config/integralfamilies.yaml
+Initialize integral family 'pentagon3'
+Loaded integral family pentagon3
+Loaded 1 (uncrossed) integral families
+Done loading uncrossed integral families
+Using integral family pentagon3 (id reset to 1)
+Loading crossings from file ./sectormappings/crossings.yaml
+Crossing equivalence: '' -> ''
+using crossing x12 (invs: {s51==-s45+s13+mt^2-s24+mh^2,s23==s13,s13==s23,s24==-s51+s23-s45+mt^2+mh^2}, mom: {p2==p1,p1==p2})
+using crossing x12x34 (invs: {s51==-s45+s13+mt^2-s24+mh^2,s23==-s51+s23-s45+mt^2+mh^2,s45==-s51-s13+mt^2+s24+mh^2,s13==s24,s24==s13}, mom: {p2==p1,p4==p3,p1==p2,p3==p4})
+using crossing x34 (invs: {s23==s24,s45==-s51-s13+mt^2+s24+mh^2,s13==-s51+s23-s45+mt^2+mh^2,s24==s23}, mom: {p4==p3,p3==p4})
+Crossing equivalence: 'x34' -> 'x34'
+Crossing equivalence: 'x12x34' -> 'x12x34'
+Crossing equivalence: 'x12' -> 'x12'
+Crossing equivalence: '' -> ''
+Loaded crossings for kinematics ''
+Loaded crossings for 1 kinematics
+Done loading crossings
+  generated crossed integral family pentagon3x12 (id set to 2)
+  generated crossed integral family pentagon3x12x34 (id set to 3)
+  generated crossed integral family pentagon3x34 (id set to 4)
+Done loading integral families
+Updated job queue:
+  [p] job(1): find diagram shifts (alt) for diagram/ggtthoneloop.yaml  [dep: ]
+
+
+Date: Fri Jun 24 12:00:36 2022
+
+Run ID: 8ec97155
+
+Starting job(1): find diagram shifts (alt) for diagram/ggtthoneloop.yaml
+Completed Job(1) [Time: 0s, CPU: 0s]
+Updating job queue dependencies
+Completed jobs in jobqueue
+
+Completed all jobs
+Total run time: 1 s
+Killing Fermat

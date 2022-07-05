@@ -18,16 +18,16 @@ Set kset:k1,k2,-k1,-k2;
 * local declaration
 
 CFunction DiaMatch,Sector,Shift;
-CFunction pentagon1,pentagon1x12,pentagon1x123,pentagon1x1234,pentagon1x124,pentagon1x1243,pentagon1x12x34,pentagon1x13,pentagon1x132,pentagon1x1324,pentagon1x134,pentagon1x14;
+CFunction pentagon1,pentagon1x12,pentagon1x12x34,pentagon1x34,pentagon2,pentagon2x12,pentagon3,pentagon3x12,pentagon3x12x34,pentagon3x34,pentagon4,pentagon4x12;
 Symbol [];
 
-Load ../../../data_save/ggtth_massless/NLO/Mat.sav;
+Load ../../../data_save/ggtth_massive/NLO/Mat.sav;
 
 #call momentumshift
 
 Print +s am10o27o1;
 .store
 
-save ../../../data_save/ggtth_massless/NLO/am_after_momentumshift.sav;
+save ../../../data_save/ggtth_massive/NLO/am_after_momentumshift.sav;
 
 .end

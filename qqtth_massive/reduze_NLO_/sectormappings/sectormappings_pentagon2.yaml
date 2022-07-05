@@ -1,0 +1,55 @@
+sectormappings:
+  name: pentagon2
+  zero_sectors:
+    t=0: [0]
+    t=1: [1, 2, 4]
+    t=2: [3, 6]
+  sectors_without_graph:
+    {}
+  sector_relations:
+    1: [[pentagon1, 8], [[k1, -p3+p2+k1+p1]]]
+    2: [[pentagon1, 8], [[k1, -p3+p2+k1]]]
+    4: [[pentagon1, 8], [[k1, -p3+k1]]]
+    6: [[pentagon2x12, 3], [[k1, -p2-p1-k1]]]
+    8: [[pentagon1, 1], [[k1, -p2+k1+p4-p1]]]
+    9: [[pentagon1x12x34, 9], [[k1, -p2-k1+p4-p1]]]
+    10: [[pentagon1x34, 10], [[k1, -p2-k1+p4-2*p1]]]
+    12: [[pentagon1x12x34, 12], [[k1, -2*p2-k1+p4-2*p1]]]
+    16: [[pentagon1, 1], [[k1, -p3+k1]]]
+    17: [[pentagon1, 12], [[k1, -p3+p2+k1+p1]]]
+    18: [[pentagon1x12, 10], [[k1, -p3+p2+k1]]]
+    19: [[pentagon2x12x34, 14], [[k1, -p2-p1-k1]]]
+    20: [[pentagon1, 9], [[k1, -p3+k1]]]
+    21: [[pentagon2x12x34, 13], [[k1, -p2-p1-k1]]]
+    22: [[pentagon2x12x34, 11], [[k1, -p2-p1-k1]]]
+    23: [[pentagon2x12x34, 15], [[k1, -p2-p1-k1]]]
+    24: [[pentagon1, 17], [[k1, -p3+k1]]]
+    25: [[pentagon1x12x34, 25], [[k1, -p2-k1+p4-p1]]]
+    28: [[pentagon1, 25], [[k1, -p3+k1]]]
+    30: [[pentagon2x12x34, 27], [[k1, -p2-p1-k1]]]
+  crossed_sector_relations:
+    x12:
+      5: [[pentagon2, 5], [[k1, -p2-p1-k1]]]
+      7: [[pentagon2, 7], [[k1, -p2-p1-k1]]]
+      13: [[pentagon2, 13], []]
+      29: [[pentagon2, 29], []]
+    x12x34:
+      3: [[pentagon2x12, 3], [[k1, -p2-k1]]]
+      5: [[pentagon2, 5], [[k1, -p2-p1-k1]]]
+      7: [[pentagon2, 7], [[k1, -p2-p1-k1]]]
+      26: [[pentagon2, 26], [[k1, -p2-p1-k1]]]
+      29: [[pentagon2, 29], [[k1, -p2-p1-k1]]]
+      31: [[pentagon2, 31], [[k1, -p2-p1-k1]]]
+    x34:
+      3: [[pentagon2, 3], [[k1, -p1-k1]]]
+      5: [[pentagon2, 5], [[k1, -p2-p1-k1]]]
+      7: [[pentagon2, 7], []]
+      13: [[pentagon2x12x34, 13], []]
+      26: [[pentagon2x12, 26], [[k1, -p2-p1-k1]]]
+      29: [[pentagon2, 29], [[k1, -p2-p1-k1]]]
+      31: [[pentagon2x12, 31], [[k1, -p2-p1-k1]]]
+  sector_symmetries:
+    3:
+      - [[k1, -p1-k1]]
+    5:
+      - [[k1, -p2-p1-k1]]

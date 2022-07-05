@@ -1,0 +1,81 @@
+#############################################
+###              29 Nov 2021, ZJU         ###
+#############################################
+integralfamilies:
+  
+  - name: "F1m"
+    loop_momenta: [k1]
+    propagators:
+      - [ k1, mt^2 ]	
+      - [ k1-p1, 0 ]	
+      - [ k1-p1-p2, mt^2 ]	
+      - [ k1-p1-p2+p3, 0 ]	
+      - [ k1-p1-p2+p3+p4, mt^2 ]	
+  	
+  - name: "F2m"
+    loop_momenta: [k1]
+    propagators:
+      - [ k1, 0 ]	
+      - [ k1-p1, 0 ]	
+      - [ k1-p1-p2, 0 ]	
+      - [ k1-p1-p2+p4, mt^2 ]	
+      - [ k1-p1-p2+p3+p4, 0 ]	
+      
+  - name: "F3m"
+    loop_momenta: [k1]
+    propagators:
+      - [ k1, mt^2 ]	
+      - [ k1+p3, 0 ]	
+      - [ k1-p2+p3, 0 ]	
+      - [ k1-p1-p2+p3, 0 ]	
+      - [ k1-p1-p2+p3+p4, mt^2 ]	
+  
+        #  - name: "F1mx12"
+        #    loop_momenta: [k1]
+        #    propagators:
+        #      - [ k1, mt^2 ]
+        #      - [ k1-p2,0 ]
+        #      - [ k1-p1-p2 , mt^2]
+        #      - [ k1-p1-p2+p3,0 ]
+        #      - [ k1-p1-p2+p3+p4 , mt^2 ]
+
+  - name: "F1mx12x34"
+    loop_momenta: [k1]
+    propagators:
+      - [ k1, mt^2 ]
+      - [ k1-p2,0 ]
+      - [ k1-p1-p2 , mt^2]
+      - [ k1-p1-p2+p4,0 ]
+      - [ k1-p1-p2+p3+p4 , mt^2 ]
+  - name: "F2mx12"
+    loop_momenta: [k1]
+    propagators:
+      - [ k1,0 ]
+      - [ k1-p2,0 ]
+      - [ k1-p1-p2,0 ]
+      - [ k1-p1-p2+p4 , mt^2]
+      - [ k1-p1-p2+p3+p4,0  ]
+  - name: "F2mx34"
+    loop_momenta: [k1]
+    propagators:
+      - [ k1 ,0]
+      - [ k1-p1 ,0]
+      - [ k1-p1-p2 ,0]
+      - [ k1-p1-p2+p3 , mt^2]
+      - [ k1-p1-p2+p3+p4 ,0 ]
+  - name: "F3mx12x34"
+    loop_momenta: [k1]
+    propagators:
+      - [ k1 , mt^2]
+      - [ k1+p4,0 ]
+      - [ k1-p1+p4 ,0]
+      - [ k1-p1-p2+p4,0 ]
+      - [ k1-p1-p2+p3+p4  , mt^2]
+  - name: "F3mx34"
+    loop_momenta: [k1]
+    propagators:
+      - [ k1 , mt^2]
+      - [ k1+p4,0 ]
+      - [ k1-p2+p4,0 ]
+      - [ k1-p1-p2+p4,0 ]
+      - [ k1-p1-p2+p3+p4  , mt^2]

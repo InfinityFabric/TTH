@@ -1,0 +1,6 @@
+jobs:
+  - setup_sector_mappings_alt:
+      sorce_sectors:
+        select_all: true
+        select:
+          [31]

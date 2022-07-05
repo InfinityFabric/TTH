@@ -1,0 +1,25 @@
+digraph pentagon1_3_11 {
+  label="pentagon1_3_11";
+  rankdir="LR";
+  subgraph edges {
+    -1 -> 2 [label="(p1,0;1)"];
+    -2 -> 3 [label="(p2,0;2)"];
+    3 -> -3 [label="(p3,mt^2;3)"];
+    1 -> -4 [label="(p4,mt^2;4)"];
+    1 -> -5 [label="(-p3+p2-p4+p1,mh^2;5)"];
+    1 -> 2 [label="(k1,mt^2;6)"];
+    2 -> 3 [label="(k1+p1,mt^2;7)"];
+    3 -> 1 [label="(-p3+p2+k1+p1,0;9)"];
+  }
+  subgraph incoming { rank="source"; -1; -2; }
+  subgraph outgoing { rank="sink"; -3; -4; -5; }
+-5 [shape=point];
+-4 [shape=point];
+-3 [shape=point];
+-2 [shape=point];
+-1 [shape=point];
+1 [shape=point];
+2 [shape=point];
+3 [shape=point];
+}
+

@@ -1,0 +1,12 @@
+jobs:
+  #  - find_diagram_shifts_alt:
+  #      qgraf_file: "diagram/ggtthtree.qgraf.yaml"
+  #      output_file: "myresults/ggtthtree.match.yaml"
+  - find_diagram_shifts_alt:
+      qgraf_file: "diagram/ggtthoneloop.yaml"
+      output_file: "myresults/ggtthoneloop.match.yaml"
+      info_file_form: "myresults/ggtthone.match.info.inc"
+        #  - find_diagram_shifts_alt:
+        #      qgraf_file: "diagram/ggtthtwoloop.qgraf.yaml"
+        #      output_file: "myresults/ggtthtwoloop.match.yaml"
+        #      info_file_form: "myresults/ggtthtwo.match.info.inc"

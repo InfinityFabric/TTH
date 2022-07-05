@@ -1,0 +1,66 @@
+sectormappings:
+  name: pentagon2
+  zero_sectors:
+    t=0: [0]
+    t=1: [4]
+  sectors_without_graph:
+    {}
+  sector_relations:
+    2: [[pentagon2, 1], [[k1, -p1+k1]]]
+    8: [[pentagon2, 1], [[k1, p4-p1+k1+p3]]]
+    12: [[pentagon2x12x34, 6], [[k1, -p2+p4-p1-k1+p3]]]
+    16: [[pentagon2, 1], [[k1, -p2+p4-p1+k1+p3]]]
+    18: [[pentagon2x12, 9], [[k1, -p2+p4-p1-k1+p3]]]
+    20: [[pentagon2x12x34, 5], [[k1, -p2+p4-p1-k1+p3]]]
+    22: [[pentagon2x12x34, 13], [[k1, -p2+p4-p1-k1+p3]]]
+    24: [[pentagon2x12, 3], [[k1, -p2+p4-p1-k1+p3]]]
+    25: [[pentagon2x12, 19], [[k1, -p2+p4-p1-k1+p3]]]
+    26: [[pentagon2x12, 11], [[k1, -p2+p4-p1-k1+p3]]]
+    28: [[pentagon2x12x34, 7], [[k1, -p2+p4-p1-k1+p3]]]
+    29: [[pentagon2x12x34, 23], [[k1, -p2+p4-p1-k1+p3]]]
+    30: [[pentagon2x12x34, 15], [[k1, -p2+p4-p1-k1+p3]]]
+  crossed_sector_relations:
+    x12:
+      1: [[pentagon2, 1], []]
+      4: [[pentagon2, 4], [[k1, -p2+p1+k1]]]
+      6: [[pentagon2, 6], [[k1, -p2+p1+k1]]]
+      10: [[pentagon2, 10], [[k1, -p2+p4-p1-k1+p3]]]
+      14: [[pentagon2, 14], [[k1, -p2+p1+k1]]]
+      17: [[pentagon2, 17], [[k1, -p2+p4-p1-k1+p3]]]
+      27: [[pentagon2, 27], [[k1, -p2+p4-p1-k1+p3]]]
+    x12x34:
+      1: [[pentagon2, 1], []]
+      3: [[pentagon2x12, 3], [[k1, -p2-k1]]]
+      4: [[pentagon2, 4], [[k1, -p2+p4+p1+k1-p3]]]
+      9: [[pentagon2x12, 9], [[k1, -p2+p4-k1+p3]]]
+      10: [[pentagon2, 10], [[k1, -p2+p4-p1-k1+p3]]]
+      11: [[pentagon2x12, 11], []]
+      14: [[pentagon2, 14], [[k1, -p2+p4-p1-k1+p3]]]
+      17: [[pentagon2, 17], [[k1, -p2+p4-p1-k1+p3]]]
+      19: [[pentagon2x12, 19], []]
+      21: [[pentagon2, 21], [[k1, -p2+p4-p1-k1+p3]]]
+      27: [[pentagon2, 27], [[k1, -p2+p4-p1-k1+p3]]]
+      31: [[pentagon2, 31], [[k1, -p2+p4-p1-k1+p3]]]
+    x34:
+      1: [[pentagon2, 1], []]
+      3: [[pentagon2, 3], [[k1, -p1-k1]]]
+      4: [[pentagon2, 4], [[k1, p4+k1-p3]]]
+      6: [[pentagon2x12x34, 6], [[k1, p2-p1+k1]]]
+      9: [[pentagon2, 9], [[k1, p4-p1-k1+p3]]]
+      10: [[pentagon2, 10], [[k1, p4-2*p1-k1+p3]]]
+      11: [[pentagon2, 11], []]
+      14: [[pentagon2, 14], [[k1, p4-2*p1-k1+p3]]]
+      17: [[pentagon2, 17], [[k1, -p2+p4-p1-k1+p3]]]
+      19: [[pentagon2, 19], []]
+      21: [[pentagon2x12, 21], [[k1, -p2+p4-p1-k1+p3]]]
+      27: [[pentagon2, 27], []]
+      31: [[pentagon2x12, 31], [[k1, -p2+p4-p1-k1+p3]]]
+  sector_symmetries:
+    3:
+      - [[k1, -p1-k1]]
+    9:
+      - [[k1, p4-p1-k1+p3]]
+    10:
+      - [[k1, p4-2*p1-k1+p3]]
+    17:
+      - [[k1, -p2+p4-p1-k1+p3]]
